@@ -1,0 +1,113 @@
+RewriteEngine On
+
+# ============================================================
+# FORCE UTF-8 CHARSET
+# ============================================================
+AddDefaultCharset UTF-8
+AddType 'text/html; charset=UTF-8' .php .html
+
+# ============================================================
+# FORCE HTTPS + WWW
+# ============================================================
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://www.cemarenov.fr/$1 [R=301,L]
+
+# ============================================================
+# 301 REDIRECTS — Old URLs → New clean URLs (LIVE pages only)
+# ============================================================
+
+# --- Chauffage ---
+RewriteRule ^chauffage/?$ /pompe-a-chaleur-air-eau [R=301,L]
+RewriteRule ^chauffage/ballon-thermodynamique/?$ /ballon-thermodynamique [R=301,L]
+RewriteRule ^chauffage/pompe-a-chaleur-air-air/?$ /pompe-a-chaleur-air-air [R=301,L]
+RewriteRule ^chauffage/pompe-a-chaleur-air-eau/?$ /pompe-a-chaleur-air-eau [R=301,L]
+RewriteRule ^chauffage/triple-c-r32-chauffe-eau-thermodynamique-multi-splits/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+
+# --- Énergies Solaire ---
+RewriteRule ^energies-solaire/?$ /panneaux-photovoltaiques [R=301,L]
+RewriteRule ^energies-solaire/panneaux-photovoltaiques/?$ /panneaux-photovoltaiques [R=301,L]
+
+# --- Traitement de l'eau ---
+RewriteRule ^traitement-de-leau/?$ /adoucisseur-deau [R=301,L]
+RewriteRule ^traitement-de-leau/adoucisseur-deau/?$ /adoucisseur-deau [R=301,L]
+
+# --- Ventilation ---
+RewriteRule ^ventilation/?$ /vmc-double-flux [R=301,L]
+RewriteRule ^ventilation/extracteur-dair-a-energie-solaire-pour-combles/?$ /extracteur-dair-solaire-combles [R=301,L]
+RewriteRule ^ventilation/ventilation-naturelle/?$ /ventilation-naturelle [R=301,L]
+RewriteRule ^ventilation/ventilation-par-surpression/?$ /ventilation-par-surpression [R=301,L]
+RewriteRule ^ventilation/vmc-double-flux/?$ /vmc-double-flux [R=301,L]
+RewriteRule ^ventilation/vmc-simple-flux/?$ /vmc-simple-flux [R=301,L]
+
+# --- Charpente ---
+RewriteRule ^charpente/?$ /traitement-curatif-charpente [R=301,L]
+RewriteRule ^charpente/traitement-curatif/?$ /traitement-curatif-charpente [R=301,L]
+RewriteRule ^charpente/traitement-preventif/?$ /traitement-preventif-charpente [R=301,L]
+
+# --- Couverture ---
+RewriteRule ^couverture/?$ /changement-de-couverture [R=301,L]
+RewriteRule ^couverture/changement-de-couverture/?$ /changement-de-couverture [R=301,L]
+RewriteRule ^couverture/faitage/?$ /faitage [R=301,L]
+RewriteRule ^couverture/abergement-de-cheminee/?$ /abergement-de-cheminee [R=301,L]
+RewriteRule ^couverture/remaniement-de-couverture/?$ /remaniement-de-couverture [R=301,L]
+RewriteRule ^couverture/accessoires-et-finitions/?$ /gouttieres [R=301,L]
+RewriteRule ^couverture/accessoires-et-finitions/dessous-de-toit/?$ /dessous-de-toit [R=301,L]
+RewriteRule ^couverture/accessoires-et-finitions/gouttieres/?$ /gouttieres [R=301,L]
+
+# --- Façade > Ravalement ---
+RewriteRule ^facade/?$ /ravalement-de-facade [R=301,L]
+RewriteRule ^facade/ravalement-de-facade/?$ /ravalement-de-facade [R=301,L]
+RewriteRule ^facade/ravalement-de-facade/le-bardage-decoratif/?$ /bardage-decoratif [R=301,L]
+RewriteRule ^facade/ravalement-de-facade/le-crepi/?$ /crepi-facade [R=301,L]
+RewriteRule ^facade/ravalement-de-facade/lenduit-a-pierre-vue/?$ /enduit-pierre-vue [R=301,L]
+RewriteRule ^facade/ravalement-de-facade/lenduit/?$ /enduit-facade [R=301,L]
+
+# --- Façade > Rénovation ---
+RewriteRule ^facade/renovation-de-facade/?$ /renovation-de-facade [R=301,L]
+RewriteRule ^facade/renovation-de-facade/hydrofuge-incolore-de-facade/?$ /hydrofuge-incolore-facade [R=301,L]
+RewriteRule ^facade/renovation-de-facade/nettoyage-demoussage/?$ /nettoyage-demoussage-facade [R=301,L]
+RewriteRule ^facade/renovation-de-facade/peinture-de-facade/?$ /peinture-de-facade [R=301,L]
+RewriteRule ^facade/renovation-de-facade/peinture-isolante-de-facade/?$ /peinture-isolante-facade [R=301,L]
+
+# --- Façade > Humidité ---
+RewriteRule ^facade/traitement-d-humidite/?$ /traitement-humidite [R=301,L]
+RewriteRule ^facade/traitement-d-humidite/assechement-des-murs-par-injections/?$ /assechement-murs-injections [R=301,L]
+RewriteRule ^facade/traitement-d-humidite/inverseur-de-polarite-electromagnetique/?$ /inverseur-polarite-electromagnetique [R=301,L]
+
+# --- Toiture ---
+RewriteRule ^toiture/?$ /hydrofuge-de-toiture [R=301,L]
+RewriteRule ^toiture/hydrofuge-de-toiture/?$ /hydrofuge-de-toiture [R=301,L]
+RewriteRule ^toiture/hydrofuge-de-toiture/hydrofuge-colore/?$ /hydrofuge-colore-toiture [R=301,L]
+RewriteRule ^toiture/hydrofuge-de-toiture/hydrofuge-incolore/?$ /hydrofuge-incolore-toiture [R=301,L]
+RewriteRule ^toiture/nettoyage-demoussage/?$ /nettoyage-demoussage-toiture [R=301,L]
+RewriteRule ^toiture/peinture-thermique/?$ /peinture-thermique-toiture [R=301,L]
+
+# --- Isolation ---
+RewriteRule ^isolation/?$ /isolation-des-murs [R=301,L]
+RewriteRule ^isolation/isolation-des-combles-perdus/?$ /isolation-des-combles-perdus [R=301,L]
+RewriteRule ^isolation/isolation-des-murs/?$ /isolation-des-murs [R=301,L]
+RewriteRule ^isolation/isolation-des-murs/lisolation-thermique-par-lexterieur-ite/?$ /isolation-thermique-exterieur-ite [R=301,L]
+RewriteRule ^isolation/isolation-des-murs/lisolation-thermique-par-linterieur-iti/?$ /isolation-thermique-interieur-iti [R=301,L]
+RewriteRule ^isolation/isolation-sous-rampants-sous-toiture/?$ /isolation-sous-rampants-toiture [R=301,L]
+
+# ============================================================
+# CLEAN URLs — Remove .php extensions
+# ============================================================
+
+# If the request is not a file or directory, try adding .php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Blog articles: /slug → /blog/slug.php
+RewriteCond %{DOCUMENT_ROOT}/blog/%{REQUEST_URI}.php -f
+RewriteRule ^([a-z0-9-]+)$ blog/$1.php [L]
+
+# Search page: /recherche?q=... → search.php?q=...
+RewriteRule ^recherche$ search.php [L,QSA]
+
+# Root pages: /slug → /slug.php
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([a-z0-9-]+)/?$ $1.php [L]
+
+# Category pages (already handled by individual files like renovation.php, travaux.php, etc.)
