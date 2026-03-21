@@ -144,9 +144,9 @@ include dirname(__DIR__) . '/header.php';
 
                 <ul class="custom-list">
                     <li><strong>Sol argileux gonflant :</strong> L'argile se dilate quand elle est humide et rétrécit quand elle sèche. Ce mouvement répété finit par désolidariser les fondations du sol.</li>
-                    <li><strong>Fuites d'eau :</strong> Une canalisation enterrée qui fuit peut lessiver le sol sous vos fondations. On appelle ça une "érosion interne", et c'est un vrai fléau. Un <a href="<?php echo BASE_URL; ?>traitement-humidite">diagnostic humidité professionnel</a> permettra de détecter ces problèmes avant qu'ils n'affectent la structure.</li>
+                    <li><strong>Fuites d'eau :</strong> Une canalisation enterrée qui fuit peut lessiver le sol sous vos fondations. On appelle ça une "érosion interne", et c'est un vrai fléau. Un <a href="<?php echo BASE_URL; ?>traitement-humidite" style="text-decoration: underline;"><strong>diagnostic humidité professionnel</strong></a> permettra de détecter ces problèmes avant qu'ils n'affectent la structure.</li>
                     <li><strong>Construction sur remblai :</strong> Si votre maison repose sur du remblai non compacté, le sol finit par tasser avec le temps. Vos fondations s'enfoncent progressivement.</li>
-                    <li><strong>Végétation agressive :</strong> Certains arbres, comme les peupliers ou les saules, puisent énormément d'eau dans le sol. Leur système racinaire peut aussi soulever ou désolidariser les fondations. Pour les vieilles bâtisses avec humidité chronique, l'<a href="<?php echo BASE_URL; ?>inverseur-polarite-electromagnetique">inverseur de polarité électromagnétique</a> peut constituer une alternative non destructive aux travaux lourds de sous-œuvre.</li>
+                    <li><strong>Végétation agressive :</strong> Certains arbres, comme les peupliers ou les saules, puisent énormément d'eau dans le sol. Leur système racinaire peut aussi soulever ou désolidariser les fondations. Pour les vieilles bâtisses avec humidité chronique, l'<a href="<?php echo BASE_URL; ?>inverseur-polarite-electromagnetique" style="text-decoration: underline;"><strong>inverseur de polarité électromagnétique</strong></a> peut constituer une alternative non destructive aux travaux lourds de sous-œuvre.</li>
                     <li><strong>Séisme ou affaissement minier :</strong> Dans certaines régions, le sol peut bouger brutalement et fissurer les fondations.</li>
                 </ul>
 
@@ -175,7 +175,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p><strong>Fissures en escalier sur les murs en briques :</strong> C'est le signe classique d'un tassement différentiel. Une partie de la maison s'enfonce plus vite que l'autre. La fissure suit les joints de mortier en formant des marches d'escalier. Si cette fissure dépasse 2 millimètres d'ouverture, c'est l'alerte rouge.</p>
 
-                <p><strong>Fissures verticales aux angles des baies :</strong> Les ouvertures (portes, fenêtres) sont les points faibles d'un mur. Si les fondations bougent, les fissures apparaissent d'abord aux angles de ces baies. Ces <a href="<?php echo BASE_URL; ?>renovation-de-facade">signes de dégradation nécessitent souvent une rénovation de façade</a> complète après consolidation des fondations.</p>
+                <p><strong>Fissures verticales aux angles des baies :</strong> Les ouvertures (portes, fenêtres) sont les points faibles d'un mur. Si les fondations bougent, les fissures apparaissent d'abord aux angles de ces baies. Ces <a href="<?php echo BASE_URL; ?>renovation-de-facade" style="text-decoration: underline;"><strong>signes de dégradation nécessitent souvent une rénovation de façade</strong></a> complète après consolidation des fondations.</p>
 
                 <p><strong>Fissures qui traversent les deux épaisseurs du mur :</strong> Une fissure visible de l'intérieur ET de l'extérieur indique un mouvement structurel important. Ne l'ignorez pas.</p>
 
@@ -258,7 +258,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>L'injection de résine expansive — La solution rapide</h3>
 
-                <p>Cette technique récente utilise des résines polyuréthanes qui gonflent au contact de l'eau ou d'un catalyseur. On injecte la résine dans le sol sous les fondations, elle se dilate et compacte la terre tout en soulevant légèrement la structure. Cette méthode d'<a href="<?php echo BASE_URL; ?>assechement-murs-injections">injection de résine pour l'assèchement des murs</a> utilise le même principe d'étanchéité que les traitements contre les remontées capillaires.</p>
+                <p>Cette technique récente utilise des résines polyuréthanes qui gonflent au contact de l'eau ou d'un catalyseur. On injecte la résine dans le sol sous les fondations, elle se dilate et compacte la terre tout en soulevant légèrement la structure. Cette méthode d'<a href="<?php echo BASE_URL; ?>assechement-murs-injections" style="text-decoration: underline;"><strong>injection de résine pour l'assèchement des murs</strong></a> utilise le même principe d'étanchéité que les traitements contre les remontées capillaires.</p>
 
                 <p><strong>En clair :</strong> C'est comme injecter de la mousse expansive sous votre maison. La résine pousse le sol et remplit les vides, ce qui stabilise les fondations.</p>
 
@@ -340,7 +340,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Cela dépend de la technique et de l'ampleur des travaux. Pour une injection de résine ou quelques micropieux, vous pouvez généralement rester. Pour des puits alternés ou une reprise complète, il est souvent préférable de déménager temporairement. Le bruit, les vibrations et les coupures d'eau/électricité rendent le quotidien difficile. Demandez à votre entrepreneur une estimation de la gêne avant de signer.</p>
 
                 <h3>Combien de temps durent les travaux de consolidation ?</h3>
-                <p>De quelques jours à plusieurs semaines. Une injection de résine prend 1 à 2 jours. Une consolidation par micropieux sur une maison moyenne prend 1 à 2 semaines. Des puits alternés peuvent s'étaler sur 4 à 6 semaines. Pour optimiser votre <a href="<?php echo BASE_URL; ?>travaux-planning-ma-gestion-renovation-fr">planning de rénovation et la gestion des travaux</a>, anticipez ces délais et la séquence logique des interventions.</p>
+                <p>De quelques jours à plusieurs semaines. Une injection de résine prend 1 à 2 jours. Une consolidation par micropieux sur une maison moyenne prend 1 à 2 semaines. Des puits alternés peuvent s'étaler sur 4 à 6 semaines. Pour optimiser votre <a href="<?php echo BASE_URL; ?>travaux-planning-ma-gestion-renovation-fr" style="text-decoration: underline;"><strong>planning de rénovation et la gestion des travaux</strong></a>, anticipez ces délais et la séquence logique des interventions.</p>
 
                 <h3>La reprise en sous-œuvre nécessite-t-elle un permis de construire ?</h3>
                 <p>Non, pas directement. Mais si vous faites une reprise en sous-œuvre dans le cadre d'une extension ou d'une modification de structure importante, vous devrez peut-être déposer une déclaration préalable ou un permis de construire pour l'ensemble du projet. Renseignez-vous auprès de votre mairie. Un bureau d'études structures peut vous accompagner dans les démarches administratives.</p>
