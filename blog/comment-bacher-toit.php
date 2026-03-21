@@ -144,7 +144,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Votre contrat d'assurance habitation contient une clause dite de "limitation des dégâts". Cela signifie que vous devez faire tout ce qui est possible pour éviter que les dommages ne s'aggravent. Si vous laissez votre toit ouvert sans protection, l'assurance peut refuser de couvrir les dégâts supplémentaires. Prenez des photos avant et après la <strong>pose bâche</strong>, c'est votre preuve.</p>
 
                 <h3>Chantier de rénovation retardé</h3>
-                <p>Votre <strong>couvreur professionnel</strong> ne peut pas intervenir avant 3 semaines ? Le bâchage devient obligatoire. Même si la toiture n'est pas directement endommagée, un chantier de rénovation retardé expose la structure aux intempéries. Une <strong>bâche protection</strong> bien installée vous donne ce délai de répit. Si votre toiture est trop dégradée pour un simple bâchage, envisagez un <a href="<?php echo BASE_URL; ?>remaniement-de-couverture">remaniement de couverture</a> pour sauver votre toit à mi-budget avant qu'il ne soit trop tard.</p>
+                <p>Votre <strong>couvreur professionnel</strong> ne peut pas intervenir avant 3 semaines ? Le bâchage devient obligatoire. Même si la toiture n'est pas directement endommagée, un chantier de rénovation retardé expose la structure aux intempéries. Une <strong>bâche protection</strong> bien installée vous donne ce délai de répit. Si votre toiture est trop dégradée pour un simple bâchage, envisagez un <strong><u><a href="<?php echo BASE_URL; ?>remaniement-de-couverture">remaniement de couverture</a></u></strong> pour sauver votre toit à mi-budget avant qu'il ne soit trop tard.</p>
 
                 <h3>Fuites soudaines</h3>
                 <p>Une fuite qui apparaît en pleine nuit ou un week-end demande une réaction immédiate. En attendant le professionnel, <strong>fixer une bâche</strong> sur la zone concernée peut stopper l'infiltration. Attention : cela ne remplace pas la réparation, mais ça gagne du temps.</p>
@@ -194,7 +194,7 @@ include dirname(__DIR__) . '/header.php';
                 </ul>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
-                    <strong>En clair :</strong> Le <strong>faîtage</strong> est la ligne la plus haute du toit, là où les deux pans se rejoignent. C'est souvent là qu'on installe le point d'ancrage pour le harnais. Pour en savoir plus sur cette zone critique de la toiture, consultez notre guide sur le <a href="<?php echo BASE_URL; ?>faitage">faîtage et son importance pour l'étanchéité</a>.
+                    <strong>En clair :</strong> Le <strong>faîtage</strong> est la ligne la plus haute du toit, là où les deux pans se rejoignent. C'est souvent là qu'on installe le point d'ancrage pour le harnais. Pour en savoir plus sur cette zone critique de la toiture, consultez notre guide sur le <strong><u><a href="<?php echo BASE_URL; ?>faitage">faîtage et son importance pour l'étanchéité</a></u></strong>.
                 </div>
 
                 <h3>Outils (mètre, appareil photo)</h3>
@@ -210,7 +210,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="etapes">Comment poser une bâche sur un toit : les étapes</h2>
 
                 <h3>Inspecter et mesurer la zone endommagée</h3>
-                <p>Avant d'acheter quoi que ce soit, montez évaluer les dégâts. Identifiez précisément la <strong>zone endommagée</strong> et mesurez-la dans tous les sens. Notez la surface exacte à couvrir, la pente du toit, les obstacles (cheminée, lucarne, antenne), et l'état des tuiles environnantes. Si vos tuiles en terre cuite montrent des signes de vieillissement (mousse, lichens), un <a href="<?php echo BASE_URL; ?>demoussage-tuiles-terre-cuite">démoussage professionnel des tuiles</a> sera nécessaire après le retrait de la bâche.</p>
+                <p>Avant d'acheter quoi que ce soit, montez évaluer les dégâts. Identifiez précisément la <strong>zone endommagée</strong> et mesurez-la dans tous les sens. Notez la surface exacte à couvrir, la pente du toit, les obstacles (cheminée, lucarne, antenne), et l'état des tuiles environnantes. Si vos tuiles en terre cuite montrent des signes de vieillissement (mousse, lichens), un <strong><u><a href="<?php echo BASE_URL; ?>demoussage-tuiles-terre-cuite">démoussage professionnel des tuiles</a></u></strong> sera nécessaire après le retrait de la bâche.</p>
 
                 <h3>Prendre des photos (preuve assurance)</h3>
                 <p>Photographiez tout avant de toucher quoi que ce soit. Ces images serviront de preuve pour votre assurance. Montrez les dégâts généraux (vue d'ensemble), les détails des tuiles cassées ou manquantes, la <strong>zone endommagée</strong> avec un repère (mètre ou main), et l'état après <strong>pose bâche</strong> (pour prouver que vous avez protégé).</p>
@@ -277,7 +277,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>La plupart des couvreurs appliquent un forfait déplacement de <strong>300 à 400 €</strong>, surtout en urgence ou le week-end. Ce forfait couvre le déplacement aller-retour, la mise en sécurité du chantier, l'équipement de protection individuelle, et la première heure de travail.</p>
 
                 <h3>Total pour 100 m² (1600-1900 €)</h3>
-                <p>Pour une surface de 100 m² à bâcher, on pourrait penser à 100 m² × 30 €/m² = 3 000 €. En réalité, on ne bâche jamais 100 m² d'un seul tenant. On divise en sections de 20-30 m² maximum pour la sécurité et la tenue au vent. Le coût total pour 100 m² se situe plutôt entre <strong>1 600 et 1 900 €</strong> car les économies d'échelle s'appliquent sur le forfait déplacement. Pour une solution permanente, envisagez plutôt un <a href="<?php echo BASE_URL; ?>changement-de-couverture">changement complet de couverture</a> si votre toiture est trop vieillissante.</p>
+                <p>Pour une surface de 100 m² à bâcher, on pourrait penser à 100 m² × 30 €/m² = 3 000 €. En réalité, on ne bâche jamais 100 m² d'un seul tenant. On divise en sections de 20-30 m² maximum pour la sécurité et la tenue au vent. Le coût total pour 100 m² se situe plutôt entre <strong>1 600 et 1 900 €</strong> car les économies d'échelle s'appliquent sur le forfait déplacement. Pour une solution permanente, envisagez plutôt un <strong><u><a href="<?php echo BASE_URL; ?>changement-de-couverture">changement complet de couverture</a></u></strong> si votre toiture est trop vieillissante.</p>
 
                 <h3>Variables (urgence, accessibilité)</h3>
                 <p>Les facteurs qui font varier le prix :</p>
@@ -322,7 +322,7 @@ include dirname(__DIR__) . '/header.php';
 
             <div class="conclusion-box">
                 <h3>Besoin d'un couvreur en urgence ?</h3>
-                <p>Bâcher un toit est une opération technique et dangereuse. Si vous n'êtes pas équipé d'un <strong>harnais sécurité</strong> et accompagné, ne montez pas. Un <strong>couvreur professionnel</strong> posera une <strong>bâche toit</strong> étanche en moins d'une heure, avec les garanties décennales qui protègent votre habitation. N'attendez pas que la prochaine pluie transforme votre salon en piscine. Pour protéger durablement votre toiture sans passer par le bâchage, explorez nos solutions d'<a href="<?php echo BASE_URL; ?>hydrofuge-de-toiture">hydrofuge de toiture</a> qui imperméabilisent et allongent la vie de vos tuiles.</p>
+                <p>Bâcher un toit est une opération technique et dangereuse. Si vous n'êtes pas équipé d'un <strong>harnais sécurité</strong> et accompagné, ne montez pas. Un <strong>couvreur professionnel</strong> posera une <strong>bâche toit</strong> étanche en moins d'une heure, avec les garanties décennales qui protègent votre habitation. N'attendez pas que la prochaine pluie transforme votre salon en piscine. Pour protéger durablement votre toiture sans passer par le bâchage, explorez nos solutions d'<strong><u><a href="<?php echo BASE_URL; ?>hydrofuge-de-toiture">hydrofuge de toiture</a></u></strong> qui imperméabilisent et allongent la vie de vos tuiles.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un devis gratuit</a>
             </div>
 
