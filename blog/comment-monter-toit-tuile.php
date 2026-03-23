@@ -1,13 +1,13 @@
 <?php
 /**
  * comment-monter-toit-tuile.php
- * Article : Comment monter sur un toit en tuile : guide sécurité du couvreur
+ * Article : Comment monter sur un toit en tuile en toute securité ?
  * Site : Expert Renov' (cemarenov.fr)
  * Date : 2026-03-22
  */
 
 $article_meta = [
-    'title'        => 'Comment monter sur un toit en tuile : guide sécurité du couvreur (2026)',
+    'title'        => 'Comment monter sur un toit en tuile en toute securité ?',
     'category'     => 'renovation',
     'slug'         => 'comment-monter-toit-tuile',
     'image'        => 'https://www.cemarenov.fr/image/comment-monter-toit-tuile-1.webp',
