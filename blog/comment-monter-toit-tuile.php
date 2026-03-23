@@ -63,8 +63,8 @@ include dirname(__DIR__) . '/header.php';
                 <span class="article-tag">Couverture</span>
             </div>
 
-            <h1>Comment monter sur un toit en tuile :<br>
-                <span class="h1-accent">guide sécurité du couvreur (2026)</span>
+            <h1>Comment monter sur un toit en tuile en toute sécurité<br>
+                <span class="h1-accent">On vous guide ! </span>
             </h1>
 
             <div class="article-meta-header" style="flex-wrap: wrap; gap: 15px;">
