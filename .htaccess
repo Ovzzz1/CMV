@@ -14,6 +14,16 @@ RewriteCond %{HTTP_HOST} !^www\. [NC]
 RewriteRule ^(.*)$ https://www.cemarenov.fr/$1 [R=301,L]
 
 # ============================================================
+# CANONICAL URL (self-canonical via HTTP Link header)
+# S'applique uniquement une fois sur https://www. (après les
+# 301 ci-dessus). Chaque URL est son propre canonical.
+# Les versions http:// ou sans www sont donc canonicalisées
+# via le 301, et https://www. est self-canonical.
+# ============================================================
+RewriteRule ^ - [E=CANONICAL_PATH:%{REQUEST_URI}]
+Header always set Link "<https://www.cemarenov.fr%{CANONICAL_PATH}e>; rel=\"canonical\""
+
+# ============================================================
 # 301 REDIRECTS — Old URLs → New clean URLs (LIVE pages only)
 # ============================================================
 
