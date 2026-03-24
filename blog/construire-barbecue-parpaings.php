@@ -9,7 +9,7 @@ $article_meta = [
     'category' => 'renovation',
     'image' => 'https://www.cemarenov.fr/image/barbecue-parpaing12.webp',
     'excerpt' => 'Découvrez le guide le plus complet et illustré pour construire votre barbecue en parpaings de A à Z, en 12 étapes pas-à-pas.',
-    'date' => '2026-03-07',
+    'date' => '2026-03-24',
     'reading_time' => 12,
 ];
 
