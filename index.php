@@ -7,7 +7,7 @@
 require_once 'functions.php';
 
 // Page meta
-$page_title = "Expert Renov' - Le Blog Travaux, Maison & Immo";
+$page_title = "Expert Renov' : Le Blog Travaux, Réno, Maison & Immo";
 $page_description = "Expert Renov' : votre référence en rénovation, immobilier, maison et travaux. Guides, conseils d'experts et inspirations pour sublimer votre habitat.";
 
 // Fetch data
