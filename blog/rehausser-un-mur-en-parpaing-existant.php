@@ -16,7 +16,7 @@ $article_meta = [
     'reading_time' => 8,
 ];
 
-// Bloc logique CMS — NE JAMAIS MODIFIER
+// Bloc logique CMS, NE JAMAIS MODIFIER
 require_once dirname(__DIR__) . '/functions.php';
 
 $page_title       = $article_meta['title'];
@@ -110,11 +110,11 @@ include dirname(__DIR__) . '/header.php';
 
         <div class="article-container">
             <p class="article-intro">
-                Votre clôture manque de hauteur et vous voulez gagner en intimité — ou votre chien a décidé que la
+                Votre clôture manque de hauteur et vous voulez gagner en intimité, ou votre chien a décidé que la
                 limite de propriété, c'est pour les autres. Rehausser un <strong>mur en parpaing existant</strong> est
                 un projet de maçonnerie tout à fait faisable, à condition de ne pas commettre l'erreur classique :
                 poser des blocs neufs directement sur l'ancienne arase sans aucune liaison.
-                <strong>Le résultat est immanquable — une belle fissure horizontale au premier hiver.</strong>
+                <strong>Le résultat est immanquable, une belle fissure horizontale au premier hiver.</strong>
                 Voici comment faire les choses correctement.
             </p>
 
@@ -128,7 +128,7 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul>
-                        <li><strong>Vérifiez d'abord</strong> que vos fondations et votre PLU autorisent le projet —
+                        <li><strong>Vérifiez d'abord</strong> que vos fondations et votre PLU autorisent le projet,
                             inutile de couler du béton si c'est à démolir ensuite.</li>
                         <li><strong>La vraie technique :</strong> casser l'arase, descendre des fers à béton de 10 mm
                             sur 40 cm dans les anciennes alvéoles remplies de béton, puis maçonner les nouveaux
@@ -162,7 +162,7 @@ include dirname(__DIR__) . '/header.php';
                         alt="Artisan maçon posant une nouvelle rangée de parpaings neufs sur le sommet d'un ancien muret patiné"
                         loading="eager">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
-                        La surélévation démarre toujours par une première rangée soigneusement de niveau — c'est elle
+                        La surélévation démarre toujours par une première rangée soigneusement de niveau, c'est elle
                         qui conditionne toute la suite.
                     </figcaption>
                 </figure>
@@ -194,7 +194,7 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>L'état des fondations :</strong> Si votre mur actuel fait 80 cm de haut, sa semelle de
                         fondation a probablement été calculée pour ce poids et cette hauteur. S'il penche déjà
                         légèrement ou si des fissures en escalier courent le long des joints, n'ajoutez rien. La base
-                        ne supportera pas la surcharge supplémentaire — et si vous constatez en plus des traces
+                        ne supportera pas la surcharge supplémentaire, et si vous constatez en plus des traces
                         d'humidité remontante, consultez notre guide sur l'<a
                             href="https://www.cemarenov.fr/assechement-murs-injections"
                             style="text-decoration: underline;">assèchement des murs par injection</a> avant d'entreprendre quoi que ce soit.</li>
@@ -258,7 +258,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Les vieux murs ne sont jamais parfaitement droits. Après des années d'intempéries et de cycles
                     gel/dégel, le sommet penche légèrement par endroits. Si vous posez votre première rangée de
-                    parpaings sur cette surface irrégulière, tous vos joints vont partir de travers — et vous ne
+                    parpaings sur cette surface irrégulière, tous vos joints vont partir de travers, et vous ne
                     pourrez plus rattraper le niveau ensuite.</p>
 
                 <figure>
@@ -290,7 +290,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Étape 4 : Le chaînage horizontal final (obligatoire)</h3>
 
                 <p>Ne terminez jamais un rehaussement par une rangée de parpaings creux standards. La dernière ligne
-                    doit impérativement être réalisée avec des <strong>parpaings en U</strong> — des blocs creusés en
+                    doit impérativement être réalisée avec des <strong>parpaings en U</strong>, des blocs creusés en
                     forme de gouttière sur toute leur longueur.</p>
 
                 <figure>
@@ -312,7 +312,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="mur-perpendiculaire">Raccorder un nouveau mur perpendiculaire (harpage ou fers ?)</h2>
 
                 <p>Le cas se présente souvent quand on veut créer un angle ou prolonger un muret pour fermer un espace.
-                    La première idée — disquer les anciens blocs en escalier pour faire un harpage — est tentante mais
+                    La première idée, disquer les anciens blocs en escalier pour faire un harpage, est tentante mais
                     laborieuse, et vous risquez d'ébranler la structure existante.</p>
 
                 <p>La méthode plus propre : tracez une ligne verticale au cordeau sur l'ancien mur à l'endroit du
@@ -321,7 +321,7 @@ include dirname(__DIR__) . '/header.php';
                     nouveaux blocs contre l'ancien mur en noyant ces fers de liaison dans vos joints de mortier. La
                     jonction est rigide, le chantier est propre, et vous n'avez pas touché à la structure d'origine.</p>
 
-                <h2 id="faq">FAQ — Cas particuliers et budget</h2>
+                <h2 id="faq">FAQ, Cas particuliers et budget</h2>
 
                 <h3>Comment surélever un mur de parpaings déjà crépi ?</h3>
 
@@ -343,7 +343,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Prenez une meuleuse avec un disque diamant et découpez une bande horizontale à environ 10 cm sous le
                     sommet du mur. Burinez et retirez le crépi de cette bande. Votre première couche de mortier
                     accrochera directement sur le parpaing mis à nu. Pour masquer la cicatrice après les travaux, noyez
-                    une trame en fibre de verre à la jonction lors de la remise en enduit — elle absorbera les tensions
+                    une trame en fibre de verre à la jonction lors de la remise en enduit, elle absorbera les tensions
                     et évitera la fissure horizontale.</p>
 
                 <h3>Quel est le prix pour rehausser un mur de clôture ?</h3>
@@ -360,12 +360,12 @@ include dirname(__DIR__) . '/header.php';
                         <tbody>
                             <tr>
                                 <td><strong>En DIY (matériaux seuls)</strong></td>
-                                <td>30 — 45 €/m²</td>
+                                <td>30, 45 €/m²</td>
                                 <td>Agglos, sable, ciment, fers à béton</td>
                             </tr>
                             <tr>
                                 <td><strong>Artisan maçon (fournitures + pose)</strong></td>
-                                <td>120 — 180 €/m²</td>
+                                <td>120, 180 €/m²</td>
                                 <td>Préparation de l'arase, ferraillage, maçonnerie, chaînage</td>
                             </tr>
                         </tbody>
@@ -405,7 +405,7 @@ include dirname(__DIR__) . '/header.php';
             <div class="conclusion-box">
                 <h3>Le mot de la fin</h3>
                 <p>Rehausser un muret, c'est 20 % de maçonnerie et 80 % de préparation. La reprise de ferraillage dans
-                    les anciennes alvéoles, le rattrapage de niveau sur la première rangée, et le chaînage final — ce
+                    les anciennes alvéoles, le rattrapage de niveau sur la première rangée, et le chaînage final, ce
                     sont ces trois étapes que personne ne voit mais qui font tenir le mur vingt ans. Bâclez-les, et vous
                     retrouverez votre belle fissure horizontale à la prochaine vague de froid.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un devis gratuit</a>
@@ -431,7 +431,7 @@ include dirname(__DIR__) . '/header.php';
         <aside class="sidebar-right">
             <div class="sidebar-sticky">
                 <div class="sidebar-block">
-                    <h3 class="sidebar-title">Derniers articles — <?php echo htmlspecialchars($category['name']); ?></h3>
+                    <h3 class="sidebar-title">Derniers articles, <?php echo htmlspecialchars($category['name']); ?></h3>
                     <?php foreach ($cat_articles as $art): ?>
                         <a href="<?php echo $art['url'] ?? '#'; ?>" class="sidebar-article-card">
                             <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
@@ -456,7 +456,7 @@ include dirname(__DIR__) . '/header.php';
 </article>
 
 <?php
-// Schema.org — NE JAMAIS MODIFIER
+// Schema.org, NE JAMAIS MODIFIER
 require_once dirname(__DIR__) . '/schema-data.php';
 $_schema = get_schema_data(basename(__FILE__, '.php'));
 echo generate_article_schema($article_meta, $_schema['faq'] ?? [], $_schema['howto'] ?? []);
