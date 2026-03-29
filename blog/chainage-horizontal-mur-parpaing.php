@@ -10,7 +10,7 @@ $article_meta = [
     'title'        => 'Chainage horizontal mur parpaing : mise en œuvre et règles de pose (2026)',
     'category'     => 'travaux',
     'slug'         => 'chainage-horizontal-mur-parpaing',
-    'image'        => 'https://www.cemarenov.fr/image/chainage-horizontal-mur-parpaing-1.webp',
+    'image'        => 'https://www.cemarenov.fr/image/chainage horizontal mur parpaing1.webp',
     'excerpt'      => 'Comment réaliser un chaînage horizontal sur un mur en parpaing : bloc en U, ferraillage, nombre de ceintures selon hauteur et calcul du béton nécessaire.',
     'date'         => '2026-03-29',
     'reading_time' => 7,
@@ -49,7 +49,7 @@ include dirname(__DIR__) . '/header.php';
 <article>
 
     <!-- ═══════════════ HERO ═══════════════ -->
-    <section class="article-hero" style="background-image: url('<?php echo $article_meta['image']; ?>');">
+    <section class="article-hero" style="background-image: url('<?php echo BASE_URL; ?>image/chainage horizontal mur parpaing1.webp');">
         <div class="article-hero-content">
 
             <nav class="breadcrumb">
@@ -111,7 +111,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Un mur en parpaing sans chaînage horizontal, ça tient. Jusqu'au jour où ça ne tient plus. Le chaînage, c'est la ceinture de béton armé qui traverse l'épaisseur du mur à intervalles réguliers et empêche les parois de s'écarter sous les charges. Sans elle, les murs "font tonneau" — les maçons utilisent cette expression pour décrire un mur qui bombe et se fissure sous son propre poids. Sur un mur de clôture de 2 m, deux chaînages horizontaux suffisent généralement. Sur une construction à étages, il en faut un à chaque niveau de plancher. <strong>La mise en œuvre est accessible, mais les erreurs classiques de chantier coûtent cher à corriger six mois après.</strong>
+                Le chaînage horizontal, c'est la ceinture de béton armé qui solidarise les murs d'un parpaing et les empêche de s'écarter. Sans lui, les murs "font tonneau" — ils bombent et fissurent sous leur propre poids. <strong>Combien en prévoir, où les placer, et combien de béton commander : tout est ici.</strong>
             </p>
 
             <div class="article-content">
@@ -134,18 +134,254 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
+                        <li><a href="#calculateur">Calculateur — nombre de chaînages et béton</a></li>
                         <li><a href="#role-chainage">À quoi sert le chaînage horizontal ?</a></li>
                         <li><a href="#types-chainage">Les différents types de chaînage</a></li>
                         <li><a href="#realisation">Comment réaliser un chaînage horizontal</a></li>
-                        <li><a href="#hauteur-quantite">Hauteur, nombre et calcul béton</a></li>
+                        <li><a href="#hauteur-quantite">Hauteur, nombre et règles DTU</a></li>
                         <li><a href="#faq">FAQ — Questions fréquentes</a></li>
                     </ul>
                 </div>
 
+                <!-- ═══════════════ CALCULATEUR UX (remonté) ═══════════════ -->
+                <h2 id="calculateur">Calculateur — combien de chaînages et de béton pour mon mur ?</h2>
+
+                <p>Renseignez les dimensions de votre mur. L'outil calcule instantanément le nombre de chaînages à poser, leur position et le volume de béton à commander — avec les règles du DTU 20.1 appliquées à votre cas.</p>
+
+                <div style="background-color: var(--color-light); border: 1px solid var(--color-border); border-radius: 12px; padding: 2rem; margin: 1.5rem 0 2rem;">
+
+                    <div style="display:flex; align-items:center; gap:12px; margin-bottom:1.5rem;">
+                        <div style="background-color: var(--color-primary); border-radius:8px; width:40px; height:40px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="8" y1="10" x2="16" y2="10"/><line x1="8" y1="14" x2="12" y2="14"/></svg>
+                        </div>
+                        <div>
+                            <p style="font-weight:600; font-size:1rem; margin:0; color: var(--color-dark);">Calculateur chaînage & béton</p>
+                            <p style="font-size:0.85rem; color:#666; margin:0;">Ajustez les sliders — les résultats et le schéma se mettent à jour en temps réel.</p>
+                        </div>
+                    </div>
+
+                    <!-- LIGNE 1 : sliders -->
+                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:1.25rem; margin-bottom:1.25rem;">
+
+                        <div>
+                            <label style="display:flex; justify-content:space-between; font-size:0.85rem; color:#555; margin-bottom:6px;">
+                                <span>Longueur du mur</span>
+                                <strong id="calc-longueur-out" style="color: var(--color-dark);">8 m</strong>
+                            </label>
+                            <input type="range" id="calc-longueur" min="1" max="30" value="8" step="0.5"
+                                   style="width:100%; accent-color: var(--color-primary);"
+                                   oninput="calcChain()">
+                        </div>
+
+                        <div>
+                            <label style="display:flex; justify-content:space-between; font-size:0.85rem; color:#555; margin-bottom:6px;">
+                                <span>Hauteur du mur</span>
+                                <strong id="calc-hauteur-out" style="color: var(--color-dark);">2,0 m</strong>
+                            </label>
+                            <input type="range" id="calc-hauteur" min="0.5" max="4" value="2" step="0.1"
+                                   style="width:100%; accent-color: var(--color-primary);"
+                                   oninput="calcChain()">
+                        </div>
+
+                    </div>
+
+                    <!-- LIGNE 2 : boutons épaisseur + hauteur chaînage -->
+                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:1.25rem; margin-bottom:1.5rem;">
+
+                        <div>
+                            <p style="font-size:0.85rem; color:#555; margin:0 0 6px;">Épaisseur du parpaing</p>
+                            <div style="display:flex; gap:0; border-radius:8px; overflow:hidden; border:1px solid var(--color-border);">
+                                <button id="ep-10" onclick="setEp(10)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-bg); border:none; cursor:pointer; color:#555; transition:all .15s;">10 cm</button>
+                                <button id="ep-15" onclick="setEp(15)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-primary); border:none; cursor:pointer; color:white; font-weight:600; transition:all .15s;">15 cm</button>
+                                <button id="ep-20" onclick="setEp(20)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-bg); border:none; cursor:pointer; color:#555; transition:all .15s;">20 cm</button>
+                            </div>
+                        </div>
+
+                        <div>
+                            <p style="font-size:0.85rem; color:#555; margin:0 0 6px;">Hauteur du chaînage</p>
+                            <div style="display:flex; gap:0; border-radius:8px; overflow:hidden; border:1px solid var(--color-border);">
+                                <button id="hc-15" onclick="setHc(15)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-primary); border:none; cursor:pointer; color:white; font-weight:600; transition:all .15s;">15 cm</button>
+                                <button id="hc-20" onclick="setHc(20)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-bg); border:none; cursor:pointer; color:#555; transition:all .15s;">20 cm</button>
+                                <button id="hc-25" onclick="setHc(25)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-bg); border:none; cursor:pointer; color:#555; transition:all .15s;">25 cm</button>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- RÉSULTATS -->
+                    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:0.75rem; margin-bottom:1.25rem;">
+
+                        <div style="background:white; border-radius:10px; padding:1rem; text-align:center; border:1px solid var(--color-border);">
+                            <p style="font-size:0.75rem; color:#888; margin:0 0 4px; text-transform:uppercase; letter-spacing:.05em;">Chaînages</p>
+                            <p id="calc-nb" style="font-size:2rem; font-weight:700; color: var(--color-primary); margin:0; line-height:1;">2</p>
+                            <p style="font-size:0.75rem; color:#aaa; margin:4px 0 0;">ceintures à poser</p>
+                        </div>
+
+                        <div style="background:white; border-radius:10px; padding:1rem; text-align:center; border:1px solid var(--color-border);">
+                            <p style="font-size:0.75rem; color:#888; margin:0 0 4px; text-transform:uppercase; letter-spacing:.05em;">Béton total</p>
+                            <p id="calc-vol" style="font-size:2rem; font-weight:700; color: var(--color-primary); margin:0; line-height:1;">36</p>
+                            <p style="font-size:0.75rem; color:#aaa; margin:4px 0 0;">litres à couler</p>
+                        </div>
+
+                        <div style="background:white; border-radius:10px; padding:1rem; text-align:center; border:1px solid var(--color-border);">
+                            <p style="font-size:0.75rem; color:#888; margin:0 0 4px; text-transform:uppercase; letter-spacing:.05em;">Ciment</p>
+                            <p id="calc-ciment" style="font-size:2rem; font-weight:700; color: var(--color-primary); margin:0; line-height:1;">13</p>
+                            <p style="font-size:0.75rem; color:#aaa; margin:4px 0 0;">kg à prévoir</p>
+                        </div>
+
+                    </div>
+
+                    <!-- SCHÉMA MUR -->
+                    <div style="background:white; border-radius:10px; padding:1rem; border:1px solid var(--color-border); margin-bottom:1rem;">
+                        <p style="font-size:0.8rem; color:#888; margin:0 0 8px;">Position des chaînages (vue de face)</p>
+                        <svg id="calc-wall-svg" width="100%" viewBox="0 0 500 140" style="display:block;">
+                            <g id="calc-wall-g"></g>
+                        </svg>
+                    </div>
+
+                    <!-- NOTE DTU -->
+                    <div id="calc-dtu-note" style="font-size:0.82rem; color:#555; background:white; border-left:3px solid var(--color-primary); border-radius:0 6px 6px 0; padding:0.75rem 1rem;"></div>
+
+                </div>
+
+                <script>
+                var _ep = 15, _hc = 15;
+
+                function setEp(v) {
+                    _ep = v;
+                    [10,15,20].forEach(function(x) {
+                        var btn = document.getElementById('ep-'+x);
+                        btn.style.background = (x === v) ? 'var(--color-primary)' : 'var(--color-bg)';
+                        btn.style.color = (x === v) ? 'white' : '#555';
+                        btn.style.fontWeight = (x === v) ? '600' : 'normal';
+                    });
+                    calcChain();
+                }
+
+                function setHc(v) {
+                    _hc = v;
+                    [15,20,25].forEach(function(x) {
+                        var btn = document.getElementById('hc-'+x);
+                        btn.style.background = (x === v) ? 'var(--color-primary)' : 'var(--color-bg)';
+                        btn.style.color = (x === v) ? 'white' : '#555';
+                        btn.style.fontWeight = (x === v) ? '600' : 'normal';
+                    });
+                    calcChain();
+                }
+
+                function calcNb(h) {
+                    if (h <= 0.5) return 0;
+                    if (h <= 1.2) return 1;
+                    if (h <= 2.0) return 2;
+                    if (h <= 3.0) return 3;
+                    return Math.ceil(h / 1.0);
+                }
+
+                function calcPositions(h, n) {
+                    if (n === 0) return [];
+                    if (n === 1) return [h];
+                    if (n === 2) return [parseFloat((h / 2).toFixed(1)), h];
+                    var pos = [], step = h / (n - 1);
+                    for (var i = 1; i <= n; i++) pos.push(parseFloat((step * i).toFixed(1)));
+                    return pos;
+                }
+
+                function calcChain() {
+                    var L = parseFloat(document.getElementById('calc-longueur').value);
+                    var H = parseFloat(document.getElementById('calc-hauteur').value);
+
+                    document.getElementById('calc-longueur-out').textContent = L.toFixed(1).replace('.', ',') + ' m';
+                    document.getElementById('calc-hauteur-out').textContent = H.toFixed(1).replace('.', ',') + ' m';
+
+                    var n = calcNb(H);
+                    var volM3 = L * (_ep / 100) * (_hc / 100) * n;
+                    var volL = Math.round(volM3 * 1000);
+                    var kg = Math.round(volM3 * 350);
+
+                    document.getElementById('calc-nb').textContent = n;
+                    document.getElementById('calc-vol').textContent = volL;
+                    document.getElementById('calc-ciment').textContent = kg;
+
+                    drawWall(H, n);
+                    updateDtu(H);
+                }
+
+                function drawWall(h, n) {
+                    var g = document.getElementById('calc-wall-g');
+                    g.innerHTML = '';
+                    var ns = 'http://www.w3.org/2000/svg';
+                    var W = 420, wallH = 110, x0 = 60, y0 = 15;
+                    var scaleY = wallH / h;
+                    var positions = calcPositions(h, n);
+
+                    function el(tag, attrs) {
+                        var e = document.createElementNS(ns, tag);
+                        for (var k in attrs) e.setAttribute(k, attrs[k]);
+                        return e;
+                    }
+
+                    g.appendChild(el('rect', {x:x0, y:y0, width:W, height:wallH, rx:4, fill:'#f5f0eb', stroke:'#d4c5b2', 'stroke-width':'1'}));
+
+                    var rowH = 14;
+                    for (var ry = y0 + wallH - rowH; ry >= y0; ry -= rowH) {
+                        for (var rx2 = x0; rx2 < x0 + W; rx2 += 50) {
+                            var rw = Math.min(48, x0 + W - rx2);
+                            g.appendChild(el('rect', {x:rx2+1, y:ry+1, width:rw-2, height:rowH-2, rx:1, fill:'#ede5d8', stroke:'#c8b89a', 'stroke-width':'0.5'}));
+                        }
+                    }
+
+                    var chainH = Math.max(6, _hc * scaleY / 100 * 12);
+                    positions.forEach(function(pos) {
+                        var cy = y0 + wallH - pos * scaleY;
+                        g.appendChild(el('rect', {x:x0, y:cy - chainH/2, width:W, height:chainH, rx:1, fill:'rgba(191,148,105,0.45)', stroke:'#bf9469', 'stroke-width':'1.5'}));
+                        g.appendChild(el('line', {x1:x0+6, y1:cy, x2:x0+W-6, y2:cy, stroke:'#7a6040', 'stroke-width':'2', 'stroke-dasharray':'6 4'}));
+                        var txt = el('text', {x:x0-6, y:cy+1, 'text-anchor':'end', 'dominant-baseline':'middle', fill:'#888', 'font-size':'10', 'font-family':'sans-serif'});
+                        txt.textContent = pos.toFixed(1).replace('.', ',') + ' m';
+                        g.appendChild(txt);
+                    });
+
+                    var leg = el('text', {x:x0+W+8, y:y0+wallH/2, 'dominant-baseline':'middle', fill:'#aaa', 'font-size':'10', 'font-family':'sans-serif'});
+                    leg.textContent = h.toFixed(1).replace('.',',') + ' m';
+                    g.appendChild(leg);
+
+                    g.appendChild(el('line', {x1:x0+W+4, y1:y0, x2:x0+W+4, y2:y0+wallH, stroke:'#ccc', 'stroke-width':'0.5'}));
+
+                    if (n === 0) {
+                        var info = el('text', {x:x0+W/2, y:y0+wallH/2, 'text-anchor':'middle', 'dominant-baseline':'middle', fill:'#aaa', 'font-size':'11', 'font-family':'sans-serif'});
+                        info.textContent = 'Aucun chaînage requis';
+                        g.appendChild(info);
+                    }
+
+                    g.appendChild(el('rect', {x:x0, y:y0+wallH+10, width:12, height:8, rx:1, fill:'rgba(191,148,105,0.45)', stroke:'#bf9469', 'stroke-width':'1.5'}));
+                    var legTxt = el('text', {x:x0+16, y:y0+wallH+14, 'dominant-baseline':'middle', fill:'#888', 'font-size':'10', 'font-family':'sans-serif'});
+                    legTxt.textContent = 'Chaînage horizontal (béton armé)';
+                    g.appendChild(legTxt);
+                }
+
+                function updateDtu(h) {
+                    var msg;
+                    if (h <= 0.5) {
+                        msg = '📐 DTU 20.1 : aucun chaînage obligatoire sur une murette ≤ 0,5 m. Un couronnement reste conseillé pour la finition et la durabilité.';
+                    } else if (h <= 1.2) {
+                        msg = '📐 DTU 20.1 : 1 chaînage de couronnement sur la dernière rangée. Hauteur minimum du chaînage : 15 cm.';
+                    } else if (h <= 2.0) {
+                        msg = '📐 DTU 20.1 : 2 chaînages. Pour un mur de 2 m : chaînage intermédiaire à ~1 m (5e rang, ferraillage 4×10 / E40/EP4/10) + couronnement en tête.';
+                    } else if (h <= 3.0) {
+                        msg = '📐 DTU 20.1 : 3 chaînages minimum. Au-delà de 2 m, prévoir aussi des poteaux raidisseurs tous les 3 à 4 m.';
+                    } else {
+                        msg = '📐 DTU 20.1 : mur > 3 m — 1 chaînage par mètre de hauteur. Faire vérifier le calcul par un professionnel, notamment en zone sismique.';
+                    }
+                    document.getElementById('calc-dtu-note').textContent = msg;
+                }
+
+                document.addEventListener('DOMContentLoaded', function() { calcChain(); });
+                if (document.readyState !== 'loading') { calcChain(); }
+                </script>
+
                 <!-- ═══════════════ H2 #1 — RÔLE ═══════════════ -->
                 <h2 id="role-chainage">À quoi sert le chaînage horizontal dans un mur en parpaing ?</h2>
 
-                <img src="<?php echo BASE_URL; ?>image/chainage-horizontal-mur-parpaing-1.webp"
+                <img src="<?php echo BASE_URL; ?>image/chainage horizontal mur parpaing1.webp"
                      alt="chainage horizontal mur parpaing bloc en U béton armé chantier"
                      loading="lazy"
                      style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
@@ -170,7 +406,7 @@ include dirname(__DIR__) . '/header.php';
                 <!-- ═══════════════ H2 #2 — TYPES ═══════════════ -->
                 <h2 id="types-chainage">Les différents types de chaînage en maçonnerie</h2>
 
-                <img src="<?php echo BASE_URL; ?>image/chainage-horizontal-mur-parpaing-2.webp"
+                <img src="<?php echo BASE_URL; ?>image/chainage horizontal mur parpaing2.webp"
                      alt="types de chaînage maçonnerie parpaing horizontal vertical linteau schéma"
                      loading="lazy"
                      style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
@@ -229,7 +465,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Les étapes de mise en œuvre</h3>
 
-                <img src="<?php echo BASE_URL; ?>image/chainage-horizontal-mur-parpaing-3.webp"
+                <img src="<?php echo BASE_URL; ?>image/chainage horizontal mur parpaing3.webp"
                      alt="ferraillage chaînage horizontal bloc en U angle parpaing armatures acier"
                      loading="lazy"
                      style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
@@ -312,249 +548,6 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
                 <p>En zones sismiques 3, 4 et 5 (Antilles, certaines zones alpines et pyrénéennes), les chaînages doivent être renforcés : armatures plus nombreuses, ancrages aux poteaux raidisseurs obligatoires, liaison mécanique entre les chaînages horizontaux et verticaux. Vérifier sa zone sur le géoportail BRGM avant de démarrer.</p>
-
-                <!-- ═══════════════ CALCULATEUR UX ═══════════════ -->
-                <div style="background-color: var(--color-light); border: 1px solid var(--color-border); border-radius: 12px; padding: 2rem; margin: 2rem 0;">
-
-                    <div style="display:flex; align-items:center; gap:12px; margin-bottom:1.5rem;">
-                        <div style="background-color: var(--color-primary); border-radius:8px; width:40px; height:40px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
-                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="8" y1="10" x2="16" y2="10"/><line x1="8" y1="14" x2="12" y2="14"/></svg>
-                        </div>
-                        <div>
-                            <p style="font-weight:600; font-size:1rem; margin:0; color: var(--color-dark);">Calculateur chaînage & béton</p>
-                            <p style="font-size:0.85rem; color:#666; margin:0;">Renseignez les dimensions de votre mur — l'outil calcule le nombre de chaînages et le béton à commander.</p>
-                        </div>
-                    </div>
-
-                    <!-- LIGNE 1 : sliders -->
-                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:1.25rem; margin-bottom:1.25rem;">
-
-                        <div>
-                            <label style="display:flex; justify-content:space-between; font-size:0.85rem; color:#555; margin-bottom:6px;">
-                                <span>Longueur du mur</span>
-                                <strong id="calc-longueur-out" style="color: var(--color-dark);">8 m</strong>
-                            </label>
-                            <input type="range" id="calc-longueur" min="1" max="30" value="8" step="0.5"
-                                   style="width:100%; accent-color: var(--color-primary);"
-                                   oninput="calcChain()">
-                        </div>
-
-                        <div>
-                            <label style="display:flex; justify-content:space-between; font-size:0.85rem; color:#555; margin-bottom:6px;">
-                                <span>Hauteur du mur</span>
-                                <strong id="calc-hauteur-out" style="color: var(--color-dark);">2,0 m</strong>
-                            </label>
-                            <input type="range" id="calc-hauteur" min="0.5" max="4" value="2" step="0.1"
-                                   style="width:100%; accent-color: var(--color-primary);"
-                                   oninput="calcChain()">
-                        </div>
-
-                    </div>
-
-                    <!-- LIGNE 2 : boutons épaisseur + hauteur chaînage -->
-                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:1.25rem; margin-bottom:1.5rem;">
-
-                        <div>
-                            <p style="font-size:0.85rem; color:#555; margin:0 0 6px;">Épaisseur du parpaing</p>
-                            <div style="display:flex; gap:0; border-radius:8px; overflow:hidden; border:1px solid var(--color-border);">
-                                <button id="ep-10" onclick="setEp(10)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-bg); border:none; cursor:pointer; color:#555; transition:all .15s;">10 cm</button>
-                                <button id="ep-15" onclick="setEp(15)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-primary); border:none; cursor:pointer; color:white; font-weight:600; transition:all .15s;">15 cm</button>
-                                <button id="ep-20" onclick="setEp(20)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-bg); border:none; cursor:pointer; color:#555; transition:all .15s;">20 cm</button>
-                            </div>
-                        </div>
-
-                        <div>
-                            <p style="font-size:0.85rem; color:#555; margin:0 0 6px;">Hauteur du chaînage</p>
-                            <div style="display:flex; gap:0; border-radius:8px; overflow:hidden; border:1px solid var(--color-border);">
-                                <button id="hc-15" onclick="setHc(15)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-primary); border:none; cursor:pointer; color:white; font-weight:600; transition:all .15s;">15 cm</button>
-                                <button id="hc-20" onclick="setHc(20)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-bg); border:none; cursor:pointer; color:#555; transition:all .15s;">20 cm</button>
-                                <button id="hc-25" onclick="setHc(25)" style="flex:1; padding:8px 0; font-size:0.85rem; background:var(--color-bg); border:none; cursor:pointer; color:#555; transition:all .15s;">25 cm</button>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <!-- RÉSULTATS -->
-                    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:0.75rem; margin-bottom:1.25rem;">
-
-                        <div style="background:white; border-radius:10px; padding:1rem; text-align:center; border:1px solid var(--color-border);">
-                            <p style="font-size:0.75rem; color:#888; margin:0 0 4px; text-transform:uppercase; letter-spacing:.05em;">Chaînages</p>
-                            <p id="calc-nb" style="font-size:2rem; font-weight:700; color: var(--color-primary); margin:0; line-height:1;">2</p>
-                            <p style="font-size:0.75rem; color:#aaa; margin:4px 0 0;">ceintures</p>
-                        </div>
-
-                        <div style="background:white; border-radius:10px; padding:1rem; text-align:center; border:1px solid var(--color-border);">
-                            <p style="font-size:0.75rem; color:#888; margin:0 0 4px; text-transform:uppercase; letter-spacing:.05em;">Volume béton</p>
-                            <p id="calc-vol" style="font-size:2rem; font-weight:700; color: var(--color-primary); margin:0; line-height:1;">36</p>
-                            <p style="font-size:0.75rem; color:#aaa; margin:4px 0 0;">litres</p>
-                        </div>
-
-                        <div style="background:white; border-radius:10px; padding:1rem; text-align:center; border:1px solid var(--color-border);">
-                            <p style="font-size:0.75rem; color:#888; margin:0 0 4px; text-transform:uppercase; letter-spacing:.05em;">Ciment</p>
-                            <p id="calc-ciment" style="font-size:2rem; font-weight:700; color: var(--color-primary); margin:0; line-height:1;">13</p>
-                            <p style="font-size:0.75rem; color:#aaa; margin:4px 0 0;">kg (350 kg/m³)</p>
-                        </div>
-
-                    </div>
-
-                    <!-- VISUALISATION SCHÉMATIQUE DU MUR -->
-                    <div style="background:white; border-radius:10px; padding:1rem; border:1px solid var(--color-border); margin-bottom:1rem;">
-                        <p style="font-size:0.8rem; color:#888; margin:0 0 8px;">Schéma de pose (vue de face)</p>
-                        <svg id="calc-wall-svg" width="100%" viewBox="0 0 500 140" style="display:block;">
-                            <g id="calc-wall-g"></g>
-                        </svg>
-                    </div>
-
-                    <!-- NOTE DTU DYNAMIQUE -->
-                    <div id="calc-dtu-note" style="font-size:0.82rem; color:#555; background:white; border-left:3px solid var(--color-primary); border-radius:0 6px 6px 0; padding:0.75rem 1rem;"></div>
-
-                </div>
-                <!-- FIN CALCULATEUR -->
-
-                <script>
-                var _ep = 15, _hc = 15;
-
-                function setEp(v) {
-                    _ep = v;
-                    [10,15,20].forEach(function(x) {
-                        var btn = document.getElementById('ep-'+x);
-                        btn.style.background = (x === v) ? 'var(--color-primary)' : 'var(--color-bg)';
-                        btn.style.color = (x === v) ? 'white' : '#555';
-                        btn.style.fontWeight = (x === v) ? '600' : 'normal';
-                    });
-                    calcChain();
-                }
-
-                function setHc(v) {
-                    _hc = v;
-                    [15,20,25].forEach(function(x) {
-                        var btn = document.getElementById('hc-'+x);
-                        btn.style.background = (x === v) ? 'var(--color-primary)' : 'var(--color-bg)';
-                        btn.style.color = (x === v) ? 'white' : '#555';
-                        btn.style.fontWeight = (x === v) ? '600' : 'normal';
-                    });
-                    calcChain();
-                }
-
-                function calcNb(h) {
-                    if (h <= 0.5) return 0;
-                    if (h <= 1.2) return 1;
-                    if (h <= 2.0) return 2;
-                    if (h <= 3.0) return 3;
-                    return Math.ceil(h / 1.0);
-                }
-
-                function calcPositions(h, n) {
-                    if (n === 0) return [];
-                    if (n === 1) return [h];
-                    if (n === 2) return [parseFloat((h / 2).toFixed(1)), h];
-                    var pos = [], step = h / (n - 1);
-                    for (var i = 1; i <= n; i++) pos.push(parseFloat((step * i).toFixed(1)));
-                    return pos;
-                }
-
-                function calcChain() {
-                    var L = parseFloat(document.getElementById('calc-longueur').value);
-                    var H = parseFloat(document.getElementById('calc-hauteur').value);
-
-                    document.getElementById('calc-longueur-out').textContent = L.toFixed(1).replace('.', ',') + ' m';
-                    document.getElementById('calc-hauteur-out').textContent = H.toFixed(1).replace('.', ',') + ' m';
-
-                    var n = calcNb(H);
-                    var volM3 = L * (_ep / 100) * (_hc / 100) * n;
-                    var volL = Math.round(volM3 * 1000);
-                    var kg = Math.round(volM3 * 350);
-
-                    document.getElementById('calc-nb').textContent = n;
-                    document.getElementById('calc-vol').textContent = volL;
-                    document.getElementById('calc-ciment').textContent = kg;
-
-                    drawWall(H, n);
-                    updateDtu(H);
-                }
-
-                function drawWall(h, n) {
-                    var g = document.getElementById('calc-wall-g');
-                    g.innerHTML = '';
-                    var ns = 'http://www.w3.org/2000/svg';
-                    var W = 420, wallH = 110, x0 = 60, y0 = 15;
-                    var scaleY = wallH / h;
-                    var positions = calcPositions(h, n);
-
-                    function el(tag, attrs) {
-                        var e = document.createElementNS(ns, tag);
-                        for (var k in attrs) e.setAttribute(k, attrs[k]);
-                        return e;
-                    }
-
-                    // Fond mur
-                    g.appendChild(el('rect', {x:x0, y:y0, width:W, height:wallH, rx:4, fill:'#f5f0eb', stroke:'#d4c5b2', 'stroke-width':'1'}));
-
-                    // Joints parpaing
-                    var rowH = 14;
-                    for (var ry = y0 + wallH - rowH; ry >= y0; ry -= rowH) {
-                        for (var rx2 = x0; rx2 < x0 + W; rx2 += 50) {
-                            var rw = Math.min(48, x0 + W - rx2);
-                            g.appendChild(el('rect', {x:rx2+1, y:ry+1, width:rw-2, height:rowH-2, rx:1, fill:'#ede5d8', stroke:'#c8b89a', 'stroke-width':'0.5'}));
-                        }
-                    }
-
-                    // Chaînages
-                    var chainH = Math.max(6, _hc * scaleY / 100 * 12);
-                    positions.forEach(function(pos) {
-                        var cy = y0 + wallH - pos * scaleY;
-                        g.appendChild(el('rect', {x:x0, y:cy - chainH/2, width:W, height:chainH, rx:1, fill:'rgba(191,148,105,0.45)', stroke:'#bf9469', 'stroke-width':'1.5'}));
-                        // Armatures
-                        g.appendChild(el('line', {x1:x0+6, y1:cy, x2:x0+W-6, y2:cy, stroke:'#7a6040', 'stroke-width':'2', 'stroke-dasharray':'6 4'}));
-                        // Label hauteur
-                        var txt = el('text', {x:x0-6, y:cy+1, 'text-anchor':'end', 'dominant-baseline':'middle', fill:'#888', 'font-size':'10', 'font-family':'sans-serif'});
-                        txt.textContent = pos.toFixed(1).replace('.', ',') + ' m';
-                        g.appendChild(txt);
-                    });
-
-                    // Légende chaînage
-                    var leg = el('text', {x:x0+W+8, y:y0+wallH/2, 'dominant-baseline':'middle', fill:'#aaa', 'font-size':'10', 'font-family':'sans-serif'});
-                    leg.textContent = h.toFixed(1).replace('.',',') + ' m';
-                    g.appendChild(leg);
-
-                    // Trait de cotation hauteur
-                    g.appendChild(el('line', {x1:x0+W+4, y1:y0, x2:x0+W+4, y2:y0+wallH, stroke:'#ccc', 'stroke-width':'0.5'}));
-
-                    // Info si 0 chaînage
-                    if (n === 0) {
-                        var info = el('text', {x:x0+W/2, y:y0+wallH/2, 'text-anchor':'middle', 'dominant-baseline':'middle', fill:'#aaa', 'font-size':'11', 'font-family':'sans-serif'});
-                        info.textContent = 'Aucun chaînage requis';
-                        g.appendChild(info);
-                    }
-
-                    // Légende couleur
-                    g.appendChild(el('rect', {x:x0, y:y0+wallH+10, width:12, height:8, rx:1, fill:'rgba(191,148,105,0.45)', stroke:'#bf9469', 'stroke-width':'1.5'}));
-                    var legTxt = el('text', {x:x0+16, y:y0+wallH+14, 'dominant-baseline':'middle', fill:'#888', 'font-size':'10', 'font-family':'sans-serif'});
-                    legTxt.textContent = 'Chaînage horizontal (béton armé)';
-                    g.appendChild(legTxt);
-                }
-
-                function updateDtu(h) {
-                    var msg;
-                    if (h <= 0.5) {
-                        msg = '📐 DTU 20.1 : aucun chaînage obligatoire sur une murette ≤ 0,5 m. Un couronnement reste conseillé pour la finition et la durabilité.';
-                    } else if (h <= 1.2) {
-                        msg = '📐 DTU 20.1 : 1 chaînage de couronnement sur la dernière rangée. Hauteur minimum du chaînage : 15 cm.';
-                    } else if (h <= 2.0) {
-                        msg = '📐 DTU 20.1 : 2 chaînages. Pour un mur de 2 m : chaînage intermédiaire à ~1 m (5e rang, ferraillage 4×10 / E40/EP4/10) + couronnement en tête.';
-                    } else if (h <= 3.0) {
-                        msg = '📐 DTU 20.1 : 3 chaînages minimum. Au-delà de 2 m, prévoir aussi des poteaux raidisseurs tous les 3 à 4 m.';
-                    } else {
-                        msg = '📐 DTU 20.1 : mur > 3 m — 1 chaînage par mètre de hauteur. Faire vérifier le calcul par un professionnel, notamment en zone sismique.';
-                    }
-                    document.getElementById('calc-dtu-note').textContent = msg;
-                }
-
-                // Init au chargement
-                document.addEventListener('DOMContentLoaded', function() { calcChain(); });
-                // Fallback si DOMContentLoaded déjà passé
-                if (document.readyState !== 'loading') { calcChain(); }
-                </script>
 
                 <!-- ═══════════════ H2 #5 — FAQ ═══════════════ -->
                 <h2 id="faq">FAQ — Questions fréquentes</h2>
