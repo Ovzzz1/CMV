@@ -459,9 +459,9 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Le standard sur chantier, c'est le <strong>bloc en U</strong> (aussi appelé parpaing de chaînage). Ce bloc en forme de gouttière ouverte sur le dessus reçoit les armatures, puis le béton coulé vient les noyer. Dimensions courantes : 500 × 150 × 200 mm ou 500 × 200 × 200 mm selon l'épaisseur du mur.</p>
 
-                <p>L'avantage du bloc en U sur le coffrage bois classique : il est de la même matière que le parpaing. Quand on vient enduire le mur, la continuité de matériau entre le parpaing et le chaînage évite les fissurations à l'interface. Avec un coffrage bois coulé en place, on obtient une zone béton pleine entourée de parpaing creux — deux matériaux aux comportements thermiques différents, et une ligne de fissure presque garantie dans l'enduit au bout de deux ou trois hivers.</p>
+                <p>L'avantage du bloc en U sur le coffrage bois classique : il est de la même matière que le parpaing. Quand on vient <a href="https://www.cemarenov.fr/enduit-pierre-vue" style="text-decoration: underline;"><strong>enduire le mur</strong></a>, la continuité de matériau entre le parpaing et le chaînage évite les fissurations à l'interface. Avec un coffrage bois coulé en place, on obtient une zone béton pleine entourée de parpaing creux — deux matériaux aux comportements thermiques différents, et une ligne de fissure presque garantie dans l'enduit au bout de deux ou trois hivers.</p>
 
-                <p>Pour les murs en brique creuse, en <a href="<?php echo BASE_URL; ?>beton-cellulaire" style="text-decoration: underline;"><strong>béton cellulaire</strong></a> ou en brique de terre cuite, il existe des blocs en U adaptés à chaque matériau — planelles en terre cuite, coffrages perdus, blocs spéciaux. Le principe reste identique : créer un canal continu sur toute la longueur du mur, ferraillé et coulé en béton.</p>
+                <p>Pour les murs en brique creuse, en <strong>béton cellulaire</strong> ou en brique de terre cuite, il existe des blocs en U adaptés à chaque matériau — planelles en terre cuite, coffrages perdus, blocs spéciaux. Le principe reste identique : créer un canal continu sur toute la longueur du mur, ferraillé et coulé en béton.</p>
 
                 <h3>Les étapes de mise en œuvre</h3>
 
@@ -488,7 +488,7 @@ include dirname(__DIR__) . '/header.php';
                     <p>"Sur un chantier de clôture, j'ai récupéré un mur où le client avait tout bien fait — bloc en U, ferraillage, béton dosé correctement. Mais il n'avait pas arrosé les blocs avant de couler. Six mois après, l'enduit présentait des fissurations fines sur tout le rang de chaînage. Les blocs secs avaient pompé l'eau du béton. Depuis, c'est la première chose que je vérifie avant de couler : arroser, attendre deux minutes, puis couler. Pas négociable."</p>
                 </blockquote>
 
-                <p>Pour les murs longs dépassant 8 à 10 mètres, prévoir un <a href="<?php echo BASE_URL; ?>joint-dilatation-maconnerie" style="text-decoration: underline;"><strong>joint de dilatation</strong></a> avant de monter. Le chaînage horizontal, rigide sur toute la longueur, peut générer des contraintes thermiques qui fissurent le mur si aucune discontinuité n'est prévue.</p>
+                <p>Pour les murs longs dépassant 8 à 10 mètres, prévoir un <strong>joint de dilatation</strong> avant de monter. Le chaînage horizontal, rigide sur toute la longueur, peut générer des contraintes thermiques qui fissurent le mur si aucune discontinuité n'est prévue.</p>
 
                 <!-- ═══════════════ H2 #4 — HAUTEUR + CALCULATEUR ═══════════════ -->
                 <h2 id="hauteur-quantite">Combien de chaînages, à quelle hauteur — et combien de béton ?</h2>
@@ -559,115 +559,70 @@ include dirname(__DIR__) . '/header.php';
                 <p>Deux. Un chaînage intermédiaire à environ 1 m de hauteur (5e rang de parpaing), ferraillé avec 4 barres HA10, et un chaînage de couronnement sur la dernière rangée. Pour une clôture inférieure à 1,2 m, le seul couronnement suffit en règle générale.</p>
 
                 <h3>Le chaînage horizontal est-il obligatoire en pied de mur ?</h3>
-                <p>Non. Selon le NF DTU 20.1 et les praticiens expérimentés, le chaînage bas n'est pas obligatoire en pied de mur — c'est la fondation qui joue ce rôle. Le chaînage se positionne en tête de mur et à chaque niveau de plancher. Sur terrain instable ou en zone argileuse, certains maçons l'ajoutent par précaution, mais ce n'est pas une obligation réglementaire pour un mur courant.</p>
+                <p>Non. Selon le NF DTU 20.1 et les praticiens expérimentés, le chaînage bas n'est pas obligatoire en pied de mur — c'est la fondation qui joue ce rôle. Le chaînage se positionne en tête de mur et à chaque niveau de plancher. Sur terrain instable ou en <a href="https://www.cemarenov.fr/assechement-murs-injections" style="text-decoration: underline;"><strong>zone argileuse</strong></a>, certains maçons l'ajoutent par précaution, mais ce n'est pas une obligation réglementaire pour un mur courant.</p>
 
-                <h3>Je rehausse un mur existant : dois-je refaire un chaînage horizontal ?</h3>
-                <p>Oui. Le couronnement existant ne vaut plus comme couronnement dès lors que vous montez de nouveaux rangs par-dessus. Il faut un nouveau chaînage en tête de la hauteur totale finale. Si vous rehaussez de plus d'un mètre, prévoir aussi un chaînage intermédiaire dans la nouvelle partie.</p>
+                <h3>Je <a href="https://www.cemarenov.fr/rehausser-un-mur-en-parpaing-existant" style="text-decoration: underline;"><strong>rehausse un mur existant</strong></a> : dois-je refaire un chaînage horizontal ?</h3>
+                <p>Oui. Le couronnement de l'ancien mur devient un chaînage intermédiaire dans la nouvelle hauteur totale. Il faut donc poser un nouveau chaînage de couronnement sur la dernière rangée de la rehausse. Si la rehausse dépasse 1 m, prévoir un chaînage intermédiaire supplémentaire. Vérifier aussi l'état du ferraillage existant : si les armatures sont corrodées ou absentes, reprendre depuis les fondations.</p>
 
-                <h3>Peut-on faire un chaînage horizontal sans bloc en U ?</h3>
-                <p>Oui. Le coffrage bois traditionnel (deux joues maintenues par des pointes et des cales, coulage avec les armatures en place) donne un résultat structurel équivalent. L'inconvénient : la zone coulée est en béton plein, les parpaings adjacents sont creux — deux comportements thermiques différents, et une ligne de fissure probable dans l'enduit à l'interface. Le bloc en U, de même matière que le parpaing, évite ce problème.</p>
+                <h3>Peut-on couler le chaînage horizontal par petites sections, en plusieurs fois ?</h3>
+                <p>Non, ou le moins possible. Le chaînage doit être coulé en continu sur tout le périmètre pour être efficace. Une reprise de bétonnage crée un joint froid — une zone de faiblesse où la traction n'est pas reprise correctement. Si le chantier impose une interruption, la reprendre sur une longueur d'au moins 50 cm en dehors de la zone critique (angles, jonctions de murs).</p>
+
+                <h3>Quelle est la résistance minimale du béton pour un chaînage ?</h3>
+                <p>Le NF DTU 20.1 préconise un béton dosé à 350 kg de ciment par m³, de classe C20/25 minimum. En pratique, un béton prêt à l'emploi (BPE) livré en toupie en classe C25/30 est une valeur sûre pour un chaînage de maison. Pour une clôture ou une murette, un béton gâché sur place correctement dosé (1 volume ciment / 2 volumes sable / 3 volumes gravillon) est suffisant.</p>
 
             </div><!-- /.article-content -->
 
-            <!-- AUTHOR BOX -->
-            <div class="author-box-bottom">
-                <div class="author-box-img">
-                    <img src="<?php echo BASE_URL; ?>image/phil.png" alt="Philippe">
-                </div>
-                <div class="author-box-content">
-                    <h3>Philippe</h3>
-                    <span class="author-role">Expert Rénovation &amp; Artisan RGE</span>
-                    <p>Avec plus de 20 ans d'expérience sur les chantiers, Philippe vous partage ses conseils concrets et sans langue de bois.</p>
-                    <a href="<?php echo BASE_URL; ?>philippe" class="btn-outline">Voir son profil complet</a>
-                </div>
-            </div>
-
-            <!-- CONCLUSION CTA -->
-            <div class="conclusion-box">
-                <h3>Un projet de mur ou de clôture en parpaing ?</h3>
-                <p>Un chaînage bien posé, c'est dix ans de tranquillité. Mal fait ou oublié, c'est une fissure qui s'ouvre au premier hiver. Si vous avez un doute sur le nombre de chaînages nécessaires ou sur les règles en zone sismique, on peut regarder ça ensemble.</p>
-                <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un devis gratuit</a>
-            </div>
-
-            <!-- ARTICLES SIMILAIRES -->
-            <section class="similar-articles">
-                <h3 class="similar-title">Articles similaires</h3>
-                <div class="similar-grid">
-                    <?php foreach ($similar_articles as $art): ?>
-                        <a href="<?php echo $art['url'] ?? '#'; ?>" class="similar-card">
-                            <div class="similar-img">
-                                <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
-                            </div>
-                            <h4><?php echo htmlspecialchars($art['title']); ?></h4>
-                        </a>
-                    <?php endforeach; ?>
-                </div>
-            </section>
-
-        </div>
+        </div><!-- /.article-container -->
 
         <!-- ── SIDEBAR DROITE ── -->
         <aside class="sidebar-right">
             <div class="sidebar-sticky">
 
-                <div class="sidebar-block">
-                    <h3 class="sidebar-title">Derniers articles — <?php echo htmlspecialchars($category['name'] ?? 'Travaux'); ?></h3>
-                    <?php foreach ($cat_articles as $art): ?>
-                        <a href="<?php echo $art['url'] ?? '#'; ?>" class="sidebar-article-card">
-                            <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
-                            <span><?php echo htmlspecialchars($art['title']); ?></span>
-                        </a>
-                    <?php endforeach; ?>
+                <!-- Widget auteur -->
+                <div class="author-widget">
+                    <img src="<?php echo BASE_URL; ?>image/phil.png" alt="Philippe artisan RGE">
+                    <div class="author-widget-info">
+                        <strong>Philippe</strong>
+                        <span>Artisan RGE · 20 ans de chantier</span>
+                        <a href="<?php echo BASE_URL; ?>philippe" class="author-widget-link">Voir le profil</a>
+                    </div>
                 </div>
 
-                <div class="sidebar-block">
-                    <h3 class="sidebar-title">Les plus récents</h3>
-                    <?php foreach ($latest_articles as $art): ?>
-                        <a href="<?php echo $art['url'] ?? '#'; ?>" class="sidebar-article-card">
-                            <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
+                <!-- Articles similaires -->
+                <?php if (!empty($similar_articles)): ?>
+                <div class="related-widget">
+                    <h4 class="widget-title">Articles similaires</h4>
+                    <?php foreach ($similar_articles as $art): ?>
+                        <a href="<?php echo $art['url']; ?>" class="related-item">
+                            <?php if (!empty($art['image'])): ?>
+                                <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
+                            <?php endif; ?>
                             <span><?php echo htmlspecialchars($art['title']); ?></span>
                         </a>
                     <?php endforeach; ?>
                 </div>
+                <?php endif; ?>
+
+                <!-- Derniers articles -->
+                <?php if (!empty($latest_articles)): ?>
+                <div class="related-widget">
+                    <h4 class="widget-title">Derniers articles</h4>
+                    <?php foreach ($latest_articles as $art): ?>
+                        <a href="<?php echo $art['url']; ?>" class="related-item">
+                            <?php if (!empty($art['image'])): ?>
+                                <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
+                            <?php endif; ?>
+                            <span><?php echo htmlspecialchars($art['title']); ?></span>
+                        </a>
+                    <?php endforeach; ?>
+                </div>
+                <?php endif; ?>
 
             </div>
         </aside>
 
-    </div>
+    </div><!-- /.article-layout -->
+
 </article>
 
-<?php
-require_once dirname(__DIR__) . '/schema-data.php';
-
-$faq_schema = [
-    [
-        'question' => "Quelle est la différence entre un chaînage horizontal et un chaînage vertical ?",
-        'answer'   => "Le chaînage horizontal court à l'horizontale dans l'épaisseur du mur à chaque niveau de plancher — il relie les parois en plan et empêche leur écartement. Le chaînage vertical court de bas en haut dans les angles et poteaux raidisseurs — il relie les chaînages horizontaux de chaque niveau entre eux. Les armatures des deux sont reliées par des équerres pour former une cage continue."
-    ],
-    [
-        'question' => "Combien de chaînages horizontaux pour un mur de clôture de 2 m ?",
-        'answer'   => "Deux chaînages : un intermédiaire à environ 1 m de hauteur (5e rang de parpaing, ferraillage 4 barres HA10) et un couronnement sur la dernière rangée. Pour une clôture inférieure à 1,2 m, le seul couronnement suffit."
-    ],
-    [
-        'question' => "Le chaînage horizontal est-il obligatoire en pied de mur ?",
-        'answer'   => "Non. Selon le NF DTU 20.1, le chaînage bas n'est pas obligatoire en pied de mur — la fondation joue ce rôle. Le chaînage se positionne en tête de mur et à chaque niveau de plancher."
-    ],
-    [
-        'question' => "Je rehausse un mur existant : dois-je refaire un chaînage horizontal ?",
-        'answer'   => "Oui. Le couronnement existant ne compte plus dès lors que vous montez de nouveaux rangs par-dessus. Il faut un nouveau chaînage en tête de la hauteur totale finale, et un intermédiaire si vous rehaussez de plus d'un mètre."
-    ],
-    [
-        'question' => "Peut-on faire un chaînage horizontal sans bloc en U ?",
-        'answer'   => "Oui, avec un coffrage bois traditionnel. Mais le bloc en U est préférable : de même matière que le parpaing, il évite les fissurations d'enduit à l'interface entre le chaînage béton plein et les parpaings creux adjacents."
-    ],
-];
-
-$_schema = get_schema_data(basename(__FILE__, '.php'));
-if (!isset($_schema['faq']) || empty($_schema['faq'])) {
-    $_schema['faq'] = $faq_schema;
-}
-
-echo generate_article_schema($article_meta, $_schema['faq'] ?? [], $_schema['howto'] ?? []);
-echo generate_rating_widget();
-?>
 <?php include dirname(__DIR__) . '/footer.php'; ?>
