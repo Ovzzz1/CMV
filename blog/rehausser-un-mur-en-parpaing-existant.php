@@ -10,7 +10,7 @@ $article_meta = [
     'title'        => 'Rehausser un mur en parpaing existant : Étapes, ferraillage et astuces de maçon',
     'category'     => 'travaux',
     'slug'         => 'rehausser-mur-parpaing-existant',
-    'image'        => '/assets/img/blog/rehausser-un-mur-en-parpaing-existant1.webp',
+    'image'        => 'https://www.cemarenov.fr/image/rehausser un mur en parpaing existant1.webp',
     'excerpt'      => 'Rehausser un muret en parpaing ne se résume pas à empiler de nouveaux blocs. Découvrez la technique de reprise de ferraillage, le rattrapage de niveau et le chaînage final pour un résultat solide et durable.',
     'date'         => '2026-03-29',
     'reading_time' => 8,
@@ -49,7 +49,7 @@ include dirname(__DIR__) . '/header.php';
 ?>
 
 <article>
-    <section class="article-hero" style="background-image: url('<?php echo $article_meta['image']; ?>');">
+    <section class="article-hero" style="background-image: url('<?php echo BASE_URL; ?>image/rehausser un mur en parpaing existant1.webp');">
         <div class="article-hero-content">
             <nav class="breadcrumb">
                 <a href="<?php echo BASE_URL; ?>">Accueil</a>
@@ -158,7 +158,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="/assets/img/blog/rehausser-un-mur-en-parpaing-existant1.webp"
+                        src="<?php echo BASE_URL; ?>image/rehausser un mur en parpaing existant1.webp"
                         alt="Artisan maçon posant une nouvelle rangée de parpaings neufs sur le sommet d'un ancien muret patiné"
                         loading="eager">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -175,7 +175,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="/assets/img/blog/rehausser-un-mur-en-parpaing-existant2.webp"
+                        src="<?php echo BASE_URL; ?>image/rehausser un mur en parpaing existant2.webp"
                         alt="Muret en parpaing brut sur lequel a été fixée une extension en panneaux de bois claustra sur platines métalliques, jardin verdoyant en arrière-plan"
                         loading="lazy">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -194,7 +194,10 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>L'état des fondations :</strong> Si votre mur actuel fait 80 cm de haut, sa semelle de
                         fondation a probablement été calculée pour ce poids et cette hauteur. S'il penche déjà
                         légèrement ou si des fissures en escalier courent le long des joints, n'ajoutez rien. La base
-                        ne supportera pas la surcharge supplémentaire.</li>
+                        ne supportera pas la surcharge supplémentaire — et si vous constatez en plus des traces
+                        d'humidité remontante, consultez notre guide sur l'<a
+                            href="https://www.cemarenov.fr/assechement-murs-injections"
+                            style="text-decoration: underline;">assèchement des murs par injection</a> avant d'entreprendre quoi que ce soit.</li>
                     <li><strong>La réglementation locale :</strong> Avant d'acheter quoi que ce soit, un saut à la
                         mairie s'impose. Le PLU (Plan Local d'Urbanisme) définit la hauteur maximale autorisée pour une
                         clôture, souvent limitée entre 1m80 et 2m en zone pavillonnaire. Si le mur est mitoyen,
@@ -204,7 +207,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="/assets/img/blog/rehausser-un-mur-en-parpaing-existant3.webp"
+                        src="<?php echo BASE_URL; ?>image/rehausser un mur en parpaing existant3.webp"
                         alt="Gros plan sur un vieux mur de clôture en parpaing montrant une fissure caractéristique en escalier le long des joints de mortier"
                         loading="lazy">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -230,7 +233,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="/assets/img/blog/rehausser-un-mur-en-parpaing-existant4.webp"
+                        src="<?php echo BASE_URL; ?>image/rehausser un mur en parpaing existant4.webp"
                         alt="Illustration technique macro : sommet cassé d'un parpaing creux avec une tige de fer à béton insérée verticalement dans l'alvéole en cours de remplissage"
                         loading="lazy">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -260,7 +263,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="/assets/img/blog/rehausser-un-mur-en-parpaing-existant5.webp"
+                        src="<?php echo BASE_URL; ?>image/rehausser un mur en parpaing existant5.webp"
                         alt="Gros plan sur une truelle étalant un lit de mortier épais de 2 à 3 cm sur le sommet irrégulier d'un vieux mur en parpaing, cordeau de maçon tendu au-dessus"
                         loading="lazy">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -292,7 +295,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="/assets/img/blog/rehausser-un-mur-en-parpaing-existant6.webp"
+                        src="<?php echo BASE_URL; ?>image/rehausser un mur en parpaing existant6.webp"
                         alt="Vue plongeante sur une rangée de parpaings en U avec armature triangulaire métallique posée à l'intérieur de la gouttière, prête à être coulée en béton"
                         loading="lazy">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -328,7 +331,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="/assets/img/blog/rehausser-un-mur-en-parpaing-existant7.webp"
+                        src="<?php echo BASE_URL; ?>image/rehausser un mur en parpaing existant7.webp"
                         alt="Personne utilisant une meuleuse avec disque diamant pour entailler horizontalement l'enduit crépi d'un mur, faisant apparaître le parpaing brut gris dessous"
                         loading="lazy">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -385,7 +388,11 @@ include dirname(__DIR__) . '/header.php';
                         de façade. On vous explique en détail <a
                             href="/blog/travaux/enduire-mur-exterieur-parpaing.php"
                             style="text-decoration: underline;">comment enduire un mur extérieur et noyer une trame
-                            anti-fissuration dans le crépi</a> pour que le raccord soit totalement invisible.</li>
+                            anti-fissuration dans le crépi</a> pour que le raccord soit totalement invisible. Si votre
+                        mur est en pierres apparentes, découvrez aussi nos conseils sur l'<a
+                            href="https://www.cemarenov.fr/enduit-pierre-vue"
+                            style="text-decoration: underline;">enduit pour pierre de vue</a> pour un rendu naturel et
+                        durable.</li>
                     <li><strong>Pour finaliser une clôture :</strong> si la rehausse servait de soubassement pour
                         accueillir un grillage rigide ou des panneaux, passez à l'étape suivante avec notre guide pour
                         <a href="/blog/travaux/fixer-poteaux-platines-mur-parpaing.php"
