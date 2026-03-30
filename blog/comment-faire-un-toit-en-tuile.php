@@ -16,7 +16,7 @@ $article_meta = [
     'reading_time' => 9,
 ];
 
-// ── Bloc logique CMS — NE JAMAIS MODIFIER ─────────────────────────────────
+// ── Bloc logique CMS, NE JAMAIS MODIFIER ─────────────────────────────────
 require_once dirname(__DIR__) . '/functions.php';
 
 $page_title       = $article_meta['title'];
@@ -125,9 +125,9 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                     <ul>
                         <li><strong>Ordre :</strong> charpente → écran → contre-lattes → liteaux → égout → tuiles → fixations → points singuliers → faîtières.</li>
-                        <li><strong>Pente min. :</strong> 17° pour une tuile à emboîtement, 25-30° pour une tuile canal — en dessous, l'étanchéité n'est plus garantie.</li>
-                        <li><strong>Fixation :</strong> 1 tuile sur 4 minimum en zone standard, toutes en zone exposée — inox obligatoire, jamais galvanisé.</li>
-                        <li><strong>Pureau :</strong> valeur fixée par le fabricant dans son guide de pose — ne jamais estimer à l'œil.</li>
+                        <li><strong>Pente min. :</strong> 17° pour une tuile à emboîtement, 25-30° pour une tuile canal, en dessous, l'étanchéité n'est plus garantie.</li>
+                        <li><strong>Fixation :</strong> 1 tuile sur 4 minimum en zone standard, toutes en zone exposée, inox obligatoire, jamais galvanisé.</li>
+                        <li><strong>Pureau :</strong> valeur fixée par le fabricant dans son guide de pose, ne jamais estimer à l'œil.</li>
                     </ul>
                 </div>
 
@@ -136,19 +136,19 @@ include dirname(__DIR__) . '/header.php';
                     <div class="toc-title">Sommaire</div>
                     <ul>
                         <li><a href="#avant-de-commencer">Ce qu'il faut savoir avant de commencer</a></li>
-                        <li><a href="#etape-1">Étape 1 — Inspecter et préparer la charpente</a></li>
-                        <li><a href="#etape-2">Étape 2 — Poser l'écran de sous-toiture</a></li>
-                        <li><a href="#etape-3">Étape 3 — Contre-lattes et latte de ventilation basse</a></li>
-                        <li><a href="#etape-4">Étape 4 — Calculer le pureau et poser les liteaux</a></li>
-                        <li><a href="#etape-5">Étape 5 — Préparer l'égout et poser le rang de départ</a></li>
-                        <li><a href="#etape-6">Étape 6 — Poser les tuiles courantes rangée par rangée</a></li>
-                        <li><a href="#etape-7">Étape 7 — Couper les tuiles aux obstacles et en rive</a></li>
-                        <li><a href="#etape-8">Étape 8 — Fixer les tuiles selon la zone de vent</a></li>
-                        <li><a href="#etape-9">Étape 9 — Traiter les points singuliers</a></li>
-                        <li><a href="#etape-10">Étape 10 — Poser les faîtières et fermer le faîtage</a></li>
+                        <li><a href="#etape-1">Étape 1, Inspecter et préparer la charpente</a></li>
+                        <li><a href="#etape-2">Étape 2, Poser l'écran de sous-toiture</a></li>
+                        <li><a href="#etape-3">Étape 3, Contre-lattes et latte de ventilation basse</a></li>
+                        <li><a href="#etape-4">Étape 4, Calculer le pureau et poser les liteaux</a></li>
+                        <li><a href="#etape-5">Étape 5, Préparer l'égout et poser le rang de départ</a></li>
+                        <li><a href="#etape-6">Étape 6, Poser les tuiles courantes rangée par rangée</a></li>
+                        <li><a href="#etape-7">Étape 7, Couper les tuiles aux obstacles et en rive</a></li>
+                        <li><a href="#etape-8">Étape 8, Fixer les tuiles selon la zone de vent</a></li>
+                        <li><a href="#etape-9">Étape 9, Traiter les points singuliers</a></li>
+                        <li><a href="#etape-10">Étape 10, Poser les faîtières et fermer le faîtage</a></li>
                         <li><a href="#cout">Combien coûte une toiture en tuile ?</a></li>
                         <li><a href="#duree-vie">Quelle est la durée de vie d'une toiture en tuile ?</a></li>
-                        <li><a href="#faq">FAQ — Questions fréquentes</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -198,8 +198,8 @@ include dirname(__DIR__) . '/header.php';
                         <tbody>
                             <tr><td><strong>Scie à disque + lame diamant</strong></td><td>Couper les tuiles</td></tr>
                             <tr><td><strong>Cordeau + niveau</strong></td><td>Aligner rangs et liteaux</td></tr>
-                            <tr><td><strong>Visseuse + vis/crochets inox</strong></td><td>Fixation — jamais acier galvanisé</td></tr>
-                            <tr><td><strong>Échafaudage + ligne de vie</strong></td><td>Sécurité — obligatoire</td></tr>
+                            <tr><td><strong>Visseuse + vis/crochets inox</strong></td><td>Fixation, jamais acier galvanisé</td></tr>
+                            <tr><td><strong>Échafaudage + ligne de vie</strong></td><td>Sécurité, obligatoire</td></tr>
                             <tr><td><strong>Écran de sous-toiture</strong></td><td>Membrane respirante</td></tr>
                             <tr><td><strong>Contre-lattes 27×40 mm</strong></td><td>Ventilation sous couverture</td></tr>
                             <tr><td><strong>Liteaux bois 27×40 mm min.</strong></td><td>Support des tuiles</td></tr>
@@ -212,7 +212,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Si vous intervenez sur une couverture existante, consultez notre guide sur le <a href="<?php echo BASE_URL; ?>remaniement-de-couverture" style="text-decoration: underline;"><strong>remaniement de couverture</strong></a> pour savoir ce qui peut être conservé.</p>
 
                 <!-- ═══ ÉTAPE 1 ═══ -->
-                <h2 id="etape-1">Étape 1 — Inspecter et préparer la charpente</h2>
+                <h2 id="etape-1">Étape 1, Inspecter et préparer la charpente</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-3.webp" alt="Artisan inspectant les chevrons d'une charpente avant pose de tuiles" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -227,7 +227,7 @@ include dirname(__DIR__) . '/header.php';
                 </blockquote>
 
                 <!-- ═══ ÉTAPE 2 ═══ -->
-                <h2 id="etape-2">Étape 2 — Poser l'écran de sous-toiture</h2>
+                <h2 id="etape-2">Étape 2, Poser l'écran de sous-toiture</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-4.webp" alt="Artisan déroulant un lé d'écran de sous-toiture sur les chevrons" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -238,11 +238,11 @@ include dirname(__DIR__) . '/header.php';
                 <p>Ne vissez jamais les contre-lattes à travers la bande d'égouttage de l'écran.</p>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
-                    <strong>Tuile canal :</strong> écran encore plus indispensable — étanchéité moindre que la tuile à emboîtement, surtout en régions exposées au vent. L'écran joue également un rôle clé si vous envisagez une <a href="<?php echo BASE_URL; ?>isolation-sous-rampants-toiture" style="text-decoration: underline;"><strong>isolation sous rampants</strong></a> — les deux travaux se coordonnent idéalement en même temps.
+                    <strong>Tuile canal :</strong> écran encore plus indispensable, étanchéité moindre que la tuile à emboîtement, surtout en régions exposées au vent. L'écran joue également un rôle clé si vous envisagez une <a href="<?php echo BASE_URL; ?>isolation-sous-rampants-toiture" style="text-decoration: underline;"><strong>isolation sous rampants</strong></a>, les deux travaux se coordonnent idéalement en même temps.
                 </div>
 
                 <!-- ═══ ÉTAPE 3 ═══ -->
-                <h2 id="etape-3">Étape 3 — Fixer les contre-lattes et la latte de ventilation basse</h2>
+                <h2 id="etape-3">Étape 3, Fixer les contre-lattes et la latte de ventilation basse</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-5.webp" alt="Contre-lattes vissées sur chevrons par-dessus l'écran de sous-toiture" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -253,7 +253,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Cette lame d'air évacue condensation et humidité. Sans elle : la charpente travaille dans l'humidité en permanence.</p>
 
                 <!-- ═══ ÉTAPE 4 ═══ -->
-                <h2 id="etape-4">Étape 4 — Calculer le pureau et poser les liteaux</h2>
+                <h2 id="etape-4">Étape 4, Calculer le pureau et poser les liteaux</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-6.webp" alt="Artisan traçant au cordeau la position des liteaux sur les contre-lattes" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -268,7 +268,7 @@ include dirname(__DIR__) . '/header.php';
                     </iframe>
                 </div>
 
-                <p>Le pureau = écartement entre deux liteaux consécutifs. <strong>Valeur fixée par le fabricant</strong> dans son guide de pose — ne jamais estimer.</p>
+                <p>Le pureau = écartement entre deux liteaux consécutifs. <strong>Valeur fixée par le fabricant</strong> dans son guide de pose, ne jamais estimer.</p>
 
                 <ol class="custom-list">
                     <li>Calculer le nombre de rangs (hauteur versant ÷ pureau)</li>
@@ -280,12 +280,12 @@ include dirname(__DIR__) . '/header.php';
                 <p>Section liteaux : <strong>27×40 mm minimum</strong>. Vérifiez selon zone de neige.</p>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
-                    <strong>Tuile canal :</strong> pureau variable selon la pente — plus elle est faible, plus le chevauchement augmente. Voir DTU 40.22.<br>
+                    <strong>Tuile canal :</strong> pureau variable selon la pente, plus elle est faible, plus le chevauchement augmente. Voir DTU 40.22.<br>
                     <strong>Tuile plate :</strong> pureau court, recouvrement 2 à 3 épaisseurs. Voir DTU 40.211.
                 </div>
 
                 <!-- ═══ ÉTAPE 5 ═══ -->
-                <h2 id="etape-5">Étape 5 — Préparer l'égout et poser le rang de départ</h2>
+                <h2 id="etape-5">Étape 5, Préparer l'égout et poser le rang de départ</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-7.webp" alt="Premier rang de tuiles posé en bas du versant avec planche biseautée d'égout" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -295,10 +295,10 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Vérifiez l'alignement au niveau tous les 4-5 tuiles. Une tuile ¾ peut être nécessaire en départ selon le modèle.</p>
 
-                <p>L'égout, c'est aussi là que se raccordent les <a href="<?php echo BASE_URL; ?>gouttieres" style="text-decoration: underline;"><strong>gouttières</strong></a> — prévoyez le positionnement des crochets avant de poser le premier rang.</p>
+                <p>L'égout, c'est aussi là que se raccordent les <a href="<?php echo BASE_URL; ?>gouttieres" style="text-decoration: underline;"><strong>gouttières</strong></a>, prévoyez le positionnement des crochets avant de poser le premier rang.</p>
 
                 <!-- ═══ ÉTAPE 6 ═══ -->
-                <h2 id="etape-6">Étape 6 — Poser les tuiles courantes rangée par rangée</h2>
+                <h2 id="etape-6">Étape 6, Poser les tuiles courantes rangée par rangée</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-8.webp" alt="Artisan posant les tuiles courantes de bas en haut sur le versant" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -314,7 +314,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Pour intervenir en sécurité sur le versant à mesure que vous montez, consultez notre guide <a href="<?php echo BASE_URL; ?>comment-monter-toit-tuile" style="text-decoration: underline;"><strong>comment monter sur un toit en tuile</strong></a>.</p>
 
                 <!-- ═══ ÉTAPE 7 ═══ -->
-                <h2 id="etape-7">Étape 7 — Couper les tuiles aux obstacles et en rive</h2>
+                <h2 id="etape-7">Étape 7, Couper les tuiles aux obstacles et en rive</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-9.webp" alt="Artisan coupant une tuile à la scie à disque avec lame diamant, lunettes de protection portées" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -323,11 +323,11 @@ include dirname(__DIR__) . '/header.php';
                 <p>Autour des obstacles (cheminée, sortie VMC) : solins métalliques côté montant, glissés sous les tuiles côté aval. Manchon EPDM ou silicone pour sorties rondes. Pour la cheminée, l'étanchéité repose aussi sur un <a href="<?php echo BASE_URL; ?>abergement-de-cheminee" style="text-decoration: underline;"><strong>abergement de cheminée</strong></a> correctement intégré dans les rangs de tuiles.</p>
 
                 <!-- ═══ ÉTAPE 8 ═══ -->
-                <h2 id="etape-8">Étape 8 — Fixer les tuiles selon la zone de vent</h2>
+                <h2 id="etape-8">Étape 8, Fixer les tuiles selon la zone de vent</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-10.webp" alt="Gros plan sur un crochet inox vissé sur liteau pour fixer une tuile" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
-                <p>Trois modes de fixation : <strong>tenon sur liteau</strong> (maintien de base), <strong>crochet inox</strong> (zones standard à exposées), <strong>vis inox + rondelle</strong> (zones très exposées). Inox obligatoire — le galvanisé corrode sous les tuiles.</p>
+                <p>Trois modes de fixation : <strong>tenon sur liteau</strong> (maintien de base), <strong>crochet inox</strong> (zones standard à exposées), <strong>vis inox + rondelle</strong> (zones très exposées). Inox obligatoire, le galvanisé corrode sous les tuiles.</p>
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -350,19 +350,19 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
                 <!-- ═══ ÉTAPE 9 ═══ -->
-                <h2 id="etape-9">Étape 9 — Traiter les points singuliers</h2>
+                <h2 id="etape-9">Étape 9, Traiter les points singuliers</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-11.webp" alt="Traitement des tuiles de rive et jonction versant mur pignon" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
                 <ul class="custom-list">
                     <li><strong>Tuiles de rive :</strong> toutes fixées (vis inox + rondelle). Fixez l'écran en bord de toit avant de poser, puis contre-latte sous les lattes au niveau du mur pignon.</li>
-                    <li><strong>Noues :</strong> zone la plus exposée aux infiltrations. Noue ouverte en zinc recommandée — feuille dans l'angle, tuiles coupées en biais des deux côtés.</li>
+                    <li><strong>Noues :</strong> zone la plus exposée aux infiltrations. Noue ouverte en zinc recommandée, feuille dans l'angle, tuiles coupées en biais des deux côtés.</li>
                     <li><strong>Arêtiers :</strong> tuiles d'arêtier spéciales à sec, ou traitement au mortier. Même principe que le faîtage.</li>
                     <li><strong>Pignons :</strong> solin de rive métallique ou tuile de rive spéciale. Pas d'espace ouvert, pas de mousse expansive.</li>
                 </ul>
 
                 <!-- ═══ ÉTAPE 10 ═══ -->
-                <h2 id="etape-10">Étape 10 — Poser les faîtières et fermer le faîtage</h2>
+                <h2 id="etape-10">Étape 10, Poser les faîtières et fermer le faîtage</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/comment-faire-un-toit-en-tuile-12.webp" alt="Pose des faîtières sur le faîtage avec closoir de ventilation aluminium" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -370,7 +370,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <ul class="custom-list">
                     <li><strong>Closoir mécanique (recommandé) :</strong> posez le closoir sur les tuiles de part et d'autre du faîte, fixez les faîtières par crochet ou vis à tête colorée. Ventilation garantie, pas de mortier à reprendre.</li>
-                    <li><strong>Mortier (méthode traditionnelle) :</strong> scellement au mortier bâtard chaux-ciment. À inspecter tous les 10-15 ans — fissure avec les cycles gel-dégel. Notre guide sur le <a href="<?php echo BASE_URL; ?>faitage" style="text-decoration: underline;"><strong>faîtage</strong></a> détaille les points de vigilance.</li>
+                    <li><strong>Mortier (méthode traditionnelle) :</strong> scellement au mortier bâtard chaux-ciment. À inspecter tous les 10-15 ans, fissure avec les cycles gel-dégel. Notre guide sur le <a href="<?php echo BASE_URL; ?>faitage" style="text-decoration: underline;"><strong>faîtage</strong></a> détaille les points de vigilance.</li>
                 </ul>
 
                 <p>Commencez par la faîtière d'about (bout de faîtage côté pignon) après préperçage. En zone très exposée : combinez crochets et vis.</p>
@@ -406,7 +406,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>En rénovation : remplacez ces éléments même si les tuiles sont encore bonnes. Si la couverture est trop dégradée pour une réfection partielle, un <a href="<?php echo BASE_URL; ?>changement-de-couverture" style="text-decoration: underline;"><strong>changement de couverture</strong></a> complet sera plus rentable à long terme.</p>
 
                 <!-- ═══ FAQ ═══ -->
-                <h2 id="faq">FAQ — Questions fréquentes</h2>
+                <h2 id="faq">FAQ, Questions fréquentes</h2>
 
                 <h3>Quelle est la pente minimale pour un toit en tuile ?</h3>
                 <p>17° pour une tuile à emboîtement, 25-30° pour une tuile canal, 45° pour une tuile plate. En dessous : étanchéité non garantie, DTU non respecté.</p>
@@ -424,7 +424,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>DTU 40.21 (emboîtement), DTU 40.22 (canal), DTU 40.211 (plate terre cuite). Publiés par le CSTB.</p>
 
                 <h3>Quelle est la durée de vie d'une toiture en tuile terre cuite ?</h3>
-                <p>50 à 100 ans pour la tuile. Les accessoires (liteaux, closoirs, mortier) ont une durée de vie plus courte — à remplacer à chaque rénovation complète.</p>
+                <p>50 à 100 ans pour la tuile. Les accessoires (liteaux, closoirs, mortier) ont une durée de vie plus courte, à remplacer à chaque rénovation complète.</p>
 
             </div><!-- /.article-content -->
 
@@ -470,7 +470,7 @@ include dirname(__DIR__) . '/header.php';
             <div class="sidebar-sticky">
 
                 <div class="sidebar-block">
-                    <h3 class="sidebar-title">Derniers articles — <?php echo htmlspecialchars($category['name'] ?? 'Rénovation'); ?></h3>
+                    <h3 class="sidebar-title">Derniers articles, <?php echo htmlspecialchars($category['name'] ?? 'Rénovation'); ?></h3>
                     <?php foreach ($cat_articles as $art): ?>
                         <a href="<?php echo $art['url'] ?? '#'; ?>" class="sidebar-article-card">
                             <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
