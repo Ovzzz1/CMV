@@ -1,14 +1,14 @@
 <?php
 /**
  * index.php
- * Main homepage for Expert Renov' blog.
+ * Main homepage for Les Experts Renov' blog.
  * Dynamically renders all sections using functions.php helpers.
  */
 require_once 'functions.php';
 
 // Page meta
-$page_title = "Expert Renov' : Le Blog Travaux, Réno, Maison & Immo";
-$page_description = "Expert Renov' : votre référence en rénovation, immobilier, maison et travaux. Guides, conseils d'experts et inspirations pour sublimer votre habitat.";
+$page_title = "Les Experts Renov' : Le Blog Travaux, Réno, Maison & Immo";
+$page_description = "Les Experts Renov' : votre référence en rénovation, immobilier, maison et travaux. Guides, conseils d'experts et inspirations pour sublimer votre habitat.";
 
 // Fetch data
 $latest_articles = get_latest_articles(15);
@@ -46,7 +46,7 @@ endif; ?>
 
 <!-- 12 DERNIERS ARTICLES (Quick Grid) -->
 <section class="quick-latest">
-    <h2>À la une sur Expert Renov'</h2>
+    <h2>À la une sur Les Experts Renov'</h2>
     <div class="quick-grid">
         <?php foreach ($latest_articles as $article): ?>
             <?php echo render_quick_card($article); ?>
