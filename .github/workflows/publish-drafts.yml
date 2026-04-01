@@ -1,0 +1,45 @@
+name: Publish Drafts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # toutes les heures
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Publier les articles planifiés
+        run: |
+          NOW=$(date -u +"%Y-%m-%d %H:%M")
+          PUBLISHED=0
+
+          for FILE in drafts/*.php; do
+            [ -f "$FILE" ] || continue
+
+            PUB_DATE=$(grep -o 'published: [0-9-]* [0-9:]*' "$FILE" | head -1 | sed 's/published: //')
+            [ -z "$PUB_DATE" ] && continue
+
+            if [[ "$PUB_DATE" <= "$NOW" ]]; then
+              SLUG=$(basename "$FILE")
+              echo "Publication de $SLUG (planifié: $PUB_DATE)"
+              mv "$FILE" "blog/$SLUG"
+              PUBLISHED=1
+            fi
+          done
+
+          if [ "$PUBLISHED" -eq 1 ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "publish: articles planifiés du $(date +%Y-%m-%d)"
+            git push
+          else
+            echo "Aucun article à publier"
+          fi
