@@ -7,7 +7,6 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Articles de blog -->
   <url>
     <loc>https://www.cemarenov.fr/abergement-de-cheminee</loc>
     <priority>0.8</priority>
@@ -42,6 +41,10 @@
   </url>
   <url>
     <loc>https://www.cemarenov.fr/comment-bacher-toit</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.cemarenov.fr/comment-faire-un-toit-en-tuile</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -198,6 +201,14 @@
   </url>
   <url>
     <loc>https://www.cemarenov.fr/se-debarrasser-des-fouines</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.cemarenov.fr/toiture-amiante</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.cemarenov.fr/toiture-commune-sans-copropriete</loc>
     <priority>0.8</priority>
   </url>
   <url>
