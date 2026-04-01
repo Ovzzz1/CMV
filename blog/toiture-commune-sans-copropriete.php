@@ -7,7 +7,7 @@
 $article_meta = [
     'title'        => 'Toiture Commune Sans Copropriété : Droits, Frais et Travaux',
     'category'     => 'immobilier',
-    'image'        => BASE_URL . 'image/toiture-commune-sans-copropriete1.webp',
+    'image'        => '/image/toiture-commune-sans-copropriete1.webp',
     'excerpt'      => 'Sans syndic ni règlement de copropriété, gérer un toit partagé peut vite tourner au casse-tête. Pourtant, le Code civil fixe des règles claires sur qui paie quoi — et comment forcer un voisin récalcitrant à assumer sa part.',
     'date'         => '2026-03-31',
     'reading_time' => 9,
