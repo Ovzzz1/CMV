@@ -1,0 +1,39 @@
+name: Update Sitemap
+
+on:
+  push:
+    paths:
+      - 'blog/*.php'
+
+permissions:
+  contents: write
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Add new URLs to sitemap
+        run: |
+          NEW_FILES=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- 'blog/*.php')
+          for FILE in $NEW_FILES; do
+            SLUG=$(basename "$FILE" .php)
+            URL="https://www.cemarenov.fr/${SLUG}"
+            if ! grep -q "$URL" sitemap.xml; then
+              echo "Ajout de $URL"
+              NEW_ENTRY="  <url>\n    <loc>${URL}</loc>\n    <priority>0.8</priority>\n  </url>"
+              sed -i "s|</urlset>|${NEW_ENTRY}\n</urlset>|" sitemap.xml
+            fi
+          done
+
+      - name: Commit updated sitemap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git diff --cached --quiet || git commit -m "sitemap: ajout auto URL"
+          git push
