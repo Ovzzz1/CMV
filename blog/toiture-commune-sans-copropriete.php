@@ -53,10 +53,10 @@ include dirname(__DIR__) . '/header.php';
             </nav>
 
             <div class="article-tags">
-                <span class="article-tag">Toiture</span>
-                <span class="article-tag">Indivision</span>
-                <span class="article-tag">Travaux</span>
-                <span class="article-tag">Droit Civil</span>
+                <span class="article-tag">#Toiture</span>
+                <span class="article-tag">#Indivision</span>
+                <span class="article-tag">#Travaux</span>
+                <span class="article-tag">#DroitCivil</span>
             </div>
 
             <h1>Toiture Commune Sans Copropriété : Droits, Frais & Travaux</h1>
@@ -189,9 +189,133 @@ include dirname(__DIR__) . '/header.php';
                     </table>
                 </div>
 
-                <img src="/Image/toiture-commune-sans-copropriete2.webp" alt="Schéma de répartition des frais de toiture entre deux propriétaires au prorata de la surface" loading="lazy">
-                <p class="img-caption">La répartition se fait au prorata de la surface, pas automatiquement à 50/50 comme beaucoup le croient.</p>
+                <style>
+                .schema-repartition {
+                    background: #f8fafc;
+                    border: 1px solid #e2e8f0;
+                    border-radius: 12px;
+                    padding: 24px;
+                    margin: 30px 0;
+                    font-family: system-ui, -apple-system, sans-serif;
+                    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+                }
+                .schema-header {
+                    text-align: center;
+                    margin-bottom: 24px;
+                }
+                .schema-total-badge {
+                    display: inline-block;
+                    background: #1e293b;
+                    color: white;
+                    padding: 8px 16px;
+                    border-radius: 20px;
+                    font-weight: 600;
+                    font-size: 1.1em;
+                    margin-bottom: 8px;
+                }
+                .schema-bar-container {
+                    display: flex;
+                    height: 28px;
+                    border-radius: 14px;
+                    overflow: hidden;
+                    margin-bottom: 24px;
+                    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+                }
+                .schema-bar-60 {
+                    width: 60%;
+                    background: #3b82f6;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    color: white;
+                    font-weight: bold;
+                    font-size: 0.9em;
+                }
+                .schema-bar-40 {
+                    width: 40%;
+                    background: #f59e0b;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    color: white;
+                    font-weight: bold;
+                    font-size: 0.9em;
+                }
+                .schema-details {
+                    display: flex;
+                    gap: 20px;
+                }
+                .schema-card {
+                    flex: 1;
+                    background: white;
+                    border-radius: 8px;
+                    padding: 16px;
+                    border-top: 4px solid;
+                    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+                }
+                .schema-card.voisin-a {
+                    border-color: #3b82f6;
+                }
+                .schema-card.voisin-b {
+                    border-color: #f59e0b;
+                }
+                .schema-card h4 {
+                    margin: 0 0 12px 0;
+                    font-size: 1.05em;
+                    color: #0f172a;
+                }
+                .schema-stat {
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 8px;
+                    font-size: 0.95em;
+                    color: #475569;
+                }
+                .schema-result {
+                    display: flex;
+                    justify-content: space-between;
+                    margin-top: 12px;
+                    padding-top: 12px;
+                    border-top: 1px dashed #cbd5e1;
+                    font-weight: 700;
+                    font-size: 1.1em;
+                    color: #0f172a;
+                }
+                @media (max-width: 600px) {
+                    .schema-details {
+                        flex-direction: column;
+                    }
+                }
+                </style>
 
+                <div class="schema-repartition">
+                    <div class="schema-header">
+                        <div class="schema-total-badge">Coût Total des Travaux : 15 000 €</div>
+                        <p style="margin: 0; color: #64748b; font-size: 0.9em;">Répartition calculée selon la surface sous toiture (100 m² au total)</p>
+                    </div>
+                    
+                    <div class="schema-bar-container">
+                        <div class="schema-bar-60">60%</div>
+                        <div class="schema-bar-40">40%</div>
+                    </div>
+
+                    <div class="schema-details">
+                        <div class="schema-card voisin-a">
+                            <h4>Voisin A (Maison Principale)</h4>
+                            <div class="schema-stat"><span>Surface :</span> <strong>60 m²</strong></div>
+                            <div class="schema-stat"><span>Quote-part légale :</span> <strong>60%</strong></div>
+                            <div class="schema-result"><span>Montant à régler :</span> <span style="color: #3b82f6;">9 000 €</span></div>
+                        </div>
+                        
+                        <div class="schema-card voisin-b">
+                            <h4>Voisin B (Extension)</h4>
+                            <div class="schema-stat"><span>Surface :</span> <strong>40 m²</strong></div>
+                            <div class="schema-stat"><span>Quote-part légale :</span> <strong>40%</strong></div>
+                            <div class="schema-result"><span>Montant à régler :</span> <span style="color: #f59e0b;">6 000 €</span></div>
+                        </div>
+                    </div>
+                </div>
+                <p class="img-caption">La répartition se fait au prorata de la surface, pas automatiquement à 50/50 comme beaucoup le croient.</p>
                 <h3>Règle de majorité : unanimité ou 2/3 des droits ?</h3>
                 <p>Il y a une nuance de taille introduite par <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378" rel="nofollow" target="_blank">l'article 815-3 du Code civil</a>. Pour des actes d'administration simples (entretien courant, remplacement régulier de tuiles cassées, nettoyage de la gouttière), l'accord des propriétaires détenant au moins les 2/3 des droits indivis suffit. Par contre, pour un changement complet de la toiture, une modification de sa forme ou la vente du bâti, l'unanimité de tous les propriétaires est strictement obligatoire.</p>
 
@@ -259,10 +383,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Mon assurance habitation couvre-t-elle les dégâts d'une toiture commune ?</h3>
                 <p>Votre assurance multirisque habitation (MRH) couvre les dégâts des eaux <em>chez vous</em> causés par une fuite de toiture. En revanche, la responsabilité civile de votre voisin (s'il est propriétaire de la partie qui fuit) est couverte par sa propre MRH. Si la toiture est réellement commune (indivision), c'est souvent la garantie "recours entre voisins" des deux assureurs qui prend le relais. Déclarez le sinistre aux deux compagnies simultanément.</p>
 
-            </div><!-- .article-content -->
-
-            <!-- Author Box -->
-            <div class="author-box-bottom">
+            </div><div class="author-box-bottom">
                 <div class="author-box-img">
                     <img src="<?php echo BASE_URL; ?>image/phil.png" alt="Philippe">
                 </div>
@@ -274,7 +395,6 @@ include dirname(__DIR__) . '/header.php';
                 </div>
             </div>
 
-            <!-- Conclusion Box -->
             <div class="conclusion-box">
                 <h3>Protégez votre toit et vos droits</h3>
                 <p>Gérer une toiture partagée sans syndic, c'est gérable — à condition de connaître les textes et de ne jamais laisser traîner un désaccord. Identifiez votre régime juridique (indivision ou mitoyenneté), calculez votre quote-part au prorata de la surface, et mettez chaque accord par écrit avant de lancer les travaux. En cas de blocage persistant, le Code civil vous donne les outils pour agir.</p>
@@ -355,4 +475,3 @@ echo generate_article_schema($article_meta, $_schema['faq'] ?? [], $_schema['how
 echo generate_rating_widget();
 ?>
 <?php include dirname(__DIR__) . '/footer.php'; ?>
-
