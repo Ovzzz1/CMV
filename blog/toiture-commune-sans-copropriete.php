@@ -59,9 +59,7 @@ include dirname(__DIR__) . '/header.php';
                 <span class="article-tag">Droit Civil</span>
             </div>
 
-            <h1>Toiture Commune Sans Copropriété :<br>
-                <span class="h1-accent">Droits, Frais et Travaux — Guide Légal</span>
-            </h1>
+            <h1>Toiture Commune Sans Copropriété : Droits, Frais & Travaux</h1>
 
             <div class="article-meta-header" style="flex-wrap: wrap; gap: 15px;">
                 <a href="<?php echo BASE_URL; ?>philippe" class="author-badge-top">
