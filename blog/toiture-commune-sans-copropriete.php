@@ -7,7 +7,7 @@
 $article_meta = [
     'title'        => 'Toiture Commune Sans Copropriété : Droits, Frais et Travaux',
     'category'     => 'immobilier',
-    'image'        => '/Image/toiture-commune-sans-copropriete1.webp',
+    'image'        => BASE_URL . 'image/toiture-commune-sans-copropriete1.webp',
     'excerpt'      => 'Sans syndic ni règlement de copropriété, gérer un toit partagé peut vite tourner au casse-tête. Pourtant, le Code civil fixe des règles claires sur qui paie quoi — et comment forcer un voisin récalcitrant à assumer sa part.',
     'date'         => '2026-03-31',
     'reading_time' => 9,
@@ -134,7 +134,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Oubliez tout de suite le terme de "partie commune". Juridiquement, cette notion n'existe que pour les immeubles soumis à la loi de 1965 sur la copropriété. Si vous n'avez pas de syndic, votre toiture relève du droit civil classique. Il faut donc lire votre acte de vente chez le notaire pour identifier dans laquelle de ces trois cases vous vous trouvez.</p>
 
-                <img src="/Image/toiture-commune-sans-copropriete1.webp" alt="Vue d'une toiture commune partagée entre deux maisons mitoyennes" loading="lazy">
+                <img src="<?php echo BASE_URL; ?>image/toiture-commune-sans-copropriete1.webp" alt="Vue d'une toiture commune partagée entre deux maisons mitoyennes" loading="lazy">
                 <p class="img-caption">Une toiture commune sans syndic : un régime encadré par le Code civil, pas par la loi de 1965.</p>
 
                 <h3>L'indivision (la règle par défaut)</h3>
@@ -316,6 +316,7 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                 </div>
                 <p class="img-caption">La répartition se fait au prorata de la surface, pas automatiquement à 50/50 comme beaucoup le croient.</p>
+
                 <h3>Règle de majorité : unanimité ou 2/3 des droits ?</h3>
                 <p>Il y a une nuance de taille introduite par <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378" rel="nofollow" target="_blank">l'article 815-3 du Code civil</a>. Pour des actes d'administration simples (entretien courant, remplacement régulier de tuiles cassées, nettoyage de la gouttière), l'accord des propriétaires détenant au moins les 2/3 des droits indivis suffit. Par contre, pour un changement complet de la toiture, une modification de sa forme ou la vente du bâti, l'unanimité de tous les propriétaires est strictement obligatoire.</p>
 
@@ -326,7 +327,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>La convention écrite : le document indispensable</h3>
                 <p>Ne signez jamais le devis de l'entreprise avant d'avoir sécurisé le paiement avec vos voisins. Rédigez un document simple (la convention d'indivision temporaire) qui liste : l'entreprise retenue, la nature des travaux, la date prévue, et surtout la répartition financière au centime près. Chaque propriétaire doit la signer. C'est votre seule assurance si l'un d'eux refuse de payer sa part une fois les échafaudages montés.</p>
 
-                <img src="/Image/toiture-commune-sans-copropriete3.webp" alt="Signature d'une convention écrite entre voisins avant des travaux de toiture commune" loading="lazy">
+                <img src="<?php echo BASE_URL; ?>image/toiture-commune-sans-copropriete3.webp" alt="Signature d'une convention écrite entre voisins avant des travaux de toiture commune" loading="lazy">
                 <p class="img-caption">Une convention écrite signée avant les travaux est la seule vraie protection contre les impayés.</p>
 
                 <h2 id="etapes">Les 5 étapes pour organiser des travaux de toiture avec son voisin</h2>
@@ -362,7 +363,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Saisir le juge pour forcer les travaux (Article 815-5)</h3>
                 <p>Si le voisin s'entête et que son refus d'agir met en péril la toiture et la structure de l'immeuble, le dernier recours est juridique. Vous pouvez saisir le tribunal judiciaire en vous appuyant sur <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433219" rel="nofollow" target="_blank">l'article 815-5 du Code civil</a>. Le juge pourra vous autoriser à réaliser les travaux malgré le blocage de l'autre propriétaire, et ce dernier sera condamné à payer sa part.</p>
 
-                <img src="/Image/toiture-commune-sans-copropriete4.webp" alt="Infiltration d'eau dans un plafond suite à un défaut de toiture commune non entretenue" loading="lazy">
+                <img src="<?php echo BASE_URL; ?>image/toiture-commune-sans-copropriete4.webp" alt="Infiltration d'eau dans un plafond suite à un défaut de toiture commune non entretenue" loading="lazy">
                 <p class="img-caption">Une fuite non traitée engage la responsabilité civile du propriétaire qui bloque les réparations.</p>
 
                 <h2 id="transformation">Transformer sa toiture commune (Velux, surélévation, solaire)</h2>
