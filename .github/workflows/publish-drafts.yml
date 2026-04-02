@@ -26,7 +26,7 @@ jobs:
             PUB_DATE=$(grep -o 'published: [0-9-]* [0-9:]*' "$FILE" | head -1 | sed 's/published: //')
             [ -z "$PUB_DATE" ] && continue
 
-            if [[ "$PUB_DATE" <= "$NOW" ]]; then
+            if [[ "$PUB_DATE" < "$NOW" || "$PUB_DATE" == "$NOW" ]]; then
               SLUG=$(basename "$FILE")
               echo "Publication de $SLUG (planifié: $PUB_DATE)"
               mv "$FILE" "blog/$SLUG"
