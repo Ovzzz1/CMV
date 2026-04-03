@@ -425,7 +425,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="unites">Are, centiare, hectare : déchiffrer une surface foncière</h2>
 
-                <p>En France, les actes notariaux et les relevés cadastraux n'expriment pas toujours
+                <p>En France, les actes notariaux et les relevés raux n'expriment pas toujours
                     une superficie en mètres carrés. Ils utilisent le système agraire officiel avec
                     trois unités emboîtées que tout acheteur ou vendeur devrait savoir lire.</p>
 
@@ -478,11 +478,11 @@ include dirname(__DIR__) . '/header.php';
 
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="<?php echo BASE_URL; ?>image/3.webp"
-                        alt="Extrait d'un relevé cadastral avec la superficie exprimée en hectares, ares et centiares, avec annotations explicatives"
+                        src="<?php echo BASE_URL; ?>image/1 hectare en m2-3.webp"
+                        alt="Extrait d'un relevé ral avec la superficie exprimée en hectares, ares et centiares, avec annotations explicatives"
                         loading="lazy">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
-                        Sur un titre de propriété ou un relevé cadastral, la surface foncière
+                        Sur un titre de propriété ou un relevé ral, la surface foncière
                         s'exprime en ha / a / ca. Une simple multiplication suffit à tout convertir.
                     </figcaption>
                 </figure>
