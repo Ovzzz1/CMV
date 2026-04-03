@@ -7,25 +7,21 @@
  * Date : 2026-03-31
  */
 
-
 $article_meta = [
     'title'        => '1 hectare en m2 : convertisseur, formule et tableau de conversion',
     'category'     => 'maison',
     'slug'         => '1-hectare-en-m2',
-    'image'        => 'https://www.cemarenov.fr/image/1 hectare en m2.webp',
+    'image'        => 'https://www.cemarenov.fr/image/1 hectare en m2-1.webp',
     'excerpt'      => '1 hectare = 10 000 m². Convertisseur instantané hectares ↔ m², formule de calcul, tableau de conversion complet et repères concrets pour enfin visualiser ce que représente un hectare sur le terrain.',
     'date'         => '2026-04-03',
     'reading_time' => 5,
 ];
 
-
 // Bloc logique CMS, NE JAMAIS MODIFIER
 require_once dirname(__DIR__) . '/functions.php';
 
-
 $page_title       = $article_meta['title'];
 $page_description = $article_meta['excerpt'];
-
 
 // Current article category + self-exclusion filter
 $current_cat = $article_meta['category'];
@@ -36,7 +32,6 @@ $cat_articles = array_values(array_filter(get_category_articles($current_cat, 11
 $cat_articles = array_slice($cat_articles, 0, 10);
 $latest_articles = array_values(array_filter(get_latest_articles(11), fn($a) => ($a['url'] ?? '') !== $current_url));
 $latest_articles = array_slice($latest_articles, 0, 10);
-
 
 // Similar articles: pick 3 from category (excluding self)
 $current_title_words = array_map('mb_strtolower', explode(' ', $article_meta['title']));
@@ -50,14 +45,12 @@ foreach ($cat_articles as $art) {
 usort($similar_articles, function ($a, $b) { return $b['score'] - $a['score']; });
 $similar_articles = array_slice($similar_articles, 0, 3);
 
-
 // INCLUDE HEADER
 include dirname(__DIR__) . '/header.php';
 ?>
 
-
 <article>
-    <section class="article-hero" style="background-image: url('<?php echo BASE_URL; ?>image/1 hectare en m2.webp');">
+    <section class="article-hero" style="background-image: url('<?php echo BASE_URL; ?>image/1 hectare en m2-1.webp');">
         <div class="article-hero-content">
             <nav class="breadcrumb">
                 <a href="<?php echo BASE_URL; ?>">Accueil</a>
@@ -73,18 +66,15 @@ include dirname(__DIR__) . '/header.php';
                 <span>1 hectare en m2</span>
             </nav>
 
-
             <div class="article-tags">
                 <span class="article-tag">Superficie</span>
                 <span class="article-tag">Immobilier</span>
                 <span class="article-tag">Maison</span>
             </div>
 
-
             <h1>1 hectare en m2 :<br>
                 <span class="h1-accent">convertisseur, formule et tableau de conversion</span>
             </h1>
-
 
             <div class="article-meta-header" style="flex-wrap: wrap; gap: 15px;">
                 <div class="meta-item">
@@ -107,7 +97,6 @@ include dirname(__DIR__) . '/header.php';
         </div>
     </section>
 
-
     <div class="article-layout">
         <aside class="sidebar-left">
             <div class="sidebar-sticky">
@@ -121,9 +110,7 @@ include dirname(__DIR__) . '/header.php';
             </div>
         </aside>
 
-
         <div class="article-container">
-
 
             <p class="article-intro">
                 Vous avez reçu un compromis de vente, vous parcourez une annonce immobilière ou votre
@@ -135,9 +122,7 @@ include dirname(__DIR__) . '/header.php';
                 le terrain avant de signer quoi que ce soit.
             </p>
 
-
             <div class="article-content">
-
 
                 <div class="tldr-box">
                     <div class="tldr-header">
@@ -159,7 +144,6 @@ include dirname(__DIR__) . '/header.php';
                     </ul>
                 </div>
 
-
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
@@ -173,15 +157,10 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
 
-
-
-                <!-- ===== CONVERTISSEUR ===== -->
                 <h2 id="convertisseur">Convertisseur hectares ↔ mètres carrés</h2>
-
 
                 <p>Entrez une valeur dans l'un des deux champs. Le résultat et le détail du calcul
                     s'affichent instantanément.</p>
-
 
                 <div class="converter-block">
                     <div class="converter-grid">
@@ -222,17 +201,12 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                 </div>
 
-
                 <p><strong>Astuce mémo :</strong> pour passer des hectares aux m², ajoutez mentalement
                     4 zéros. 3 ha → 30 000 m². 0,5 ha → 5 000 m². Pour les valeurs entières,
                     pas besoin de calculatrice.</p>
 
 
-
-
-                <!-- ===== DÉFINITION ===== -->
                 <h2 id="definition">C'est quoi 1 hectare, concrètement ?</h2>
-
 
                 <p>L'<strong>hectare</strong> (symbole <strong>ha</strong>) est une unité de mesure de
                     superficie utilisée dans le système métrique. Son nom vient du grec
@@ -241,10 +215,9 @@ include dirname(__DIR__) . '/header.php';
                     par le Système international d'unités (SI) pour les usages fonciers et agricoles.
                 </p>
 
-
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="<?php echo BASE_URL; ?>image/1 hectare en m2.webp"
+                        src="<?php echo BASE_URL; ?>image/1 hectare en m2-2.webp"
                         alt="Schéma d'un carré de 100 m par 100 m représentant 1 hectare avec la conversion en 10 000 m²"
                         loading="eager">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -253,21 +226,16 @@ include dirname(__DIR__) . '/header.php';
                     </figcaption>
                 </figure>
 
-
                 <h3>Le carré de 100 m de côté</h3>
-
 
                 <p>Visualisez un carré dont chaque côté mesure exactement 100 mètres. Rien de plus.
                     100 × 100 = 10 000 m². C'est la définition exacte de l'hectare, et c'est le seul
                     repère à ancrer dans votre mémoire. Tout le reste en découle.</p>
 
-
                 <h3>Des repères concrets pour visualiser 1 ha</h3>
-
 
                 <p>Sur le terrain, 10 000 m² reste abstrait. Voici des comparaisons
                     plus parlantes :</p>
-
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -308,7 +276,6 @@ include dirname(__DIR__) . '/header.php';
                     </table>
                 </div>
 
-
                 <p>En immobilier, un terrain constructible de 1 ha est considéré comme grand.
                     Les PLU limitent généralement la surface minimale des lots à construire entre
                     200 m² et 2 000 m² selon la zone. 1 ha vous laisse en théorie largement de quoi
@@ -320,22 +287,15 @@ include dirname(__DIR__) . '/header.php';
                     pour estimer vos besoins.</p>
 
 
-
-
-                <!-- ===== FORMULE ===== -->
                 <h2 id="formule">Comment convertir des hectares en m² ? La formule</h2>
-
 
                 <h3>Ha → m² : multipliez par 10 000</h3>
 
-
                 <p>La formule est l'une des plus simples du système métrique :</p>
-
 
                 <div class="formula-highlight">
                     <strong>m² = ha × 10 000</strong>
                 </div>
-
 
                 <p>Exemples de calcul :</p>
                 <ul class="custom-list">
@@ -345,17 +305,13 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>12,75 ha</strong> × 10 000 = <strong>127 500 m²</strong></li>
                 </ul>
 
-
                 <h3>M² → ha : divisez par 10 000</h3>
 
-
                 <p>Le calcul inverse est tout aussi immédiat :</p>
-
 
                 <div class="formula-highlight">
                     <strong>ha = m² ÷ 10 000</strong>
                 </div>
-
 
                 <ul class="custom-list">
                     <li><strong>25 000 m²</strong> ÷ 10 000 = <strong>2,5 ha</strong></li>
@@ -363,21 +319,15 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>100 000 m²</strong> ÷ 10 000 = <strong>10 ha</strong></li>
                 </ul>
 
-
                 <p>Pour les valeurs décimales, déplacez simplement la virgule de 4 rangs vers la droite
                     (ha → m²) ou vers la gauche (m² → ha). 0,3 ha → 3 000 m².
                     3 000 m² → 0,3 ha.</p>
 
 
-
-
-                <!-- ===== TABLEAU ===== -->
                 <h2 id="tableau">Tableau de conversion hectares en m²</h2>
-
 
                 <p>Les valeurs les plus demandées en immobilier, urbanisme et agriculture.
                     La ligne surlignée est la valeur de référence.</p>
-
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -473,19 +423,13 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
 
-
-
-                <!-- ===== ARE / CENTIARE / ACTE ===== -->
                 <h2 id="unites">Are, centiare, hectare : déchiffrer une surface foncière</h2>
-
 
                 <p>En France, les actes notariaux et les relevés cadastraux n'expriment pas toujours
                     une superficie en mètres carrés. Ils utilisent le système agraire officiel avec
                     trois unités emboîtées que tout acheteur ou vendeur devrait savoir lire.</p>
 
-
                 <h3>La hiérarchie complète des unités agraires</h3>
-
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -526,18 +470,15 @@ include dirname(__DIR__) . '/header.php';
                     </table>
                 </div>
 
-
                 <h3>Comment lire "2 ha 14 a 30 ca" dans un acte notarié</h3>
-
 
                 <p>La superficie d'un terrain s'écrit souvent <strong>X ha Y a Z ca</strong> dans
                     les documents officiels. Le calcul en m² est mécanique : on convertit chaque
                     unité séparément, puis on additionne.</p>
 
-
                 <figure>
                     <img style="width:100%; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,.05);"
-                        src="<?php echo BASE_URL; ?>image/1 hectare en m2 2.webp"
+                        src="<?php echo BASE_URL; ?>image/3.webp"
                         alt="Extrait d'un relevé cadastral avec la superficie exprimée en hectares, ares et centiares, avec annotations explicatives"
                         loading="lazy">
                     <figcaption style="text-align:center; font-size:.9rem; color:#64748b; font-style:italic;">
@@ -546,7 +487,6 @@ include dirname(__DIR__) . '/header.php';
                     </figcaption>
                 </figure>
 
-
                 <p><strong>Exemple :</strong> terrain de 2 ha 14 a 30 ca :</p>
                 <ul class="custom-list">
                     <li>2 ha × 10 000 = <strong>20 000 m²</strong></li>
@@ -554,7 +494,6 @@ include dirname(__DIR__) . '/header.php';
                     <li>30 ca × 1 = <strong>30 m²</strong></li>
                     <li>Total : <strong>21 430 m²</strong></li>
                 </ul>
-
 
                 <p>Si votre projet implique des travaux de rénovation, d'assainissement ou
                     d'aménagement sur une propriété de cette taille, les
@@ -565,17 +504,12 @@ include dirname(__DIR__) . '/header.php';
                     tout démarrage de chantier.</p>
 
 
-
-
-                <!-- ===== FAQ ===== -->
                 <h2 id="faq">FAQ : les questions les plus posées sur l'hectare</h2>
-
 
                 <h3>Combien de m² dans 1 hectare ?</h3>
                 <p><strong>1 hectare = 10 000 m²</strong>, exactement. C'est la surface d'un carré
                     de 100 m de côté. Cette valeur est fixe, définie par le système métrique
                     international, sans arrondi possible.</p>
-
 
                 <h3>Combien d'ares dans 1 hectare ?</h3>
                 <p><strong>1 hectare = 100 ares.</strong> L'are (symbole : a) vaut 100 m². On trouve
@@ -583,12 +517,10 @@ include dirname(__DIR__) . '/header.php';
                     7 500 m² — un terrain standard pour une maison individuelle en périphérie
                     de ville.</p>
 
-
                 <h3>Combien d'hectares dans 1 km² ?</h3>
                 <p><strong>1 km² = 100 hectares.</strong> Un kilomètre carré représente
                     1 000 × 1 000 = 1 000 000 m², soit 100 ha exactement.
                     Inversement, 1 ha = 0,01 km².</p>
-
 
                 <h3>C'est grand, 1 hectare ?</h3>
                 <p>Tout dépend du contexte. Pour un jardin privatif, c'est
@@ -598,14 +530,12 @@ include dirname(__DIR__) . '/header.php';
                     à 50 ha. Pour un domaine viticole ou une forêt en gestion, 1 ha est
                     un début. Repère rapide : <strong>1 ha ≈ 1,4 terrain de football.</strong></p>
 
-
                 <h3>Qu'est-ce qu'un mètre carré (m²) ?</h3>
                 <p>Le <strong>mètre carré</strong> est l'unité de base de la superficie dans le
                     Système international d'unités. Il correspond à la surface d'un carré de
                     1 m de côté. C'est l'unité de référence en France pour la surface habitable
                     d'un logement et les surfaces de terrain. L'hectare vaut simplement
                     10 000 fois cette unité.</p>
-
 
                 <h3>Qu'est-ce qu'un hectare (ha) ?</h3>
                 <p>L'hectare est une unité de mesure de superficie utilisée principalement en
@@ -615,7 +545,6 @@ include dirname(__DIR__) . '/header.php';
                     mais son usage est reconnu et accepté avec lui pour les surfaces
                     foncières.</p>
 
-
                 <h3>Comment calculer la surface d'un terrain ?</h3>
                 <p>Pour un terrain rectangulaire : longueur × largeur = m². Pour une parcelle
                     irrégulière, le géomètre-expert découpe la surface en formes géométriques
@@ -624,11 +553,7 @@ include dirname(__DIR__) . '/header.php';
                     qui fait foi lors d'une transaction immobilière, pas un mesurage à la
                     ficelle.</p>
 
-
-            </div><!-- .article-content -->
-
-
-            <div class="conclusion-box">
+            </div><div class="conclusion-box">
                 <h3>Le mot de la fin</h3>
                 <p>1 hectare = 10 000 m², et cette seule équation suffit pour 90 % des situations
                     du quotidien. Ce qui change la donne, c'est de savoir la décliner : lire un acte
@@ -638,7 +563,6 @@ include dirname(__DIR__) . '/header.php';
                     pour vous accompagner.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un devis gratuit</a>
             </div>
-
 
             <section class="similar-articles">
                 <h3 class="similar-title">Articles similaires</h3>
@@ -655,11 +579,7 @@ include dirname(__DIR__) . '/header.php';
                 </div>
             </section>
 
-
-        </div><!-- .article-container -->
-
-
-        <aside class="sidebar-right">
+        </div><aside class="sidebar-right">
             <div class="sidebar-sticky">
                 <div class="sidebar-block">
                     <h3 class="sidebar-title">Derniers articles,
@@ -672,7 +592,6 @@ include dirname(__DIR__) . '/header.php';
                         </a>
                     <?php endforeach; ?>
                 </div>
-
 
                 <div class="sidebar-block">
                     <h3 class="sidebar-title">Les plus récents</h3>
@@ -687,14 +606,8 @@ include dirname(__DIR__) . '/header.php';
             </div>
         </aside>
 
+    </div></article>
 
-    </div><!-- .article-layout -->
-</article>
-
-
-
-
-<!-- ===== STYLES SPÉCIFIQUES ===== -->
 <style>
 /* --- Convertisseur --- */
 .converter-block {
@@ -821,10 +734,6 @@ include dirname(__DIR__) . '/header.php';
 }
 </style>
 
-
-
-
-<!-- ===== SCRIPT CONVERTISSEUR ===== -->
 <script>
 (function () {
     var ha  = document.getElementById('conv-ha');
@@ -834,13 +743,11 @@ include dirname(__DIR__) . '/header.php';
     var formulaLine = document.getElementById('conv-formula-line');
     var formulaText = document.getElementById('conv-formula-text');
 
-
     function fmt(n) {
         if (n === 0) return '0';
         if (n >= 1000) return new Intl.NumberFormat('fr-FR').format(Math.round(n * 1000000) / 1000000);
         return parseFloat(n.toFixed(8)).toString().replace('.', ',');
     }
-
 
     ha.addEventListener('input', function () {
         var v = parseFloat(ha.value);
@@ -857,7 +764,6 @@ include dirname(__DIR__) . '/header.php';
             formulaLine.style.display = 'none';
         }
     });
-
 
     m2.addEventListener('input', function () {
         var v = parseFloat(m2.value);
@@ -877,7 +783,6 @@ include dirname(__DIR__) . '/header.php';
 })();
 </script>
 
-
 <?php
 // Schema.org, NE JAMAIS MODIFIER
 require_once dirname(__DIR__) . '/schema-data.php';
@@ -886,6 +791,3 @@ echo generate_article_schema($article_meta, $_schema['faq'] ?? [], $_schema['how
 echo generate_rating_widget();
 include dirname(__DIR__) . '/footer.php';
 ?>
-
-
-
