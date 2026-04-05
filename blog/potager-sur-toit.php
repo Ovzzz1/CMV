@@ -4,13 +4,13 @@
  * potager-sur-toit.php
  * Article : Comment faire un potager sur le toit : le guide pas-à-pas anti-galères
  * Site : Expert Renov' (cemarenov.fr)
- * Date : 2026-03-31
+ * Date : 2026-04-05
  */
 
 
 $article_meta = [
     'title'        => 'Comment faire un potager sur le toit : le guide pas-à-pas',
-    'category'     => 'amenagement-exterieur',
+    'category'     => 'maison',
     'slug'         => 'potager-sur-toit',
     'image'        => 'https://www.cemarenov.fr/image/potager-sur-toit-1.webp',
     'excerpt'      => 'Transformer votre toit en potager urbain ? Découvrez notre guide pas-à-pas pour vérifier la portance, choisir les bons bacs, et anticiper les galères liées à la météo et aux nuisibles.',
@@ -93,9 +93,7 @@ include dirname(__DIR__) . '/header.php';
             </div>
 
 
-            <h1>💥Comment faire un potager sur le toit :<br>
-                <span class="h1-accent">le guide pas-à-pas anti-galères</span>
-            </h1>
+            <h1>Comment faire un potager sur le toit : je vous guide !</h1>
 
 
             <div class="article-meta-header" style="flex-wrap: wrap; gap: 15px;">
