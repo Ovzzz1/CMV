@@ -43,5 +43,6 @@
             &copy; <?php echo date('Y'); ?> Expert Renov' - L'expertise, l'immobilier, la maison et vos travaux.
         </div>
     </footer>
+    <script src="<?php echo BASE_URL; ?>yt-facade.js" defer></script>
 </body>
 </html>
