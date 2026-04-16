@@ -136,7 +136,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                On commet souvent l'erreur de penser qu'un muret de 60 cm peut se contenter d'une simple rigole de béton. Pourtant, cette dimension constitue une zone charnière en maçonnerie paysagère : elle subit des contraintes mécaniques invisibles mais redoutables. Ce guide vous donne toutes les clés pour réaliser une <span class="hashtag">#fondation</span> dans les règles de l'art — de l'analyse du sol au premier rang de parpaings.
+                On commet souvent l'erreur de penser qu'un muret de 60 cm peut se contenter d'une simple rigole de béton. Pourtant, cette dimension constitue une zone charnière en maçonnerie paysagère : elle subit des contraintes mécaniques invisibles mais redoutables. Ce guide vous donne toutes les clés pour réaliser une une fondation dans les règles de l'art — de l'analyse du sol au premier rang de parpaings.
             </p>
 
             <div class="article-content">
@@ -181,7 +181,7 @@ include dirname(__DIR__) . '/header.php';
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
                 <h3>La physique du muret : poids propre vs poussée latérale</h3>
-                <p>Si votre muret délimite simplement un jardin, il subit principalement la prise au vent. En revanche, s'il sert de jardinière ou de soutènement léger, la terre humide exerce une <span class="hashtag">#pression-latérale</span> constante qui cherche à faire pivoter le mur sur sa base. La fondation doit agir comme un contrepoids, suffisamment large pour stabiliser cet effet de levier.</p>
+                <p>Si votre muret délimite simplement un jardin, il subit principalement la prise au vent. En revanche, s'il sert de jardinière ou de soutènement léger, la terre humide exerce une pression latérale constante qui cherche à faire pivoter le mur sur sa base. La fondation doit agir comme un contrepoids, suffisamment large pour stabiliser cet effet de levier.</p>
 
                 <h3>Les risques de fissures : basculement et déchaussement</h3>
                 <p>Sans une base rigide, les micro-mouvements du terrain provoquent des tensions que le mortier — très rigide — ne peut compenser. Des fissures verticales se forment, souvent au niveau des angles. Sur le terrain, le déchaussement du premier rang de parpaings est la cause n°1 de sinistre lorsque la semelle a été coulée trop superficiellement.</p>
@@ -194,7 +194,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Avant de creuser, une observation attentive du sol s'impose : un terrain rocheux ne se traite pas comme une poche d'argile.</p>
 
                 <h3>Identifier votre type de sol : le risque RGA</h3>
-                <p>Le risque de <span class="hashtag">#Retrait-Gonflement-des-Argiles</span> (RGA) est le fléau des maçonneries légères. Ce sol agit comme une éponge : il gonfle quand il pleut et se rétracte en été. Vous pouvez anticiper ce comportement en vérifiant la nature de votre parcelle sur le site officiel <a href="https://www.georisques.gouv.fr/mes-risques/retrait-gonflement-des-argiles" rel="nofollow" target="_blank">Géorisques</a>.</p>
+                <p>Le risque de Retrait-Gonflement des Argiles (RGA) est le fléau des maçonneries légères. Ce sol agit comme une éponge : il gonfle quand il pleut et se rétracte en été. Vous pouvez anticiper ce comportement en vérifiant la nature de votre parcelle sur le site officiel <a href="https://www.georisques.gouv.fr/mes-risques/retrait-gonflement-des-argiles" rel="nofollow" target="_blank">Géorisques</a>.</p>
 
                 <img src="<?php echo BASE_URL; ?>image/fondation-pour-muret-de-60-cm-de-hauteur-3.webp"
                      alt="Comparaison sol argileux malléable risque RGA versus sol graveleux stable"
@@ -211,9 +211,11 @@ include dirname(__DIR__) . '/header.php';
                     <h3>Vos guides complémentaires sur la maçonnerie</h3>
                     <p>Pour aller plus loin dans votre projet, retrouvez nos guides pratiques sur les ouvrages associés.</p>
                     <div class="guide-links-grid">
-                        <a href="<?php echo BASE_URL; ?>fondation-garage" class="guide-link-item">Fondation de garage</a>
-                        <a href="<?php echo BASE_URL; ?>semelle-beton" class="guide-link-item">Semelle béton armée</a>
-                        <a href="<?php echo BASE_URL; ?>parpaing-pose" class="guide-link-item">Poser des parpaings</a>
+                        <a href="<?php echo BASE_URL; ?>dosage-beton-fondation" class="guide-link-item">Dosage béton de fondation</a>
+                        <a href="<?php echo BASE_URL; ?>reprise-fondation-sous-oeuvre" class="guide-link-item">Reprise en sous-œuvre</a>
+                        <a href="<?php echo BASE_URL; ?>chainage-horizontal-mur-parpaing" class="guide-link-item">Chaînage horizontal parpaing</a>
+                        <a href="<?php echo BASE_URL; ?>rehausser-un-mur-en-parpaing-existant" class="guide-link-item">Rehausser un mur en parpaing</a>
+                        <a href="<?php echo BASE_URL; ?>traitement-humidite" class="guide-link-item">Traitement de l'humidité</a>
                     </div>
                 </div>
 
@@ -263,7 +265,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Le béton frais est très caustique (pH élevé). Un contact prolongé provoque des brûlures chimiques parfois indolores sur le moment, mais graves. Le port de <strong>gants en nitrile</strong> et de lunettes est obligatoire, surtout lors de l'utilisation d'une bétonnière où les projections sont fréquentes.</p>
 
                 <h3>Le choix du ferraillage : armatures HA</h3>
-                <p>Le béton seul ne résiste pas à la traction. Puisque le sol bouge, il faut armer la semelle avec des aciers <span class="hashtag">#Haute-Adhérence</span> (HA8 ou HA10). Sur le terrain, on privilégie les semelles symétriques (type S35) qui assurent une armature homogène sur toute la largeur de la tranchée.</p>
+                <p>Le béton seul ne résiste pas à la traction. Puisque le sol bouge, il faut armer la semelle avec des aciers Haute Adhérence (HA8 ou HA10). Sur le terrain, on privilégie les semelles symétriques (type S35) qui assurent une armature homogène sur toute la largeur de la tranchée.</p>
 
                 <blockquote class="article-blockquote">
                     <p>"Sur un sol argileux, j'ajoute systématiquement 10 cm de profondeur supplémentaires par rapport aux préconisations standard — c'est un investissement de rien du tout qui évite des reprises en sous-œuvre coûteuses cinq ans plus tard."</p>
@@ -302,7 +304,7 @@ include dirname(__DIR__) . '/header.php';
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
                 <h3>Proximité des arbres : la barrière anti-racines</h3>
-                <p>Si vous construisez près d'une haie, installez une <span class="hashtag">#barrière-anti-racines</span> en PEHD le long de votre fouille. Sans cette précaution, les racines soulèveront votre fondation en quelques années, rendant l'ouvrage irrécupérable.</p>
+                <p>Si vous construisez près d'une haie, installez une barrière anti-racines en PEHD le long de votre fouille. Sans cette précaution, les racines soulèveront votre fondation en quelques années, rendant l'ouvrage irrécupérable.</p>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
                     <ul class="custom-list" style="margin: 0;">
