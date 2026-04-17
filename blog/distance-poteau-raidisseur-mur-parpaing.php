@@ -11,7 +11,7 @@ $article_meta = [
     'title'        => 'Distance poteau raidisseur mur parpaing : Normes DTU et guide terrain',
     'category'     => 'travaux',
     'slug'         => 'distance-poteau-raidisseur-mur-parpaing',
-    'image'        => 'https://www.cemarenov.fr/image/distance-poteau-raidisseur-mur-parpaing-1.webp',
+    'image'        => 'https://www.cemarenov.fr/image/distance-poteau-raidisseur-mur-parpaing1.webp',
     'excerpt'      => 'Quelle distance entre deux poteaux raidisseurs dans un mur en parpaing ? Normes DTU 20.1, tableau selon épaisseur et hauteur, calcul du nombre de poteaux et secrets de mise en œuvre.',
     'date'         => '2026-04-17',
     'reading_time' => 7,
@@ -178,7 +178,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Si vous cherchez la règle d'or pour un mur de clôture standard, la voici : <strong>vous devez implanter un poteau raidisseur tous les 3 à 4 mètres maximum</strong>.</p>
                 <p>Cette distance de sécurité est dictée par la norme officielle <strong>NF DTU 20.1</strong> (Ouvrages en maçonnerie de petits éléments). Sur certains forums ou selon le guide CERIB, vous lirez parfois qu'il est possible d'espacer les poteaux jusqu'à 8 mètres. Attention : cette exception est <strong>uniquement tolérée après une étude structurelle complexe</strong> réalisée par un bureau d'études. Pour un particulier ou un artisan sécurisant son chantier, dépasser 4 mètres est un risque majeur de voir le mur se fissurer à la première tempête.</p>
 
-                <img src="<?php echo BASE_URL; ?>image/distance-poteau-raidisseur-mur-parpaing-2.webp"
+                <img src="<?php echo BASE_URL; ?>image/distance-poteau-raidisseur-mur-parpaing2.webp"
                      alt="Schéma technique entraxe poteaux raidisseurs mur parpaing 3 à 4 mètres"
                      loading="lazy"
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -241,7 +241,7 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>Le cas du portail :</strong> Un pilier de portail indépendant n'est pas un raidisseur de mur. Laissez un joint de dilatation entre le mur de clôture et le pilier du portail pour éviter que les vibrations ne fendent la maçonnerie.</li>
                 </ul>
 
-                <img src="<?php echo BASE_URL; ?>image/distance-poteau-raidisseur-mur-parpaing-3.webp"
+                <img src="<?php echo BASE_URL; ?>image/distance-poteau-raidisseur-mur-parpaing3.webp"
                      alt="Plan d'implantation stratégique des poteaux raidisseurs sur un mur de clôture en parpaing"
                      loading="lazy"
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -301,7 +301,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="ferraillage">Les secrets de mise en œuvre : Ferraillage et dosage du béton</h2>
                 <p>L'armature verticale (généralement un chaînage carré de 4 fers HA10) doit obligatoirement <strong>être liée aux fers d'attente</strong> laissés lors du coulage de la semelle. En haut du mur, ces fers verticaux viendront se ligaturer à l'armature horizontale. C'est pourquoi <a href="<?php echo BASE_URL; ?>chainage-horizontal-mur-parpaing">réaliser le chaînage horizontal du mur</a> est une étape indissociable de la pose de vos poteaux.</p>
 
-                <img src="<?php echo BASE_URL; ?>image/distance-poteau-raidisseur-mur-parpaing-4.webp"
+                <img src="<?php echo BASE_URL; ?>image/distance-poteau-raidisseur-mur-parpaing4.webp"
                      alt="Coupe technique de la liaison entre fers d'attente de fondation et raidisseur vertical en parpaing"
                      loading="lazy"
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
