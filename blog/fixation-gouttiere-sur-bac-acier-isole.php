@@ -9,7 +9,7 @@
 
 $article_meta = [
     'title'        => 'Fixation gouttière sur bac acier isolé : Guide de pose et crochets',
-    'category'     => 'toiture',
+    'category'     => 'maison',
     'slug'         => 'fixation-gouttiere-sur-bac-acier-isole',
     'image'        => 'https://www.cemarenov.fr/image/fixation-gouttiere-sur-bac-acier-isole-1.webp',
     'excerpt'      => 'Comment fixer une gouttière sur un panneau sandwich sans écraser l\'isolant ? Choix des crochets, perçage sur nervure, joints EPDM et calcul du nombre de fixations : le guide terrain complet.',
