@@ -42,8 +42,7 @@ foreach ($cat_articles as $art) {
     $similar_articles[] = array_merge($art, ['score' => $common]);
 }
 usort($similar_articles, function ($a, $b) {
-    return $b['score'] - $a['score'];
-});
+    return $b['score'] - $a['score']; });
 $similar_articles = array_slice($similar_articles, 0, 3);
 // ── Fin bloc logique CMS ───────────────────────────────────────────────────
 
@@ -379,8 +378,7 @@ include dirname(__DIR__) . '/header.php';
                     l'alvéole sous l'effet de la pression. Privilégiez les <strong>chevilles à frapper</strong> ou les
                     <strong>chevilles rallongées à collerette</strong> : elles traversent le tasseau et s'ancrent dans
                     la partie pleine du bloc, garantissant une résistance à l'arrachement efficace face aux charges de
-                    vent.
-                </p>
+                    vent.</p>
 
                 <p><strong>Le collage est formellement exclu.</strong> Il ne permet pas de créer la lame d'air
                     indispensable à la pérennité du bois, et les mouvements hygrothermiques arracheraient rapidement les
@@ -414,8 +412,7 @@ include dirname(__DIR__) . '/header.php';
                     Pour un bardage posé <strong>verticalement</strong> (effet contemporain), il faut installer une
                     <strong>double ossature</strong> (contre-lattage croisé) afin de garantir que l'air circule de bas
                     en haut sans obstruction. Ne pas respecter cette règle annihile la ventilation et condamne le bois à
-                    moyen terme.
-                </p>
+                    moyen terme.</p>
 
                 <h2 id="pare-pluie">Étape 2 : installer le pare-pluie et créer la lame d'air</h2>
 
