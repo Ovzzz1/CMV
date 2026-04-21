@@ -300,4 +300,8 @@ h<?xml version="1.0" encoding="UTF-8"?>
     <loc>https://www.cemarenov.fr/potager-sur-toit</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.cemarenov.fr/bardage-bois-sur-mur-parpaing</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
