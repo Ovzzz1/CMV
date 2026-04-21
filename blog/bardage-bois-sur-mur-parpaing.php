@@ -1,10 +1,10 @@
 <?php
-// published: 2025-04-21 08:00
+// published: 2026-04-21 08:00
 /**
  * bardage-bois-sur-mur-parpaing.php
  * Article : Bardage bois sur mur parpaing : le guide technique (DTU 41.2 & Pose)
  * Site : cemarenov.fr
- * Date : 2025-04-21
+ * Date : 2026-04-21
  */
 
 $article_meta = [
