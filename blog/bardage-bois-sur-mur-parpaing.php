@@ -1,10 +1,10 @@
 <?php
-// published: 2025-04-21 08:00
+// published: 2026-04-21 08:00
 /**
  * bardage-bois-sur-mur-parpaing.php
  * Article : Bardage bois sur mur parpaing : le guide technique (DTU 41.2 & Pose)
  * Site : cemarenov.fr
- * Date : 2025-04-21
+ * Date : 2026-04-21
  */
 
 $article_meta = [
@@ -13,7 +13,7 @@ $article_meta = [
     'slug' => 'bardage-bois-sur-mur-parpaing',
     'image' => 'https://www.cemarenov.fr/image/bardage-bois-sur-mur-parpaing-1.webp',
     'excerpt' => 'Comment poser un bardage bois sur un mur en parpaing : fixations, ossature, lame d\'air et essences recommandées. Guide complet conforme DTU 41.2.',
-    'date' => '2025-04-21',
+    'date' => '2026-04-21',
     'reading_time' => 9,
 ];
 
@@ -42,7 +42,8 @@ foreach ($cat_articles as $art) {
     $similar_articles[] = array_merge($art, ['score' => $common]);
 }
 usort($similar_articles, function ($a, $b) {
-    return $b['score'] - $a['score']; });
+    return $b['score'] - $a['score'];
+});
 $similar_articles = array_slice($similar_articles, 0, 3);
 // ── Fin bloc logique CMS ───────────────────────────────────────────────────
 
@@ -196,7 +197,9 @@ include dirname(__DIR__) . '/header.php';
                     stroke-linecap="round" stroke-linejoin="round">
                     <polyline points="9 18 15 12 9 6"></polyline>
                 </svg>
-                <a href="<?php echo BASE_URL . $current_cat; ?>"><?php echo htmlspecialchars($category['name']); ?></a>
+                <a href="<?php echo BASE_URL . $current_cat; ?>">
+                    <?php echo htmlspecialchars($category['name']); ?>
+                </a>
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
                     stroke-linecap="round" stroke-linejoin="round">
                     <polyline points="9 18 15 12 9 6"></polyline>
@@ -228,14 +231,16 @@ include dirname(__DIR__) . '/header.php';
                         <line x1="8" y1="2" x2="8" y2="6" />
                         <line x1="3" y1="10" x2="21" y2="10" />
                     </svg>
-                    Mis à jour le <?php echo format_date_fr($article_meta['date']); ?>
+                    Mis à jour le
+                    <?php echo format_date_fr($article_meta['date']); ?>
                 </div>
                 <div class="meta-item">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <circle cx="12" cy="12" r="10" />
                         <polyline points="12 6 12 12 16 14" />
                     </svg>
-                    Lecture : <?php echo $article_meta['reading_time']; ?> min
+                    Lecture :
+                    <?php echo $article_meta['reading_time']; ?> min
                 </div>
             </div>
 
@@ -250,7 +255,9 @@ include dirname(__DIR__) . '/header.php';
                 <?php foreach ($other_cats as $slug => $cat): ?>
                     <a href="<?php echo BASE_URL . $slug; ?>" class="sidebar-cat-card">
                         <img src="<?php echo $cat['image']; ?>" alt="<?php echo htmlspecialchars($cat['name']); ?>">
-                        <span class="sidebar-cat-name"><?php echo htmlspecialchars($cat['name']); ?></span>
+                        <span class="sidebar-cat-name">
+                            <?php echo htmlspecialchars($cat['name']); ?>
+                        </span>
                     </a>
                 <?php endforeach; ?>
             </div>
@@ -313,7 +320,7 @@ include dirname(__DIR__) . '/header.php';
                     que robuste, peut présenter des défauts de planéité qui se répercuteraient directement sur
                     l'alignement final du bois.</p>
 
-                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-2.webp"
+                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-1.webp"
                     alt="Artisan vérifiant la planéité d'un mur extérieur en parpaings avec une règle de maçon de 2 mètres et un niveau à bulle avant la pose d'une ossature bardage bois"
                     loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -364,7 +371,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Quelles chevilles choisir pour le parpaing creux ?</h3>
 
-                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-3.webp"
+                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-2.webp"
                     alt="Gros plan sur une cheville à frapper haute performance de 140 mm posée à côté d'une section de parpaing creux, illustrant l'ancrage dans la paroi alvéolaire"
                     loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -372,7 +379,8 @@ include dirname(__DIR__) . '/header.php';
                     l'alvéole sous l'effet de la pression. Privilégiez les <strong>chevilles à frapper</strong> ou les
                     <strong>chevilles rallongées à collerette</strong> : elles traversent le tasseau et s'ancrent dans
                     la partie pleine du bloc, garantissant une résistance à l'arrachement efficace face aux charges de
-                    vent.</p>
+                    vent.
+                </p>
 
                 <p><strong>Le collage est formellement exclu.</strong> Il ne permet pas de créer la lame d'air
                     indispensable à la pérennité du bois, et les mouvements hygrothermiques arracheraient rapidement les
@@ -385,7 +393,7 @@ include dirname(__DIR__) . '/header.php';
                     ménageant la circulation d'air derrière elles — condition sine qua non pour la durabilité du bois.
                 </p>
 
-                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-4.webp"
+                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-3.webp"
                     alt="Installation de tasseaux de bois verticaux sur un mur en parpaing brut avec un entraxe régulier de 60 cm, fixés par des chevilles mécaniques apparentes"
                     loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -406,14 +414,15 @@ include dirname(__DIR__) . '/header.php';
                     Pour un bardage posé <strong>verticalement</strong> (effet contemporain), il faut installer une
                     <strong>double ossature</strong> (contre-lattage croisé) afin de garantir que l'air circule de bas
                     en haut sans obstruction. Ne pas respecter cette règle annihile la ventilation et condamne le bois à
-                    moyen terme.</p>
+                    moyen terme.
+                </p>
 
                 <h2 id="pare-pluie">Étape 2 : installer le pare-pluie et créer la lame d'air</h2>
 
                 <p>Sur un mur en parpaing, la gestion de l'humidité est le facteur numéro un de réussite. Un mur humide
                     sous un bardage mal ventilé, c'est la garantie de moisissures en moins de cinq ans.</p>
 
-                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-5.webp"
+                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-4.webp"
                     alt="Bande d'étanchéité EPDM noire agrafée sur la face avant d'un tasseau vertical et grille anti-rongeur fixée en pied de mur parpaing avant la pose du bardage bois"
                     loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -432,7 +441,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Une fois l'ossature prête, la pose du bois peut commencer. C'est l'étape la plus visible — et celle
                     où les petits détails font toute la différence sur la longévité du résultat.</p>
 
-                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-6.webp"
+                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-5.webp"
                     alt="Zoom sur l'emboîtement de deux lames de bardage en bois de Douglas, languette vers le haut, avec fixation par pointe inox dans la rainure"
                     loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -449,7 +458,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Comment gérer les angles et les ouvertures ?</h3>
 
-                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-7.webp"
+                <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-6.webp"
                     alt="Profilé de finition en aluminium gris sur un angle sortant de maison assurant la jonction entre deux pans de bardage bois horizontaux"
                     loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
@@ -592,7 +601,9 @@ include dirname(__DIR__) . '/header.php';
                                 <img src="<?php echo $art['image']; ?>"
                                     alt="<?php echo htmlspecialchars($art['title']); ?>">
                             </div>
-                            <h4><?php echo htmlspecialchars($art['title']); ?></h4>
+                            <h4>
+                                <?php echo htmlspecialchars($art['title']); ?>
+                            </h4>
                         </a>
                     <?php endforeach; ?>
                 </div>
@@ -605,11 +616,14 @@ include dirname(__DIR__) . '/header.php';
 
                 <div class="sidebar-block">
                     <h3 class="sidebar-title">Derniers articles,
-                        <?php echo htmlspecialchars($category['name'] ?? ''); ?></h3>
+                        <?php echo htmlspecialchars($category['name'] ?? ''); ?>
+                    </h3>
                     <?php foreach ($cat_articles as $art): ?>
                         <a href="<?php echo $art['url'] ?? '#'; ?>" class="sidebar-article-card">
                             <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
-                            <span><?php echo htmlspecialchars($art['title']); ?></span>
+                            <span>
+                                <?php echo htmlspecialchars($art['title']); ?>
+                            </span>
                         </a>
                     <?php endforeach; ?>
                 </div>
@@ -619,7 +633,9 @@ include dirname(__DIR__) . '/header.php';
                     <?php foreach ($latest_articles as $art): ?>
                         <a href="<?php echo $art['url'] ?? '#'; ?>" class="sidebar-article-card">
                             <img src="<?php echo $art['image']; ?>" alt="<?php echo htmlspecialchars($art['title']); ?>">
-                            <span><?php echo htmlspecialchars($art['title']); ?></span>
+                            <span>
+                                <?php echo htmlspecialchars($art['title']); ?>
+                            </span>
                         </a>
                     <?php endforeach; ?>
                 </div>
