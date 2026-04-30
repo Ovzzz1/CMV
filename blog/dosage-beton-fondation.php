@@ -770,6 +770,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Quel coffrage utiliser pour couler mes fondations ?</h3>
                 <p>Pour les semelles filantes, le coffrage bois classique (planches de 27 mm maintenues par des étrésillons) reste la référence. Pour les fondations plus complexes ou les angles rentrants, les banches métal offrent une meilleure rectitude. Notre guide sur le <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les techniques de mise en œuvre, les types de parements et les erreurs de contreventement à éviter. Pour un muret de clôture ou de jardin, les dimensions et le ferraillage sont spécifiques — notre guide <a href="https://www.cemarenov.fr/fondation-pour-muret-de-60-cm-de-hauteur">fondation pour muret de 60 cm</a> couvre ces cas.</p>
 
+                <h3>Quels dosages pour les fondations d'un garage ?</h3>
+                <p>Un garage en parpaings nécessite des semelles filantes en C25/30 (350 kg/m³), identiques à celles d'une maison. Notre guide complet sur la <a href="https://www.cemarenov.fr/fondation-garage">fondation de garage</a> détaille les dimensions de tranchées, le ferraillage et les volumes à commander selon la surface du projet.</p>
+
                 <h3>Les dosages sont-ils les mêmes sur un terrain en pente ?</h3>
                 <p>Le dosage du béton lui-même ne change pas, mais les fondations sur terrain en pente nécessitent un découpage en plots horizontaux reliés par des longrines inclinées, avec des armatures d'attente à chaque niveau. Le risque de glissement impose souvent un béton légèrement plus riche (400 kg/m³). Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> couvre les techniques d'ancrage adaptées à chaque type de sol.</p>
 

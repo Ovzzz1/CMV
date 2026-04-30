@@ -183,6 +183,7 @@ include dirname(__DIR__) . '/header.php';
                     <p>Pour aller plus loin dans la préparation de votre projet de gros œuvre :</p>
                     <div class="guide-links-grid">
                         <a href="<?php echo BASE_URL; ?>dosage-beton-fondation" class="guide-link-item">Dosage béton de fondation</a>
+                        <a href="<?php echo BASE_URL; ?>fondation-garage" class="guide-link-item">Fondation de garage</a>
                         <a href="<?php echo BASE_URL; ?>reprise-fondation-sous-oeuvre" class="guide-link-item">Reprise en sous-œuvre</a>
                         <a href="<?php echo BASE_URL; ?>chainage-horizontal-mur-parpaing" class="guide-link-item">Chaînage horizontal parpaing</a>
                         <a href="<?php echo BASE_URL; ?>traitement-humidite" class="guide-link-item">Traitement de l'humidité</a>

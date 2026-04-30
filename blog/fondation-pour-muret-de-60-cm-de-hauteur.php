@@ -212,6 +212,7 @@ include dirname(__DIR__) . '/header.php';
                     <p>Pour aller plus loin dans votre projet, retrouvez nos guides pratiques sur les ouvrages associés.</p>
                     <div class="guide-links-grid">
                         <a href="<?php echo BASE_URL; ?>dosage-beton-fondation" class="guide-link-item">Dosage béton de fondation</a>
+                        <a href="<?php echo BASE_URL; ?>fondation-garage" class="guide-link-item">Fondation de garage</a>
                         <a href="<?php echo BASE_URL; ?>coffrage-pour-fondation" class="guide-link-item">Coffrage pour fondation</a>
                         <a href="<?php echo BASE_URL; ?>fondation-pour-terrain-en-pente" class="guide-link-item">Fondation sur terrain en pente</a>
                         <a href="<?php echo BASE_URL; ?>fondation-puits" class="guide-link-item">Puits de fondation</a>
