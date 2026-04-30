@@ -327,9 +327,7 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>Planéité du mur :</strong> Passez une règle de 2 mètres sur la surface. Un écart
                         supérieur à 5 mm doit être rectifié ou compensé lors de la pose de l'ossature via des cales de
                         réglage.</li>
-                    <li><strong>Étanchéité du support :</strong> Le mur doit être sain. Traces d'humidité importante ou
-                        remontées capillaires ? Traitez le problème à la source avant de "fermer" le mur derrière un
-                        bardage.</li>
+                    <li><strong>Étanchéité du support :</strong> Le mur doit être sain. Traces d'humidité ou remontées capillaires ? Consultez notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a> — traiter le problème à la source avant de fermer le mur derrière un bardage est impératif.</li>
                     <li><strong>Solidité des alvéoles :</strong> Le parpaing creux peut être fragile sur les bâtis
                         anciens. Testez toujours la tenue d'une cheville avant de lancer le chantier en série.</li>
                 </ul>
@@ -561,10 +559,10 @@ include dirname(__DIR__) . '/header.php';
                     disponibilité en négoce.</p>
 
                 <h3>Faut-il un permis de construire pour poser un bardage bois ?</h3>
-                <p>Dans la plupart des cas, une simple déclaration préalable de travaux suffit dès lors que le bardage
-                    modifie l'aspect extérieur de la construction. En zone protégée (ABF, secteur sauvegardé) ou pour un
-                    bâtiment classé, vérifiez systématiquement les règles auprès de votre mairie avant de commander les
-                    matériaux.</p>
+                <p>Dans la plupart des cas, une simple déclaration préalable de travaux suffit dès lors que le bardage modifie l'aspect extérieur de la construction. En zone protégée (ABF, secteur sauvegardé) ou pour un bâtiment classé, vérifiez systématiquement les règles auprès de votre mairie avant de commander les matériaux. Si vous envisagez également de couvrir la construction, notre guide sur la <a href="https://www.cemarenov.fr/charpente-1-pan-sur-parpaing">charpente 1 pan sur parpaing</a> détaille les contraintes structurelles pour ajouter un toit monopente sur un mur existant.</p>
+
+                <h3>Bardage bois ou enduit : comment choisir ?</h3>
+                <p>L'enduit classique reste la solution la plus économique à court terme, mais elle contraint à un rejointoiement régulier. Le bardage bois, une fois bien posé sur ossature ventilée, demande peu d'entretien pendant 20 à 30 ans. Si vous hésitez encore, notre dossier <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">peut-on laisser un mur en parpaing sans enduit</a> expose les risques du béton brut non protégé et les alternatives disponibles.</p>
 
             </div>
 

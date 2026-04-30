@@ -430,6 +430,12 @@ include dirname(__DIR__) . '/header.php';
                     fissuration est élevé. Pour une façade complète, la pose professionnelle reste la seule option
                     raisonnable.</p>
 
+                <h3>Crépi et rénovation globale de façade : dans quel ordre planifier ?</h3>
+                <p>Le crépi intervient en dernière étape d'une <a href="https://www.cemarenov.fr/renovation-de-facade">rénovation de façade</a> complète, après la reprise des fissures structurelles, le traitement de l'humidité et l'éventuelle pose d'une isolation thermique par l'extérieur. Changer l'ordre risque d'annuler les efforts précédents.</p>
+
+                <h3>Comment nettoyer une façade crépi avant de la reprendre ?</h3>
+                <p>Un crépi encrassé ou moussu doit être traité avant tout travaux de réfection. Notre guide sur le <a href="https://www.cemarenov.fr/nettoyage-facade-javel">nettoyage façade à la javel</a> détaille les protocoles par type d'enduit et les précautions à respecter pour ne pas altérer le parement existant.</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

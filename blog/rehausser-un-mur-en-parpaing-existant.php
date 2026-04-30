@@ -384,20 +384,10 @@ include dirname(__DIR__) . '/header.php';
                     du chantier dépend de ce que vous voulez faire de ce mur.</p>
 
                 <ul class="custom-list">
-                    <li><strong>Pour un rendu esthétique :</strong> il va falloir masquer cette jonction avec un enduit
-                        de façade. On vous explique en détail <a
-                            href="/blog/travaux/enduire-mur-exterieur-parpaing.php"
-                            style="text-decoration: underline;">comment enduire un mur extérieur et noyer une trame
-                            anti-fissuration dans le crépi</a> pour que le raccord soit totalement invisible. Si votre
-                        mur est en pierres apparentes, découvrez aussi nos conseils sur l'<a
-                            href="https://www.cemarenov.fr/enduit-pierre-vue"
-                            style="text-decoration: underline;">enduit pour pierre de vue</a> pour un rendu naturel et
-                        durable.</li>
-                    <li><strong>Pour finaliser une clôture :</strong> si la rehausse servait de soubassement pour
-                        accueillir un grillage rigide ou des panneaux, passez à l'étape suivante avec notre guide pour
-                        <a href="/blog/travaux/fixer-poteaux-platines-mur-parpaing.php"
-                            style="text-decoration: underline;">fixer solidement des platines et des poteaux sur un mur
-                            en parpaing</a>.</li>
+                    <li><strong>Pour un rendu esthétique :</strong> il va falloir masquer cette jonction avec un enduit de façade. Le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux parpaing</a> détaille les proportions exactes pour obtenir un raccord invisible entre l'ancien et le neuf. Si votre mur est en pierres apparentes, découvrez aussi nos conseils sur l'<a href="https://www.cemarenov.fr/enduit-pierre-vue" style="text-decoration: underline;">enduit pour pierre de vue</a> pour un rendu naturel et durable.</li>
+                    <li><strong>Pour une alternative sans enduit :</strong> un <a href="https://www.cemarenov.fr/bardage-bois-sur-mur-parpaing">bardage bois sur parpaing</a> posé sur ossature ventilée est une solution esthétique qui couvre la cicatrice de jonction sans crépi. Notre guide explique les étapes de pose conformes au DTU 41.2.</li>
+                    <li><strong>Pour ajouter une charpente :</strong> si la rehausse visait à gagner de la hauteur pour couvrir une extension, notre guide sur la <a href="https://www.cemarenov.fr/charpente-1-pan-sur-parpaing">charpente 1 pan sur parpaing</a> détaille les contraintes d'ancrage et de liaison sur mur existant.</li>
+                    <li><strong>Pour finaliser une clôture :</strong> si la rehausse servait de soubassement pour accueillir un grillage rigide ou des panneaux, vérifiez que les <a href="https://www.cemarenov.fr/distance-poteau-raidisseur-mur-parpaing">poteaux raidisseurs</a> existants sont compatibles avec la nouvelle hauteur.</li>
                 </ul>
 
             </div><!-- .article-content -->

@@ -346,6 +346,9 @@ include dirname(__DIR__) . '/header.php';
                         curatif contre l'humidité</a> et assainir la maçonnerie. Isolez seulement après le
                     séchage complet.</p>
 
+                <h3>Une peinture isolante peut-elle remplacer l'ITI ?</h3>
+                <p>Non. Les peintures dites "isolantes" ou thermo-réfléchissantes apportent au mieux 1 à 2 cm d'isolant équivalent — loin des 10 à 15 cm nécessaires pour respecter la RE2020. Notre guide sur la <a href="https://www.cemarenov.fr/peinture-thermique-toiture">peinture thermique réfléchissante</a> clarifie ce point et détaille les cas d'usage réels de ce produit (toitures, pas murs intérieurs).</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

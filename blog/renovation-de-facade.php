@@ -223,6 +223,9 @@ endforeach; ?>
                 <h3>Une rénovation pour fissures est-elle garantie ?</h3>
                 <p>Si vous passez par un façadier professionnel dûment déclaré, les travaux de façade touchant à l'étanchéité de la maison (peintures D3/I1, ITE ou enduits lourds) sont couverts par l'assurance <strong>Garantie Décennale (10 ans)</strong> de l'artisan ! Exigez son attestation d'assurance l'année de signature de votre devis.</p>
 
+                <h3>Comment organiser le planning d'une rénovation de façade ?</h3>
+                <p>Une rénovation de façade s'étale sur plusieurs semaines et implique plusieurs corps de métier (couvreur pour les débords, maçon pour les fissures, façadier pour l'enduit). L'outil <a href="https://www.cemarenov.fr/travaux-planning-ma-gestion-renovation-fr">planning de gestion de rénovation</a> permet de séquencer les interventions et d'éviter les retards en cascade entre artisans.</p>
+
                         </div> <!-- .article-content -->
 
             <!-- Author Box -->

@@ -311,6 +311,12 @@ include dirname(__DIR__) . '/header.php';
                     micro-organismes revient à peindre sur de la poussière. La peinture cloquera en moins d'un an. Le
                     support doit être totalement assaini et sec.</p>
 
+                <h3>Comment traiter une façade très fortement encrassée à la javel ?</h3>
+                <p>La javel diluée peut être utilisée en première passe sur les taches noires tenaces, mais elle ne remplace pas un traitement fongicide professionnel sur un crépi. Notre guide <a href="https://www.cemarenov.fr/nettoyage-facade-javel">nettoyage façade à la javel</a> détaille le protocole de dilution, les temps de pose et les surfaces compatibles pour éviter de détériorer l'enduit.</p>
+
+                <h3>Comment éliminer les fientes d'oiseaux sur un crépi ou une pierre ?</h3>
+                <p>Les déjections d'oiseaux sont acides et s'incrustent dans les pores du crépi. Elles doivent être traitées rapidement pour éviter la dégradation de l'enduit. Notre guide <a href="https://www.cemarenov.fr/nettoyer-fientes-oiseaux-crepi">nettoyer fientes d'oiseaux sur crépi</a> détaille le protocole de traitement adapté à chaque type de surface.</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

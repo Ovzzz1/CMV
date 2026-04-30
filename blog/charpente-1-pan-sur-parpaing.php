@@ -363,6 +363,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Faut-il un permis de construire pour une charpente 1 pan ?</h3>
                 <p>Pour une surface au sol inférieure à 20 m² (ou 40 m² en zone couverte par un PLU favorable), une déclaration préalable de travaux suffit dans la majorité des cas. Au-delà, un permis de construire est obligatoire. Consultez votre mairie avant de démarrer le chantier.</p>
 
+                <h3>Quel mortier pour sceller la charpente au mur en parpaing ?</h3>
+                <p>La liaison de la sablière ou des sabots métalliques au mur nécessite un mortier bâtard (ciment + chaux + sable), jamais du ciment pur qui fragilise les ancrages aux cycles gel-dégel. Notre guide sur le <a href="https://www.cemarenov.fr/dosage-mortier-batard-faitage">dosage du mortier bâtard pour faîtage</a> couvre les proportions adaptées aux assemblages bois-maçonnerie exposés aux intempéries.</p>
+
             </div>
 
             <div class="author-box-bottom">

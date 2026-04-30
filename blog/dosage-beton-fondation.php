@@ -767,6 +767,15 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Que faire du béton non utilisé ?</h3>
                 <p>Ne versez jamais le béton excédentaire dans les canalisations ou sur le sol nu. Préparez une zone de stockage avec des palettes pour y vider la bétonnière. Une fois durci, ce béton servira de remblai ou de sous-couche. Les bennes à gravats acceptent le béton durci.</p>
 
+                <h3>Quel coffrage utiliser pour couler mes fondations ?</h3>
+                <p>Pour les semelles filantes, le coffrage bois classique (planches de 27 mm maintenues par des étrésillons) reste la référence. Pour les fondations plus complexes ou les angles rentrants, les banches métal offrent une meilleure rectitude. Notre guide sur le <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les techniques de mise en œuvre, les types de parements et les erreurs de contreventement à éviter. Pour un muret de clôture ou de jardin, les dimensions et le ferraillage sont spécifiques — notre guide <a href="https://www.cemarenov.fr/fondation-pour-muret-de-60-cm-de-hauteur">fondation pour muret de 60 cm</a> couvre ces cas.</p>
+
+                <h3>Les dosages sont-ils les mêmes sur un terrain en pente ?</h3>
+                <p>Le dosage du béton lui-même ne change pas, mais les fondations sur terrain en pente nécessitent un découpage en plots horizontaux reliés par des longrines inclinées, avec des armatures d'attente à chaque niveau. Le risque de glissement impose souvent un béton légèrement plus riche (400 kg/m³). Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> couvre les techniques d'ancrage adaptées à chaque type de sol.</p>
+
+                <h3>Quand préférer des puits de fondation à des semelles filantes ?</h3>
+                <p>Dès que le sol porteur est trop profond pour des semelles classiques — sol compressible, remblai ou présence d'une nappe phréatique haute. Les <a href="https://www.cemarenov.fr/fondation-puits">puits de fondation</a> descendent chercher le bon sol à 1,5 à 4 mètres de profondeur, là où les semelles filantes seraient trop coûteuses à excaver.</p>
+
             </div><!-- /.article-content -->
 
             <!-- AUTHOR BOX -->

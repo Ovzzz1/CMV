@@ -297,6 +297,12 @@ endforeach; ?>
 
                     <h3>Puis-je couper ma VMC la nuit pour ne pas avoir de bruit ?</h3>
                     <p>C'est une très mauvaise idée. C'est la nuit que nous passons le plus de temps dans la maison, que nous rejetons de l'humidité en respirant, et que les températures baissent (favorisant la condensation). Une VMC est conçue pour tourner 24h/24. Si elle fait trop de bruit, le problème vient de l'installation (moteur posé à même le sol, gaines non tendues), pas de la machine elle-même.</p>
+
+                    <h3>Comment ventiler les combles si je n'ai pas de VMC ?</h3>
+                    <p>Pour les combles non habitables, un <a href="https://www.cemarenov.fr/extracteur-dair-solaire-combles">extracteur d'air solaire pour combles</a> est une alternative passive efficace. Alimenté par son propre panneau photovoltaïque intégré, il fonctionne sans raccordement électrique et renouvelle l'air des combles pendant les heures ensoleil­lées, là où la chaleur et l'humidité stagnent.</p>
+
+                    <h3>VMC simple flux ou ventilation par surpression : laquelle choisir ?</h3>
+                    <p>La VMC simple flux aspire l'air vicié des pièces humides. La <a href="https://www.cemarenov.fr/ventilation-par-surpression">ventilation par surpression</a> fonctionne à l'inverse : elle injecte de l'air filtré dans le logement, créant une légère surpression qui empêche les polluants extérieurs de s'infiltrer. Particulièrement recommandée dans les zones à radon ou à forte pollution, elle est complémentaire de la VMC plutôt que concurrente.</p>
                 </div>
 
             </div> <!-- .article-content -->

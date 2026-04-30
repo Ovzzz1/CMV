@@ -254,6 +254,12 @@ endforeach; ?>
                 <h3>Peut-on l'appliquer au rouleau ?</h3>
                 <p>Bien que ce soit inscrit sur certaines notices, appliquer de l'hydrofuge de toiture au rouleau est inefficace et dangereux (glissade). Le produit est très liquide comme de l'eau. Seule la pulvérisation (pistolet Airless ou pulvérisateur pro) permet une pénétration régulière et profonde.</p>
 
+                <h3>L'hydrofuge incolore est-il compatible avec une installation photovoltaïque ?</h3>
+                <p>Oui. L'hydrofuge s'applique avant ou après la pose des panneaux, à condition de protéger les crochets et les connectiques. Si vous prévoyez une installation solaire, consultez d'abord notre guide <a href="https://www.cemarenov.fr/fixation-panneau-solaire-sur-tuile-canal">fixation panneau solaire sur tuile canal</a> pour valider la compatibilité avec votre type de tuile.</p>
+
+                <h3>Quand vaut-il mieux refaire la toiture que d'appliquer un hydrofuge incolore ?</h3>
+                <p>Dès que plus de 25 % des tuiles sont fêlées, éclatées ou déplacées, l'hydrofuge ne compense plus la dégradation structurelle. Notre guide <a href="https://www.cemarenov.fr/comment-faire-un-toit-en-tuile">comment faire un toit en tuile</a> détaille les critères de décision et les étapes d'une réfection complète.</p>
+
                         </div> <!-- .article-content -->
 
             <!-- Author Box -->

@@ -253,7 +253,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="apres-traitement">Que mettre sur un mur en parpaing après le traitement ?</h2>
 
-                <p>Une fois l'étanchéité terminée, votre mur a un aspect ciment. Vous pouvez le laisser tel quel ou décider de le finir. N'utilisez jamais une peinture à l'huile classique qui bloquerait les derniers échanges gazeux. Privilégiez une <strong>peinture microporeuse</strong>.</p>
+                <p>Une fois l'étanchéité terminée, votre mur a un aspect ciment. Vous pouvez le laisser tel quel ou décider de le finir. N'utilisez jamais une peinture à l'huile classique qui bloquerait les derniers échanges gazeux. Privilégiez une <strong>peinture microporeuse</strong>. Pour les murs extérieurs accessibles, un <a href="https://www.cemarenov.fr/bardage-bois-sur-mur-parpaing">bardage bois sur ossature ventilée</a> est une alternative qui cumule protection et esthétique — la lame d'air intégrée évite précisément ce problème de condensation.</p>
 
                 <p>Concernant l'isolation, méfiance : si vous posez un isolant (laine de verre + placo) directement contre votre mur étanche, vous risquez de créer un "point de rosée" entre les deux. Laissez toujours une lame d'air ventilée entre votre mur traité et votre doublage.</p>
 
@@ -316,6 +316,9 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Combien de temps dure un traitement par cuvelage ?</h3>
                 <p>Si la préparation a été faite dans les règles de l'art (décapage, anti-salpêtre, congé d'onglet), une étanchéité intérieure peut durer plus de 15 à 20 ans. Son point faible reste les mouvements de terrain importants qui pourraient fissurer le mur par la suite.</p>
+
+                <h3>Doit-on enduire le mur après le cuvelage ?</h3>
+                <p>Pas obligatoirement. Sur un mur de garage ou de cave utilitaire, l'enduit de cuvelage brut suffit. Si vous souhaitez une finition plus soignée pour un espace de vie, veillez à ce que le revêtement reste micropore. Pour les murs extérieurs non enterrés où l'enduit n'est pas souhaité, notre guide <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">peut-on laisser un mur en parpaing sans enduit</a> présente les protections alternatives. Et si le chaînage horizontal présente des traces d'humidité, consultez également notre article sur le <a href="https://www.cemarenov.fr/chainage-horizontal-mur-parpaing">chaînage horizontal mur parpaing</a> — une fissuration à l'interface chaînage/bloc est souvent le vrai point d'entrée de l'eau.</p>
 
             </div>
 

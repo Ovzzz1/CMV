@@ -274,6 +274,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Peut-on installer des micro-onduleurs avec les vagues de la tuile canal ?</h3>
                 <p>Oui, mais la hauteur de rail est critique. La bosse formée par la tuile de couvert peut remonter jusqu'à 10-15 cm. Le boîtier du micro-onduleur ne doit jamais être en contact avec la tuile : il a besoin d'au moins 3 à 5 cm d'air libre pour se refroidir correctement. Si le rail est trop bas, l'onduleur surchauffe et bride votre production, voire se dégrade prématurément. Ajustez la hauteur de vos fixations en conséquence avant de serrer définitivement.</p>
 
+                <h3>Comment adapter les gouttières quand des panneaux solaires sont installés sur tuile canal ?</h3>
+                <p>La présence de rails solaires modifie parfois l'écoulement des eaux de ruissellement et peut nécessiter de repositionner ou de renforcer la fixation des gouttières. Notre guide <a href="https://www.cemarenov.fr/fixation-gouttiere-sur-bac-acier-isole">fixation gouttière sur bac acier isolé</a> couvre les systèmes de crochetage compatibles avec les supports de toiture complexes et les distances entre crochets à respecter pour éviter le déversement.</p>
+
             </div><!-- .article-content -->
 
             <!-- Author Box -->

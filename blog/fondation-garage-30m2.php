@@ -197,6 +197,11 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Quelle est la dimension de fondation pour un garage en briques ?</h3>
                 <p>Pour de la brique, les dimensions restent identiques au parpaing : une largeur de 50 cm et une profondeur hors gel. De ce fait, la stabilité sera assurée quel que soit le matériau maçonné choisi.</p>
 
+                <h3>Comment coffrer les semelles pour un garage de 30m2 ?</h3>
+                <p>À 30m², les volumes de béton deviennent conséquents — un coffrage bien étançonné est indispensable pour éviter tout flambement sous la pression. Notre guide <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> couvre les techniques de contreventement et les erreurs les plus fréquentes sur ce type de chantier.</p>
+
+                <h3>Et si une partie du terrain de 30m2 est en pente ?</h3>
+                <p>Dès qu'il y a un dénivelé, même modeste, les fondations doivent être réalisées en redents horizontaux successifs. Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> détaille comment dimensionner chaque palier et anticiper les contraintes de glissement du sol.</p>
 
             </div><div class="conclusion-box">
                 <h3>Le mot de la fin</h3>

@@ -316,6 +316,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>L'extrait de javel est-il utilisable comme désherbant sur les dalles ?</h3>
                 <p>Il va effectivement griller les plantes, mais c'est un désastre écologique pour vos sols et son utilisation à cet effet est illégale. Réservez l'extrait de javel exclusivement aux surfaces maçonnées et ne le laissez jamais s'écouler directement dans un drain ou un cours d'eau.</p>
 
+                <h3>Comment traiter les fientes d'oiseaux sur un crépi avec de la javel ?</h3>
+                <p>Les fientes doivent d'abord être ramollies à l'eau claire (ne pas les gratter à sec pour éviter d'abîmer l'enduit), puis traitées avec un produit enzymatique ou une solution javel très diluée (1 %). Notre guide <a href="https://www.cemarenov.fr/nettoyer-fientes-oiseaux-crepi">nettoyer fientes d'oiseaux sur crépi</a> détaille le protocole complet et les précautions à prendre pour ne pas altérer la surface.</p>
+
             </div>
 
             <div class="author-box-bottom">

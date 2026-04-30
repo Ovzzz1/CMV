@@ -307,7 +307,13 @@ include dirname(__DIR__) . '/header.php';
                     efficace contre la surchauffe solaire (gain de qq degrés), mais <strong>cela ne remplace en rien une
                         véritable <a href="<?php echo BASE_URL; ?>isolation-thermique-exterieur-ite"
                             style="text-decoration: underline;">Isolation Thermique par l'Extérieur (ITE)</a> de 15cm
-                        pour l'hiver</strong>.</p>
+                        pour l'hiver</strong>. Le même principe appliqué à la toiture correspond à la <a href="https://www.cemarenov.fr/peinture-thermique-toiture">peinture thermique réfléchissante pour toiture</a>.</p>
+
+                <h3>Faut-il nettoyer la façade avant de peindre ?</h3>
+                <p>Oui, c'est une étape non négociable. Peindre sur une façade sale, mousseuse ou écaillée condamne le travail en moins d'un an. Notre guide sur le <a href="https://www.cemarenov.fr/nettoyage-facade-javel">nettoyage façade à la javel</a> explique les protocoles par type de support avant toute peinture.</p>
+
+                <h3>Comment planifier un chantier de peinture façade dans le cadre d'une rénovation globale ?</h3>
+                <p>La peinture arrive en dernier — après les reprises de fissures, l'éventuelle ITE et le démoussage. Pour séquencer l'ensemble des travaux, notre <a href="https://www.cemarenov.fr/travaux-planning-ma-gestion-renovation-fr">outil de planning de gestion de rénovation</a> aide à organiser chaque étape et suivre les délais artisans.</p>
 
             </div> <!-- .article-content -->
 

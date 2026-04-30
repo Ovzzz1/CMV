@@ -275,6 +275,12 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Combien de temps peut-on rester sur un toit ?</h3>
                 <p>Pas plus que nécessaire. Une inspection rapide : 15-20 minutes max. Un travail long : faites des pauses, redescendez. Mieux vaut 3 montées de 20 minutes qu'une chute après 1 heure.</p>
 
+                <h3>Je veux poser des panneaux solaires : comment procéder en sécurité sur tuile canal ?</h3>
+                <p>La pose de panneaux solaires nécessite des crochets spécifiques qui glissent sous les tuiles sans les briser. Notre guide <a href="https://www.cemarenov.fr/fixation-panneau-solaire-sur-tuile-canal">fixation panneau solaire sur tuile canal</a> détaille les systèmes de fixation homologués, les espacements à respecter et les zones de toiture à éviter pour préserver l'étanchéité.</p>
+
+                <h3>Mon toit est en tuile : comment vérifier s'il faut le refaire ?</h3>
+                <p>Depuis le toit, inspectez les tuiles fêlées, les liteaux pourris et l'état du faîtage. Si plus de 30 % des tuiles sont à remplacer, un <a href="https://www.cemarenov.fr/comment-faire-un-toit-en-tuile">refaire un toit en tuile</a> complet est souvent plus rentable qu'un remplacement au fil de l'eau. Notre guide couvre les étapes, les DTU et le calcul du budget.</p>
+
             </div><!-- /.article-content -->
 
             <div class="author-box-bottom">

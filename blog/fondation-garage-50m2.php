@@ -188,6 +188,11 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Faut-il une isolation sous la dalle de 50m2 ?</h3>
                 <p>Si vous envisagez de transformer une partie du garage en atelier chauffé ou en pièce de vie, je vous conseille vivement de poser des panneaux d'isolant type TMS sous le treillis avant le coulage. C'est le moment idéal pour le faire ; après, il sera trop tard.</p>
 
+                <h3>Comment coffrer les semelles d'un garage de 50m2 ?</h3>
+                <p>Pour ce volume, la rigidité du coffrage est critique : les planches de 27 mm doivent être renforcées par des cavaliers tous les 60 cm maximum et des étais sur les longueurs importantes. Notre guide <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les techniques de contreventement et les vérifications d'aplomb indispensables avant le coulage.</p>
+
+                <h3>Mon terrain de 50m2 est incliné : comment gérer la différence de niveau ?</h3>
+                <p>Une pente de terrain impose des semelles en redents horizontaux — les fondations ne peuvent jamais être coulées en biais. Pour des surfaces importantes comme 50m², la gestion des paliers successifs et le drainage entre les plots sont des points critiques. Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> couvre l'ensemble de ces problématiques avec des exemples de calcul.</p>
 
             </div><div class="conclusion-box">
                 <h3>Le mot de la fin</h3>

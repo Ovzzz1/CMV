@@ -457,6 +457,15 @@ include dirname(__DIR__) . '/header.php';
                         style="text-decoration: underline;">isolation sous rampants de toiture</a> classique par
                     l'intérieur ou une méthode Sarking par l'extérieur).</p>
 
+                <h3>Comment nettoyer la toiture avant d'appliquer l'hydrofuge ?</h3>
+                <p>Le nettoyage est impératif pour que le produit pénètre dans les pores des tuiles. Un nettoyage Kärcher basse pression (30-40 bar maximum) ou un traitement chimique anti-mousse constituent les deux options. Notre guide <a href="https://www.cemarenov.fr/nettoyage-toiture-karcher">nettoyage toiture Karcher</a> détaille les pressions et distances à respecter pour ne pas fracturer les tuiles.</p>
+
+                <h3>L'hydrofuge fonctionne-t-il sur une toiture en amiante-ciment ?</h3>
+                <p>L'application d'un hydrofuge sur des plaques amiantées est techniquement possible, mais elle ne résout pas le problème de fond. Une toiture amiantée doit être déposée ou encapsulée selon des procédures réglementées. Notre dossier <a href="https://www.cemarenov.fr/toiture-amiante">toiture amiante</a> détaille les obligations légales, les coûts de dépose et les aides disponibles.</p>
+
+                <h3>Peut-on appliquer un hydrofuge sur une toiture mitoyenne ?</h3>
+                <p>Si la toiture est commune à plusieurs lots (immeuble en petite copropriété de fait ou maison mitoyenne), les règles de décision et de financement changent. Notre guide <a href="https://www.cemarenov.fr/toiture-commune-sans-copropriete">toiture commune sans copropriété</a> clarifie les droits et obligations de chaque propriétaire dans ces situations.</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

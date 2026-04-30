@@ -337,6 +337,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Quelle épaisseur totale pour un enduit sur parpaing conforme au DTU 26.1 ?</h3>
                 <p>L'épaisseur totale doit être d'environ 20 mm, répartis en 5 mm pour le gobetis, 10 à 15 mm pour le corps d'enduit et quelques millimètres pour la finition. Un enduit trop épais (plus de 25 mm d'un coup) risque de fissurer sous son propre poids lors du séchage.</p>
 
+                <h3>Et si je ne veux pas enduire mon mur en parpaing ?</h3>
+                <p>C'est légalement possible dans certains cas — notre dossier <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">peut-on laisser un mur en parpaing sans enduit</a> détaille les obligations selon votre PLU et les alternatives (hydrofuge incolore, bardage, peinture façade). Pour les murs humides ou les parties enterrées, mieux vaut consulter d'abord notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a> avant d'appliquer quoi que ce soit.</p>
+
             </div>
 
             <div class="author-box-bottom">

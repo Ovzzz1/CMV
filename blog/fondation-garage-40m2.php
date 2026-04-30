@@ -181,6 +181,11 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Faut-il une étude de sol pour un garage accolé de 40m2 ?</h3>
                 <p>Bien qu'elle ne soit pas toujours imposée par la loi pour une annexe, je la recommande vivement. Puisque votre garage est accolé, tout mouvement de terrain sur cette nouvelle structure pourrait entraîner des fissures graves sur les murs de votre maison existante.</p>
 
+                <h3>Quel coffrage pour les semelles filantes d'un 40m2 ?</h3>
+                <p>À cette surface, un coffrage bois rigide (planches de 27 mm, cavaliers et étais tous les 80 cm) est indispensable. Notre guide <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les règles de contreventement pour éviter le flambement lors du coulage et garantir l'aplomb des semelles.</p>
+
+                <h3>Le terrain de mon 40m2 présente un léger dénivelé : comment adapter ?</h3>
+                <p>Un dénivelé même de 20 cm impose des fondations en redents — jamais inclinées. Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> explique la méthode des plots horizontaux successifs et les armatures d'attente à prévoir entre chaque palier.</p>
 
             </div><div class="conclusion-box">
                 <h3>Le mot de la fin</h3>

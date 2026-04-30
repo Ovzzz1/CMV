@@ -368,6 +368,12 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Quelle est la duree d'une reprise en sous-oeuvre ?</h3>
                 <p>La duree varie enormement selon la technique et la surface a traiter. Une injection de resine sur un affaissement localise peut se regler en deux a trois jours. Un chantier complet avec micropieux sur un pavillon entier dure generalement de trois a six semaines, sans compter l'etude de sol prealable qui prend elle-meme deux a quatre semaines. Prevoyez au minimum deux mois entre la decision d'intervenir et la fin effective du chantier.</p>
 
+                <h3>Les reprises en sous-oeuvre concernent-elles aussi les murs de soutenement en pierre ?</h3>
+                <p>Oui. Un <a href="https://www.cemarenov.fr/mur-poids-pierre-paris">mur poids en pierre</a> qui se deplace ou se penche peut necessiter une reprise de sa semelle de fondation par micropieux ou injections, de la meme maniere qu'un mur de maison. Si le mur presente un "ventre de boeuf" ou des fissures en escalier, une intervention sur les fondations est souvent prioritaire avant tout rejointoiement.</p>
+
+                <h3>Qu'en est-il des murs en pierre seche : peuvent-ils etre stabilises sans toucher aux fondations ?</h3>
+                <p>Un <a href="https://www.cemarenov.fr/mur-pierre-seche">mur en pierre seche</a> s'auto-draine et supporte de legeres deformations sans risque structurel majeur. S'il se deforme, le probleme vient presque toujours du remblai arriere ou du drainage — pas des fondations. Une reconstruction partielle avec correction du drainage suffit generalement, sans reprise en sous-oeuvre.</p>
+
             </div>
 
             <div class="author-box-bottom">

@@ -331,6 +331,12 @@ include dirname(__DIR__) . '/header.php';
                         style="text-decoration: underline;">isolation thermique sous rampants de toiture</a> classique,
                     ou sa version par l'extérieur dite Sarking).</p>
 
+                <h3>Quel mortier utiliser pour rejointer un faîtage ?</h3>
+                <p>Le faîtage se rejoint exclusivement au mortier bâtard (ciment + chaux + sable), jamais au ciment pur qui est trop rigide et se fissure dès la première gelée. Notre guide sur le <a href="https://www.cemarenov.fr/dosage-mortier-batard-faitage">dosage du mortier bâtard pour faîtage</a> détaille les proportions exactes selon l'exposition du toit et la nature des tuiles de faîte.</p>
+
+                <h3>Comment traiter l'abergement de cheminée lors d'un rejointoiement de faîtage ?</h3>
+                <p>L'abergement est souvent l'oublié du chantier de faîtage. Ce solin étanche fait le joint entre la cheminée et la couverture — s'il est dégradé, l'infiltration se fait bien avant que le faîtage lui-même pose problème. Notre guide sur l'<a href="https://www.cemarenov.fr/abergement-de-cheminee">abergement de cheminée</a> détaille les matériaux, les techniques de pose et les signes de détérioration à surveiller.</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

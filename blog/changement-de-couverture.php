@@ -350,6 +350,15 @@ include dirname(__DIR__) . '/header.php';
                     mois. Si votre maison se trouve dans un périmètre protégé (proche d'un monument historique), l'avis
                     des Architectes des Bâtiments de France (ABF) est requis, ce qui allonge le délai à deux mois.</p>
 
+                <h3>Ma toiture contient de l'amiante : dois-je tout refaire ?</h3>
+                <p>Pas nécessairement tout refaire, mais la dépose doit respecter des procédures réglementées et être confiée à une entreprise certifiée SS4. Notre dossier <a href="https://www.cemarenov.fr/toiture-amiante">toiture amiante</a> détaille les obligations légales, le diagnostic préalable obligatoire et les aides disponibles pour financer ce chantier spécifique.</p>
+
+                <h3>Ma toiture est commune avec mon voisin : comment gérer le remplacement ?</h3>
+                <p>Une toiture mitoyenne ou partagée entre deux propriétaires impose une prise de décision collective et un partage des coûts. Notre guide <a href="https://www.cemarenov.fr/toiture-commune-sans-copropriete">toiture commune sans copropriété</a> clarifie les règles juridiques, les procédures de décision et les recours en cas de désaccord entre voisins.</p>
+
+                <h3>Peut-on profiter d'un changement de couverture pour isoler une véranda ?</h3>
+                <p>Si votre véranda est attenante à la maison, c'est effectivement le bon moment pour améliorer son confort thermique. Notre guide <a href="https://www.cemarenov.fr/comment-isoler-toit-veranda-polycarbonate">comment isoler un toit de véranda en polycarbonate</a> détaille les solutions adaptées aux toits transparents.</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

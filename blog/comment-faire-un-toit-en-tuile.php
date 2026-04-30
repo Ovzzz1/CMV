@@ -426,6 +426,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Quelle est la durée de vie d'une toiture en tuile terre cuite ?</h3>
                 <p>50 à 100 ans pour la tuile. Les accessoires (liteaux, closoirs, mortier) ont une durée de vie plus courte, à remplacer à chaque rénovation complète.</p>
 
+                <h3>Quel mortier utiliser pour le faîtage et les noues ?</h3>
+                <p>Les tuiles de faîtage se scellent obligatoirement au mortier bâtard (ciment + chaux + sable), jamais au ciment pur qui se fissure au premier gel. Notre guide sur le <a href="https://www.cemarenov.fr/dosage-mortier-batard-faitage">dosage du mortier bâtard pour faîtage</a> détaille les proportions exactes et les erreurs de gâchage à éviter pour garantir l'étanchéité sur le long terme.</p>
+
             </div><!-- /.article-content -->
 
             <!-- AUTHOR BOX -->

@@ -320,6 +320,11 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Puis-je lier ma fondation de garage à celle de ma maison ?</h3>
                 <p>Non. Je vois souvent cette erreur sur les chantiers, mais il est impératif de désolidariser les deux bâtiments en créant un joint de dilatation. Chaque construction se tassant à son propre rythme, lier les fondations provoquerait d'inévitables fissures.</p>
 
+                <h3>Quel coffrage prévoir pour les semelles du garage ?</h3>
+                <p>Les semelles filantes d'un garage se coffrent généralement avec des planches de bois de 27 mm, maintenues par des cavaliers et des étais. Notre guide <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les techniques de mise en place, les types de parements et les points de contreventement à vérifier avant le coulage.</p>
+
+                <h3>Mon terrain est en pente : dois-je adapter les fondations ?</h3>
+                <p>Absolument. Sur un terrain incliné, il est interdit de couler une fondation en oblique — les semelles doivent toujours être horizontales. On procède par <strong>redents</strong> : des paliers successifs en escalier qui descendent jusqu'au sol porteur. Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> couvre les techniques d'ancrage et les erreurs classiques à éviter.</p>
 
             </div><div class="conclusion-box">
                 <h3>Le mot de la fin</h3>

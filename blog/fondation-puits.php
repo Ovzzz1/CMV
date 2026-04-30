@@ -403,6 +403,15 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Les puits de fondation sont-ils couverts par la garantie décennale ?</h3>
                 <p>Oui, les puits de fondation entrent dans le périmètre de la garantie décennale comme tout élément de structure. L'entrepreneur qui les réalise est tenu responsable pendant 10 ans en cas de désordre affectant la solidité de l'ouvrage. Conservez bien votre contrat et les justificatifs de l'étude de sol.</p>
 
+                <h3>Quel dosage béton pour couler les puits ?</h3>
+                <p>Le béton des puits doit atteindre une classe minimale C25/30, soit 350 kg de ciment par m³. En sol humide ou proche d'une nappe, préférez un C30/37 avec adjuvant hydrofuge. Notre guide sur le <a href="https://www.cemarenov.fr/dosage-beton-fondation">dosage béton fondation</a> détaille les proportions exactes au seau et au m³ selon la classe de résistance visée.</p>
+
+                <h3>Comment coffrer la tête des puits pour la reprise de dalle ?</h3>
+                <p>La tête du puits reçoit généralement une longrine ou un chevêtre bétonné. Pour cette reprise, un <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> soigné est indispensable — les planches doivent être bien étançonnées pour éviter tout flambement lors du coulage et garantir l'aplomb de la structure montante.</p>
+
+                <h3>Les puits de fondation sont-ils adaptés pour un muret ?</h3>
+                <p>Non. Pour un muret de clôture ou de jardin, les puits sont surdimensionnés et coûteux. Une semelle filante hors-gel suffit amplement. Notre guide <a href="https://www.cemarenov.fr/fondation-pour-muret-de-60-cm-de-hauteur">fondation pour muret de 60 cm de hauteur</a> détaille les dimensions, le ferraillage adapté et les précautions spécifiques à ce type d'ouvrage léger.</p>
+
             </div><!-- /.article-content -->
 
             <!-- AUTHOR BOX -->

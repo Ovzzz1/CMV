@@ -313,6 +313,12 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Peut-on construire un mur en pierre sèche sur une terrasse en béton existante ?</h3>
                 <p>Ce n'est pas recommandé. La dalle béton est imperméable et bloquera le drainage naturel qui est le premier atout de la pierre sèche. Si vous souhaitez un muret décoratif sur terrasse, optez pour un mur maçonné au mortier de chaux qui sera plus adapté à ce type de support imperméable.</p>
 
+                <h3>Quelle est la différence entre un mur en pierre sèche et un mur poids en pierre ?</h3>
+                <p>Le mur en pierre sèche est monté sans mortier ni liant — la gravité et l'emboîtement des pierres assurent la stabilité. Le <a href="https://www.cemarenov.fr/mur-poids-pierre-paris">mur poids en pierre</a>, lui, est maçonné au mortier de chaux et dimensionné pour retenir des terres importantes (soutènement) : sa base doit mesurer 1/3 à 1/2 de sa hauteur. Pour une simple délimitation de jardin sans charge latérale forte, la pierre sèche suffit ; pour retenir un talus, le mur poids s'impose.</p>
+
+                <h3>Comment finir un mur en pierre maçonné avec du mortier ?</h3>
+                <p>Si vous optez finalement pour un mur lié (avec mortier de chaux), la finition "pierre vue" est la plus courante sur le bâti traditionnel. Notre guide sur l'<a href="https://www.cemarenov.fr/enduit-pierre-vue">enduit pierre vue</a> détaille les dosages de chaux, la technique du beurré et le brossage à réaliser avant que le mortier ne tire pour laisser apparaître la texture de la pierre.</p>
+
             </div>
 
             <div class="author-box-bottom">

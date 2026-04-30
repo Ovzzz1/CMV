@@ -349,6 +349,13 @@ include dirname(__DIR__) . '/header.php';
                 <p>Les infiltrations dues à l'entretien négligé sont généralement exclues. L'assureur considère que
                     l'usure naturelle et le manque d'entretien relèvent de la responsabilité du propriétaire. Seuls les
                     sinistres soudains (tempête, grêle) sont couverts.</p>
+
+                <h3>Après le démoussage, comment savoir si la toiture doit être refaite ?</h3>
+                <p>Une fois la mousse retirée, vous verrez clairement l'état réel des tuiles. Si plus de 20 à 25 % présentent des fissures ou une porosité importante, un démoussage seul ne suffira pas. Notre guide <a href="https://www.cemarenov.fr/comment-faire-un-toit-en-tuile">comment faire un toit en tuile</a> vous aide à évaluer si une réfection complète est nécessaire et comment la planifier.</p>
+
+                <h3>Peut-on poser des panneaux solaires sur une toiture qui vient d'être démoussée ?</h3>
+                <p>Oui, le démoussage est même recommandé avant une installation photovoltaïque. La fixation des crochets sous les tuiles sèches et propres est bien plus fiable. Notre guide <a href="https://www.cemarenov.fr/fixation-panneau-solaire-sur-tuile-canal">fixation panneau solaire sur tuile canal</a> détaille les systèmes de fixation adaptés aux tuiles terre cuite.</p>
+
             </div><!-- .article-content -->
 
             <div class="author-box-bottom">

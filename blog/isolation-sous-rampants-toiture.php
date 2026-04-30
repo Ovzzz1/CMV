@@ -366,6 +366,15 @@ include dirname(__DIR__) . '/header.php';
                     matériau traditionnellement reconnu comme le plus "mince" pour un pouvoir isolant maximal est le
                     panneau de Polyuréthane (PUR) compressé.</p>
 
+                <h3>Comment évacuer la chaleur accumulée dans les rampants en été ?</h3>
+                <p>L'isolation des rampants améliore le confort hivernal mais n'évacue pas la chaleur estivale par elle-même. Un <a href="https://www.cemarenov.fr/extracteur-dair-solaire-combles">extracteur d'air solaire pour combles</a> couplé à l'isolation est la solution la plus efficace : il fonctionne à l'énergie solaire et renouvelle l'air chaud sans frais d'électricité.</p>
+
+                <h3>Et pour une véranda en polycarbonate : l'isolation des rampants s'applique-t-elle ?</h3>
+                <p>Non, les rampants concernent les toitures inclinees en tuiles ou ardoises. Pour une extension vitrée, notre guide <a href="https://www.cemarenov.fr/comment-isoler-toit-veranda-polycarbonate">comment isoler un toit de véranda en polycarbonate</a> détaille les techniques spécifiques (panneaux sandwich, double peau, films thermiques).</p>
+
+                <h3>Peut-on isoler les rampants d'une toiture commune avec un voisin ?</h3>
+                <p>Si la toiture est commune (mitoyenne ou partagée), les travaux d'isolation nécessitent l'accord et la participation financière de votre voisin. Notre guide sur la <a href="https://www.cemarenov.fr/toiture-commune-sans-copropriete">toiture commune sans copropriété</a> clarifie les règles de prise de décision et de répartition des coûts dans ce cas particulier.</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

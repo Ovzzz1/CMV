@@ -198,6 +198,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>L'hydrofuge incolore : La protection invisible</h3>
                 <p>C'est la solution idéale pour ceux qui aiment l'aspect brut du parpaing. En appliquant un <strong>traitement hydrofuge</strong> au pulvérisateur, vous rendez la surface déperlante : l'eau glisse sur le mur sans pénétrer, tout en laissant le support respirer. C'est une protection invisible qui évite le grisaillement prématuré et les traces de mousse.</p>
 
+                <h3>Le bardage bois : la finition ventilée</h3>
+                <p>Pour ceux qui veulent aller plus loin que la simple protection, le <a href="https://www.cemarenov.fr/bardage-bois-sur-mur-parpaing">bardage bois sur mur parpaing</a> est une alternative solide : l'ossature ventilée élimine le problème d'humidité à la source, sans enduit ni déclaration d'aspect. Comptez 80 à 150 €/m² posé selon l'essence choisie.</p>
+
                 <h3>Peindre directement sur le parpaing : Attention au "spectre"</h3>
                 <p>Il est tout à fait possible de peindre des parpaings avec une peinture façade adaptée. Cependant, sans un excellent fixateur de fond, vous risquez de voir apparaître le <strong>phénomène de spectre</strong> : par temps humide, les joints retiennent plus d'eau et se dessinent en transparence sous la peinture, donnant un aspect "quadrillé" peu esthétique.</p>
 
@@ -315,6 +318,12 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Peut-on poser un isolant sur un mur non enduit ?</h3>
                 <p>Techniquement oui, dans le cadre d'une Isolation Thermique par l'Extérieur (ITE). Dans ce cas, l'isolant servira de protection au parpaing et sera lui-même recouvert d'une finition, réglant ainsi le problème d'étanchéité et d'esthétique en une seule opération.</p>
+
+                <h3>Quelle distance entre les poteaux raidisseurs d'un mur en parpaing laissé brut ?</h3>
+                <p>Un mur laissé sans enduit est structurellement identique à un mur enduit : les règles de raidissement restent les mêmes. Notre guide sur la <a href="https://www.cemarenov.fr/distance-poteau-raidisseur-mur-parpaing">distance entre poteaux raidisseurs</a> détaille les espacements selon la hauteur du mur et l'épaisseur du parpaing, conformément au DTU 20.1.</p>
+
+                <h3>Quelle finition si le mur présente des traces d'humidité ?</h3>
+                <p>Dans ce cas, ni enduit ni peinture ne règlent le problème — ils le masquent temporairement. Commencez par identifier la source : infiltration, remontée capillaire ou condensation. Pour les caves et garages, notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a> détaille le traitement par cuvelage. Et si la fissuration se situe au niveau des joints de chaînage, consultez notre article sur le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux parpaing</a> — un mortier mal dosé est souvent la cause.</p>
 
             </div>
 

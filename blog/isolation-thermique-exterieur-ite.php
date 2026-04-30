@@ -391,6 +391,12 @@ include dirname(__DIR__) . '/header.php';
                     emprisonner et bloquer cette eau dans la maçonnerie, qui finira par pourrir vos solives intérieures.
                 </p>
 
+                <h3>Existe-t-il une solution moins invasive que l'ITE pour réduire la chaleur ?</h3>
+                <p>Pour les toitures exposées, une <a href="https://www.cemarenov.fr/peinture-thermique-toiture">peinture thermique réfléchissante</a> peut être appliquée sur les tuiles ou le bac acier : elle réfléchit jusqu'à 90 % des rayonnements infrarouges et peut réduire la température sous toiture de 5 à 10 °C. C'est une solution complémentaire à l'ITE, pas un substitut, mais elle ne nécessite pas de travaux lourds.</p>
+
+                <h3>L'ITE fait-elle partie d'une rénovation globale de façade ?</h3>
+                <p>Oui, l'ITE s'intègre dans un projet de <a href="https://www.cemarenov.fr/renovation-de-facade">rénovation de façade</a> complète. Elle est généralement réalisée après la reprise des fissures et avant la pose du crépi ou enduit de finition. Le financement est optimisé quand l'ITE est couplée avec d'autres travaux d'amélioration énergétique dans un dossier MaPrimeRénov' global.</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

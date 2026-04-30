@@ -195,6 +195,11 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Peut-on couler 5 cm de béton sur du béton ?</h3>
                 <p>S'il s'agit de ragréer le sol fini de votre garage de 20m2 pour rattraper un niveau, oui, vous pouvez tout à fait couler une chape de 5 cm sur votre dalle existante. Toutefois, il faut appliquer au préalable une résine d'accrochage (un primaire) pour garantir la liaison entre l'ancien et le nouveau support. Je tiens néanmoins à préciser que cette technique ne s'applique en aucun cas aux fondations porteuses, qui doivent toujours être coulées d'un seul bloc massif pour garantir l'intégrité structurelle de l'ouvrage.</p>
 
+                <h3>Quel coffrage utiliser pour les semelles d'un garage de 20m2 ?</h3>
+                <p>Pour des semelles filantes de garage, le coffrage bois (planches de 27 mm maintenues par des cavaliers) est la solution la plus courante. Notre guide <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les techniques de mise en place selon la forme des tranchées et les types de parements adaptés à chaque configuration.</p>
+
+                <h3>Mon terrain est en légère pente : est-ce un problème pour le 20m2 ?</h3>
+                <p>Même une pente de 5 à 10 % impose une fondation en redents horizontaux — couler en oblique est interdit. Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> explique comment calculer la hauteur des redents et choisir le bon ancrage selon la nature du sol.</p>
 
             </div><div class="conclusion-box">
                 <h3>Le mot de la fin</h3>

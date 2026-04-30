@@ -323,6 +323,12 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Peut-on couler les poteaux en même temps que la fondation ?</h3>
                 <p>Non. La fondation se coule en premier avec des fers d'attente. Vous monterez ensuite vos parpaings et coulerez le béton du poteau une fois l'armature verticalement installée.</p>
 
+                <h3>Quelles finitions choisir une fois les poteaux coulés ?</h3>
+                <p>Une fois la structure stabilisée, deux grandes options s'offrent à vous. L'enduit est la finition classique — notre guide sur le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux parpaing</a> détaille les proportions à respecter selon le support. Le <a href="https://www.cemarenov.fr/bardage-bois-sur-mur-parpaing">bardage bois sur parpaing</a> est l'alternative ventilée, idéale si vous souhaitez éviter l'enduit tout en protégeant le béton. Dans les deux cas, vérifiez l'état du mur avant d'appliquer quoi que ce soit — un parpaing humide exige d'abord un traitement d'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité intérieure</a>.</p>
+
+                <h3>Les raidisseurs peuvent-ils supporter une charpente directement ?</h3>
+                <p>Oui, à condition que les poteaux soient correctement dimensionnés et que les ancrages (platines ou tiges filetées) aient été intégrés dans le béton frais. Notre article sur la <a href="https://www.cemarenov.fr/charpente-1-pan-sur-parpaing">charpente 1 pan sur parpaing</a> détaille comment ancrer une charpente monopente sur des murs en blocs — les contraintes de liaison poteaux/fermes y sont couvertes en détail.</p>
+
             </div>
 
             <div class="author-box-bottom">
