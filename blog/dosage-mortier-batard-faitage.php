@@ -10,7 +10,7 @@
 
 $article_meta = [
     'title'        => 'Dosage du mortier bâtard pour faîtage : recettes, calculs et étapes de pose',
-    'category'     => 'toiture',
+    'category'     => 'travaux',
     'slug'         => 'dosage-mortier-batard-faitage',
     'image'        => 'https://www.cemarenov.fr/image/dosage-mortier-batard-1.webp',
     'excerpt'      => 'Réussir le scellement de son faîtage demande de la précision. Découvrez la règle du 1-1-6, estimez vos quantités exactes avec notre calculateur interactif et suivez le guide de pose pas-à-pas.',

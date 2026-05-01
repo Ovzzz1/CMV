@@ -259,7 +259,7 @@ include dirname(__DIR__) . '/header.php';
                             de vos combles perdus</a>.</li>
                 </ul>
 
-                <img src="<?php echo BASE_URL; ?>image/changement de couverture2.webp"
+                <img src="<?php echo BASE_URL; ?>image/changement de couverture3.webp"
                     alt="Vue en gros plan d'une toiture ancienne avec des tuiles poreuses, fêlées et recouvertes de mousse épaisse, illustrant le besoin urgent d'un changement de couverture."
                     style="width: 100%; border-radius: 12px; margin: 2rem 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); object-fit: cover; aspect-ratio: 16/9;">
 

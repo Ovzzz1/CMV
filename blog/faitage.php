@@ -199,7 +199,7 @@ include dirname(__DIR__) . '/header.php';
                         faîtage</strong> avec un <strong>closoir</strong> (un rouleau souple en plomb ou aluminium
                     plissé) déroulé sur la lisse de rehausse. Les tuiles viennent ensuite se visser par-dessus.</p>
 
-                <img src="<?php echo BASE_URL; ?>image/faitage2.webp"
+                <img src="<?php echo BASE_URL; ?>image/faitage3.webp"
                     alt="Photo de chantier montrant les mains d'un artisan en train de dérouler et maroufler un closoir ventilé souple de couleur brique sur la lisse de rehausse, avant de poser les tuiles de crête."
                     style="width: 100%; border-radius: 12px; margin: 2rem 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); object-fit: cover; aspect-ratio: 16/9;">
 

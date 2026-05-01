@@ -6,7 +6,7 @@
 
 $article_meta = [
     'title' => 'Peinture Isolante Façade : Arnaque ou Vraie Révolution ? (Avis et Prix 2026)',
-    'category' => 'isolation',
+    'category' => 'renovation',
     'image' => 'https://www.cemarenov.fr/image/peinture-isolante-facade.webp',
     'excerpt' => 'Peut-on diviser sa facture de chauffage avec de la peinture ? Décryptage de la "peinture isolante" (microbilles, aérospatial). Son vrai R thermique, ses limites, et quand l\'utiliser vraiment.',
     'date' => '2026-03-05',

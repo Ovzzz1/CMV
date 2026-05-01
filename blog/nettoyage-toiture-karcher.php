@@ -238,7 +238,7 @@ endforeach; ?>
 
                 <h2 id="quand-comment-nettoyer">Quand et Comment Nettoyer sa Toiture ?</h2>
                 <figure>
-                    <img src="<?php echo BASE_URL; ?>image/Nettoyage%20Toiture%20au%20Karcher5.webp" alt="Calendrier avec les saisons idéales pour l'entretien de toiture.">
+                    <img src="<?php echo BASE_URL; ?>image/Nettoyage%20Toiture%20au%20Karcher6.webp" alt="Calendrier avec les saisons idéales pour l'entretien de toiture.">
                     <figcaption>Les traitements chimiques détestent la canicule et le gel.</figcaption>
                 </figure>
                 

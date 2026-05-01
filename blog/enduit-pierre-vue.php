@@ -209,7 +209,7 @@ include dirname(__DIR__) . '/header.php';
                     l'ossature de la maison.
                 </blockquote>
 
-                <img src="<?php echo BASE_URL; ?>image/enduit pierre vue2.webp"
+                <img src="<?php echo BASE_URL; ?>image/enduit pierre vue3.webp"
                     alt="Comparaison : à gauche un mur en pierre apparente avec des joints creux; à droite un mur en pierre vue avec l'enduit affleurant"
                     style="width: 100%; border-radius: 12px; margin: 2rem 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); object-fit: cover; aspect-ratio: 16/9;">
 

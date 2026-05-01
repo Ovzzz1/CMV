@@ -164,7 +164,7 @@ include dirname(__DIR__) . '/header.php';
                     </ul>
                 </div>
 
-                <img src="<?php echo BASE_URL; ?>image/hydrofuge de toiture2.webp"
+                <img src="<?php echo BASE_URL; ?>image/hydrofuge de toiture3.webp"
                     alt="Gros plan sur des tuiles en terre cuite sous la pluie. L'eau forme des billes parfaites qui roulent sur la surface sans pénétrer, illustrant visuellement le fameux effet perlant d'un traitement hydrofuge de qualité."
                     style="width: 100%; border-radius: 12px; margin: 2rem 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); object-fit: cover; aspect-ratio: 16/9;">
 

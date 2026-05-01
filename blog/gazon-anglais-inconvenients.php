@@ -291,7 +291,7 @@ include dirname(__DIR__) . '/header.php';
  <p>Techniquement, vous pouvez en faire sur 10m². Mais économiquement, cela n'a pas de sens. Les coûts fixes (matériel, produits) sont les mêmes quelle que soit la surface. En dessous de 50m², le coût au mètre carré devient prohibitivement cher.</p>
 
  <h3>Le gazon synthétique est-il une meilleure alternative ?</h3>
- <p>Pas vraiment. Le gazon synthétique a ses propres problèmes : il chauffe énormément au soleil (jusqu'à 60 degrés), emprisonne les déjections d'animaux, et finit à la décharge au bout de 10 à 15 ans. C'est une solution pour les terrains de sport, pas pour un jardin. Pour un avis complet, lisez notre article sur les <a href="<?php echo BASE_URL; ?>gazon-synthetique-avantages-inconvenients">avantages et inconvénients du gazon synthétique</a>.</p>
+ <p>Pas vraiment. Le gazon synthétique a ses propres problèmes : il chauffe énormément au soleil (jusqu'à 60 degrés), emprisonne les déjections d'animaux, et finit à la décharge au bout de 10 à 15 ans. C'est une solution pour les terrains de sport, pas pour un jardin.</p>
  </div>
 
  <div class="author-box-bottom">

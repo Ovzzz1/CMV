@@ -6,7 +6,7 @@
 
 $article_meta = [
     'title' => 'Isolation sous rampants de toiture : Prix au m², Épaisseurs et Aides 2026',
-    'category' => 'isolation',
+    'category' => 'travaux',
     'image' => 'https://www.cemarenov.fr/image/isolation-sous-rampants-toiture.webp',
     'excerpt' => '30% des pertes de chaleur se font par le toit. Isoler sous rampants est l\'étape n°1 des combles aménageables. Tableau des prix, R minimal et décryptage des aides 2026.',
     'date' => '2026-03-05',

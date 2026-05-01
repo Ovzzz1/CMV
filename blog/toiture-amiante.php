@@ -8,7 +8,7 @@
 
 $article_meta = [
     'title'        => 'Toiture en fibrociment amiante : comment l\'identifier, quels risques et que faire en 2026 ?',
-    'category'     => 'toiture',
+    'category'     => 'travaux',
     'slug'         => 'toiture-amiante',
     'image'        => 'https://www.cemarenov.fr/image/toiture-amiante-1.webp',
     'excerpt'      => 'Votre toiture date d\'avant 1997 ? Voici comment reconnaître un toit en fibrociment amianté, évaluer le vrai niveau de risque et savoir quoi faire : nettoyage, remplacement, vente ou désamiantage.',
@@ -249,7 +249,7 @@ include dirname(__DIR__) . '/header.php';
                 <!-- ═══ IMMOBILIER ═══ -->
                 <h2 id="immobilier">Achat ou vente d'une maison avec toiture en amiante</h2>
 
-                <img src="<?php echo BASE_URL; ?>image/toiture-amiante-6.webp" alt="Diagnostic amiante avant vente d'une maison avec toiture en fibrociment" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
+                <img src="<?php echo BASE_URL; ?>image/toiture-amiante-5.webp" alt="Diagnostic amiante avant vente d'une maison avec toiture en fibrociment" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
                 <h3 id="diagnostic-vente">Le diagnostic amiante avant vente est obligatoire</h3>
 
@@ -282,7 +282,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3 id="prix-couverture">Le coût de la nouvelle couverture</h3>
 
-                <p>Aux frais de désamiantage, il faut bien sûr ajouter le prix de la nouvelle toiture — bac acier, tuiles béton ou terre cuite, ardoises naturelles. Si les nouveaux matériaux sont plus lourds que l'ancien fibrociment, vérifiez d'abord que la charpente peut les supporter : une reprise de charpente peut rapidement doubler la facture globale. Consultez notre guide sur le <a href="<?php echo BASE_URL; ?>cout-refection-toiture" style="text-decoration: underline;"><strong>coût d'une réfection de toiture</strong></a> pour affiner votre budget.</p>
+                <p>Aux frais de désamiantage, il faut bien sûr ajouter le prix de la nouvelle toiture — bac acier, tuiles béton ou terre cuite, ardoises naturelles. Si les nouveaux matériaux sont plus lourds que l'ancien fibrociment, vérifiez d'abord que la charpente peut les supporter : une reprise de charpente peut rapidement doubler la facture globale. Notre guide sur le <a href="<?php echo BASE_URL; ?>changement-de-couverture" style="text-decoration: underline;"><strong>changement de couverture</strong></a> vous aidera à affiner votre budget selon le matériau choisi.</p>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
                     <strong>Conseil :</strong> demandez toujours au moins 3 devis à des entreprises certifiées. Comparez ligne à ligne le poste "gestion des déchets amiantés" — c'est là que les écarts entre devis sont souvent les plus importants et les moins visibles.
