@@ -7,7 +7,7 @@
 $article_meta = [
     'title' => 'Traitement Humidité des Murs : Prix, Solutions et Pièges à Éviter (2026)',
     'category' => 'renovation',
-    'image' => 'https://www.cemarenov.fr/image/traitement-humidite.webp',
+    'image' => 'https://www.cemarenov.fr/image/assechement-murs-injections.webp',
     'excerpt' => 'Salpêtre, moisissures noires, murs qui suintent... Ne masquez pas l\'humidité sous de la peinture ! Identifier la cause (capillarité, condensation, infiltration) dicte la solution et le prix (de 150€ à 10 000€).',
     'date' => '2026-03-05',
     'reading_time' => 12,

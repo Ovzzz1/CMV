@@ -8,7 +8,7 @@
 $article_meta = [
     'title' => 'Hydrofuge incolore toiture : Prix au m², Avis et Guide d\'Application',
     'category' => 'travaux',
-    'image' => 'https://www.cemarenov.fr/image/hydrofuge-incolore-toiture.webp',
+    'image' => 'https://www.cemarenov.fr/image/hydrofuge de toiture1.webp',
     'excerpt' => 'L\'hydrofuge incolore protège vos tuiles sans en changer la couleur. Est-ce vraiment efficace ? Quel budget prévoir (pro vs DIY) ? Tout savoir avant de traiter sa toiture.',
     'date' => '2026-03-05',
     'reading_time' => 9,

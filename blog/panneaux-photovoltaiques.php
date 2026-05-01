@@ -7,7 +7,7 @@
 $article_meta = [
     'title' => 'Panneaux Photovoltaïques : Prix réel 2026, Rentabilité et Arnaques',
     'category' => 'maison',
-    'image' => 'https://www.cemarenov.fr/image/panneaux-photovoltaiques.webp',
+    'image' => 'https://www.cemarenov.fr/image/fixation-panneau-solaire-sur-tuile-canal-1.webp',
     'excerpt' => 'L\'électricité solaire devient la norme, mais le secteur regorge de pièges à 1€. Coût réel d\'une installation 3 kWc, vraie rentabilité, et décryptage des (rares) aides de l\'État en 2026.',
     'date' => '2026-03-05',
     'reading_time' => 12,
