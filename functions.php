@@ -78,22 +78,25 @@ function scan_blog_articles(): array
         if (!$content)
             continue;
 
-        // Find $article_meta = [ using string search (robust, no regex)
+        // Support both formats: $article_meta = [...]; and $d = ['meta' => [...], ...]
         $start = strpos($content, '$article_meta');
-        if ($start === false)
-            continue;
-
-        $bracket_open = strpos($content, '[', $start);
-        if ($bracket_open === false)
-            continue;
-
-        // Find the matching ]; after the opening bracket
-        $bracket_close = strpos($content, '];', $bracket_open);
-        if ($bracket_close === false)
-            continue;
-
-        // Extract the array content between [ and ]
-        $array_body = substr($content, $bracket_open + 1, $bracket_close - $bracket_open - 1);
+        if ($start !== false) {
+            // Old format
+            $bracket_open  = strpos($content, '[', $start);
+            if ($bracket_open === false) continue;
+            $bracket_close = strpos($content, '];', $bracket_open);
+            if ($bracket_close === false) continue;
+            $array_body = substr($content, $bracket_open + 1, $bracket_close - $bracket_open - 1);
+        } else {
+            // New $d format — extract the 'meta' sub-array
+            $meta_pos = strpos($content, "'meta' => [");
+            if ($meta_pos === false) continue;
+            $bracket_open  = strpos($content, '[', $meta_pos);
+            if ($bracket_open === false) continue;
+            $bracket_close = strpos($content, '],', $bracket_open);
+            if ($bracket_close === false) continue;
+            $array_body = substr($content, $bracket_open + 1, $bracket_close - $bracket_open - 1);
+        }
 
         try {
             $meta = [];
