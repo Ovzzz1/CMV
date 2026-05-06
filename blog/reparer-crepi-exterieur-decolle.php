@@ -1,3 +1,4 @@
+<?php
 // published: 2026-05-03 08:00
 /**
  * reparer-crepi-exterieur-decolle.php
