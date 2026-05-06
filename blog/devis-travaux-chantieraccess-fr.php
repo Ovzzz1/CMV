@@ -10,7 +10,7 @@ $d = [
 
 'meta' => [
     'title'        => 'Avis ChantierAccess.fr : Arnaque ou Vrai Bon Plan pour vos Devis Travaux ? (Test 2026)',
-    'category'     => 'Travaux',
+    'category'     => 'travaux',
     'slug'         => 'devis-travaux-chantieraccess-fr',
     'image'        => 'https://www.cemarenov.fr/image/devis-travaux-chantieraccess-fr-1.webp',
     'excerpt'      => 'ChantierAccess.fr est-il fiable ? Test complet de la plateforme : vérification des artisans, modèle économique, limites du service et comparatif avec Habitatpresto et Travaux.com.',
