@@ -60,7 +60,7 @@ $d = [
 
 <p>Tapotez doucement la zone avec le manche d'un marteau. Si le mur sonne creux, le crépi ne tient plus et il faudra impérativement le faire tomber pour retrouver une accroche saine.</p>
 
-<img src="<?php echo BASE_URL; ?>image/reparation-crepi-exterieur-decolle-2.webp"
+<img src="https://www.cemarenov.fr/image/reparation-crepi-exterieur-decolle-2.webp"
      alt="Test du marteau sur une façade pour détecter les zones creuses"
      loading="lazy"
      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -105,7 +105,7 @@ $d = [
 <h3>Étape 2 : Nettoyer et dépoussiérer en profondeur</h3>
 <p>Frottez vigoureusement la zone avec votre brosse métallique pour éliminer le salpêtre, les algues et la poussière. Rincez au jet d'eau et laissez sécher en surface.</p>
 
-<img src="<?php echo BASE_URL; ?>image/reparation-crepi-exterieur-decolle-3.webp"
+<img src="https://www.cemarenov.fr/image/reparation-crepi-exterieur-decolle-3.webp"
      alt="Nettoyage du mur extérieur avant application de l'enduit"
      loading="lazy"
      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -121,7 +121,7 @@ $d = [
 
 <h2 id="erreurs-fatales">6. Les 4 erreurs fatales qui feront retomber votre nouveau crépi</h2>
 
-<img src="<?php echo BASE_URL; ?>image/reparation-crepi-exterieur-decolle-4.webp"
+<img src="https://www.cemarenov.fr/image/reparation-crepi-exterieur-decolle-4.webp"
      alt="Finition esthétique pour un raccord de crépi invisible"
      loading="lazy"
      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
