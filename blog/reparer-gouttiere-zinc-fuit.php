@@ -1,3 +1,4 @@
+<?php
 // published: 2026-05-02 08:00
 /**
  * reparer-gouttiere-zinc-fuit.php
