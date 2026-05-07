@@ -152,6 +152,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <?php echo $d['content']; ?>
 
+                <?php if (!empty($d['ux'])): ?>
                 <h2 id="ux-outil">⚙️ <?php echo htmlspecialchars($d['ux']['h2']); ?></h2>
 
                 <div id="ux-tool" class="ux-tool-container">
@@ -183,6 +184,7 @@ include dirname(__DIR__) . '/header.php';
                         <button class="reset-btn" onclick="resetTool()">Recommencer le test</button>
                     </div>
                 </div>
+                <?php endif; ?>
 
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 
@@ -256,6 +258,7 @@ include dirname(__DIR__) . '/header.php';
     </div> <!-- .article-layout -->
 </article>
 
+<?php if (!empty($d['ux'])): ?>
 <script>
     let userAnswers = {};
 
@@ -285,6 +288,7 @@ include dirname(__DIR__) . '/header.php';
         document.getElementById('step-1').classList.add('active');
     }
 </script>
+<?php endif; ?>
 
 <?php
 // Schema.org Structured Data

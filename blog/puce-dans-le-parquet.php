@@ -10,7 +10,7 @@ $d = [
 
 'meta' => [
     'title'        => 'Comment se débarrasser des puces dans le parquet ? Guide Complet',
-    'category'     => 'Maison',
+    'category'     => 'maison',
     'slug'         => 'puce-dans-le-parquet',
     'image'        => 'https://www.cemarenov.fr/image/puce-dans-le-parquet-1.webp',
     'excerpt'      => 'Marre des piqûres ? Découvrez comment éliminer les puces de parquet : 4 étapes clés, remèdes naturels et térébenthine pour un sol enfin sain !',

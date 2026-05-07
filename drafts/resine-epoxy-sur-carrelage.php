@@ -1,3 +1,4 @@
+<?php
 // published: 2026-05-08 08:00
 /**
  * resine-epoxy-sur-carrelage.php
@@ -9,7 +10,7 @@ $d = [
 
 'meta' => [
     'title'        => 'Résine époxy sur carrelage : guide complet 2026',
-    'category'     => 'renovation-sol',
+    'category'     => 'renovation',
     'slug'         => 'resine-epoxy-sur-carrelage',
     'image'        => 'https://www.cemarenov.fr/image/resine-epoxy-sur-carrelage-1.webp',
     'excerpt'      => 'Résine époxy sur carrelage : faisabilité, préparation du support, application, durabilité par zone, prix DIY vs pro et alternatives.',

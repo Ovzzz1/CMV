@@ -1,3 +1,4 @@
+<?php
 // published: 2026-05-09 08:00
 /**
  * tousrenov-be-devis-travaux.php
@@ -56,10 +57,7 @@ $d = [
 
 <h2 id="prix-renovation">2. Prix des travaux de rénovation en Belgique : à quoi s'attendre en 2026 ?</h2>
 
-<img src="<?php echo BASE_URL; ?>image/tousrenov-be-devis-travaux-2.webp"
-     alt="Tableau des prix et devis travaux de rénovation en Belgique 2026"
-     loading="lazy"
-     style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
+<img src="https://www.cemarenov.fr/image/tousrenov-be-devis-travaux-2.webp" alt="Tableau des prix et devis travaux de rénovation en Belgique 2026" width="800" height="533" loading="lazy">
 
 <div class="table-wrapper">
     <table class="content-table">
@@ -80,10 +78,7 @@ $d = [
 
 <h2 id="obtenir-devis">3. Comment obtenir un devis précis sur Tousrenov.be ? (Les 3 étapes)</h2>
 
-<img src="<?php echo BASE_URL; ?>image/tousrenov-be-devis-travaux-3.webp"
-     alt="Les 3 étapes pour recevoir un devis travaux précis sur Tousrenov"
-     loading="lazy"
-     style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
+<img src="https://www.cemarenov.fr/image/tousrenov-be-devis-travaux-3.webp" alt="Les 3 étapes pour recevoir un devis travaux précis sur Tousrenov" width="800" height="533" loading="lazy">
 
 <ol style="margin-bottom: 20px; padding-left: 20px;">
     <li><strong>Cadrer le besoin et préparer son dossier :</strong> Indiquez la surface exacte, le type de murs existants (porteurs ou non) et joignez des photos claires sous plusieurs angles. Si vous avez des plans, intégrez-les.</li>
@@ -110,10 +105,7 @@ $d = [
 
 <h2 id="aides-tva">5. Optimiser le budget : primes régionales et TVA réduite</h2>
 
-<img src="<?php echo BASE_URL; ?>image/tousrenov-be-devis-travaux-4.webp"
-     alt="Primes régionales et TVA réduite pour les travaux de rénovation en Belgique"
-     loading="lazy"
-     style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
+<img src="https://www.cemarenov.fr/image/tousrenov-be-devis-travaux-4.webp" alt="Primes régionales et TVA réduite pour les travaux de rénovation en Belgique" width="800" height="533" loading="lazy">
 
 <h3>Comprendre les aides PEB (Wallonie et Bruxelles)</h3>
 <p>Si votre projet touche à l'isolation, au chauffage ou aux menuiseries, vous êtes probablement éligible aux primes régionales. En Wallonie, les primes (couplées à un audit préalable) peuvent rembourser une part significative. À Bruxelles, les primes Renolution fonctionnent sur un principe similaire. Les artisans du réseau Tousrenov.be maîtrisent ces dispositifs et peuvent fournir les attestations nécessaires pour monter vos dossiers.</p>

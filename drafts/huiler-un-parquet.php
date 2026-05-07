@@ -10,7 +10,7 @@ $d = [
 
 'meta' => [
     'title'        => 'Huiler un parquet : guide complet pour une finition sans traces',
-    'category'     => 'Rénovation',
+    'category'     => 'renovation',
     'slug'         => 'huiler-un-parquet',
     'image'        => 'https://www.cemarenov.fr/image/huiler-un-parquet-1.webp',
     'excerpt'      => 'Huiler un parquet sans coller : le secret des pros. Quel grain de ponçage ? Quelle huile choisir ? Notre tuto pour un raccord invisible et durable.',

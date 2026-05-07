@@ -10,7 +10,7 @@ $d = [
 
 'meta' => [
     'title'        => 'Nettoyage carrelage grès cérame mat : la méthode zéro trace (2026)',
-    'category'     => 'Maison',
+    'category'     => 'maison',
     'slug'         => 'nettoyage-carrelage-gres-cerame-mat',
     'image'        => 'https://www.cemarenov.fr/image/nettoyage-carrelage-gres-cerame-mat-1.webp',
     'excerpt'      => 'Marre des halos ? Découvrez comment nettoyer votre grès cérame mat sans traces. Reset de fin de chantier, routine microfibre et astuces d\'expert.',

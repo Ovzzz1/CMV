@@ -11,7 +11,7 @@ $d = [
 // ─── MÉTADONNÉES ──────────────────────────────────────────────────────────────
 'meta' => [
     'title'        => 'Comment réparer une gouttière en zinc qui fuit ? Guide complet',
-    'category'     => 'gouttieres',
+    'category'     => 'travaux',
     'slug'         => 'reparer-gouttiere-zinc-fuit',
     'image'        => 'https://www.cemarenov.fr/image/reparer-gouttiere-zinc-fuit-1.webp',
     'excerpt'      => 'Gouttière en zinc qui fuit ? Diagnostic, méthodes sans soudure (mastic, bande bitumeuse) et avec soudure à l\'étain, produits recommandés et tarifs pro.',

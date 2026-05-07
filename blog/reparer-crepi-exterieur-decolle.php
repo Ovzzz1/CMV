@@ -10,7 +10,7 @@ $d = [
 
 'meta' => [
     'title'        => 'Comment réparer un crépi extérieur qui se décolle ? Guide complet',
-    'category'     => 'facade',
+    'category'     => 'travaux',
     'slug'         => 'reparer-crepi-exterieur-decolle',
     'image'        => 'https://www.cemarenov.fr/image/reparation-crepi-exterieur-decolle-1.webp',
     'excerpt'      => 'Crépi extérieur qui se décolle ? Diagnostic, test du marteau, choix de l\'enduit et tutoriel en 5 étapes pour un raccord invisible et durable.',

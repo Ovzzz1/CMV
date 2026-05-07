@@ -1,3 +1,4 @@
+<?php
 // published: 2026-05-07 08:00
 /**
  * gouttiere-mur-limite-propriete.php
@@ -9,7 +10,7 @@ $d = [
 
 'meta' => [
     'title'        => 'Gouttière en limite de propriété : Règles, Solutions et Recours 2026',
-    'category'     => 'gouttieres',
+    'category'     => 'travaux',
     'slug'         => 'gouttiere-mur-limite-propriete',
     'image'        => 'https://www.cemarenov.fr/image/gouttiere-mur-limite-propriete-1.webp',
     'excerpt'      => 'Gouttière sur mur en limite de propriété : ce que dit le Code civil, les modèles zéro empiétement (nantaise, havraise) et les recours en cas de litige voisinage.',
