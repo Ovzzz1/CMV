@@ -64,6 +64,10 @@ $d = [
 <h3>Cas n°2 : Construire une extension pile sur la limite</h3>
 <p>Lors d'une extension de maison située à 0 cm de la limite cadastrale, tout débord de toit a dû être supprimé. Plutôt que de risquer un procès, la solution retenue a été une <strong>corniche intégrée</strong> : elle collecte l'eau tout en restant à l'aplomb parfait du mur privatif.</p>
 
+<div class="info-box">
+    <p>💡 <strong>Cas particulier :</strong> si vous partagez une toiture avec votre voisin sans cadre de copropriété, les règles d'entretien et de responsabilité sont spécifiques. Consultez notre guide sur la <a href="https://www.cemarenov.fr/toiture-commune-sans-copropriete">toiture commune sans copropriété</a> pour connaître vos droits avant d'engager des travaux.</p>
+</div>
+
 <h2 id="choisir-gouttiere">3. Quelle gouttière choisir pour une pose en limite de propriété ?</h2>
 
 <div class="table-wrapper">
@@ -79,12 +83,16 @@ $d = [
     </table>
 </div>
 
+<p>→ Vous hésitez encore sur le bon modèle selon votre toiture, votre budget ou le matériau ? Notre <a href="https://www.cemarenov.fr/gouttieres">guide complet sur les gouttières</a> compare tous les types disponibles (zinc, alu, PVC) avec leurs contraintes de pose.</p>
+
 <h3>Gouttière nantaise ou havraise : les modèles "zéro empiétement"</h3>
 <p>La gouttière nantaise ou havraise se pose directement sur le versant de la toiture, sur une bande de doublis. Contrairement aux modèles pendants, elles ne sont pas accrochées sous le toit mais reposent sur lui. Cela garantit qu'aucun élément ne dépasse de la façade du mur.</p>
 
 <blockquote class="article-blockquote">
     <p>"Pour un rapport qualité/prix optimal : gouttière nantaise en zinc sur le toit (rigidité obligatoire), raccordée à des descentes en aluminium via un manchon spécifique — esthétique alu sur le reste de la maison, zéro litige en bordure de propriété."</p>
 </blockquote>
+
+<p>Si votre toiture est en bac acier isolé, la fixation d'une gouttière demande des précautions supplémentaires pour ne pas compromettre l'étanchéité. Voir notre article dédié : <a href="https://www.cemarenov.fr/fixation-gouttiere-sur-bac-acier-isole">fixer une gouttière sur bac acier isolé</a>.</p>
 
 <h2 id="recours-litiges">4. Recours et litiges : que faire si une gouttière dépasse ?</h2>
 
@@ -94,6 +102,8 @@ $d = [
 <h3>Procédure : constat et conciliateur de justice</h3>
 <p>Si l'installation est récente et illégale : commencez par un constat avec photos. Envoyez ensuite une mise en demeure par lettre recommandée en citant l'article 681. Si rien ne bouge, saisissez un conciliateur de justice — étape gratuite et souvent obligatoire avant toute action devant le tribunal judiciaire.</p>
 <p><strong>Outil :</strong> <a href="https://www.conciliateurs.fr/" rel="nofollow noopener">Trouver un conciliateur de justice</a></p>
+
+<p>Une gouttière en zinc ancienne qui présente des fuites peut aussi être à l'origine d'infiltrations chez le voisin et déclencher un litige. Avant d'en arriver là, consultez notre guide : <a href="https://www.cemarenov.fr/reparer-gouttiere-zinc-fuit">réparer une gouttière en zinc qui fuit</a>.</p>
 
 HTML,
 
