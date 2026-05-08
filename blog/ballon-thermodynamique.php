@@ -452,7 +452,7 @@ include dirname(__DIR__) . '/header.php';
                     remplacement ou sur une installation plus lourde avec percements et liaisons spécifiques.</p>
 
                 <h3>Quelle différence entre un ballon thermodynamique et un chauffe-eau thermodynamique triple C ?</h3>
-                <p>Le <a href="https://www.cemarenov.fr/chauffe-eau-thermodynamique-triple-c">chauffe-eau thermodynamique Triple C</a> est une évolution du ballon thermodynamique standard qui combine trois échangeurs : un échangeur air-eau, un échangeur solaire et un appoint électrique. Il atteint des COP plus élevés et peut fonctionner en complément d'un système photovoltaïque — notre guide détaille ses avantages spécifiques par rapport à un ballon thermodynamique classique.</p>
+                <p>Le <a href="https://www.cemarenov.fr/chauffe-eau-thermodynamique-triple-c">chauffe-eau thermodynamique Triple C</a> est une évolution du ballon thermodynamique standard qui combine trois échangeurs : un échangeur air-eau, un échangeur solaire et un appoint électrique. Il atteint des COP plus élevés et peut fonctionner en complément d'un système photovoltaïque, notre guide détaille ses avantages spécifiques par rapport à un ballon thermodynamique classique.</p>
 
             </div> <!-- .article-content -->
 

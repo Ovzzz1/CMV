@@ -167,7 +167,7 @@ include dirname(__DIR__) . '/header.php';
                         <li><a href="#technique-de-realisation-des-puits">Technique de réalisation des puits</a></li>
                         <li><a href="#puits-vs-pieux-quel-choix">Puits de fondation vs pieux</a></li>
                         <li><a href="#cout-des-puits-de-fondation">Coût des puits de fondation</a></li>
-                        <li><a href="#faq">FAQ — Questions fréquentes</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -184,7 +184,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Le principe est simple : on creuse un trou cylindrique, on le ferraille, on le cimente. Le puits
                     repose alors sur une couche stable et transmet les charges de la construction vers le sol porteur.
-                    On appelle cette base le <strong>radier</strong> — c'est la partie inférieure du puits qui s'évente
+                    On appelle cette base le <strong>radier</strong>, c'est la partie inférieure du puits qui s'évente
                     légèrement pour répartir la charge sur une surface plus grande.</p>
 
                 <div
@@ -248,8 +248,8 @@ include dirname(__DIR__) . '/header.php';
                                     href="<?php echo BASE_URL; ?>dosage-beton-fondation">dosage du béton pour
                                     fondation</a></u></strong> doit être respecté à la lettre pour garantir la solidité
                         du puits.</li>
-                    <li><strong>Ferraillage :</strong> Une <strong>cage d'armatures</strong> — soit un assemblage de
-                        barres d'acier formant un cylindre — maintient le béton sous les efforts de traction et de
+                    <li><strong>Ferraillage :</strong> Une <strong>cage d'armatures</strong>, soit un assemblage de
+                        barres d'acier formant un cylindre, maintient le béton sous les efforts de traction et de
                         compression.</li>
                     <li><strong>Parpaings (optionnel) :</strong> Dans certains cas, on édifie la partie haute du puits
                         en parpaings creux sur une hauteur de 1 à 2 mètres avant de couler le béton.</li>
@@ -308,7 +308,7 @@ include dirname(__DIR__) . '/header.php';
                     quelle que soit la saison.</p>
 
                 <blockquote class="article-blockquote">
-                    <p>"Chantier à Saint-Nazaire, sol pourri sur 4 mètres — tourbe, vase, tout ce qu'il ne faut pas. Le
+                    <p>"Chantier à Saint-Nazaire, sol pourri sur 4 mètres, tourbe, vase, tout ce qu'il ne faut pas. Le
                         client voulait absolument une extension de 20 m². On a posé 10 puits à 4,50 m de profondeur. Le
                         maçon a mis 3 jours à creuser à la pelleteuse avec godet spécial. Résultat : l'extension tient
                         parfaitement, zéro tassement 5 ans après. Quand le sol est mauvais, il faut aller chercher le
@@ -586,7 +586,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Peut-on faire des puits dans l'eau ou une nappe phréatique ?</h3>
                 <p>C'est possible mais technique. Il faut pomper l'eau en continu pendant le creusement et le coulage.
-                    On utilise du béton spécial (BHP — Béton Haute Performance) avec un adjuvant hydrofuge. Dans
+                    On utilise du béton spécial (BHP, Béton Haute Performance) avec un adjuvant hydrofuge. Dans
                     certains cas, on pose un tubage métallique temporaire pour maintenir les parois. Le coût augmente de
                     30 à 50 %.</p>
 
@@ -610,7 +610,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Comment coffrer la tête des puits pour la reprise de dalle ?</h3>
                 <p>La tête du puits reçoit généralement une longrine ou un chevêtre bétonné. Pour cette reprise, un <a
                         href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> soigné est
-                    indispensable — les planches doivent être bien étançonnées pour éviter tout flambement lors du
+                    indispensable, les planches doivent être bien étançonnées pour éviter tout flambement lors du
                     coulage et garantir l'aplomb de la structure montante.</p>
 
                 <h3>Les puits de fondation sont-ils adaptés pour un muret ?</h3>
@@ -640,7 +640,7 @@ include dirname(__DIR__) . '/header.php';
             <div class="conclusion-box">
                 <h3>Besoin d'un devis pour vos fondations ?</h3>
                 <p>Les puits de fondation offrent une solution économique et fiable pour les extensions et les terrains
-                    à sol faible. Chaque situation est unique — une étude de sol précise détermine la meilleure
+                    à sol faible. Chaque situation est unique, une étude de sol précise détermine la meilleure
                     technique à adopter. Demandez l'avis d'un professionnel avant de vous lancer.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un devis gratuit</a>
             </div>

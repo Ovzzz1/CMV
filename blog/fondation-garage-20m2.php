@@ -199,7 +199,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Pour des semelles filantes de garage, le coffrage bois (planches de 27 mm maintenues par des cavaliers) est la solution la plus courante. Notre guide <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les techniques de mise en place selon la forme des tranchées et les types de parements adaptés à chaque configuration.</p>
 
                 <h3>Mon terrain est en légère pente : est-ce un problème pour le 20m2 ?</h3>
-                <p>Même une pente de 5 à 10 % impose une fondation en redents horizontaux — couler en oblique est interdit. Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> explique comment calculer la hauteur des redents et choisir le bon ancrage selon la nature du sol.</p>
+                <p>Même une pente de 5 à 10 % impose une fondation en redents horizontaux, couler en oblique est interdit. Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> explique comment calculer la hauteur des redents et choisir le bon ancrage selon la nature du sol.</p>
 
             </div><div class="conclusion-box">
                 <h3>Le mot de la fin</h3>

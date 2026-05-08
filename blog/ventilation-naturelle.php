@@ -426,7 +426,7 @@ include dirname(__DIR__) . '/header.php';
                     <p>L'<a href="https://www.cemarenov.fr/extracteur-dair-solaire-combles">extracteur d'air solaire pour combles</a> est la solution naturelle par excellence : alimenté uniquement par le panneau photovoltaïque intégré, il renouvelle l'air des combles sans aucune consommation électrique. Idéal pour éliminer la chaleur accumulée en été et l'humidité hivernale, sans engager de travaux lourds.</p>
 
                     <h3>Ventilation naturelle ou ventilation par surpression : quelle différence ?</h3>
-                    <p>La ventilation naturelle exploite les différences de pression et de température pour créer un flux d'air spontané. La <a href="https://www.cemarenov.fr/ventilation-par-surpression">ventilation par surpression</a> force activement l'entrée d'air filtré dans le logement, créant une légère surpression qui empêche les polluants extérieurs de rentrer — particulièrement utile dans les zones à fort taux de radon ou de particules.</p>
+                    <p>La ventilation naturelle exploite les différences de pression et de température pour créer un flux d'air spontané. La <a href="https://www.cemarenov.fr/ventilation-par-surpression">ventilation par surpression</a> force activement l'entrée d'air filtré dans le logement, créant une légère surpression qui empêche les polluants extérieurs de rentrer, particulièrement utile dans les zones à fort taux de radon ou de particules.</p>
                 </div>
 
             </div> <!-- .article-content -->

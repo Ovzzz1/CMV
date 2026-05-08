@@ -285,7 +285,7 @@ endforeach; ?>
                 <p>Les fientes d'oiseaux sont acides et attaquent les liants de l'enduit comme des tuiles. Un traitement basse pression avec un produit enzymatique spécifique est plus efficace que le Kärcher seul. Notre guide <a href="https://www.cemarenov.fr/nettoyer-fientes-oiseaux-crepi">nettoyer fientes d'oiseaux sur crépi</a> détaille le protocole complet pour ne pas aggraver les dégâts sur les surfaces traitées.</p>
 
                 <h3>Qui paie le nettoyage si la toiture est commune entre deux propriétaires ?</h3>
-                <p>Sur une toiture partagée entre deux voisins (maisons mitoyennes ou immeuble sans copropriété constituée), les frais d'entretien sont en principe partagés à parts égales — mais les règles de décision et de financement sont plus complexes. Notre dossier <a href="https://www.cemarenov.fr/toiture-commune-sans-copropriete">toiture commune sans copropriété</a> clarifie les droits et obligations de chaque propriétaire.</p>
+                <p>Sur une toiture partagée entre deux voisins (maisons mitoyennes ou immeuble sans copropriété constituée), les frais d'entretien sont en principe partagés à parts égales, mais les règles de décision et de financement sont plus complexes. Notre dossier <a href="https://www.cemarenov.fr/toiture-commune-sans-copropriete">toiture commune sans copropriété</a> clarifie les droits et obligations de chaque propriétaire.</p>
 
             </div> <!-- .article-content -->
 

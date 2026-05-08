@@ -411,7 +411,7 @@ include dirname(__DIR__) . '/header.php';
                             style="text-decoration: underline;">se débarrasser des fouines</a> résidentes), une dépose
                         complète est indispensable (avec un surcoût pour la mise en déchetterie).</p>
                     <h3>Faut-il prévoir une ventilation spécifique après l'isolation des combles ?</h3>
-                    <p>Absolument. Une isolation efficace rend les combles plus hermétiques, ce qui peut entraîner une accumulation de chaleur et d'humidité en été. Un <a href="https://www.cemarenov.fr/extracteur-dair-solaire-combles">extracteur d'air solaire pour combles</a> est une solution passive et économique — il fonctionne à l'énergie solaire et évacue l'air chaud sans consommation électrique.</p>
+                    <p>Absolument. Une isolation efficace rend les combles plus hermétiques, ce qui peut entraîner une accumulation de chaleur et d'humidité en été. Un <a href="https://www.cemarenov.fr/extracteur-dair-solaire-combles">extracteur d'air solaire pour combles</a> est une solution passive et économique, il fonctionne à l'énergie solaire et évacue l'air chaud sans consommation électrique.</p>
 
                     <h3>L'isolation des combles perdus est-elle possible sur une véranda ?</h3>
                     <p>Non, les combles perdus concernent les espaces sous toit non habitables. Pour une véranda ou une extension avec toit en polycarbonate, les techniques sont différentes. Notre guide <a href="https://www.cemarenov.fr/comment-isoler-toit-veranda-polycarbonate">comment isoler un toit de véranda en polycarbonate</a> détaille les solutions adaptées.</p>

@@ -148,11 +148,11 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                     <ul class="custom-list">
                         <li><strong>Pleine terre possible :</strong> Sur un sol compact et stable avec des parois nettes, le coffrage n'est pas toujours obligatoire.</li>
-                        <li><strong>Coffrage vital :</strong> Sol friable, sableux, remblai récent ou terrain en pente — le coffrage devient indispensable pour contenir le béton.</li>
+                        <li><strong>Coffrage vital :</strong> Sol friable, sableux, remblai récent ou terrain en pente, le coffrage devient indispensable pour contenir le béton.</li>
                         <li><strong>Bannissez l'OSB :</strong> Sous l'humidité du béton, l'OSB gonfle et explose. Utilisez uniquement du sapin ou du contreplaqué filmé.</li>
                         <li><strong>Coffrage perdu = gain de temps :</strong> Les plaques polypropylène se laissent en terre, évitant le décoffrage et offrant une barrière anti-humidité.</li>
                         <li><strong>Aiguille vibrante obligatoire :</strong> Vibrer le béton élimine les bulles d'air et garantit l'enrobage parfait des armatures.</li>
-                        <li><strong>Calage renforcé :</strong> Ancrez profondément vos piquets — la pression du béton frais est plus forte qu'on ne le croit.</li>
+                        <li><strong>Calage renforcé :</strong> Ancrez profondément vos piquets, la pression du béton frais est plus forte qu'on ne le croit.</li>
                     </ul>
                 </div>
 
@@ -179,7 +179,7 @@ include dirname(__DIR__) . '/header.php';
                 </ul>
 
                 <blockquote class="article-blockquote">
-                    <p>"Sur un chantier en terrain argileux, j'ai vu des parois tenir parfaitement à sec s'effondrer en quelques minutes sous la vibration du camion-toupie. Ne jugez jamais la stabilité d'un sol à l'œil — testez toujours avec un piquet avant de décider."</p>
+                    <p>"Sur un chantier en terrain argileux, j'ai vu des parois tenir parfaitement à sec s'effondrer en quelques minutes sous la vibration du camion-toupie. Ne jugez jamais la stabilité d'un sol à l'œil, testez toujours avec un piquet avant de décider."</p>
                 </blockquote>
 
                 <h2 id="materiaux">Bois vs coffrage perdu : bien choisir son matériel</h2>
@@ -306,12 +306,12 @@ include dirname(__DIR__) . '/header.php';
                      loading="lazy"
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
-                <p>Pour les gros volumes, la livraison par camion-plateau est indispensable. Pensez à vérifier l'accessibilité de votre terrain pour le déchargement des palettes de plaques ou des bottes de bois. Le coffrage perdu, bien que plus onéreux à l'achat, réduit les allers-retours logistiques car il ne nécessite pas d'enlèvement après séchage — un argument de poids sur les chantiers encombrés.</p>
+                <p>Pour les gros volumes, la livraison par camion-plateau est indispensable. Pensez à vérifier l'accessibilité de votre terrain pour le déchargement des palettes de plaques ou des bottes de bois. Le coffrage perdu, bien que plus onéreux à l'achat, réduit les allers-retours logistiques car il ne nécessite pas d'enlèvement après séchage, un argument de poids sur les chantiers encombrés.</p>
 
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 
                 <h3>Peut-on couler du béton de fondation sans coffrage ?</h3>
-                <p>Oui, dans certains cas précis : si le sol est très compact, les parois de la fouille nettes et verticales, et le terrain parfaitement stable. Dans toutes les autres situations — sol meuble, sableux, terrain en pente ou remblai — le coffrage est obligatoire pour contenir le béton et garantir des dimensions précises.</p>
+                <p>Oui, dans certains cas précis : si le sol est très compact, les parois de la fouille nettes et verticales, et le terrain parfaitement stable. Dans toutes les autres situations, sol meuble, sableux, terrain en pente ou remblai, le coffrage est obligatoire pour contenir le béton et garantir des dimensions précises.</p>
 
                 <h3>Quelle est la différence entre coffrage perdu et coffrage traditionnel ?</h3>
                 <p>Le coffrage traditionnel en bois est retiré après séchage du béton (décoffrage). Le coffrage perdu, en polypropylène ou en béton cellulaire, reste en place définitivement. Il offre un gain de temps non négligeable et peut jouer un rôle isolant ou anti-humidité supplémentaire. Son coût d'achat est plus élevé, mais le coût global est souvent comparable une fois le temps de décoffrage écarté.</p>
@@ -320,7 +320,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>L'OSB est composé de copeaux de bois agglomérés par de la colle. Au contact de l'humidité du béton frais, ces copeaux gonflent et la colle se dégrade, provoquant un gonflement brutal du panneau qui peut faire éclater le coffrage en cours de coulage. Le risque de déformation ou d'effondrement est majeur. Utilisez toujours de la planche de sapin rabotée ou du contreplaqué filmé.</p>
 
                 <h3>Combien de temps faut-il attendre avant de décoffrer ?</h3>
-                <p>En règle générale, 24 à 48 heures suffisent pour les fondations en conditions estivales (au-dessus de 15°C). En dessous de 10°C, comptez 72 heures minimum. Par temps de gel, il ne faut surtout pas couler sans précautions — le béton n'atteindra jamais sa résistance nominale s'il gèle avant prise complète.</p>
+                <p>En règle générale, 24 à 48 heures suffisent pour les fondations en conditions estivales (au-dessus de 15°C). En dessous de 10°C, comptez 72 heures minimum. Par temps de gel, il ne faut surtout pas couler sans précautions, le béton n'atteindra jamais sa résistance nominale s'il gèle avant prise complète.</p>
 
             </div>
 
@@ -436,7 +436,7 @@ require_once dirname(__DIR__) . '/schema-data.php';
 $faq_schema = [
     [
         'question' => "Peut-on couler du béton de fondation sans coffrage ?",
-        'answer'   => "Oui, dans certains cas précis : si le sol est très compact, les parois de la fouille nettes et verticales, et le terrain parfaitement stable. Dans toutes les autres situations — sol meuble, sableux, terrain en pente ou remblai — le coffrage est obligatoire pour contenir le béton et garantir des dimensions précises."
+        'answer'   => "Oui, dans certains cas précis : si le sol est très compact, les parois de la fouille nettes et verticales, et le terrain parfaitement stable. Dans toutes les autres situations, sol meuble, sableux, terrain en pente ou remblai, le coffrage est obligatoire pour contenir le béton et garantir des dimensions précises."
     ],
     [
         'question' => "Quelle est la différence entre coffrage perdu et coffrage traditionnel ?",

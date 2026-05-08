@@ -153,19 +153,19 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3 id="annee-construction">Attention à l'année de construction (avant 1997)</h3>
 
-                <p>Le premier réflexe, c'est de vérifier la date du permis de construire. L'interdiction totale de l'amiante en France date du <strong>1er janvier 1997</strong>. Si la maison a été construite avant — par exemple dans les années 1980 ou 1990 — la présence d'amiante dans certains matériaux de couverture doit être envisagée sérieusement. Si elle est postérieure à 1997, le risque est nul.</p>
+                <p>Le premier réflexe, c'est de vérifier la date du permis de construire. L'interdiction totale de l'amiante en France date du <strong>1er janvier 1997</strong>. Si la maison a été construite avant, par exemple dans les années 1980 ou 1990, la présence d'amiante dans certains matériaux de couverture doit être envisagée sérieusement. Si elle est postérieure à 1997, le risque est nul.</p>
 
                 <h3 id="indices-visuels">Les indices visuels du fibrociment amianté vs non amianté</h3>
 
-                <p>Sur les toitures, on parle très souvent de plaques ondulées ou d'ardoises synthétiques en <strong>fibrociment</strong> — parfois appelées amiante-ciment dans les documents plus anciens. Depuis 1997, les fabricants utilisent toujours du fibrociment, mais sans amiante (souvent marqué de la mention "NT" pour <em>Non Asbestos Technology</em>). Mais à l'œil nu, distinguer une plaque d'avant 1997 d'une plaque plus récente est quasiment impossible une fois qu'elles ont vieilli.</p>
+                <p>Sur les toitures, on parle très souvent de plaques ondulées ou d'ardoises synthétiques en <strong>fibrociment</strong>, parfois appelées amiante-ciment dans les documents plus anciens. Depuis 1997, les fabricants utilisent toujours du fibrociment, mais sans amiante (souvent marqué de la mention "NT" pour <em>Non Asbestos Technology</em>). Mais à l'œil nu, distinguer une plaque d'avant 1997 d'une plaque plus récente est quasiment impossible une fois qu'elles ont vieilli.</p>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
-                    <strong>À retenir :</strong> mousse épaisse, teinte grisâtre uniforme, plaques ondulées plus épaisses qu'une tôle classique — ce sont des indices, mais pas une certitude. La forme et l'aspect ne permettent pas de conclure seul.
+                    <strong>À retenir :</strong> mousse épaisse, teinte grisâtre uniforme, plaques ondulées plus épaisses qu'une tôle classique, ce sont des indices, mais pas une certitude. La forme et l'aspect ne permettent pas de conclure seul.
                 </div>
 
                 <h3 id="diagnostic-certifie">Seul un diagnostic amiante peut confirmer à 100 %</h3>
 
-                <p>C'est là que beaucoup de propriétaires se plantent : ils veulent une réponse définitive en regardant le toit depuis le jardin. En pratique, seul un repérage ou un diagnostic réalisé par un <strong>diagnostiqueur certifié</strong> — qui prélève un échantillon envoyé en laboratoire — permet de confirmer la présence ou l'absence d'amiante. Pour les biens vendus, ce diagnostic est d'ailleurs une obligation légale si le permis de construire est antérieur au 1er juillet 1997.</p>
+                <p>C'est là que beaucoup de propriétaires se plantent : ils veulent une réponse définitive en regardant le toit depuis le jardin. En pratique, seul un repérage ou un diagnostic réalisé par un <strong>diagnostiqueur certifié</strong>, qui prélève un échantillon envoyé en laboratoire, permet de confirmer la présence ou l'absence d'amiante. Pour les biens vendus, ce diagnostic est d'ailleurs une obligation légale si le permis de construire est antérieur au 1er juillet 1997.</p>
 
                 <!-- ═══ DANGER ═══ -->
                 <h2 id="danger">Une toiture en amiante est-elle vraiment dangereuse ?</h2>
@@ -174,7 +174,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3 id="risque-inhalation">Le vrai risque : l'inhalation des fibres, pas le simple contact</h3>
 
-                <p>Oui, l'amiante est un <strong>matériau cancérogène avéré</strong>. Les fibres inhalées peuvent provoquer des maladies respiratoires graves — mésothéliome, fibrose pulmonaire — des décennies après l'exposition. Mais il faut être précis : une toiture en fibrociment en bon état n'expose pas les habitants de la même façon qu'un matériau friable comme les anciens flocages ou les calorifugeages. Les fibres sont libérées uniquement quand le matériau est perturbé ou dégradé.</p>
+                <p>Oui, l'amiante est un <strong>matériau cancérogène avéré</strong>. Les fibres inhalées peuvent provoquer des maladies respiratoires graves, mésothéliome, fibrose pulmonaire, des décennies après l'exposition. Mais il faut être précis : une toiture en fibrociment en bon état n'expose pas les habitants de la même façon qu'un matériau friable comme les anciens flocages ou les calorifugeages. Les fibres sont libérées uniquement quand le matériau est perturbé ou dégradé.</p>
 
                 <p>Le ministère de la Transition écologique et l'INRS rappellent tous les deux que le risque de dispersion des fibres apparaît surtout lors de <strong>travaux ou quand l'intégrité du matériau est compromise</strong>. Un toit en bon état, non dégradé, ne libère pas de fibres dans l'air ambiant.</p>
 
@@ -215,7 +215,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3 id="option-confinement">Option 2 — Le confinement (surtoiture par-dessus)</h3>
 
-                <p>Si la charpente le supporte, il est souvent possible de poser une <strong>surtoiture</strong> — bacs acier, tuiles légères — directement par-dessus les plaques de fibrociment existantes. On isole ainsi le matériau dangereux de l'air libre sans avoir à le manipuler ni le retirer. Cette solution est généralement moins coûteuse que le retrait complet. Attention à bien vérifier la résistance de la charpente avant : le fibrociment est léger, le métal ou la tuile le sont moins.</p>
+                <p>Si la charpente le supporte, il est souvent possible de poser une <strong>surtoiture</strong>, bacs acier, tuiles légères, directement par-dessus les plaques de fibrociment existantes. On isole ainsi le matériau dangereux de l'air libre sans avoir à le manipuler ni le retirer. Cette solution est généralement moins coûteuse que le retrait complet. Attention à bien vérifier la résistance de la charpente avant : le fibrociment est léger, le métal ou la tuile le sont moins.</p>
 
                 <h3 id="option-desamiantage">Option 3 — Le désamiantage (retrait et remplacement complet)</h3>
 
@@ -228,15 +228,15 @@ include dirname(__DIR__) . '/header.php';
                     <p>"L'an dernier, j'ai été appelé par un client qui voulait 'donner un coup de propre' à sa toiture en fibrociment des années 80 avant de mettre sa maison en vente. Il a passé le nettoyeur haute pression tout le week-end. Résultat : il a pulvérisé la couche superficielle du ciment, libérant des millions de fibres dans l'air, sur sa façade, dans ses gouttières et sur la pelouse du voisin. Un simple démoussage s'est transformé en chantier de décontamination complet. Ne faites jamais ça."</p>
                 </blockquote>
 
-                <img src="<?php echo BASE_URL; ?>image/toiture-amiante-5.webp" alt="Nettoyage haute pression interdit sur une toiture en fibrociment amianté — risque de libération de fibres" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
+                <img src="<?php echo BASE_URL; ?>image/toiture-amiante-5.webp" alt="Nettoyage haute pression interdit sur une toiture en fibrociment amianté, risque de libération de fibres" loading="lazy" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
                 <h3 id="nettoyage-interdit">Peut-on démousser ou nettoyer une toiture amiantée ?</h3>
 
-                <p>Surtout <strong>pas avec un nettoyeur haute pression</strong>, ni avec un brossage dur à la brosse métallique. Ces méthodes libèrent les fibres. Si la toiture nécessite un traitement, on utilise des produits biocides appliqués à basse pression, idéalement par des professionnels équipés d'EPI (<em>Équipements de Protection Individuelle</em> — combinaison, masque à filtre P3, gants). Le budget sera forcément plus élevé qu'un démoussage classique de tuiles béton.</p>
+                <p>Surtout <strong>pas avec un nettoyeur haute pression</strong>, ni avec un brossage dur à la brosse métallique. Ces méthodes libèrent les fibres. Si la toiture nécessite un traitement, on utilise des produits biocides appliqués à basse pression, idéalement par des professionnels équipés d'EPI (<em>Équipements de Protection Individuelle</em>, combinaison, masque à filtre P3, gants). Le budget sera forcément plus élevé qu'un démoussage classique de tuiles béton.</p>
 
                 <h3 id="marcher-interdit">Peut-on marcher sur des plaques de fibrociment ?</h3>
 
-                <p>Non. Le fibrociment ancien devient cassant avec le temps. Marcher dessus sans protection, c'est risquer de passer au travers — avec tout ce que ça implique en termes de chute — et de briser la plaque, ce qui libère immédiatement de l'amiante. Toute intervention en hauteur sur ce type de toiture nécessite des dispositifs antichute adaptés et des protections de marche spécifiques.</p>
+                <p>Non. Le fibrociment ancien devient cassant avec le temps. Marcher dessus sans protection, c'est risquer de passer au travers, avec tout ce que ça implique en termes de chute, et de briser la plaque, ce qui libère immédiatement de l'amiante. Toute intervention en hauteur sur ce type de toiture nécessite des dispositifs antichute adaptés et des protections de marche spécifiques.</p>
 
                 <h3 id="entreprise-certifiee">L'obligation de passer par une entreprise certifiée</h3>
 
@@ -253,7 +253,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3 id="diagnostic-vente">Le diagnostic amiante avant vente est obligatoire</h3>
 
-                <p>Si vous vendez (ou achetez) un logement dont le <strong>permis de construire a été délivré avant le 1er juillet 1997</strong>, le diagnostic amiante est obligatoire. Son rôle est précis : informer l'acquéreur sur la présence ou l'absence de matériaux contenant de l'amiante. La présence d'amiante n'interdit absolument pas la vente — elle doit simplement figurer dans le dossier de diagnostics techniques remis lors de la signature.</p>
+                <p>Si vous vendez (ou achetez) un logement dont le <strong>permis de construire a été délivré avant le 1er juillet 1997</strong>, le diagnostic amiante est obligatoire. Son rôle est précis : informer l'acquéreur sur la présence ou l'absence de matériaux contenant de l'amiante. La présence d'amiante n'interdit absolument pas la vente, elle doit simplement figurer dans le dossier de diagnostics techniques remis lors de la signature.</p>
 
                 <h3 id="negociation-prix">Un toit en amiante permet-il de négocier le prix ?</h3>
 
@@ -264,7 +264,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3 id="prix-desamiantage">Les coûts du désamiantage</h3>
 
-                <p>Il faut raisonner en deux postes distincts. D'abord, la <strong>dépose des plaques</strong> par l'entreprise certifiée — avec confinement du chantier, port des EPI et conditionnement sécurisé des déchets. Ensuite, le <strong>transport et traitement des déchets amiantés</strong>, facturé à la tonne ou au m² de déchets produits. C'est souvent ce second poste qui fait exploser les devis et surprend les propriétaires.</p>
+                <p>Il faut raisonner en deux postes distincts. D'abord, la <strong>dépose des plaques</strong> par l'entreprise certifiée, avec confinement du chantier, port des EPI et conditionnement sécurisé des déchets. Ensuite, le <strong>transport et traitement des déchets amiantés</strong>, facturé à la tonne ou au m² de déchets produits. C'est souvent ce second poste qui fait exploser les devis et surprend les propriétaires.</p>
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -282,10 +282,10 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3 id="prix-couverture">Le coût de la nouvelle couverture</h3>
 
-                <p>Aux frais de désamiantage, il faut bien sûr ajouter le prix de la nouvelle toiture — bac acier, tuiles béton ou terre cuite, ardoises naturelles. Si les nouveaux matériaux sont plus lourds que l'ancien fibrociment, vérifiez d'abord que la charpente peut les supporter : une reprise de charpente peut rapidement doubler la facture globale. Notre guide sur le <a href="<?php echo BASE_URL; ?>changement-de-couverture" style="text-decoration: underline;"><strong>changement de couverture</strong></a> vous aidera à affiner votre budget selon le matériau choisi.</p>
+                <p>Aux frais de désamiantage, il faut bien sûr ajouter le prix de la nouvelle toiture, bac acier, tuiles béton ou terre cuite, ardoises naturelles. Si les nouveaux matériaux sont plus lourds que l'ancien fibrociment, vérifiez d'abord que la charpente peut les supporter : une reprise de charpente peut rapidement doubler la facture globale. Notre guide sur le <a href="<?php echo BASE_URL; ?>changement-de-couverture" style="text-decoration: underline;"><strong>changement de couverture</strong></a> vous aidera à affiner votre budget selon le matériau choisi.</p>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
-                    <strong>Conseil :</strong> demandez toujours au moins 3 devis à des entreprises certifiées. Comparez ligne à ligne le poste "gestion des déchets amiantés" — c'est là que les écarts entre devis sont souvent les plus importants et les moins visibles.
+                    <strong>Conseil :</strong> demandez toujours au moins 3 devis à des entreprises certifiées. Comparez ligne à ligne le poste "gestion des déchets amiantés", c'est là que les écarts entre devis sont souvent les plus importants et les moins visibles.
                 </div>
 
                 <!-- ═══ FAQ ═══ -->
@@ -304,10 +304,10 @@ include dirname(__DIR__) . '/header.php';
                 <p>Non, pas avec un nettoyeur haute pression ni une brosse métallique. Ces méthodes libèrent des fibres d'amiante. Tout traitement d'une toiture susceptible de contenir de l'amiante nécessite des précautions spécifiques et des équipements de protection adaptés. Confiez cette opération à un professionnel.</p>
 
                 <h3>Où jeter des plaques de fibrociment amianté ?</h3>
-                <p>Il est strictement interdit de les jeter dans la nature ou aux encombrants. Elles doivent être conditionnées dans des emballages étanches homologués et déposées dans une installation de stockage de déchets dangereux (ISDD) agréée, avec un Bordereau de Suivi des Déchets Amiantés (BSDA). Certaines déchetteries acceptent de petites quantités d'amiante lié — renseignez-vous directement auprès de la vôtre avant de vous déplacer.</p>
+                <p>Il est strictement interdit de les jeter dans la nature ou aux encombrants. Elles doivent être conditionnées dans des emballages étanches homologués et déposées dans une installation de stockage de déchets dangereux (ISDD) agréée, avec un Bordereau de Suivi des Déchets Amiantés (BSDA). Certaines déchetteries acceptent de petites quantités d'amiante lié, renseignez-vous directement auprès de la vôtre avant de vous déplacer.</p>
 
                 <h3>Quel est le bon réflexe avant un chantier sur un toit ancien ?</h3>
-                <p>Faire vérifier la présence d'amiante et cadrer l'intervention avant de toucher au matériau. Sur ce sujet, improviser coûte toujours plus cher que vérifier correctement dès le départ — aussi bien en termes de budget que de responsabilité.</p>
+                <p>Faire vérifier la présence d'amiante et cadrer l'intervention avant de toucher au matériau. Sur ce sujet, improviser coûte toujours plus cher que vérifier correctement dès le départ, aussi bien en termes de budget que de responsabilité.</p>
 
             </div><!-- /.article-content -->
 
@@ -327,7 +327,7 @@ include dirname(__DIR__) . '/header.php';
             <!-- CONCLUSION CTA -->
             <div class="conclusion-box">
                 <h3>Besoin d'un devis désamiantage ou réfection de toiture ?</h3>
-                <p>Une toiture en fibrociment amianté se gère dans l'ordre : d'abord le diagnostic, ensuite la décision. Surveillance, confinement ou désamiantage complet — chaque situation a sa réponse. Si votre chantier nécessite une intervention sur ces matériaux, faites appel à un professionnel certifié.</p>
+                <p>Une toiture en fibrociment amianté se gère dans l'ordre : d'abord le diagnostic, ensuite la décision. Surveillance, confinement ou désamiantage complet, chaque situation a sa réponse. Si votre chantier nécessite une intervention sur ces matériaux, faites appel à un professionnel certifié.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un devis gratuit</a>
             </div>
 

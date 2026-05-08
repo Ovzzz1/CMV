@@ -141,7 +141,7 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                     <ul class="custom-list">
                         <li><strong>Agissez vite :</strong> l'acide urique des fientes attaque le pigment de l'enduit. Une fiente "cuite" tout un été laisse un spectre permanent.</li>
-                        <li><strong>Pré-mouillage obligatoire :</strong> saturez le mur d'eau claire avant toute chose — un crépi sec boit la saleté par capillarité.</li>
+                        <li><strong>Pré-mouillage obligatoire :</strong> saturez le mur d'eau claire avant toute chose, un crépi sec boit la saleté par capillarité.</li>
                         <li><strong>Meilleur produit :</strong> savon de Marseille dilué dans l'eau tiède, complété par du vinaigre blanc pour neutraliser l'acidité.</li>
                         <li><strong>Brosse souple uniquement :</strong> nylon à poils doux. Jamais le dos vert d'une éponge, jamais de brosse métallique.</li>
                         <li><strong>Karcher : non.</strong> La haute pression décape le grain protecteur et crée des micro-fissures invisibles à l'œil nu.</li>
@@ -167,10 +167,10 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Ce n'est pas qu'une question de propreté. Les fientes de pigeons, de corbeaux ou de mouettes contiennent de l'acide urique. Sur un enduit neuf qui n'a pas encore fait sa prise complète à cœur, cet acide est un poison.</p>
 
-                <p>Si vous laissez la déjection "cuire" au soleil tout un été, l'acide attaque le pigment de l'<a href="<?php echo BASE_URL; ?>enduit-facade">enduit de façade</a>. Résultat : même en nettoyant parfaitement en septembre, il restera une tache plus claire — ce qu'on appelle un <span class="hashtag">#spectre</span>. Plus vous agissez vite, plus vous sauvez la teinte d'origine.</p>
+                <p>Si vous laissez la déjection "cuire" au soleil tout un été, l'acide attaque le pigment de l'<a href="<?php echo BASE_URL; ?>enduit-facade">enduit de façade</a>. Résultat : même en nettoyant parfaitement en septembre, il restera une tache plus claire, ce qu'on appelle un <span class="hashtag">#spectre</span>. Plus vous agissez vite, plus vous sauvez la teinte d'origine.</p>
 
                 <blockquote class="article-blockquote">
-                    <p>"L'effet éponge du crépi : un enduit de façade n'est pas lisse. Ses micro-cavités retiennent l'eau, mais aussi les polluants dilués. C'est pour cela qu'on ne nettoie jamais une tache sur un mur extérieur en frottant avec un chiffon sec — on ne fait qu'enfoncer la saleté plus profondément dans les pores."</p>
+                    <p>"L'effet éponge du crépi : un enduit de façade n'est pas lisse. Ses micro-cavités retiennent l'eau, mais aussi les polluants dilués. C'est pour cela qu'on ne nettoie jamais une tache sur un mur extérieur en frottant avec un chiffon sec, on ne fait qu'enfoncer la saleté plus profondément dans les pores."</p>
                 </blockquote>
 
                 <h2 id="produit">2. Quel produit choisir ? (et ce qu'il faut éviter)</h2>
@@ -328,13 +328,13 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 
                 <h3>Peut-on utiliser le bicarbonate de soude et le vinaigre blanc en même temps ?</h3>
-                <p>Non. Acide + Base = de l'eau salée qui mousse — ça ne nettoie rien du tout. Utilisez le bicarbonate dilué dans un peu d'eau pour frotter la tache, rincez, puis passez un coup de pulvérisateur au vinaigre blanc pour neutraliser l'acidité de la fiente. Toujours l'un après l'autre, jamais ensemble.</p>
+                <p>Non. Acide + Base = de l'eau salée qui mousse, ça ne nettoie rien du tout. Utilisez le bicarbonate dilué dans un peu d'eau pour frotter la tache, rincez, puis passez un coup de pulvérisateur au vinaigre blanc pour neutraliser l'acidité de la fiente. Toujours l'un après l'autre, jamais ensemble.</p>
 
                 <h3>Comment enlever une tache grise qui reste sur le crépi extérieur après nettoyage ?</h3>
-                <p>Si la fiente est partie mais qu'une tache grise persiste, c'est que la zone est contaminée par des champignons — l'humidité de la fiente favorise la mousse. Pulvérisez un produit anti-mousse professionnel et laissez agir sans frotter. Le spectre gris disparaîtra au bout de quelques jours avec la pluie.</p>
+                <p>Si la fiente est partie mais qu'une tache grise persiste, c'est que la zone est contaminée par des champignons, l'humidité de la fiente favorise la mousse. Pulvérisez un produit anti-mousse professionnel et laissez agir sans frotter. Le spectre gris disparaîtra au bout de quelques jours avec la pluie.</p>
 
                 <h3>Combien de temps attendre avant de nettoyer un crépi neuf taché par une fiente ?</h3>
-                <p>Pas question d'attendre : agissez dès que vous voyez la fiente, même si l'enduit est récent. Plus vous tardez, plus l'acide urique s'incruste dans les pores du liant. Sur un enduit de moins de 6 mois, soyez encore plus doux — utilisez uniquement de l'eau tiède et un chiffon en microfibre, sans produit ni brosse. La prise complète du liant prend du temps et tout frottement est risqué.</p>
+                <p>Pas question d'attendre : agissez dès que vous voyez la fiente, même si l'enduit est récent. Plus vous tardez, plus l'acide urique s'incruste dans les pores du liant. Sur un enduit de moins de 6 mois, soyez encore plus doux, utilisez uniquement de l'eau tiède et un chiffon en microfibre, sans produit ni brosse. La prise complète du liant prend du temps et tout frottement est risqué.</p>
 
             </div>
 
@@ -450,15 +450,15 @@ require_once dirname(__DIR__) . '/schema-data.php';
 $faq_schema = [
     [
         'question' => "Peut-on utiliser le bicarbonate de soude et le vinaigre blanc en même temps ?",
-        'answer'   => "Non. Acide + Base = de l'eau salée qui mousse — ça ne nettoie rien du tout. Utilisez le bicarbonate dilué dans un peu d'eau pour frotter la tache, rincez, puis passez un coup de pulvérisateur au vinaigre blanc pour neutraliser l'acidité de la fiente. Toujours l'un après l'autre, jamais ensemble."
+        'answer'   => "Non. Acide + Base = de l'eau salée qui mousse, ça ne nettoie rien du tout. Utilisez le bicarbonate dilué dans un peu d'eau pour frotter la tache, rincez, puis passez un coup de pulvérisateur au vinaigre blanc pour neutraliser l'acidité de la fiente. Toujours l'un après l'autre, jamais ensemble."
     ],
     [
         'question' => "Comment enlever une tache grise qui reste sur le crépi extérieur après nettoyage ?",
-        'answer'   => "Si la fiente est partie mais qu'une tache grise persiste, c'est que la zone est contaminée par des champignons — l'humidité de la fiente favorise la mousse. Pulvérisez un produit anti-mousse professionnel et laissez agir sans frotter. Le spectre gris disparaîtra au bout de quelques jours avec la pluie."
+        'answer'   => "Si la fiente est partie mais qu'une tache grise persiste, c'est que la zone est contaminée par des champignons, l'humidité de la fiente favorise la mousse. Pulvérisez un produit anti-mousse professionnel et laissez agir sans frotter. Le spectre gris disparaîtra au bout de quelques jours avec la pluie."
     ],
     [
         'question' => "Combien de temps attendre avant de nettoyer un crépi neuf taché par une fiente ?",
-        'answer'   => "Pas question d'attendre : agissez dès que vous voyez la fiente, même si l'enduit est récent. Plus vous tardez, plus l'acide urique s'incruste dans les pores du liant. Sur un enduit de moins de 6 mois, soyez encore plus doux — utilisez uniquement de l'eau tiède et un chiffon en microfibre, sans produit ni brosse."
+        'answer'   => "Pas question d'attendre : agissez dès que vous voyez la fiente, même si l'enduit est récent. Plus vous tardez, plus l'acide urique s'incruste dans les pores du liant. Sur un enduit de moins de 6 mois, soyez encore plus doux, utilisez uniquement de l'eau tiède et un chiffon en microfibre, sans produit ni brosse."
     ],
 ];
 

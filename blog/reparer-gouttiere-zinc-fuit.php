@@ -27,12 +27,12 @@ $d = [
 ],
 
 // ─── INTRO ────────────────────────────────────────────────────────────────────
-'intro' => 'Une gouttière en zinc qui fuit peut rapidement causer des dégâts des eaux importants sur votre façade ou vos fondations. Ce matériau, bien que très résistant, peut au fil des années présenter des signes de fatigue : fissures, micro-trous, joints qui lâchent ou soudure qui cède. La bonne nouvelle ? Dans la majorité des cas, une <strong>réparation soi-même est tout à fait possible</strong> — sans être zingueur, et souvent sans soudure.',
+'intro' => 'Une gouttière en zinc qui fuit peut rapidement causer des dégâts des eaux importants sur votre façade ou vos fondations. Ce matériau, bien que très résistant, peut au fil des années présenter des signes de fatigue : fissures, micro-trous, joints qui lâchent ou soudure qui cède. La bonne nouvelle ? Dans la majorité des cas, une <strong>réparation soi-même est tout à fait possible</strong>, sans être zingueur, et souvent sans soudure.',
 
 // ─── TLDR ─────────────────────────────────────────────────────────────────────
 'tldr' => [
     ['label' => 'Diagnostic d\'abord',     'text' => 'Localisez précisément la fuite (test seau d\'eau, inspection des jonctions) avant de choisir la méthode.'],
-    ['label' => 'Sans soudure',            'text' => 'Mastic spécial zinc (Soudal Zinc Fix) ou bande bitumeuse couvrent 80 % des cas courants — aucun outil spécifique requis.'],
+    ['label' => 'Sans soudure',            'text' => 'Mastic spécial zinc (Soudal Zinc Fix) ou bande bitumeuse couvrent 80 % des cas courants, aucun outil spécifique requis.'],
     ['label' => 'Avec soudure à l\'étain', 'text' => 'La méthode la plus durable (15-20 ans), mais technique : nécessite un fer à souder de couvreur et un peu de pratique.'],
     ['label' => 'Quand appeler un pro',    'text' => 'Zone corrodée > 3-4 cm, zinc poreux sur tout un tronçon ou accès dangereux sans échafaudage → zingueur obligatoire.'],
 ],
@@ -57,10 +57,10 @@ $d = [
 <p>Avant de réparer, il est indispensable de comprendre d'où vient l'écoulement. Les <a href="https://www.cemarenov.fr/gouttieres">gouttières en zinc</a> sont résistantes mais sensibles aux cycles de gel/dégel qui dilatent et contractent le métal. Les causes les plus fréquentes sont :</p>
 
 <ul class="custom-list">
-    <li><strong>Micro-fissure sur le fond du chéneau</strong> — corrosion progressive ou vieillissement de la zone exposée aux eaux stagnantes.</li>
+    <li><strong>Micro-fissure sur le fond du chéneau</strong>, corrosion progressive ou vieillissement de la zone exposée aux eaux stagnantes.</li>
     <li><strong>Soudure qui a lâché</strong> au niveau d'un raccordement entre deux profilés ou à l'emboîture d'un angle.</li>
-    <li><strong>Jonction ou joint de gouttière qui fuit</strong> — les joints en mastic ou en caoutchouc s'altèrent avec le temps et laissent passer l'eau au niveau des assemblages.</li>
-    <li><strong>Perforation mécanique</strong> — impact d'une branche, choc lors d'un nettoyage, etc.</li>
+    <li><strong>Jonction ou joint de gouttière qui fuit</strong>, les joints en mastic ou en caoutchouc s'altèrent avec le temps et laissent passer l'eau au niveau des assemblages.</li>
+    <li><strong>Perforation mécanique</strong>, impact d'une branche, choc lors d'un nettoyage, etc.</li>
     <li><strong>Bouchon de débris</strong> qui provoque un débordement ressemblant à une fuite.</li>
 </ul>
 
@@ -70,7 +70,7 @@ $d = [
     <li><strong>Nettoyez le chéneau</strong> : retirez tous les débris (feuilles, boue) avec des gants. La surface doit être propre pour inspecter le zinc correctement.</li>
     <li><strong>Test du seau d'eau</strong> : versez de l'eau en amont de la zone suspecte et observez par en dessous d'où les gouttes s'échappent. Éclairez si nécessaire.</li>
     <li><strong>Inspectez les jonctions</strong> : les assemblages entre deux tronçons (jonctions, coudes, descentes) sont les points de fuite les plus fréquents. Vérifiez l'état des joints.</li>
-    <li><strong>Marquez la zone</strong> : à la craie ou au feutre, délimitez la zone à traiter — vous la travaillerez une fois la gouttière entièrement sèche.</li>
+    <li><strong>Marquez la zone</strong> : à la craie ou au feutre, délimitez la zone à traiter, vous la travaillerez une fois la gouttière entièrement sèche.</li>
 </ol>
 
 <p><strong>À lire aussi : <a href="https://www.cemarenov.fr/abergement-de-cheminee">Abergement de cheminée : l'étanchéité souvent négligée de votre toiture</a></strong></p>
@@ -134,10 +134,10 @@ $d = [
 
 <h3 id="methode-sans-soudure-mastic">Option A — Mastic spécial zinc (petite fissure ou joint défaillant)</h3>
 
-<p>Le mastic-colle polymère spécial zinc (ex : <strong>Soudal Zinc Fix</strong>, disponible en GSB autour de 15 €) est conçu pour adhérer parfaitement sur le métal en extérieur. C'est le produit recommandé — le silicone sanitaire classique ne tient pas sur le zinc exposé aux UV.</p>
+<p>Le mastic-colle polymère spécial zinc (ex : <strong>Soudal Zinc Fix</strong>, disponible en GSB autour de 15 €) est conçu pour adhérer parfaitement sur le métal en extérieur. C'est le produit recommandé, le silicone sanitaire classique ne tient pas sur le zinc exposé aux UV.</p>
 
 <ol style="margin-bottom: 20px; padding-left: 20px;">
-    <li><strong>Nettoyez la surface</strong> avec un nettoyant zinc (ou acétone / white spirit). La zone doit être dégraissée — c'est l'étape critique pour l'adhérence du mastic.</li>
+    <li><strong>Nettoyez la surface</strong> avec un nettoyant zinc (ou acétone / white spirit). La zone doit être dégraissée, c'est l'étape critique pour l'adhérence du mastic.</li>
     <li><strong>Poncez au papier 180</strong> sur 2 à 3 cm autour de la fissure pour créer une accroche mécanique sur le métal.</li>
     <li><strong>Appliquez un cordon continu de mastic</strong>, sans trous d'air ni interruption. Utilisez un pistolet extrudeur pour un dépôt régulier.</li>
     <li><strong>Lissez avec une spatule humide</strong>, puis formez un léger congé (bord arrondi) pour éviter que l'eau ne stagne sur les bords.</li>
@@ -161,11 +161,11 @@ $d = [
 <p>La soudure à l'étain est la réparation de référence pour les gouttières en zinc : elle restitue une étanchéité parfaite et une durabilité équivalente à l'installation d'origine. Elle requiert un fer à souder de couvreur (ou un chalumeau léger) et un minimum de pratique.</p>
 
 <ol style="margin-bottom: 20px; padding-left: 20px;">
-    <li><strong>Nettoyez et séchez parfaitement</strong> la zone — toute trace d'humidité empêche la soudure d'accrocher.</li>
+    <li><strong>Nettoyez et séchez parfaitement</strong> la zone, toute trace d'humidité empêche la soudure d'accrocher.</li>
     <li><strong>Décapez minutieusement</strong> la zone avec un acide décapant (esprit de sel / acide chlorhydrique dilué) ou un flux de soudure spécifique pour zinc. Appliquez au pinceau sur 3-4 cm autour de la fissure.</li>
-    <li><strong>Chauffez le zinc progressivement</strong> avec votre fer ou chalumeau. Le zinc doit être chaud mais pas en fusion — attention à ne pas perforer davantage.</li>
+    <li><strong>Chauffez le zinc progressivement</strong> avec votre fer ou chalumeau. Le zinc doit être chaud mais pas en fusion, attention à ne pas perforer davantage.</li>
     <li><strong>Déposez l'étain</strong> (baguette d'étain 60/40) sur la zone chauffée : il doit couler et s'étaler naturellement en remplissant la fissure.</li>
-    <li><strong>Répartissez avec la panne du fer</strong> pour créer une couverture lisse, continue et légèrement bombée — la soudure doit déborder de 1 à 2 cm de chaque côté de la fissure.</li>
+    <li><strong>Répartissez avec la panne du fer</strong> pour créer une couverture lisse, continue et légèrement bombée, la soudure doit déborder de 1 à 2 cm de chaque côté de la fissure.</li>
     <li><strong>Nettoyez les résidus de décapant</strong> à l'eau claire. L'acide résiduel accélère la corrosion du zinc s'il n'est pas éliminé.</li>
 </ol>
 
@@ -178,10 +178,10 @@ $d = [
 <p>Certaines situations rendent le bricolage inadapté, voire dangereux :</p>
 
 <ul class="custom-list">
-    <li>La zone corrodée dépasse 3-4 cm — la réparation locale ne tient pas longtemps.</li>
+    <li>La zone corrodée dépasse 3-4 cm, la réparation locale ne tient pas longtemps.</li>
     <li>Le zinc est entièrement poreux ou perforé sur un tronçon entier.</li>
     <li>La gouttière est inaccessible sans échafaudage ou les conditions de sécurité ne sont pas réunies.</li>
-    <li>Les infiltrations ont déjà endommagé la charpente ou les tuiles avoisinantes — dans ce cas, il faut peut-être penser à un <a href="https://www.cemarenov.fr/remaniement-de-couverture">remaniement de couverture</a> plus large, voire un <a href="https://www.cemarenov.fr/changement-de-couverture">remplacement complet de la couverture</a>.</li>
+    <li>Les infiltrations ont déjà endommagé la charpente ou les tuiles avoisinantes, dans ce cas, il faut peut-être penser à un <a href="https://www.cemarenov.fr/remaniement-de-couverture">remaniement de couverture</a> plus large, voire un <a href="https://www.cemarenov.fr/changement-de-couverture">remplacement complet de la couverture</a>.</li>
 </ul>
 
 <h3>Prix moyen d'une réparation par un professionnel</h3>
@@ -211,7 +211,7 @@ $d = [
 <ul class="custom-list">
     <li><strong>Nettoyez le chéneau une fois par an</strong>, idéalement en fin d'automne, pour retirer feuilles mortes et boue.</li>
     <li><strong>Installez des crapaudines</strong> en tête de descente pour prévenir les bouchons sans effort.</li>
-    <li><strong>Inspectez les jonctions et soudures</strong> après les épisodes de gel — c'est quand le zinc se dilate et se contracte que les soudures lâchent.</li>
+    <li><strong>Inspectez les jonctions et soudures</strong> après les épisodes de gel, c'est quand le zinc se dilate et se contracte que les soudures lâchent.</li>
     <li><strong>Vérifiez la pente du chéneau</strong> : une pente insuffisante (moins de 3 mm/m) favorise la stagnation de l'eau et accélère la corrosion du fond.</li>
 </ul>
 
@@ -220,7 +220,7 @@ HTML,
 // ─── OUTIL UX ─────────────────────────────────────────────────────────────────
 'ux' => [
     'h2'    => 'Quel type de réparation vous convient ?',
-    'title' => 'Diagnostic rapide — Trouvez votre méthode',
+    'title' => 'Diagnostic rapide, Trouvez votre méthode',
     'steps' => [
         ['question' => 'Quelle est l\'ampleur de la fuite ?', 'options' => [
             ['label' => 'Petite fissure ou micro-trou (< 5 mm)', 'value' => 'type-fissure'],
@@ -238,7 +238,7 @@ HTML,
     ],
     'success_title' => '🎯 Votre méthode recommandée :',
     'warning_title' => '👷 Faites appel à un professionnel',
-    'warning_text'  => 'La zone endommagée est trop importante ou l\'accès est dangereux sans équipement adapté. Un zingueur peut intervenir rapidement — comptez entre 50 € et 150 € pour une réparation simple.',
+    'warning_text'  => 'La zone endommagée est trop importante ou l\'accès est dangereux sans équipement adapté. Un zingueur peut intervenir rapidement, comptez entre 50 € et 150 € pour une réparation simple.',
     'warning_cta'   => 'Obtenir un devis gratuit',
     'js_logic'      => <<<JS
         if (userAnswers.step3 === 'inaccessible' || userAnswers.step1 === 'type-gros') {
@@ -263,17 +263,17 @@ JS,
     ['q' => 'Quel est le meilleur produit d\'étanchéité pour le zinc ?',
      'a' => 'Pour une petite fissure sans soudure : le mastic-colle polymère <strong>Soudal Zinc Fix</strong> (environ 15 €). Pour un trou plus large : la résine d\'étanchéité armée à froid ou une bande bitumeuse autoadhésive. Pour une réparation définitive : la soudure à l\'étain reste la référence.'],
     ['q' => 'Puis-je réparer moi-même ma gouttière en zinc ?',
-     'a' => 'Oui, dans la plupart des cas. Un trou ou une fissure localisée est accessible à un bricoleur averti équipé d\'une échelle sécurisée. La difficulté monte si vous souhaitez souder — mais même là, c\'est faisable avec un peu d\'entraînement. Les seules situations qui imposent un pro : accès difficile, zone corrodée étendue, ou dégâts sur la charpente sous-jacente.'],
+     'a' => 'Oui, dans la plupart des cas. Un trou ou une fissure localisée est accessible à un bricoleur averti équipé d\'une échelle sécurisée. La difficulté monte si vous souhaitez souder, mais même là, c\'est faisable avec un peu d\'entraînement. Les seules situations qui imposent un pro : accès difficile, zone corrodée étendue, ou dégâts sur la charpente sous-jacente.'],
     ['q' => 'Comment boucher un trou dans un chéneau en zinc ?',
      'a' => 'Pour un trou jusqu\'à ~20 mm : nettoyez, dégraissez, poncez au 180 autour du trou, puis appliquez une bande bitumeuse autoadhésive en débordant largement. Pour un trou plus grand ou une soudure qui a lâché : soudure à l\'étain ou remplacement du tronçon.'],
-    ['q' => 'La jonction entre deux tronçons de gouttière fuit — que faire ?',
+    ['q' => 'La jonction entre deux tronçons de gouttière fuit, que faire ?',
      'a' => 'C\'est un cas très fréquent. Retirez l\'ancien joint, nettoyez les deux surfaces à fond, et appliquez un cordon de mastic polyuréthane neuf dans l\'emboîture. Certains kits de jonction incluent un nouveau joint caoutchouc à clipser. Si la jonction est soudée et que la soudure a craqué, il faut la refaire à l\'étain.'],
     ['q' => 'Est-ce que l\'assurance habitation couvre une fuite de gouttière ?',
-     'a' => 'La réparation de la gouttière elle-même n\'est pas couverte — c\'est un entretien courant à votre charge. En revanche, si la fuite a causé des dégâts à l\'intérieur (infiltration, mur dégradé), votre garantie dégâts des eaux peut prendre en charge les réparations intérieures. Contactez votre assureur avec des photos à l\'appui.'],
+     'a' => 'La réparation de la gouttière elle-même n\'est pas couverte, c\'est un entretien courant à votre charge. En revanche, si la fuite a causé des dégâts à l\'intérieur (infiltration, mur dégradé), votre garantie dégâts des eaux peut prendre en charge les réparations intérieures. Contactez votre assureur avec des photos à l\'appui.'],
     ['q' => 'Les joints de gouttière doivent-ils être étanchéifiés régulièrement ?',
      'a' => 'Oui. Un joint en mastic ou en caoutchouc a une durée de vie de 5 à 10 ans en extérieur. Une vérification visuelle annuelle permet de détecter un joint qui commence à se fissurer avant qu\'il ne fasse de dégâts.'],
     ['q' => 'Quelle est la durée de vie d\'une gouttière en zinc ?',
-     'a' => 'Avec un entretien régulier, une gouttière en zinc peut durer de 30 à 40 ans — ce qui en fait le matériau le plus durable parmi les solutions couverture. Le PVC, moins cher à l\'achat, ne tient que 15 à 20 ans.'],
+     'a' => 'Avec un entretien régulier, une gouttière en zinc peut durer de 30 à 40 ans, ce qui en fait le matériau le plus durable parmi les solutions couverture. Le PVC, moins cher à l\'achat, ne tient que 15 à 20 ans.'],
 ],
 
 // ─── BLOCS DE FIN ─────────────────────────────────────────────────────────────

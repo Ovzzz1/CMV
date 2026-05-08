@@ -136,7 +136,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Construire un garage, un appentis ou une extension adossée à votre maison sur des murs en parpaing ? La charpente monopente est la solution la plus logique — simple, économique, adaptée. Mais le parpaing creux ne se fixe pas comme du béton plein : un mauvais choix de cheville ou une muralière mal ancrée, et c'est toute la structure qui bouge au premier coup de vent. Ce guide entre dans le détail de ce que les autres n'approfondissent pas : le scellement chimique, l'arase de pente et l'ordre d'exécution rigoureux du montage.
+                Construire un garage, un appentis ou une extension adossée à votre maison sur des murs en parpaing ? La charpente monopente est la solution la plus logique, simple, économique, adaptée. Mais le parpaing creux ne se fixe pas comme du béton plein : un mauvais choix de cheville ou une muralière mal ancrée, et c'est toute la structure qui bouge au premier coup de vent. Ce guide entre dans le détail de ce que les autres n'approfondissent pas : le scellement chimique, l'arase de pente et l'ordre d'exécution rigoureux du montage.
             </p>
 
             <div class="article-content">
@@ -148,7 +148,7 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                     <ul class="custom-list">
                         <li><strong>Zéro cheville à expansion sur parpaing creux :</strong> le bossage interne s'effrite sous charge. Scellement chimique + tamis métallique obligatoire (Hilti HIT-RE 500, Fischer FIS V Plus).</li>
-                        <li><strong>Arase de pente indispensable :</strong> une couche de béton B20 ferraillée sur les pignons avant toute pose de panne. Sans elle, les efforts se concentrent sur quelques cm² de béton creux — l'éclatement est inévitable.</li>
+                        <li><strong>Arase de pente indispensable :</strong> une couche de béton B20 ferraillée sur les pignons avant toute pose de panne. Sans elle, les efforts se concentrent sur quelques cm² de béton creux, l'éclatement est inévitable.</li>
                         <li><strong>Douglas Classe 3 :</strong> l'essence de référence pour une charpente 1 pan exposée. Classement C24, durabilité naturelle sans traitement autoclave lourd.</li>
                         <li><strong>Laser traversant obligatoire :</strong> alignez muralière et faîtière au niveau laser avant de sceller la moindre tige. 5 mm de décalage = torsion sur chaque chevron.</li>
                         <li><strong>Solin maçonné DTU 40.11 :</strong> saignée dans le mur existant + bande plomb ou alu, recouvrement 15 cm minimum sur la couverture.</li>
@@ -204,9 +204,9 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Pourquoi le Douglas s'impose</h3>
 
-                <p>Le <strong>Douglas</strong> est l'essence de référence pour une charpente 1 pan exposée aux intempéries. Sa résistance mécanique (classement C24 fréquent) et sa durabilité naturelle en <strong>classe d'emploi 3</strong> — sans traitement autoclave lourd — en font le choix idéal pour une structure adossée à un mur en parpaing, partiellement exposée à l'humidité. Le sapin et l'épicéa restent acceptables à condition d'être traités classe 3 minimum en cas de contact direct avec la pluie ou l'humidité remontant du mur.</p>
+                <p>Le <strong>Douglas</strong> est l'essence de référence pour une charpente 1 pan exposée aux intempéries. Sa résistance mécanique (classement C24 fréquent) et sa durabilité naturelle en <strong>classe d'emploi 3</strong>, sans traitement autoclave lourd, en font le choix idéal pour une structure adossée à un mur en parpaing, partiellement exposée à l'humidité. Le sapin et l'épicéa restent acceptables à condition d'être traités classe 3 minimum en cas de contact direct avec la pluie ou l'humidité remontant du mur.</p>
 
-                <p>Conseil terrain : pré-percez vos muralières et pannes <strong>au sol avant la pose</strong>. Vous gagnerez facilement une heure de travail en hauteur et réduirez le risque de fissuration du bois sur un échafaudage instable. Tout about coupé sur chantier doit être immédiatement traité au pinceau avec un produit classe 3 (perméthrine ou propiconazole) — le Douglas ne pardonne pas les coupes fraîches laissées sans protection.</p>
+                <p>Conseil terrain : pré-percez vos muralières et pannes <strong>au sol avant la pose</strong>. Vous gagnerez facilement une heure de travail en hauteur et réduirez le risque de fissuration du bois sur un échafaudage instable. Tout about coupé sur chantier doit être immédiatement traité au pinceau avec un produit classe 3 (perméthrine ou propiconazole), le Douglas ne pardonne pas les coupes fraîches laissées sans protection.</p>
 
                 <div class="guide-links-box">
                     <h3>Guides complémentaires</h3>
@@ -220,7 +220,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="fixation">Fixation sur parpaing : scellement chimique vs sabots directs</h2>
 
-                <p>C'est le cœur du sujet et la zone où la majorité des erreurs se produisent. Le parpaing creux — le type le plus courant en France — est composé à 50 % de vide. Il <strong>ne tolère pas les chevilles à expansion classiques</strong> : sous effort de traction ou de cisaillement, le bossage interne s'effrite et la fixation lâche sans avertissement préalable.</p>
+                <p>C'est le cœur du sujet et la zone où la majorité des erreurs se produisent. Le parpaing creux, le type le plus courant en France, est composé à 50 % de vide. Il <strong>ne tolère pas les chevilles à expansion classiques</strong> : sous effort de traction ou de cisaillement, le bossage interne s'effrite et la fixation lâche sans avertissement préalable.</p>
 
                 <h3>Scellement chimique sur parpaing creux : la seule méthode fiable</h3>
 
@@ -228,7 +228,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <ol style="margin-bottom: 20px; padding-left: 20px;">
                     <li><strong>Percer</strong> au bon diamètre (12 à 16 mm selon la tige filetée).</li>
-                    <li><strong>Souffler et brosser</strong> soigneusement le trou — les poussières empêchent l'adhérence de la résine.</li>
+                    <li><strong>Souffler et brosser</strong> soigneusement le trou, les poussières empêchent l'adhérence de la résine.</li>
                     <li><strong>Insérer le tamis métallique</strong> dans le trou.</li>
                     <li><strong>Injecter la résine</strong> depuis le fond vers l'entrée avec un pistolet bi-composant.</li>
                     <li><strong>Visser la tige filetée</strong> en tournant légèrement pendant l'injection pour saturer la cavité.</li>
@@ -252,7 +252,7 @@ include dirname(__DIR__) . '/header.php';
                             <tr><td>Parpaing creux standard</td><td>Scellement chimique + tamis métallique</td><td>Hilti HIT-RE 500, Fischer FIS V Plus</td></tr>
                             <tr><td>Parpaing plein / béton armé</td><td>Cheville à expansion ou scellement chimique</td><td>Rawlbolt, Spit Pulsa, tout chimique</td></tr>
                             <tr><td>Béton cellulaire (Siporex)</td><td>Cheville spéciale BC ou chimique légère</td><td>Fischer SXR, Hilti HIT-Z-R</td></tr>
-                            <tr><td>Maçonnerie ancienne / irrégulière</td><td>Arase béton armé + platine soudée</td><td>Solution sur mesure — faire appel à un artisan</td></tr>
+                            <tr><td>Maçonnerie ancienne / irrégulière</td><td>Arase béton armé + platine soudée</td><td>Solution sur mesure, faire appel à un artisan</td></tr>
                         </tbody>
                     </table>
                 </div>
@@ -265,7 +265,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Réalisation de l'arase de pente — le fondement de tout</h3>
 
-                <p>Sur les deux murs pignons, le dessus des parpaings doit suivre exactement la pente souhaitée. <strong>L'arase de pente</strong> est une couche de béton (5 à 8 cm d'épaisseur) coulée sur le dessus des parpaings en suivant cette inclinaison, créant une surface d'appui continue, plane et inclinée. Sans arase, les efforts se concentrent sur quelques cm² de béton creux — l'éclatement est inévitable. Avec une arase ferraillée (fers HA8 en épingle), vous répartissez les charges sur toute la longueur.</p>
+                <p>Sur les deux murs pignons, le dessus des parpaings doit suivre exactement la pente souhaitée. <strong>L'arase de pente</strong> est une couche de béton (5 à 8 cm d'épaisseur) coulée sur le dessus des parpaings en suivant cette inclinaison, créant une surface d'appui continue, plane et inclinée. Sans arase, les efforts se concentrent sur quelques cm² de béton creux, l'éclatement est inévitable. Avec une arase ferraillée (fers HA8 en épingle), vous répartissez les charges sur toute la longueur.</p>
 
                 <img src="<?php echo BASE_URL; ?>image/charpente-1-pan-sur-parpaing-2.webp"
                      alt="Arase de pente ferraillée coulée sur parpaing avant la pose de la panne sablière d'une charpente 1 pan"
@@ -287,7 +287,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <ul class="custom-list">
                     <li><strong>Bec d'oiseau :</strong> encoche en angle taillée en pied de chevron, permettant un appui horizontal sur la muralière. Elle améliore la tenue à l'arrachement et évite la concentration des efforts sur l'arête. La hauteur du talon ne doit pas dépasser 30 % de la hauteur du chevron pour ne pas l'affaiblir.</li>
-                    <li><strong>Débord de toit :</strong> laissez les chevrons dépasser de 40 à 60 cm côté bas pour former l'avant-toit. Ne les coupez pas au fur et à mesure — attendez que toute la structure soit posée, puis coupez au cordeau traceur d'un seul trait pour un alignement parfait.</li>
+                    <li><strong>Débord de toit :</strong> laissez les chevrons dépasser de 40 à 60 cm côté bas pour former l'avant-toit. Ne les coupez pas au fur et à mesure, attendez que toute la structure soit posée, puis coupez au cordeau traceur d'un seul trait pour un alignement parfait.</li>
                     <li><strong>Contreventements :</strong> dès que le 1 pan dépasse 3 m de large, ajoutez des croix de Saint-André entre les pannes (équerres d'assemblage). Elles rigidifient la structure contre les efforts de vent latéraux et évitent l'effet "parallélogramme" qui déforme progressivement la toiture.</li>
                 </ul>
 
@@ -457,16 +457,16 @@ include dirname(__DIR__) . '/header.php';
         // ── Logique métier ────────────────────────────────────────────────
         if (userAnswers.step2 === 'longue') {
             warningBox.style.display = 'block';
-            warningText.innerHTML = "Une portée supérieure à 5 m nécessite un calcul de structure validé par un charpentier ou un bureau d'études. Le DTU 31.1 impose une vérification des charges de neige et de vent par zone climatique. Ne dimensionnez pas seul — faites appel à un professionnel.";
+            warningText.innerHTML = "Une portée supérieure à 5 m nécessite un calcul de structure validé par un charpentier ou un bureau d'études. Le DTU 31.1 impose une vérification des charges de neige et de vent par zone climatique. Ne dimensionnez pas seul, faites appel à un professionnel.";
         } else if (userAnswers.step1 === 'creux') {
             successBox.style.display = 'block';
             resultText.innerHTML = "<strong>Méthode :</strong> Scellement chimique + tamis métallique obligatoire.<br><strong>Produits :</strong> Hilti HIT-RE 500 ou Fischer FIS V Plus. Diamètre de perçage : 12 à 16 mm selon tige filetée.<br><strong>Rappel :</strong> Souffler et brosser le trou avant injection. Temps de polymérisation : 20–30 min à 20 °C.";
         } else if (userAnswers.step1 === 'cellulaire') {
             successBox.style.display = 'block';
-            resultText.innerHTML = "<strong>Méthode :</strong> Cheville spéciale béton cellulaire ou scellement chimique léger.<br><strong>Produits :</strong> Fischer SXR ou Hilti HIT-Z-R. Attention : les charges admissibles sont inférieures au parpaing plein — vérifiez les fiches techniques pour votre portée.";
+            resultText.innerHTML = "<strong>Méthode :</strong> Cheville spéciale béton cellulaire ou scellement chimique léger.<br><strong>Produits :</strong> Fischer SXR ou Hilti HIT-Z-R. Attention : les charges admissibles sont inférieures au parpaing plein, vérifiez les fiches techniques pour votre portée.";
         } else {
             successBox.style.display = 'block';
-            resultText.innerHTML = "<strong>Méthode :</strong> Cheville à expansion lourde ou scellement chimique acceptables sur parpaing plein.<br><strong>Produits :</strong> Rawlbolt, Spit Pulsa ou tout système chimique.<br><strong>Conseil :</strong> La muralière avec sabots de charpente Simpson Strong-Tie reste la solution la plus propre — elle permet le réglage au laser avant blocage définitif.";
+            resultText.innerHTML = "<strong>Méthode :</strong> Cheville à expansion lourde ou scellement chimique acceptables sur parpaing plein.<br><strong>Produits :</strong> Rawlbolt, Spit Pulsa ou tout système chimique.<br><strong>Conseil :</strong> La muralière avec sabots de charpente Simpson Strong-Tie reste la solution la plus propre, elle permet le réglage au laser avant blocage définitif.";
         }
         // ─────────────────────────────────────────────────────────────────
     }

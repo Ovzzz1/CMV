@@ -176,7 +176,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>L'étude géotechnique de conception (G2) permet de déterminer la portance du sol et de définir la profondeur d'ancrage nécessaire pour atteindre le "bon sol". Au-delà de l'aspect technique, cette étude est la clé de voûte de votre sécurité financière. En effet, en cas de défaut de stabilité futur, une <a href="<?php echo BASE_URL; ?>reprise-fondation-sous-oeuvre">reprise de fondation sous œuvre</a> s'avère extrêmement coûteuse et complexe à mettre en place sur un terrain accidenté.</p>
 
-                <p>De plus, la quasi-totalité des assureurs refusent de couvrir un sinistre sur pente si aucune étude de sol n'a été réalisée au préalable. L'investissement dans cette étude — entre 800 et 2 500 € selon la complexité — est systématiquement rentabilisé par les économies réalisées sur le dimensionnement des fondations et la sécurisation de votre garantie décennale.</p>
+                <p>De plus, la quasi-totalité des assureurs refusent de couvrir un sinistre sur pente si aucune étude de sol n'a été réalisée au préalable. L'investissement dans cette étude, entre 800 et 2 500 € selon la complexité, est systématiquement rentabilisé par les économies réalisées sur le dimensionnement des fondations et la sécurisation de votre garantie décennale.</p>
 
                 <div class="guide-links-box">
                     <h3>Guides complémentaires sur les fondations</h3>
@@ -197,7 +197,7 @@ include dirname(__DIR__) . '/header.php';
                      loading="lazy"
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
-                <p>Pour les constructions lourdes ou les maisons avec sous-sol, la technique des fondations en gradins — également appelées <strong>redans</strong> — est la solution de référence. Elle consiste à réaliser des semelles filantes par paliers successifs pour accompagner la pente naturelle sans avoir à décaisser la totalité du terrain.</p>
+                <p>Pour les constructions lourdes ou les maisons avec sous-sol, la technique des fondations en gradins, également appelées <strong>redans</strong>, est la solution de référence. Elle consiste à réaliser des semelles filantes par paliers successifs pour accompagner la pente naturelle sans avoir à décaisser la totalité du terrain.</p>
 
                 <p>La règle d'or pour la liaison des semelles est le respect du ratio <strong>2V/3H</strong> : pour un décalage vertical (V), la longueur de la liaison horizontale (H) doit être au moins 1,5 fois supérieure. Cette méthode permet d'éviter les ruptures de continuité dans l'armature.</p>
 
@@ -298,7 +298,7 @@ include dirname(__DIR__) . '/header.php';
                         </div>
                         <div id="warning-result" class="ux-warning-box" style="display: none;">
                             <h4 style="margin-top:0; color:#c0392b;">Attention : étude de sol indispensable avant de commencer</h4>
-                            <p id="warning-text">Sans étude géotechnique G2, votre projet sur terrain en pente est exposé à des risques majeurs de tassement différentiel et à un refus de couverture assurance. Faites réaliser cette étude en priorité — elle conditionne toutes les décisions techniques qui suivront.</p>
+                            <p id="warning-text">Sans étude géotechnique G2, votre projet sur terrain en pente est exposé à des risques majeurs de tassement différentiel et à un refus de couverture assurance. Faites réaliser cette étude en priorité, elle conditionne toutes les décisions techniques qui suivront.</p>
                             <a href="<?php echo BASE_URL; ?>contact" class="cta-btn">Demander un accompagnement</a>
                         </div>
                         <button class="reset-btn" onclick="resetTool()">Recommencer le test</button>

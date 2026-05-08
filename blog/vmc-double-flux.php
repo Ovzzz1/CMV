@@ -275,7 +275,7 @@ endforeach; ?>
                     <p>Ce n'est pas "Avoir d'énormes portes ouvertes", mais plutôt "Détalonner" d'1 centimètre sous vos menuiseries intérieures . C'est la loi des fluides à l'oeuvre.</p>
 
                     <h3>VMC double flux ou ventilation par surpression : laquelle pour ma maison neuve ?</h3>
-                    <p>La VMC double flux récupère la chaleur de l'air extrait pour préchauffer l'air entrant — idéale pour les maisons BBC ou passives. La <a href="https://www.cemarenov.fr/ventilation-par-surpression">ventilation par surpression</a> est plus simple à installer et adaptée aux maisons existantes à rénover : elle filtre et injecte de l'air propre sans récupération thermique, à un coût inférieur.</p>
+                    <p>La VMC double flux récupère la chaleur de l'air extrait pour préchauffer l'air entrant, idéale pour les maisons BBC ou passives. La <a href="https://www.cemarenov.fr/ventilation-par-surpression">ventilation par surpression</a> est plus simple à installer et adaptée aux maisons existantes à rénover : elle filtre et injecte de l'air propre sans récupération thermique, à un coût inférieur.</p>
                 </div> <!-- .faq-section -->
 
             </div> <!-- .article-content -->

@@ -296,7 +296,7 @@ include dirname(__DIR__) . '/header.php';
                             :</span>
                         <strong
                             style="font-size: 1.5rem; color: #16a34a; background: #dcfce7; padding: 10px 20px; border-radius: 8px;">
-                            <span id="price-min">400</span> € — <span id="price-max">1000</span> €
+                            <span id="price-min">400</span> €, <span id="price-max">1000</span> €
                         </strong>
                     </div>
                 </div>
@@ -335,7 +335,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Le faîtage se rejoint exclusivement au mortier bâtard (ciment + chaux + sable), jamais au ciment pur qui est trop rigide et se fissure dès la première gelée. Notre guide sur le <a href="https://www.cemarenov.fr/dosage-mortier-batard-faitage">dosage du mortier bâtard pour faîtage</a> détaille les proportions exactes selon l'exposition du toit et la nature des tuiles de faîte.</p>
 
                 <h3>Comment traiter l'abergement de cheminée lors d'un rejointoiement de faîtage ?</h3>
-                <p>L'abergement est souvent l'oublié du chantier de faîtage. Ce solin étanche fait le joint entre la cheminée et la couverture — s'il est dégradé, l'infiltration se fait bien avant que le faîtage lui-même pose problème. Notre guide sur l'<a href="https://www.cemarenov.fr/abergement-de-cheminee">abergement de cheminée</a> détaille les matériaux, les techniques de pose et les signes de détérioration à surveiller.</p>
+                <p>L'abergement est souvent l'oublié du chantier de faîtage. Ce solin étanche fait le joint entre la cheminée et la couverture, s'il est dégradé, l'infiltration se fait bien avant que le faîtage lui-même pose problème. Notre guide sur l'<a href="https://www.cemarenov.fr/abergement-de-cheminee">abergement de cheminée</a> détaille les matériaux, les techniques de pose et les signes de détérioration à surveiller.</p>
 
             </div> <!-- .article-content -->
 

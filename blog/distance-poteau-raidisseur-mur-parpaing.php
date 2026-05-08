@@ -129,7 +129,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Mal espacés, les poteaux raidisseurs ne servent à rien. Trop rapprochés, vous perdez du temps et de l'argent. La distance entre deux raidisseurs verticaux est l'une des questions les plus critiques d'un chantier de maçonnerie en parpaing — et pourtant, elle est souvent approximée. Voici ce que dit vraiment le DTU, comment calculer votre chantier et où placer chaque poteau sans erreur.
+                Mal espacés, les poteaux raidisseurs ne servent à rien. Trop rapprochés, vous perdez du temps et de l'argent. La distance entre deux raidisseurs verticaux est l'une des questions les plus critiques d'un chantier de maçonnerie en parpaing, et pourtant, elle est souvent approximée. Voici ce que dit vraiment le DTU, comment calculer votre chantier et où placer chaque poteau sans erreur.
             </p>
 
             <div class="article-content">
@@ -308,7 +308,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
                     <ul class="custom-list" style="margin: 0;">
-                        <li><strong>Le Mémo du Maçon — Règle du 1/2/3 :</strong> 1 seau de ciment, 2 seaux de sable, 3 seaux de gravillons et environ ½ seau d'eau claire. Ce principe s'applique également pour le <a href="<?php echo BASE_URL; ?>dosage-beton-fondation">dosage parfait de vos fondations</a>.</li>
+                        <li><strong>Le Mémo du Maçon, Règle du 1/2/3 :</strong> 1 seau de ciment, 2 seaux de sable, 3 seaux de gravillons et environ ½ seau d'eau claire. Ce principe s'applique également pour le <a href="<?php echo BASE_URL; ?>dosage-beton-fondation">dosage parfait de vos fondations</a>.</li>
                     </ul>
                 </div>
 
@@ -324,10 +324,10 @@ include dirname(__DIR__) . '/header.php';
                 <p>Non. La fondation se coule en premier avec des fers d'attente. Vous monterez ensuite vos parpaings et coulerez le béton du poteau une fois l'armature verticalement installée.</p>
 
                 <h3>Quelles finitions choisir une fois les poteaux coulés ?</h3>
-                <p>Une fois la structure stabilisée, deux grandes options s'offrent à vous. L'enduit est la finition classique — notre guide sur le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux parpaing</a> détaille les proportions à respecter selon le support. Le <a href="https://www.cemarenov.fr/bardage-bois-sur-mur-parpaing">bardage bois sur parpaing</a> est l'alternative ventilée, idéale si vous souhaitez éviter l'enduit tout en protégeant le béton. Dans les deux cas, vérifiez l'état du mur avant d'appliquer quoi que ce soit — un parpaing humide exige d'abord un traitement d'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité intérieure</a>.</p>
+                <p>Une fois la structure stabilisée, deux grandes options s'offrent à vous. L'enduit est la finition classique, notre guide sur le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux parpaing</a> détaille les proportions à respecter selon le support. Le <a href="https://www.cemarenov.fr/bardage-bois-sur-mur-parpaing">bardage bois sur parpaing</a> est l'alternative ventilée, idéale si vous souhaitez éviter l'enduit tout en protégeant le béton. Dans les deux cas, vérifiez l'état du mur avant d'appliquer quoi que ce soit, un parpaing humide exige d'abord un traitement d'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité intérieure</a>.</p>
 
                 <h3>Les raidisseurs peuvent-ils supporter une charpente directement ?</h3>
-                <p>Oui, à condition que les poteaux soient correctement dimensionnés et que les ancrages (platines ou tiges filetées) aient été intégrés dans le béton frais. Notre article sur la <a href="https://www.cemarenov.fr/charpente-1-pan-sur-parpaing">charpente 1 pan sur parpaing</a> détaille comment ancrer une charpente monopente sur des murs en blocs — les contraintes de liaison poteaux/fermes y sont couvertes en détail.</p>
+                <p>Oui, à condition que les poteaux soient correctement dimensionnés et que les ancrages (platines ou tiges filetées) aient été intégrés dans le béton frais. Notre article sur la <a href="https://www.cemarenov.fr/charpente-1-pan-sur-parpaing">charpente 1 pan sur parpaing</a> détaille comment ancrer une charpente monopente sur des murs en blocs, les contraintes de liaison poteaux/fermes y sont couvertes en détail.</p>
 
             </div>
 

@@ -129,7 +129,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Réaliser un <strong>mur en pierre sèche</strong> est une solution à la fois esthétique et écologique pour l'aménagement durable de votre jardin. Cette technique de maçonnerie ancestrale, qui repose sur l'assemblage de pierres naturelles sans aucun mortier, crée un muret de soutènement ou de clôture d'une robustesse remarquable. Les interstices entre les roches garantissent un excellent drainage naturel, évitant toute pression hydrostatique — et offrant une biodiversité précieuse pour la faune locale.
+                Réaliser un <strong>mur en pierre sèche</strong> est une solution à la fois esthétique et écologique pour l'aménagement durable de votre jardin. Cette technique de maçonnerie ancestrale, qui repose sur l'assemblage de pierres naturelles sans aucun mortier, crée un muret de soutènement ou de clôture d'une robustesse remarquable. Les interstices entre les roches garantissent un excellent drainage naturel, évitant toute pression hydrostatique, et offrant une biodiversité précieuse pour la faune locale.
             </p>
 
             <div class="article-content">
@@ -213,7 +213,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="fondation">La fondation drainante : la base d'un mur sans mortier</h2>
 
-                <p>La solidité d'un ouvrage à sec ne repose pas sur une semelle rigide — le mur doit pouvoir "jouer" avec le terrain. Contrairement à un mur maçonné classique, la pierre sèche s'appuie sur une tranchée de fondation remplie de matériaux drainants.</p>
+                <p>La solidité d'un ouvrage à sec ne repose pas sur une semelle rigide, le mur doit pouvoir "jouer" avec le terrain. Contrairement à un mur maçonné classique, la pierre sèche s'appuie sur une tranchée de fondation remplie de matériaux drainants.</p>
 
                 <ul class="custom-list">
                     <li><strong>La tranchée de base :</strong> Creusez entre 20 et 30 cm de profondeur hors-gel.</li>
@@ -231,7 +231,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Le montage d'un mur en pierre sèche est un puzzle vertical. On commence par l'assise (les pierres les plus lourdes), puis on croise les joints pour éviter les "coups de sabre" (joints alignés verticalement qui fragilisent la structure).</p>
 
                 <h3>1. La pose de l'assise et le calage</h3>
-                <p>Chaque pierre doit être calée avec de petits éclats de roche pour qu'elle ne bouge pas même sous forte pression. L'assise détermine la solidité de l'ensemble — ne lésinez pas sur le temps passé à la mettre de niveau.</p>
+                <p>Chaque pierre doit être calée avec de petits éclats de roche pour qu'elle ne bouge pas même sous forte pression. L'assise détermine la solidité de l'ensemble, ne lésinez pas sur le temps passé à la mettre de niveau.</p>
 
                 <h3>2. Les boutisses : lier les deux parements</h3>
                 <p>La <strong>boutisse</strong> est une pierre transversale qui traverse toute la largeur du mur. Elle agit comme une véritable clé de voûte horizontale assurant la liaison structurelle entre les deux faces. Posez une boutisse tous les mètres environ.</p>
@@ -305,7 +305,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 
                 <h3>Quelle est la hauteur maximale pour un mur en pierre sèche sans mortier ?</h3>
-                <p>Il est recommandé de ne pas dépasser 1,20 mètre de haut pour garantir une sécurité structurelle optimale sans études complexes. Au-delà de cette hauteur, la poussée des terres et le risque de basculement deviennent significatifs — faites appel à un muretier professionnel qui pourra dimensionner correctement l'épaisseur de la base et le système de drainage.</p>
+                <p>Il est recommandé de ne pas dépasser 1,20 mètre de haut pour garantir une sécurité structurelle optimale sans études complexes. Au-delà de cette hauteur, la poussée des terres et le risque de basculement deviennent significatifs, faites appel à un muretier professionnel qui pourra dimensionner correctement l'épaisseur de la base et le système de drainage.</p>
 
                 <h3>L'entretien d'un mur en pierre sèche est-il nécessaire contre la mousse ?</h3>
                 <p>La pierre sèche vit avec son environnement et la patine naturelle (mousse, lichen) n'altère en rien la solidité de la structure. L'entretien se limite à surveiller que le drainage arrière reste libre et que des végétaux à racines profondes ne s'installent pas dans les interstices, ce qui pourrait écarter les pierres sur le long terme.</p>
@@ -314,7 +314,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Ce n'est pas recommandé. La dalle béton est imperméable et bloquera le drainage naturel qui est le premier atout de la pierre sèche. Si vous souhaitez un muret décoratif sur terrasse, optez pour un mur maçonné au mortier de chaux qui sera plus adapté à ce type de support imperméable.</p>
 
                 <h3>Quelle est la différence entre un mur en pierre sèche et un mur poids en pierre ?</h3>
-                <p>Le mur en pierre sèche est monté sans mortier ni liant — la gravité et l'emboîtement des pierres assurent la stabilité. Le <a href="https://www.cemarenov.fr/mur-poids-pierre-paris">mur poids en pierre</a>, lui, est maçonné au mortier de chaux et dimensionné pour retenir des terres importantes (soutènement) : sa base doit mesurer 1/3 à 1/2 de sa hauteur. Pour une simple délimitation de jardin sans charge latérale forte, la pierre sèche suffit ; pour retenir un talus, le mur poids s'impose.</p>
+                <p>Le mur en pierre sèche est monté sans mortier ni liant, la gravité et l'emboîtement des pierres assurent la stabilité. Le <a href="https://www.cemarenov.fr/mur-poids-pierre-paris">mur poids en pierre</a>, lui, est maçonné au mortier de chaux et dimensionné pour retenir des terres importantes (soutènement) : sa base doit mesurer 1/3 à 1/2 de sa hauteur. Pour une simple délimitation de jardin sans charge latérale forte, la pierre sèche suffit ; pour retenir un talus, le mur poids s'impose.</p>
 
                 <h3>Comment finir un mur en pierre maçonné avec du mortier ?</h3>
                 <p>Si vous optez finalement pour un mur lié (avec mortier de chaux), la finition "pierre vue" est la plus courante sur le bâti traditionnel. Notre guide sur l'<a href="https://www.cemarenov.fr/enduit-pierre-vue">enduit pierre vue</a> détaille les dosages de chaux, la technique du beurré et le brossage à réaliser avant que le mortier ne tire pour laisser apparaître la texture de la pierre.</p>

@@ -68,7 +68,7 @@ $d = [
 <p>Observez ensuite l'état de la maçonnerie à nu :</p>
 
 <ul class="custom-list">
-    <li><strong>Fissure active :</strong> Une brèche profonde qui s'élargit traduit un mouvement structurel — l'avis d'un maçon s'impose.</li>
+    <li><strong>Fissure active :</strong> Une brèche profonde qui s'élargit traduit un mouvement structurel, l'avis d'un maçon s'impose.</li>
     <li><strong>Fissure passive :</strong> Si elle est purement superficielle et stabilisée, vous avez le feu vert pour réparer vous-même.</li>
 </ul>
 
@@ -185,7 +185,7 @@ JS,
 
 'conclusion' => [
     'title' => 'Pas sûr de l\'état structurel de votre mur ?',
-    'text'  => 'Un diagnostic rapide évite de reboucher sur un support instable — et de recommencer dans deux ans.',
+    'text'  => 'Un diagnostic rapide évite de reboucher sur un support instable, et de recommencer dans deux ans.',
     'cta'   => 'Obtenir un devis gratuit',
 ],
 

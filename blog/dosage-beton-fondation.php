@@ -110,7 +110,7 @@ include dirname(__DIR__) . '/header.php';
         <!-- ── CONTENU CENTRAL ── -->
         <div class="article-container">
 
-            <p class="article-intro">Une fondation mal dosée, c'est une maison qui risque de bouger. Le béton n'est pas une recette de cuisine : les proportions comptent au litre près. On vous explique comment calculer les bonnes doses pour des fondations solides qui tiendront 50 ans — avec les dosages exacts du DTU 13.1 et un calculateur interactif pour chiffrer vos quantités.</p>
+            <p class="article-intro">Une fondation mal dosée, c'est une maison qui risque de bouger. Le béton n'est pas une recette de cuisine : les proportions comptent au litre près. On vous explique comment calculer les bonnes doses pour des fondations solides qui tiendront 50 ans, avec les dosages exacts du DTU 13.1 et un calculateur interactif pour chiffrer vos quantités.</p>
 
             <div class="article-content">
 
@@ -177,7 +177,7 @@ include dirname(__DIR__) . '/header.php';
                 <!-- ═══ H2 : Béton de propreté ═══ -->
                 <h2 id="beton-proprete">Le béton de propreté — obligatoire avant toute semelle armée</h2>
 
-                <p>C'est l'étape que tout le monde oublie dans les guides grand public — et que tout maçon connaît. Le <strong>béton de propreté</strong> est une couche mince coulée au fond de la fouille, avant de poser les armatures et de couler le béton de fondation.</p>
+                <p>C'est l'étape que tout le monde oublie dans les guides grand public, et que tout maçon connaît. Le <strong>béton de propreté</strong> est une couche mince coulée au fond de la fouille, avant de poser les armatures et de couler le béton de fondation.</p>
 
                 <h3>À quoi ça sert ?</h3>
                 <p>Quand vous posez des aciers directement sur la terre, ils se salissent et rouillent avant même que le béton soit coulé. Le béton de propreté crée une surface propre et plane qui :</p>
@@ -269,7 +269,7 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
-                    <strong>Règle pratique :</strong> En construction de maison individuelle, la quasi-totalité des semelles filantes comporte au minimum une armature de chaînage. Partez donc sur <strong>350 kg/m³</strong> comme valeur par défaut — vous êtes dans les clous dans tous les cas, et vous avez de la marge en cas de sol humide.
+                    <strong>Règle pratique :</strong> En construction de maison individuelle, la quasi-totalité des semelles filantes comporte au minimum une armature de chaînage. Partez donc sur <strong>350 kg/m³</strong> comme valeur par défaut, vous êtes dans les clous dans tous les cas, et vous avez de la marge en cas de sol humide.
                 </div>
 
                 <h3>Cas particulier : nappe phréatique et terrain humide</h3>
@@ -713,7 +713,7 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
-                    <strong>Astuce pro :</strong> Ajoutez l'eau en deux fois. La première moitié avant les granulats (mouille les parois), la seconde progressivement à la fin. Arrêtez d'ajouter de l'eau quand le béton se détache proprement des parois en formant un boudin — c'est la consistance idéale pour les fondations.
+                    <strong>Astuce pro :</strong> Ajoutez l'eau en deux fois. La première moitié avant les granulats (mouille les parois), la seconde progressivement à la fin. Arrêtez d'ajouter de l'eau quand le béton se détache proprement des parois en formant un boudin, c'est la consistance idéale pour les fondations.
                 </div>
 
                 <h3>Gâchage manuel au sol</h3>
@@ -759,7 +759,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Non. Le béton gèle avant de prendre et perd toute sa résistance. La température minimale de coulage est de <strong>+5°C</strong> et doit se maintenir 48 heures. En hiver, utilisez un accélérateur de prise et protégez les fondations avec des bâches et de la paille.</p>
 
                 <h3>Faut-il toujours couler un béton de propreté ?</h3>
-                <p>Le DTU 13.1 le rend obligatoire dès que les semelles comportent des armatures situées au voisinage de leur sous-face. En pratique : toutes les semelles armées. Pour une semelle non armée sur sol très stable et propre, il peut être omis — mais c'est une prise de risque non recommandée.</p>
+                <p>Le DTU 13.1 le rend obligatoire dès que les semelles comportent des armatures situées au voisinage de leur sous-face. En pratique : toutes les semelles armées. Pour une semelle non armée sur sol très stable et propre, il peut être omis, mais c'est une prise de risque non recommandée.</p>
 
                 <h3>Faut-il ajouter un retardateur de prise ?</h3>
                 <p>Uniquement en cas de transport long (plus de 30 minutes) ou de forte chaleur (plus de 25°C). Il rallonge le temps de prise de 1 à 3 heures. En conditions normales, il est inutile et peut même être contre-productif si mal dosé.</p>
@@ -768,7 +768,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Ne versez jamais le béton excédentaire dans les canalisations ou sur le sol nu. Préparez une zone de stockage avec des palettes pour y vider la bétonnière. Une fois durci, ce béton servira de remblai ou de sous-couche. Les bennes à gravats acceptent le béton durci.</p>
 
                 <h3>Quel coffrage utiliser pour couler mes fondations ?</h3>
-                <p>Pour les semelles filantes, le coffrage bois classique (planches de 27 mm maintenues par des étrésillons) reste la référence. Pour les fondations plus complexes ou les angles rentrants, les banches métal offrent une meilleure rectitude. Notre guide sur le <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les techniques de mise en œuvre, les types de parements et les erreurs de contreventement à éviter. Pour un muret de clôture ou de jardin, les dimensions et le ferraillage sont spécifiques — notre guide <a href="https://www.cemarenov.fr/fondation-pour-muret-de-60-cm-de-hauteur">fondation pour muret de 60 cm</a> couvre ces cas.</p>
+                <p>Pour les semelles filantes, le coffrage bois classique (planches de 27 mm maintenues par des étrésillons) reste la référence. Pour les fondations plus complexes ou les angles rentrants, les banches métal offrent une meilleure rectitude. Notre guide sur le <a href="https://www.cemarenov.fr/coffrage-pour-fondation">coffrage pour fondation</a> détaille les techniques de mise en œuvre, les types de parements et les erreurs de contreventement à éviter. Pour un muret de clôture ou de jardin, les dimensions et le ferraillage sont spécifiques, notre guide <a href="https://www.cemarenov.fr/fondation-pour-muret-de-60-cm-de-hauteur">fondation pour muret de 60 cm</a> couvre ces cas.</p>
 
                 <h3>Quels dosages pour les fondations d'un garage ?</h3>
                 <p>Un garage en parpaings nécessite des semelles filantes en C25/30 (350 kg/m³), identiques à celles d'une maison. Notre guide complet sur la <a href="https://www.cemarenov.fr/fondation-garage">fondation de garage</a> détaille les dimensions de tranchées, le ferraillage et les volumes à commander selon la surface du projet.</p>
@@ -777,7 +777,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Le dosage du béton lui-même ne change pas, mais les fondations sur terrain en pente nécessitent un découpage en plots horizontaux reliés par des longrines inclinées, avec des armatures d'attente à chaque niveau. Le risque de glissement impose souvent un béton légèrement plus riche (400 kg/m³). Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> couvre les techniques d'ancrage adaptées à chaque type de sol.</p>
 
                 <h3>Quand préférer des puits de fondation à des semelles filantes ?</h3>
-                <p>Dès que le sol porteur est trop profond pour des semelles classiques — sol compressible, remblai ou présence d'une nappe phréatique haute. Les <a href="https://www.cemarenov.fr/fondation-puits">puits de fondation</a> descendent chercher le bon sol à 1,5 à 4 mètres de profondeur, là où les semelles filantes seraient trop coûteuses à excaver.</p>
+                <p>Dès que le sol porteur est trop profond pour des semelles classiques, sol compressible, remblai ou présence d'une nappe phréatique haute. Les <a href="https://www.cemarenov.fr/fondation-puits">puits de fondation</a> descendent chercher le bon sol à 1,5 à 4 mètres de profondeur, là où les semelles filantes seraient trop coûteuses à excaver.</p>
 
             </div><!-- /.article-content -->
 

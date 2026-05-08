@@ -327,7 +327,7 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>Planéité du mur :</strong> Passez une règle de 2 mètres sur la surface. Un écart
                         supérieur à 5 mm doit être rectifié ou compensé lors de la pose de l'ossature via des cales de
                         réglage.</li>
-                    <li><strong>Étanchéité du support :</strong> Le mur doit être sain. Traces d'humidité ou remontées capillaires ? Consultez notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a> — traiter le problème à la source avant de fermer le mur derrière un bardage est impératif.</li>
+                    <li><strong>Étanchéité du support :</strong> Le mur doit être sain. Traces d'humidité ou remontées capillaires ? Consultez notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a>, traiter le problème à la source avant de fermer le mur derrière un bardage est impératif.</li>
                     <li><strong>Solidité des alvéoles :</strong> Le parpaing creux peut être fragile sur les bâtis
                         anciens. Testez toujours la tenue d'une cheville avant de lancer le chantier en série.</li>
                 </ul>
@@ -386,7 +386,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="ossature">Étape 1 : fixer l'ossature bois (les tasseaux) sur le parpaing</h2>
 
                 <p>L'ossature constitue la structure porteuse du bardage. Son rôle est de maintenir les lames tout en
-                    ménageant la circulation d'air derrière elles — condition sine qua non pour la durabilité du bois.
+                    ménageant la circulation d'air derrière elles, condition sine qua non pour la durabilité du bois.
                 </p>
 
                 <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-3.webp"
@@ -433,7 +433,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="pose-lames">Étape 3 : la pose des lames de bardage et les finitions</h2>
 
-                <p>Une fois l'ossature prête, la pose du bois peut commencer. C'est l'étape la plus visible — et celle
+                <p>Une fois l'ossature prête, la pose du bois peut commencer. C'est l'étape la plus visible, et celle
                     où les petits détails font toute la différence sur la longévité du résultat.</p>
 
                 <img src="<?php echo BASE_URL; ?>image/bardage-bois-sur-mur-parpaing-5.webp"
@@ -529,15 +529,15 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="erreurs">Les 3 erreurs critiques qui font pourrir un bardage sur agglo</h2>
 
                 <ul class="custom-list">
-                    <li><strong>Erreur 1 — L'absence de lame d'air :</strong> Si l'air ne circule pas, l'humidité reste
+                    <li><strong>Erreur 1, L'absence de lame d'air :</strong> Si l'air ne circule pas, l'humidité reste
                         prisonnière entre le parpaing et le bois. Moisissures et pourrissement apparaissent en moins de
                         cinq ans. C'est la cause n°1 des bardages ratés.</li>
-                    <li><strong>Erreur 2 — Les vis standard :</strong> Le bois extérieur oxyde l'acier ordinaire. Des
+                    <li><strong>Erreur 2, Les vis standard :</strong> Le bois extérieur oxyde l'acier ordinaire. Des
                         coulures noires apparaîtront sur vos lames avant même que les vis ne commencent à casser. Vis
                         inox A2 obligatoire, A4 en milieu marin.</li>
-                    <li><strong>Erreur 3 — Brider les lames :</strong> Le bois gonfle en hiver et se rétracte en été.
+                    <li><strong>Erreur 3, Brider les lames :</strong> Le bois gonfle en hiver et se rétracte en été.
                         Des lames posées sans jeu de dilatation gondolent, se fendillent ou arrachent leurs fixations.
-                        Ce mouvement est normal et prévisible — anticipez-le.</li>
+                        Ce mouvement est normal et prévisible, anticipez-le.</li>
                 </ul>
 
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
@@ -667,7 +667,7 @@ include dirname(__DIR__) . '/header.php';
         // ── Logique métier ────────────────────────────────────────────────
         if (userAnswers.step1 === 'mer') {
             warningBox.style.display = 'block';
-            warningText.innerHTML = "<strong>Environnement marin :</strong> Le sel et l'humidité exigent du <strong>Red Cedar</strong> ou du <strong>bois brûlé (Shou Sugi Ban)</strong>. Visserie inox <strong>A4 obligatoire</strong>. Oubliez le Douglas en traitement standard dans cette zone — sa durabilité sera divisée par deux.";
+            warningText.innerHTML = "<strong>Environnement marin :</strong> Le sel et l'humidité exigent du <strong>Red Cedar</strong> ou du <strong>bois brûlé (Shou Sugi Ban)</strong>. Visserie inox <strong>A4 obligatoire</strong>. Oubliez le Douglas en traitement standard dans cette zone, sa durabilité sera divisée par deux.";
         } else if (userAnswers.step1 === 'montagne' || userAnswers.step2 === 'zero') {
             successBox.style.display = 'block';
             resultText.innerHTML = "<strong>Notre choix :</strong> <strong>Mélèze naturel ou bois brûlé</strong>. Dense, imputrescible sans traitement, il encaisse les cycles gel/dégel sans se délaminer. Zéro entretien chimique sur 25 ans si la lame d'air est bien réalisée.";

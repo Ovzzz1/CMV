@@ -442,7 +442,7 @@ include dirname(__DIR__) . '/header.php';
                     P15-201.</p>
 
                 <h3>L'enduit de façade fait-il partie d'une rénovation complète ?</h3>
-                <p>Oui — l'enduit est la finition d'un projet plus large. Notre guide sur la <a href="https://www.cemarenov.fr/renovation-de-facade">rénovation de façade</a> présente la séquence complète des travaux (reprise des fissures, traitement humidité, ITE éventuelle) avant d'appliquer l'enduit de finition.</p>
+                <p>Oui, l'enduit est la finition d'un projet plus large. Notre guide sur la <a href="https://www.cemarenov.fr/renovation-de-facade">rénovation de façade</a> présente la séquence complète des travaux (reprise des fissures, traitement humidité, ITE éventuelle) avant d'appliquer l'enduit de finition.</p>
 
                 <h3>Quel mortier pour les joints de façade en pierre ?</h3>
                 <p>Pour les murs en pierre ancienne, n'utilisez jamais de ciment pur. Notre guide sur le <a href="https://www.cemarenov.fr/dosage-mortier-batard-faitage">dosage du mortier bâtard</a> détaille les proportions chaux-ciment-sable adaptées aux différents types de parements, y compris les murs en pierre taillée ou en moellons.</p>

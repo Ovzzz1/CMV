@@ -142,13 +142,13 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul>
-                        <li><strong>Fréquence contrôle :</strong> 1 fois par an — démoussage complet tous les 2-3 ans
+                        <li><strong>Fréquence contrôle :</strong> 1 fois par an, démoussage complet tous les 2-3 ans
                             selon environnement.</li>
                         <li><strong>Période idéale :</strong> Fin automne, après la chute des feuilles et avant les
                             gelées.</li>
                         <li><strong>Coût professionnel :</strong> Entre 15€ et 35€/m² en 2026 selon accessibilité.</li>
                         <li><strong>Point critique :</strong> Jamais d'eau de javel ni de Karcher trop puissant sur
-                            terre cuite — risque d'effritement irréversible.</li>
+                            terre cuite, risque d'effritement irréversible.</li>
                     </ul>
                 </div>
 
@@ -160,7 +160,7 @@ include dirname(__DIR__) . '/header.php';
                         <li><a href="#methodes">Les méthodes de démoussage</a></li>
                         <li><a href="#securite">Sécurité : les règles d'or avant de monter</a></li>
                         <li><a href="#budget">Budget : coût d'un démoussage de toiture</a></li>
-                        <li><a href="#faq">FAQ — Questions fréquentes</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 

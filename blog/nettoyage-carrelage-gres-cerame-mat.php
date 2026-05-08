@@ -27,7 +27,7 @@ $d = [
 'intro' => 'Vous lavez votre sol, mais dès que le soleil tape à contre-jour, c\'est le drame : des halos, des traces de pas et un voile terne apparaissent systématiquement. Cette frustration est le quotidien de nombreux propriétaires de grès cérame mat car ce matériau, bien qu\'extrêmement résistant, possède une structure microscopique exigeante. Si votre carrelage semble "marquer" tout ce qui passe, ce n\'est pas parce qu\'il est sale, mais parce qu\'il est mal entretenu ou saturé de produits inadaptés. Voici comment effectuer un "reset" complet de votre sol et adopter la seule routine qui garantit un résultat impeccable.',
 
 'tldr' => [
-    ['label' => 'Le vrai coupable',        'text' => 'Ce sont les détergents du supermarché qui créent un biofilm gras saturant les micropores — pas la saleté elle-même.'],
+    ['label' => 'Le vrai coupable',        'text' => 'Ce sont les détergents du supermarché qui créent un biofilm gras saturant les micropores, pas la saleté elle-même.'],
     ['label' => 'Reset de fin de chantier','text' => 'Un nettoyage acide tamponné (Deterdek Pro) est indispensable sur carrelage neuf pour dissoudre le voile de ciment laissé par la pose.'],
     ['label' => 'Routine quotidienne',     'text' => 'Microfibre plate + eau tiède (35-40°C). Quelques gouttes de savon noir max. Séchage immédiat pour zéro trace.'],
     ['label' => 'Désencrasser',            'text' => 'Sol terne par accumulation de produits filmogènes : nettoyage alcalin (dégraissant ou bicarbonate) pour casser le biofilm gras.'],

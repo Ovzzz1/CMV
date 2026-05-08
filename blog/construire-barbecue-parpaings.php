@@ -139,19 +139,19 @@ endforeach; ?>
                 <p>Tout commence par la préparation du sol. Délimitez la zone de votre dalle en prévoyant 10 cm de marge tout autour des dimensions finales de votre barbecue. Utilisez des piquets et un cordeau. Ensuite, décaissez (creusez) la terre sur environ 20 cm de profondeur. C'est indispensable pour mettre votre structure hors gel et garantir une assise pérenne.</p>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing12.webp" alt="Décaissement du terrain à la pelle pour préparer les fondations du barbecue en parpaings" loading="eager">
-                <p class="img-caption">Étape 1 — Creusement du rectangle de fondation à 20 cm de profondeur, délimité par des cordeaux et des piquets.</p>
+                <p class="img-caption">Étape 1, Creusement du rectangle de fondation à 20 cm de profondeur, délimité par des cordeaux et des piquets.</p>
 
                 <h2 id="etape-2">Étape 2 : Hérisson, Ferraillage et Coulage de la Dalle</h2>
                 <p>Au fond du trou, étalez 5 cm de gravier (le hérisson) pour le drainage. Posez un film polyane pour bloquer l'humidité remontante, puis installez votre treillis soudé surélevé de 3 cm avec des cales plastiques. Coulez votre béton, tassez-le bien pour chasser les bulles d'air, et lissez à la règle de maçon. Comptez 48h de séchage minimum avant de poser le premier parpaing.</p>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing11.webp" alt="Coulage et lissage de la dalle béton sur treillis métallique pour le barbecue en parpaings" loading="lazy">
-                <p class="img-caption">Étape 2 — Lissage de la dalle en béton fraîchement coulée à la règle de maçon en aluminium.</p>
+                <p class="img-caption">Étape 2, Lissage de la dalle en béton fraîchement coulée à la règle de maçon en aluminium.</p>
 
                 <h2 id="etape-3">Étape 3 : Le Tracé du "U" au Cordeau sur la Dalle Sèche</h2>
                 <p>Après 48h de séchage, votre dalle est prête. Avant de préparer le mortier, présentez vos parpaings "à blanc" (sans ciment) pour vérifier l'espacement et le rendu. Tracez ensuite les contours exacts de vos futurs murs en forme de "U" avec un cordeau traceur à poudre bleue. Cette étape garantit des murs parfaitement droits dès le départ.</p>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing10.webp" alt="Tracé au cordeau bleu sur la dalle sèche pour délimiter la forme en U du barbecue" loading="lazy">
-                <p class="img-caption">Étape 3 — Utilisation du cordeau traceur à poudre bleue pour marquer l'emplacement précis des murs porteurs.</p>
+                <p class="img-caption">Étape 3, Utilisation du cordeau traceur à poudre bleue pour marquer l'emplacement précis des murs porteurs.</p>
 
                 <h2 id="etape-4">Étape 4 : La Pose Cruciale du Premier Rang de Parpaings</h2>
                 <p>Préparez votre mortier (mélange ciment, sable, eau). Étalez un lit de mortier de 2 à 3 cm d'épaisseur sur vos tracés. Posez les parpaings d'angle en premier. Réglez l'horizontalité parfaite avec un niveau à bulle et ajustez avec le manche de votre truelle ou un maillet en caoutchouc.</p>
@@ -161,7 +161,7 @@ endforeach; ?>
                 </blockquote>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing9.webp" alt="Mise à niveau du premier parpaing avec maillet et niveau à bulle sur mortier frais" loading="lazy">
-                <p class="img-caption">Étape 4 — Réglage millimétré du tout premier parpaing d'angle : la précision ici conditionne toute la suite.</p>
+                <p class="img-caption">Étape 4, Réglage millimétré du tout premier parpaing d'angle : la précision ici conditionne toute la suite.</p>
 
                 <h2 id="etape-5">Étape 5 : L'Élévation des Murs et le Contrôle de l'Aplomb</h2>
                 <p>Montez les rangs suivants en croisant les joints : les parpaings doivent être posés en quinconce, comme des briques. À chaque nouveau bloc posé, vérifiez l'aplomb (verticalité) et le niveau. Raclez l'excédent de mortier qui déborde des joints avant qu'il ne sèche. Montez 4 à 5 rangées pour atteindre environ 80 cm de hauteur.</p>
@@ -174,16 +174,16 @@ endforeach; ?>
                 </ul>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing8.webp" alt="Élévation des murs en parpaings en quinconce pour former la structure en U du barbecue" loading="lazy">
-                <p class="img-caption">Étape 5 — Montée des rangées en quinconce jusqu'à 80 cm de hauteur pour former le "U" porteur.</p>
+                <p class="img-caption">Étape 5, Montée des rangées en quinconce jusqu'à 80 cm de hauteur pour former le "U" porteur.</p>
 
                 <h2 id="etape-6">Étape 6 : La Création du Coffrage en Bois pour le Plan de Feu</h2>
                 <p>C'est l'étape technique de l'ensemble du chantier. Vous devez créer un plancher provisoire en bois à l'intérieur du "U", soutenu par des étais ou des bastaings posés au sol. Ce bois servira de moule pour couler la dalle intermédiaire (le plancher du foyer). Fixez également des planches de coffrage à l'extérieur pour retenir le béton sur 10 cm d'épaisseur.</p>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing7.webp" alt="Installation du coffrage en planches de bois à l'intérieur du U en parpaings" loading="lazy">
-                <p class="img-caption">Étape 6 — Mise en place des planches de coffrage soutenues par des étais pour recevoir le béton de la dalle intermédiaire.</p>
+                <p class="img-caption">Étape 6, Mise en place des planches de coffrage soutenues par des étais pour recevoir le béton de la dalle intermédiaire.</p>
 
                 <h2 id="etape-7">Étape 7 : Ferraillage et Coulage de la Dalle Intermédiaire</h2>
-                <p>Sur votre coffrage en bois, posez un treillis métallique renforcé (des fers à béton de 8 mm). Coulez un béton classique — ou réfractaire si vous souhaitez une sécurité absolue — sur 8 à 10 cm d'épaisseur. Lissez parfaitement à la règle. Patience : il faudra attendre 10 à 15 jours avant de retirer les planches en dessous.</p>
+                <p>Sur votre coffrage en bois, posez un treillis métallique renforcé (des fers à béton de 8 mm). Coulez un béton classique, ou réfractaire si vous souhaitez une sécurité absolue, sur 8 à 10 cm d'épaisseur. Lissez parfaitement à la règle. Patience : il faudra attendre 10 à 15 jours avant de retirer les planches en dessous.</p>
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -219,19 +219,19 @@ endforeach; ?>
                 </div>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing6.webp" alt="Coulage de la dalle intermédiaire en béton sur ferraillage dans la structure en parpaings" loading="lazy">
-                <p class="img-caption">Étape 7 — Versement du béton sur le treillis pour créer la dalle qui séparera la réserve à bois du foyer.</p>
+                <p class="img-caption">Étape 7, Versement du béton sur le treillis pour créer la dalle qui séparera la réserve à bois du foyer.</p>
 
                 <h2 id="etape-8">Étape 8 : La Pose de la Sole en Briques Réfractaires</h2>
                 <p>Le béton est sec, la base est prête. Trempez vos briques réfractaires dans l'eau pendant 15 minutes pour saturer leur porosité. Préparez un mortier réfractaire qui résiste à 1 200°C. Étalez le mortier et posez les briques à plat pour recouvrir intégralement le sol du foyer. Laissez un léger espace d'environ 1 cm entre les briques et les parpaings du fond pour la dilatation thermique.</p>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing5.webp" alt="Pose des briques réfractaires orange à plat pour créer la sole du foyer du barbecue" loading="lazy">
-                <p class="img-caption">Étape 8 — Tapissage du sol du foyer avec des briques réfractaires au mortier haute température (1 200°C).</p>
+                <p class="img-caption">Étape 8, Tapissage du sol du foyer avec des briques réfractaires au mortier haute température (1 200°C).</p>
 
                 <h2 id="etape-9">Étape 9 : Le Montage des Parois Latérales du Foyer</h2>
                 <p>Montez les murs intérieurs du foyer (fond et côtés) avec les briques réfractaires posées sur la tranche pour gagner de la place, ou à plat pour plus de solidité. Utilisez toujours le mortier réfractaire pour ces joints. Ne montez pas les parois trop haut : 3 à 4 rangées de briques suffisent pour isoler les parpaings de la chaleur et laisser l'air circuler librement.</p>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing4.webp" alt="Montage des parois latérales du foyer en briques réfractaires sur la tranche" loading="lazy">
-                <p class="img-caption">Étape 9 — Construction des parois intérieures du foyer en briques réfractaires pour isoler les parpaings de la chaleur.</p>
+                <p class="img-caption">Étape 9, Construction des parois intérieures du foyer en briques réfractaires pour isoler les parpaings de la chaleur.</p>
 
                 <h2 id="etape-10">Étape 10 : L'Intégration des Supports de Grille Métalliques</h2>
                 <p>Pendant le montage des parois réfractaires latérales, insérez des cornières métalliques en acier inox ou laissez simplement dépasser quelques briques d'un centimètre vers l'intérieur. Faites ceci à trois hauteurs différentes pour pouvoir régler la distance entre la grille et les braises selon le type de cuisson.</p>
@@ -243,13 +243,13 @@ endforeach; ?>
                 </ul>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing3.webp" alt="Insertion de tiges en acier inox entre les briques réfractaires comme supports de grille" loading="lazy">
-                <p class="img-caption">Étape 10 — Scellement des supports métalliques à 3 hauteurs différentes pour régler la distance grille/braises.</p>
+                <p class="img-caption">Étape 10, Scellement des supports métalliques à 3 hauteurs différentes pour régler la distance grille/braises.</p>
 
                 <h2 id="etape-11">Étape 11 : L'Application de l'Enduit Hydrofuge de Finition</h2>
                 <p>Le parpaing brut est laid et poreux : il absorbe l'eau de pluie et se dégrade en quelques années. Pour protéger et embellir votre ouvrage, appliquez un sous-enduit d'accrochage puis un <a href="<?php echo BASE_URL; ?>enduit-facade" style="text-decoration: underline;">enduit de finition hydrofuge</a> à la taloche. Lissez ou grattez selon l'effet désiré (rendu lisse ou crépi).</p>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing2.webp" alt="Application de l'enduit hydrofuge blanc à la taloche sur les parpaings extérieurs du barbecue" loading="lazy">
-                <p class="img-caption">Étape 11 — Finition esthétique et protectrice avec un enduit hydrofuge blanc appliqué à la taloche de maçon.</p>
+                <p class="img-caption">Étape 11, Finition esthétique et protectrice avec un enduit hydrofuge blanc appliqué à la taloche de maçon.</p>
 
                 <h2 id="etape-12">Étape 12 : Le Séchage Complet et le Premier Feu</h2>
                 <p>La structure est terminée. Mais ne commettez pas l'erreur la plus courante : allumer un vrai feu de charbon le lendemain. L'eau contenue au cœur du mortier réfractaire met des semaines à s'évaporer complètement.</p>
@@ -259,7 +259,7 @@ endforeach; ?>
                 </div>
 
                 <img src="https://www.cemarenov.fr/image/barbecue-parpaing1.webp" alt="Barbecue en parpaings terminé et enduit blanc avec braises et viande sur la grille en inox" loading="lazy">
-                <p class="img-caption">Étape 12 — Le résultat final : un barbecue en parpaings solide, esthétique et prêt pour des années de grillades.</p>
+                <p class="img-caption">Étape 12, Le résultat final : un barbecue en parpaings solide, esthétique et prêt pour des années de grillades.</p>
 
                 <h2 id="faq">Foire Aux Questions (FAQ)</h2>
 

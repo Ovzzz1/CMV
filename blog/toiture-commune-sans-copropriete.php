@@ -8,7 +8,7 @@ $article_meta = [
     'title'        => 'Toiture Commune Sans Copropriété : Droits, Frais et Travaux',
     'category'     => 'immobilier',
     'image'        => '/image/toiture-commune-sans-copropriete1.webp',
-    'excerpt'      => 'Sans syndic ni règlement de copropriété, gérer un toit partagé peut vite tourner au casse-tête. Pourtant, le Code civil fixe des règles claires sur qui paie quoi — et comment forcer un voisin récalcitrant à assumer sa part.',
+    'excerpt'      => 'Sans syndic ni règlement de copropriété, gérer un toit partagé peut vite tourner au casse-tête. Pourtant, le Code civil fixe des règles claires sur qui paie quoi, et comment forcer un voisin récalcitrant à assumer sa part.',
     'date'         => '2026-03-31',
     'reading_time' => 9,
 ];
@@ -350,7 +350,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Oui, si la situation met le bâtiment en péril immédiat (fuite grave qui inonde votre salon, tuiles arrachées par le vent). <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432368" rel="nofollow" target="_blank">L'article 815-2 du Code civil</a> vous autorise à prendre les mesures urgentes de conservation. Vous pouvez faire intervenir un couvreur en urgence, avancer les frais, puis exiger légalement le remboursement de la quote-part de votre voisin. Pensez à bien documenter le sinistre (photos horodatées, constat d'huissier) avant l'intervention.</p>
 
                 <blockquote class="article-blockquote">
-                    💡 <strong>Le conseil de Philippe :</strong> Même en urgence, envoyez un SMS ou un e-mail à votre voisin <em>avant</em> de lancer les travaux. Ce message daté prouve que vous l'avez prévenu et que vous n'avez pas agi en douce. Un simple "Je t'informe que je fais appel à un couvreur ce matin en urgence suite à la fuite — tu trouveras le devis en PJ" suffit à cadrer la situation.
+                    💡 <strong>Le conseil de Philippe :</strong> Même en urgence, envoyez un SMS ou un e-mail à votre voisin <em>avant</em> de lancer les travaux. Ce message daté prouve que vous l'avez prévenu et que vous n'avez pas agi en douce. Un simple "Je t'informe que je fais appel à un couvreur ce matin en urgence suite à la fuite, tu trouveras le devis en PJ" suffit à cadrer la situation.
                 </blockquote>
 
                 <h3>Recours amiable : mise en demeure et conciliation</h3>
@@ -398,7 +398,7 @@ include dirname(__DIR__) . '/header.php';
 
             <div class="conclusion-box">
                 <h3>Protégez votre toit et vos droits</h3>
-                <p>Gérer une toiture partagée sans syndic, c'est gérable — à condition de connaître les textes et de ne jamais laisser traîner un désaccord. Identifiez votre régime juridique (indivision ou mitoyenneté), calculez votre quote-part au prorata de la surface, et mettez chaque accord par écrit avant de lancer les travaux. En cas de blocage persistant, le Code civil vous donne les outils pour agir.</p>
+                <p>Gérer une toiture partagée sans syndic, c'est gérable, à condition de connaître les textes et de ne jamais laisser traîner un désaccord. Identifiez votre régime juridique (indivision ou mitoyenneté), calculez votre quote-part au prorata de la surface, et mettez chaque accord par écrit avant de lancer les travaux. En cas de blocage persistant, le Code civil vous donne les outils pour agir.</p>
             </div>
 
             <section class="similar-articles">

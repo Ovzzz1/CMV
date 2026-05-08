@@ -27,10 +27,10 @@ $d = [
 'intro' => 'Construire en limite de propriété ne laisse aucune place à l\'improvisation : la loi française est d\'une rigidité absolue concernant l\'écoulement des eaux pluviales. Une gouttière classique qui déborde, <strong>même de quelques centimètres chez votre voisin</strong>, vous expose à une démolition forcée de l\'ouvrage. Voici comment sécuriser votre installation et choisir les bons matériaux pour rester strictement dans la légalité.',
 
 'tldr' => [
-    ['label' => 'Art. 681 Code civil',      'text' => 'Les eaux pluviales doivent s\'écouler sur votre terrain ou sur la voie publique — jamais sur le fonds voisin.'],
+    ['label' => 'Art. 681 Code civil',      'text' => 'Les eaux pluviales doivent s\'écouler sur votre terrain ou sur la voie publique, jamais sur le fonds voisin.'],
     ['label' => 'Zéro empiétement absolu',  'text' => 'Pas de distance en cm : l\'obligation est de résultat. Même 1 cm de surplomb constitue une violation de propriété.'],
-    ['label' => 'Nantaise ou havraise',     'text' => 'Ces modèles rampants se posent sur le versant de toiture sans déborder de la façade — la seule solution légale en limite stricte.'],
-    ['label' => 'Prescription 30 ans',      'text' => 'Une gouttière illégale présente depuis plus de 30 ans peut bénéficier d\'une servitude acquise — sauf reconstruction totale.'],
+    ['label' => 'Nantaise ou havraise',     'text' => 'Ces modèles rampants se posent sur le versant de toiture sans déborder de la façade, la seule solution légale en limite stricte.'],
+    ['label' => 'Prescription 30 ans',      'text' => 'Une gouttière illégale présente depuis plus de 30 ans peut bénéficier d\'une servitude acquise, sauf reconstruction totale.'],
 ],
 
 'toc' => [
@@ -59,7 +59,7 @@ $d = [
 <h2 id="cas-concrets">2. Cas concrets de conflits de voisinage</h2>
 
 <h3>Cas n°1 : La gouttière pendante qui surplombe le jardin voisin</h3>
-<p>Un propriétaire dont le voisin venait de terminer un garage : la gouttière pendante classique dépassait de 8 cm sur son terrain. Bien que l'eau soit correctement évacuée, le surplomb bloquait son futur projet de clôture. Après médiation, le voisin a dû remplacer son installation par une gouttière nantaise — le droit de propriété prime sur toute considération technique.</p>
+<p>Un propriétaire dont le voisin venait de terminer un garage : la gouttière pendante classique dépassait de 8 cm sur son terrain. Bien que l'eau soit correctement évacuée, le surplomb bloquait son futur projet de clôture. Après médiation, le voisin a dû remplacer son installation par une gouttière nantaise, le droit de propriété prime sur toute considération technique.</p>
 
 <h3>Cas n°2 : Construire une extension pile sur la limite</h3>
 <p>Lors d'une extension de maison située à 0 cm de la limite cadastrale, tout débord de toit a dû être supprimé. Plutôt que de risquer un procès, la solution retenue a été une <strong>corniche intégrée</strong> : elle collecte l'eau tout en restant à l'aplomb parfait du mur privatif.</p>
@@ -89,7 +89,7 @@ $d = [
 <p>La gouttière nantaise ou havraise se pose directement sur le versant de la toiture, sur une bande de doublis. Contrairement aux modèles pendants, elles ne sont pas accrochées sous le toit mais reposent sur lui. Cela garantit qu'aucun élément ne dépasse de la façade du mur.</p>
 
 <blockquote class="article-blockquote">
-    <p>"Pour un rapport qualité/prix optimal : gouttière nantaise en zinc sur le toit (rigidité obligatoire), raccordée à des descentes en aluminium via un manchon spécifique — esthétique alu sur le reste de la maison, zéro litige en bordure de propriété."</p>
+    <p>"Pour un rapport qualité/prix optimal : gouttière nantaise en zinc sur le toit (rigidité obligatoire), raccordée à des descentes en aluminium via un manchon spécifique, esthétique alu sur le reste de la maison, zéro litige en bordure de propriété."</p>
 </blockquote>
 
 <p>Si votre toiture est en bac acier isolé, la fixation d'une gouttière demande des précautions supplémentaires pour ne pas compromettre l'étanchéité. Voir notre article dédié : <a href="https://www.cemarenov.fr/fixation-gouttiere-sur-bac-acier-isole">fixer une gouttière sur bac acier isolé</a>.</p>
@@ -100,7 +100,7 @@ $d = [
 <p>Si une gouttière surplombe le terrain voisin depuis plus de 30 ans de façon visible et continue, une servitude peut être acquise par prescription trentenaire. Dans ce cas, le voisin ne peut plus exiger le retrait, <strong>sauf si l'ouvrage est entièrement reconstruit</strong>.</p>
 
 <h3>Procédure : constat et conciliateur de justice</h3>
-<p>Si l'installation est récente et illégale : commencez par un constat avec photos. Envoyez ensuite une mise en demeure par lettre recommandée en citant l'article 681. Si rien ne bouge, saisissez un conciliateur de justice — étape gratuite et souvent obligatoire avant toute action devant le tribunal judiciaire.</p>
+<p>Si l'installation est récente et illégale : commencez par un constat avec photos. Envoyez ensuite une mise en demeure par lettre recommandée en citant l'article 681. Si rien ne bouge, saisissez un conciliateur de justice, étape gratuite et souvent obligatoire avant toute action devant le tribunal judiciaire.</p>
 <p><strong>Outil :</strong> <a href="https://www.conciliateurs.fr/" rel="nofollow noopener">Trouver un conciliateur de justice</a></p>
 
 <p>Une gouttière en zinc ancienne qui présente des fuites peut aussi être à l'origine d'infiltrations chez le voisin et déclencher un litige. Avant d'en arriver là, consultez notre guide : <a href="https://www.cemarenov.fr/reparer-gouttiere-zinc-fuit">réparer une gouttière en zinc qui fuit</a>.</p>
@@ -112,8 +112,8 @@ HTML,
     'title'         => 'Diagnostic en 3 questions',
     'steps'         => [
         ['question' => 'Votre projet est-il en cours ou déjà réalisé ?', 'options' => [
-            ['label' => 'En projet — je veux bien faire dès le départ', 'value' => 'projet'],
-            ['label' => 'Déjà posé — je vérifie ma conformité',         'value' => 'existant'],
+            ['label' => 'En projet, je veux bien faire dès le départ', 'value' => 'projet'],
+            ['label' => 'Déjà posé, je vérifie ma conformité',         'value' => 'existant'],
         ]],
         ['question' => 'Quel type de gouttière est concerné ?', 'options' => [
             ['label' => 'Pendante classique (accrochée sous le toit)', 'value' => 'pendante'],
@@ -121,13 +121,13 @@ HTML,
             ['label' => 'Je ne sais pas encore',                       'value' => 'inconnu'],
         ]],
         ['question' => 'Y a-t-il un débord sur le terrain voisin ?', 'options' => [
-            ['label' => 'Zéro débord — l\'installation reste sur mon terrain',    'value' => 'zero-debord'],
+            ['label' => 'Zéro débord, l\'installation reste sur mon terrain',    'value' => 'zero-debord'],
             ['label' => 'Oui, débord récent (moins de 30 ans)',                   'value' => 'debord-recent'],
             ['label' => 'Oui, débord ancien (plus de 30 ans, pas de travaux)',    'value' => 'debord-ancien'],
         ]],
     ],
     'success_title' => '🎯 Résultat de votre diagnostic :',
-    'warning_title' => 'Situation non conforme — action requise',
+    'warning_title' => 'Situation non conforme, action requise',
     'warning_text'  => 'Un débord récent est illégal et peut faire l\'objet d\'une mise en demeure ou d\'une action judiciaire. Remplacez la gouttière pendante par un modèle nantaise ou havraise.',
     'warning_cta'   => 'Demander un devis de mise en conformité',
     'js_logic'      => <<<JS

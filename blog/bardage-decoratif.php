@@ -440,7 +440,7 @@ include dirname(__DIR__) . '/header.php';
                     classée.</p>
 
                 <h3>Comment fixer les gouttières sur une façade avec bardage décoratif ?</h3>
-                <p>Sur une façade bardée, les crochets de gouttière doivent traverser le bardage et se fixer sur la structure porteuse — jamais sur les panneaux décoratifs eux-mêmes qui ne peuvent pas supporter la charge de l'eau pluviale. Notre guide <a href="https://www.cemarenov.fr/fixation-gouttiere-sur-bac-acier-isole">fixation gouttière sur bac acier isolé</a> détaille les systèmes de fixation adaptés aux façades habillées.</p>
+                <p>Sur une façade bardée, les crochets de gouttière doivent traverser le bardage et se fixer sur la structure porteuse, jamais sur les panneaux décoratifs eux-mêmes qui ne peuvent pas supporter la charge de l'eau pluviale. Notre guide <a href="https://www.cemarenov.fr/fixation-gouttiere-sur-bac-acier-isole">fixation gouttière sur bac acier isolé</a> détaille les systèmes de fixation adaptés aux façades habillées.</p>
 
             </div> <!-- .article-content -->
 

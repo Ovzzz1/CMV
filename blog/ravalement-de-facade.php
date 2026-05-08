@@ -217,7 +217,7 @@ endforeach; ?>
                 <p>Vos choix sont limités par le nuancier officiel imposé par le PLU (Plan Local d'Urbanisme) consultable au service voirie de la mairie. Chaque région protège son patrimoine (jaune ocre dans le sud, tons ardoise dans l'ouest...). Un rose fluo vous sera catégoriquement refusé.</p>
 
                 <h3>Quelle différence entre ravalement de façade et rénovation de façade ?</h3>
-                <p>Le ravalement désigne l'ensemble des opérations d'entretien et de remise en état de l'enveloppe extérieure d'un bâtiment : nettoyage, réparation, enduit, peinture. La <a href="https://www.cemarenov.fr/renovation-de-facade">rénovation de façade</a> est un terme plus large qui peut inclure également une refonte architecturale, l'ajout d'ITE ou la modification des ouvertures — au-delà du simple entretien.</p>
+                <p>Le ravalement désigne l'ensemble des opérations d'entretien et de remise en état de l'enveloppe extérieure d'un bâtiment : nettoyage, réparation, enduit, peinture. La <a href="https://www.cemarenov.fr/renovation-de-facade">rénovation de façade</a> est un terme plus large qui peut inclure également une refonte architecturale, l'ajout d'ITE ou la modification des ouvertures, au-delà du simple entretien.</p>
 
                 <h3>Comment nettoyer une façade sale avant le ravalement ?</h3>
                 <p>Le nettoyage est impératif avant tout enduit ou peinture. Pour les façades très encrassées ou couvertes de mousses, notre guide sur le <a href="https://www.cemarenov.fr/nettoyage-facade-javel">nettoyage façade à la javel</a> détaille les protocoles de dilution et les précautions à respecter selon le type d'enduit.</p>

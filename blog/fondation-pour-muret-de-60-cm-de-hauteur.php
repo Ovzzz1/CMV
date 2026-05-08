@@ -136,7 +136,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                On commet souvent l'erreur de penser qu'un muret de 60 cm peut se contenter d'une simple rigole de béton. Pourtant, cette dimension constitue une zone charnière en maçonnerie paysagère : elle subit des contraintes mécaniques invisibles mais redoutables. Ce guide vous donne toutes les clés pour réaliser une une fondation dans les règles de l'art — de l'analyse du sol au premier rang de parpaings.
+                On commet souvent l'erreur de penser qu'un muret de 60 cm peut se contenter d'une simple rigole de béton. Pourtant, cette dimension constitue une zone charnière en maçonnerie paysagère : elle subit des contraintes mécaniques invisibles mais redoutables. Ce guide vous donne toutes les clés pour réaliser une une fondation dans les règles de l'art, de l'analyse du sol au premier rang de parpaings.
             </p>
 
             <div class="article-content">
@@ -147,7 +147,7 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul class="custom-list">
-                        <li><strong>Semelle obligatoire :</strong> Même pour 60 cm, une fondation armée est indispensable — le sol travaille toujours.</li>
+                        <li><strong>Semelle obligatoire :</strong> Même pour 60 cm, une fondation armée est indispensable, le sol travaille toujours.</li>
                         <li><strong>Hors-gel :</strong> La semelle doit descendre entre 50 et 80 cm selon votre région pour éviter le soulèvement par le gel.</li>
                         <li><strong>Sol argileux = vigilance :</strong> Vérifiez le risque RGA sur Géorisques avant de creuser.</li>
                         <li><strong>Ferraillage HA8/HA10 :</strong> L'acier Haute Adhérence est indispensable pour absorber les contraintes en traction.</li>
@@ -173,7 +173,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="pourquoi-fondation">Pourquoi la fondation est-elle critique pour un muret de "seulement" 60 cm ?</h2>
 
-                <p>L'utilité d'une fondation ne se limite pas à supporter le poids vertical des parpaings. Sa fonction première est d'ancrer l'ouvrage dans une couche de sol dont le volume ne varie pas. Un muret de 60 cm pèse environ <strong>150 kg par mètre linéaire</strong> — une charge modeste en apparence, mais qui devient critique dès que le terrain subit un cycle de gel ou une saturation hydrique.</p>
+                <p>L'utilité d'une fondation ne se limite pas à supporter le poids vertical des parpaings. Sa fonction première est d'ancrer l'ouvrage dans une couche de sol dont le volume ne varie pas. Un muret de 60 cm pèse environ <strong>150 kg par mètre linéaire</strong>, une charge modeste en apparence, mais qui devient critique dès que le terrain subit un cycle de gel ou une saturation hydrique.</p>
 
                 <img src="<?php echo BASE_URL; ?>image/fondation-pour-muret-de-60-cm-de-hauteur-1.webp"
                      alt="Muret de 60 cm fissuré par insuffisance de fondation hors-gel"
@@ -184,10 +184,10 @@ include dirname(__DIR__) . '/header.php';
                 <p>Si votre muret délimite simplement un jardin, il subit principalement la prise au vent. En revanche, s'il sert de jardinière ou de soutènement léger, la terre humide exerce une pression latérale constante qui cherche à faire pivoter le mur sur sa base. La fondation doit agir comme un contrepoids, suffisamment large pour stabiliser cet effet de levier.</p>
 
                 <h3>Les risques de fissures : basculement et déchaussement</h3>
-                <p>Sans une base rigide, les micro-mouvements du terrain provoquent des tensions que le mortier — très rigide — ne peut compenser. Des fissures verticales se forment, souvent au niveau des angles. Sur le terrain, le déchaussement du premier rang de parpaings est la cause n°1 de sinistre lorsque la semelle a été coulée trop superficiellement.</p>
+                <p>Sans une base rigide, les micro-mouvements du terrain provoquent des tensions que le mortier, très rigide, ne peut compenser. Des fissures verticales se forment, souvent au niveau des angles. Sur le terrain, le déchaussement du premier rang de parpaings est la cause n°1 de sinistre lorsque la semelle a été coulée trop superficiellement.</p>
 
                 <h3>La répartition des charges par la semelle filante</h3>
-                <p>La semelle filante permet de répartir le poids du mur sur une surface de contact deux à trois fois plus grande. La pression exercée reste ainsi inférieure à la capacité de résistance du sol, ce qui évite le <strong>tassement différentiel</strong> — ce phénomène où une partie du muret s'enfonce plus vite que l'autre, brisant la ligne de niveau.</p>
+                <p>La semelle filante permet de répartir le poids du mur sur une surface de contact deux à trois fois plus grande. La pression exercée reste ainsi inférieure à la capacité de résistance du sol, ce qui évite le <strong>tassement différentiel</strong>, ce phénomène où une partie du muret s'enfonce plus vite que l'autre, brisant la ligne de niveau.</p>
 
                 <h2 id="analyse-terrain">Analyse du terrain et cadre légal : l'indispensable avant-projet</h2>
 
@@ -272,7 +272,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Le béton seul ne résiste pas à la traction. Puisque le sol bouge, il faut armer la semelle avec des aciers Haute Adhérence (HA8 ou HA10). Sur le terrain, on privilégie les semelles symétriques (type S35) qui assurent une armature homogène sur toute la largeur de la tranchée.</p>
 
                 <blockquote class="article-blockquote">
-                    <p>"Sur un sol argileux, j'ajoute systématiquement 10 cm de profondeur supplémentaires par rapport aux préconisations standard — c'est un investissement de rien du tout qui évite des reprises en sous-œuvre coûteuses cinq ans plus tard."</p>
+                    <p>"Sur un sol argileux, j'ajoute systématiquement 10 cm de profondeur supplémentaires par rapport aux préconisations standard, c'est un investissement de rien du tout qui évite des reprises en sous-œuvre coûteuses cinq ans plus tard."</p>
                 </blockquote>
 
                 <h2 id="etapes">Réaliser sa fondation étape par étape</h2>

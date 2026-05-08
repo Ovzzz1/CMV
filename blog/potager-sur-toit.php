@@ -128,7 +128,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Cultiver un potager sur votre toit-terrasse, c'est possible — mais ça demande de la méthode. Vent fort, soleil direct, contraintes de poids : les défis sont réels. Voici un plan d'action concret pour installer votre potager en hauteur, choisir le bon matériel et éviter les erreurs classiques.
+                Cultiver un potager sur votre toit-terrasse, c'est possible, mais ça demande de la méthode. Vent fort, soleil direct, contraintes de poids : les défis sont réels. Voici un plan d'action concret pour installer votre potager en hauteur, choisir le bon matériel et éviter les erreurs classiques.
             </p>
 
             <div class="article-content">
@@ -197,7 +197,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p><em>Exemple d'aménagement sur une petite structure (idéal pour comprendre les contraintes de poids avant de s'attaquer à un grand toit) :</em></p>
 
-                <!-- FIX PERF : YouTube facade — zéro JS/cookie YouTube au chargement, iframe créée au clic uniquement -->
+                <!-- FIX PERF : YouTube facade, zéro JS/cookie YouTube au chargement, iframe créée au clic uniquement -->
                 <div class="yt-facade" data-id="UUvLkYvu_mM" data-title="Alternative : potager sur toit de garage"></div>
 
                 <h2 id="etape2">3. Étape 2 : Le choix et l'installation des bacs de culture</h2>

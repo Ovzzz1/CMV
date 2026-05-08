@@ -129,7 +129,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                L'extrait de javel à 9,6 % (36° chlorométriques) est l'arme fatale des pros pour désintégrer algues rouges, traces noires et lichens sur une façade. Mais attention : mal dosé ou mal rincé, il ne nettoie pas votre mur — il l'abîme. Ce guide vous donne la recette exacte de dilution, le protocole d'application étape par étape et l'indispensable hydrofuge final pour éviter les traces blanches et les "spectres humides".
+                L'extrait de javel à 9,6 % (36° chlorométriques) est l'arme fatale des pros pour désintégrer algues rouges, traces noires et lichens sur une façade. Mais attention : mal dosé ou mal rincé, il ne nettoie pas votre mur, il l'abîme. Ce guide vous donne la recette exacte de dilution, le protocole d'application étape par étape et l'indispensable hydrofuge final pour éviter les traces blanches et les "spectres humides".
             </p>
 
             <div class="article-content">
@@ -140,10 +140,10 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul class="custom-list">
-                        <li><strong>Jamais pur :</strong> Diluez toujours l'extrait de javel 9,6 % à l'eau froide — jamais à l'eau chaude (décomposition du chlore + gaz toxique).</li>
+                        <li><strong>Jamais pur :</strong> Diluez toujours l'extrait de javel 9,6 % à l'eau froide, jamais à l'eau chaude (décomposition du chlore + gaz toxique).</li>
                         <li><strong>Pré-mouillage obligatoire :</strong> Arrosez la façade à l'eau claire avant l'application pour saturer les pores et forcer la javel à rester en surface.</li>
                         <li><strong>Application de bas en haut :</strong> Toujours. Rinçage de haut en bas.</li>
-                        <li><strong>Joints Viton :</strong> La javel 9,6 % détruit les joints en caoutchouc classique en 20 minutes — utilisez un pulvérisateur équipé de joints Viton.</li>
+                        <li><strong>Joints Viton :</strong> La javel 9,6 % détruit les joints en caoutchouc classique en 20 minutes, utilisez un pulvérisateur équipé de joints Viton.</li>
                         <li><strong>Hydrofuge final :</strong> Obligatoire après séchage complet (48–72 h) pour imperméabiliser et éviter la ré-encrassement rapide.</li>
                     </ul>
                 </div>
@@ -238,7 +238,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="protocole">Comment nettoyer une façade très sale : le protocole de A à Z</h2>
 
                 <ol style="margin-bottom: 20px; padding-left: 20px;">
-                    <li><strong>Équipement de protection :</strong> Masque à cartouche filtrante, gants nitrile, lunettes de protection. Utilisez un pulvérisateur équipé de <strong>joints Viton</strong> — la javel 9,6 % détruit les joints en caoutchouc classique en 20 minutes.</li>
+                    <li><strong>Équipement de protection :</strong> Masque à cartouche filtrante, gants nitrile, lunettes de protection. Utilisez un pulvérisateur équipé de <strong>joints Viton</strong>, la javel 9,6 % détruit les joints en caoutchouc classique en 20 minutes.</li>
                     <li><strong>Protection du chantier :</strong> Bâchez vos menuiseries en alu (la javel attaque l'anodisation) et arrosez massivement vos plantes à l'eau claire pour diluer d'éventuelles projections.</li>
                     <li><strong>Pré-mouillage :</strong> Arrosez abondamment toute la surface à traiter avec de l'eau claire avant l'application du produit.</li>
                     <li><strong>Pulvérisation de bas en haut :</strong> Si vous commencez par le haut, le produit coulera sur la saleté sèche et créera des "couloirs" propres impossibles à rattraper.</li>
@@ -250,7 +250,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Vous avez bien nettoyé, c'est nickel. Mais trois jours plus tard, des traces blanches apparaissent ou votre mur présente des "spectres humides" (zones foncées qui sèchent mal). Pourquoi ?</p>
 
-                <p>L'hypochlorite de sodium est un sel. Si vous rincez mal, le sel reste dans les pores du crépi — il attire et retient l'humidité. De plus, la javel a complètement "ouvert" votre façade, la rendant hydrophile. Pour éviter que votre mur ne se ré-encrasse en six mois, l'application d'un <a href="<?php echo BASE_URL; ?>hydrofuge-incolore-facade">hydrofuge incolore de façade</a> est non négociable. Attendez que le mur soit totalement sec (48 à 72 h) avant de pulvériser.</p>
+                <p>L'hypochlorite de sodium est un sel. Si vous rincez mal, le sel reste dans les pores du crépi, il attire et retient l'humidité. De plus, la javel a complètement "ouvert" votre façade, la rendant hydrophile. Pour éviter que votre mur ne se ré-encrasse en six mois, l'application d'un <a href="<?php echo BASE_URL; ?>hydrofuge-incolore-facade">hydrofuge incolore de façade</a> est non négociable. Attendez que le mur soit totalement sec (48 à 72 h) avant de pulvériser.</p>
 
                 <img src="<?php echo BASE_URL; ?>image/nettoyage-facade-javel-9-63.webp"
                      alt="Macro photo d'un enduit de façade propre montrant l'effet perlant des gouttes après application d'hydrofuge"
@@ -410,7 +410,7 @@ include dirname(__DIR__) . '/header.php';
             warningBox.style.display = 'block';
         } else if (userAnswers.step1 === 'tres-sale') {
             successBox.style.display = 'block';
-            const precaution = userAnswers.step3 === 'oui' ? '<br><strong>⚠️ Menuiseries alu :</strong> Bâchez soigneusement vos menuiseries — la javel attaque l\'anodisation de l\'aluminium de manière irréversible.' : '';
+            const precaution = userAnswers.step3 === 'oui' ? '<br><strong>⚠️ Menuiseries alu :</strong> Bâchez soigneusement vos menuiseries, la javel attaque l\'anodisation de l\'aluminium de manière irréversible.' : '';
             resultText.innerHTML = "<strong>Dilution recommandée : 1 volume de javel pour 4 volumes d'eau froide</strong><br>Surface couverte : ~20 m² par seau de 5 litres.<br>Temps d'action : 20 à 30 minutes. N'oubliez pas le pré-mouillage et l'hydrofuge final (48 h après séchage)." + precaution;
         } else if (userAnswers.step1 === 'moyen') {
             successBox.style.display = 'block';

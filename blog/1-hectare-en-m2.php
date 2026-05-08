@@ -114,7 +114,7 @@ include dirname(__DIR__) . '/header.php';
 
             <p class="article-intro">
                 Vous avez reçu un compromis de vente, vous parcourez une annonce immobilière ou votre
-                notaire vous parle d'une parcelle de <strong>2 ha 14 a 30 ca</strong> — et vous n'avez
+                notaire vous parle d'une parcelle de <strong>2 ha 14 a 30 ca</strong>, et vous n'avez
                 aucune idée de ce que ça représente en mètres carrés. La réponse courte :
                 <strong>1 hectare = 10 000 m²</strong>, exactement. La réponse longue, c'est cet article :
                 un convertisseur en temps réel, la formule à retenir en 30 secondes, un tableau de
@@ -133,7 +133,7 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul>
-                        <li><strong>1 ha = 10 000 m²</strong> — un carré de 100 m de côté, ni plus ni
+                        <li><strong>1 ha = 10 000 m²</strong>, un carré de 100 m de côté, ni plus ni
                             moins.</li>
                         <li><strong>Pour convertir :</strong> nombre de ha × 10 000 = m². À l'inverse :
                             m² ÷ 10 000 = ha.</li>
@@ -514,7 +514,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Combien d'ares dans 1 hectare ?</h3>
                 <p><strong>1 hectare = 100 ares.</strong> L'are (symbole : a) vaut 100 m². On trouve
                     cette notation dans les actes de vente : "0 ha 75 a" désigne un terrain de
-                    7 500 m² — un terrain standard pour une maison individuelle en périphérie
+                    7 500 m², un terrain standard pour une maison individuelle en périphérie
                     de ville.</p>
 
                 <h3>Combien d'hectares dans 1 km² ?</h3>
@@ -524,9 +524,9 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>C'est grand, 1 hectare ?</h3>
                 <p>Tout dépend du contexte. Pour un jardin privatif, c'est
-                    <strong>immense</strong> — la majorité des terrains individuels en France font
+                    <strong>immense</strong>, la majorité des terrains individuels en France font
                     200 à 800 m². Pour une exploitation agricole céréalière, c'est
-                    <strong>très petit</strong> — une ferme rentable commence généralement
+                    <strong>très petit</strong>, une ferme rentable commence généralement
                     à 50 ha. Pour un domaine viticole ou une forêt en gestion, 1 ha est
                     un début. Repère rapide : <strong>1 ha ≈ 1,4 terrain de football.</strong></p>
 

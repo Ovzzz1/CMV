@@ -145,7 +145,7 @@ include dirname(__DIR__) . '/header.php';
  <li><a href="#detection">Comment détecter une infestation de mites</a></li>
  <li><a href="#solutions">Solutions pour éliminer les mites : naturelles et chimiques</a></li>
  <li><a href="#prevention">Prévention : chiffres clés, humidité et température</a></li>
- <li><a href="#faq">FAQ — Questions fréquentes</a></li>
+ <li><a href="#faq">FAQ, Questions fréquentes</a></li>
  </ul>
  </div>
 

@@ -141,7 +141,7 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                     <ul class="custom-list">
                         <li><strong>Le mortier bâtard :</strong> Le mélange ciment + chaux hydraulique est la référence sur parpaing pour allier adhérence et perspirance.</li>
-                        <li><strong>3 couches obligatoires :</strong> Gobetis (accroche), corps d'enduit (dégrossi), finition — chacune plus souple que la précédente.</li>
+                        <li><strong>3 couches obligatoires :</strong> Gobetis (accroche), corps d'enduit (dégrossi), finition, chacune plus souple que la précédente.</li>
                         <li><strong>Règle "maigre sur gras" :</strong> Chaque couche successive contient moins de liant, pour éviter fissures et décollements.</li>
                         <li><strong>Humidifier avant d'enduire :</strong> Le parpaing sec "brûle" l'enduit en absorbant son eau de gâchage.</li>
                         <li><strong>Chaux NHL 3.5 ou 5 :</strong> Jamais de chaux aérienne seule sur parpaing ; elle n'accroche pas sur ce support fermé.</li>
@@ -166,7 +166,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Le parpaing (ou bloc béton) est un matériau stable mais "fermé". Pour le protéger efficacement, il lui faut un revêtement à la fois étanche à la pluie battante et capable de laisser respirer le mur. L'utilisation d'un enduit chaux pur est déconseillée car la chaux aérienne ne ferait pas sa prise correctement sur un support aussi peu poreux. En revanche, en ajoutant du ciment, on crée une réaction chimique qui renforce l'accrochage initial.</p>
 
-                <p>La <span class="hashtag">#chaux-hydraulique</span> (NHL) apporte la fameuse "perspirance" : elle permet à la vapeur d'eau de s'évacuer, évitant que l'humidité reste piégée derrière l'enduit — ce qui causerait des décollements ou du faïençage. Le mortier bâtard absorbe les micro-mouvements du mur sans casser, contrairement à un enduit 100% ciment qui s'avère trop cassant.</p>
+                <p>La <span class="hashtag">#chaux-hydraulique</span> (NHL) apporte la fameuse "perspirance" : elle permet à la vapeur d'eau de s'évacuer, évitant que l'humidité reste piégée derrière l'enduit, ce qui causerait des décollements ou du faïençage. Le mortier bâtard absorbe les micro-mouvements du mur sans casser, contrairement à un enduit 100% ciment qui s'avère trop cassant.</p>
 
                 <h2 id="tableau-dosages">Le tableau des dosages : proportions seau par seau pour votre enduit</h2>
 
@@ -238,7 +238,7 @@ include dirname(__DIR__) . '/header.php';
                 <ul class="custom-list">
                     <li><strong>Épaisseur :</strong> 5 mm.</li>
                     <li><strong>Séchage :</strong> 48 heures minimum avant d'appliquer la couche suivante.</li>
-                    <li><strong>Astuce :</strong> Ne pas lisser — la rugosité est volontaire pour favoriser l'accrochage du corps d'enduit.</li>
+                    <li><strong>Astuce :</strong> Ne pas lisser, la rugosité est volontaire pour favoriser l'accrochage du corps d'enduit.</li>
                 </ul>
 
                 <img src="<?php echo BASE_URL; ?>image/dosage-enduit-ciment-chaux-sur-parpaing2.webp"
@@ -338,7 +338,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>L'épaisseur totale doit être d'environ 20 mm, répartis en 5 mm pour le gobetis, 10 à 15 mm pour le corps d'enduit et quelques millimètres pour la finition. Un enduit trop épais (plus de 25 mm d'un coup) risque de fissurer sous son propre poids lors du séchage.</p>
 
                 <h3>Et si je ne veux pas enduire mon mur en parpaing ?</h3>
-                <p>C'est légalement possible dans certains cas — notre dossier <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">peut-on laisser un mur en parpaing sans enduit</a> détaille les obligations selon votre PLU et les alternatives (hydrofuge incolore, bardage, peinture façade). Pour les murs humides ou les parties enterrées, mieux vaut consulter d'abord notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a> avant d'appliquer quoi que ce soit.</p>
+                <p>C'est légalement possible dans certains cas, notre dossier <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">peut-on laisser un mur en parpaing sans enduit</a> détaille les obligations selon votre PLU et les alternatives (hydrofuge incolore, bardage, peinture façade). Pour les murs humides ou les parties enterrées, mieux vaut consulter d'abord notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a> avant d'appliquer quoi que ce soit.</p>
 
             </div>
 

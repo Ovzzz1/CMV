@@ -28,9 +28,9 @@ $d = [
 
 'tldr' => [
     ['label' => 'Pas une arnaque',             'text' => 'ChantierAccess remplit parfaitement son rôle d\'entremetteur et centralise vos demandes de devis efficacement.'],
-    ['label' => 'Gratuit pour le particulier', 'text' => 'Aucune commission cachée sur le montant des travaux — ce sont les artisans qui paient un abonnement fixe.'],
+    ['label' => 'Gratuit pour le particulier', 'text' => 'Aucune commission cachée sur le montant des travaux, ce sont les artisans qui paient un abonnement fixe.'],
     ['label' => 'Artisans vérifiés',           'text' => 'Kbis, assurance décennale, RC Pro et certifications (RGE, Qualibat) sont contrôlés manuellement avant validation.'],
-    ['label' => 'Limite importante',           'text' => 'La plateforme se désengage totalement après la signature du devis — aucun suivi de chantier ni gestion des litiges.'],
+    ['label' => 'Limite importante',           'text' => 'La plateforme se désengage totalement après la signature du devis, aucun suivi de chantier ni gestion des litiges.'],
 ],
 
 'toc' => [
@@ -138,7 +138,7 @@ HTML,
     ],
 ],
 
-'author_phrase' => 'Philippe vous guide ici pour comprendre exactement ce que ChantierAccess peut faire pour vous — et ce qu\'elle ne fera pas. Une lecture qui vous évitera de mauvaises surprises avant de signer quoi que ce soit.',
+'author_phrase' => 'Philippe vous guide ici pour comprendre exactement ce que ChantierAccess peut faire pour vous, et ce qu\'elle ne fera pas. Une lecture qui vous évitera de mauvaises surprises avant de signer quoi que ce soit.',
 
 'conclusion' => [
     'title' => 'Prêt à recevoir vos devis sans prise de tête ?',

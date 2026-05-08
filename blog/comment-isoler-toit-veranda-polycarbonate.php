@@ -136,7 +136,7 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul>
-                        <li><strong>Résistance thermique :</strong> Polycarbonate simple R = 0,15 — insuffisant pour le
+                        <li><strong>Résistance thermique :</strong> Polycarbonate simple R = 0,15, insuffisant pour le
                             confort.</li>
                         <li><strong>Solution la plus efficace :</strong> Panneaux sandwich isolants ou double-peau
                             alvéolaire 16-32 mm.</li>
@@ -194,9 +194,9 @@ include dirname(__DIR__) . '/header.php';
                 <ul class="custom-list">
                     <li><strong>Épaisseur standard :</strong> 4 à 10 mm pour les plaques compactes, 16 à 32 mm pour
                         l'alvéolaire.</li>
-                    <li><strong>Résistance thermique (R) :</strong> 0,15 m²·K/W — 10 fois moins isolant qu'un double
+                    <li><strong>Résistance thermique (R) :</strong> 0,15 m²·K/W, 10 fois moins isolant qu'un double
                         vitrage.</li>
-                    <li><strong>Transmission lumineuse :</strong> 80 à 90% — excellente <strong>lumière
+                    <li><strong>Transmission lumineuse :</strong> 80 à 90%, excellente <strong>lumière
                             naturelle</strong>.</li>
                 </ul>
 

@@ -129,7 +129,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Laisser un mur en parpaing à l'état brut est techniquement possible, mais cela dépend étroitement de la nature de l'ouvrage et de la réglementation locale. S'il s'agit d'un mur de clôture ou d'un garage, la tolérance est plus grande que pour une habitation. Toutefois, l'absence de protection expose le béton à des dégradations prématurées — et peut vous valoir un litige avec la mairie ou votre voisin.
+                Laisser un mur en parpaing à l'état brut est techniquement possible, mais cela dépend étroitement de la nature de l'ouvrage et de la réglementation locale. S'il s'agit d'un mur de clôture ou d'un garage, la tolérance est plus grande que pour une habitation. Toutefois, l'absence de protection expose le béton à des dégradations prématurées, et peut vous valoir un litige avec la mairie ou votre voisin.
             </p>
 
             <div class="article-content">
@@ -141,7 +141,7 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                     <ul class="custom-list">
                         <li><strong>Légalement :</strong> Le PLU de votre commune peut vous obliger à enduire. Vérifiez avant tout travaux.</li>
-                        <li><strong>Techniquement :</strong> Le parpaing brut absorbe l'eau, gèle et se dégrade — la protection est indispensable dans les régions froides et humides.</li>
+                        <li><strong>Techniquement :</strong> Le parpaing brut absorbe l'eau, gèle et se dégrade, la protection est indispensable dans les régions froides et humides.</li>
                         <li><strong>Alternative invisible :</strong> Un hydrofuge incolore protège efficacement sans changer l'aspect du béton.</li>
                         <li><strong>Peinture directe :</strong> Possible mais attention aux "spectres" (joints visibles par temps humide) sans sous-couche.</li>
                         <li><strong>Mitoyenneté :</strong> Si votre mur brut nuit à votre voisin, un juge peut vous contraindre à le finir.</li>
@@ -314,7 +314,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Cela est dû à une différence de porosité entre le parpaing et le mortier du joint. Si le mur n'a pas reçu de sous-couche uniformisante, l'humidité ne s'évapore pas à la même vitesse, créant ces traces fantômes appelées "spectres". Un fixateur de fond permet d'homogénéiser l'absorption avant peindre.</p>
 
                 <h3>Est-il possible de rattraper un vieux mur en parpaing noirci ?</h3>
-                <p>Oui, mais un nettoyage haute pression est indispensable avant tout traitement. Une fois propre, vous pouvez appliquer un badigeon de chaux — solution très économique, respirante et naturellement fongicide qui redonnera un coup de propre sans le coût d'un ravalement complet.</p>
+                <p>Oui, mais un nettoyage haute pression est indispensable avant tout traitement. Une fois propre, vous pouvez appliquer un badigeon de chaux, solution très économique, respirante et naturellement fongicide qui redonnera un coup de propre sans le coût d'un ravalement complet.</p>
 
                 <h3>Peut-on poser un isolant sur un mur non enduit ?</h3>
                 <p>Techniquement oui, dans le cadre d'une Isolation Thermique par l'Extérieur (ITE). Dans ce cas, l'isolant servira de protection au parpaing et sera lui-même recouvert d'une finition, réglant ainsi le problème d'étanchéité et d'esthétique en une seule opération.</p>
@@ -323,7 +323,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Un mur laissé sans enduit est structurellement identique à un mur enduit : les règles de raidissement restent les mêmes. Notre guide sur la <a href="https://www.cemarenov.fr/distance-poteau-raidisseur-mur-parpaing">distance entre poteaux raidisseurs</a> détaille les espacements selon la hauteur du mur et l'épaisseur du parpaing, conformément au DTU 20.1.</p>
 
                 <h3>Quelle finition si le mur présente des traces d'humidité ?</h3>
-                <p>Dans ce cas, ni enduit ni peinture ne règlent le problème — ils le masquent temporairement. Commencez par identifier la source : infiltration, remontée capillaire ou condensation. Pour les caves et garages, notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a> détaille le traitement par cuvelage. Et si la fissuration se situe au niveau des joints de chaînage, consultez notre article sur le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux parpaing</a> — un mortier mal dosé est souvent la cause.</p>
+                <p>Dans ce cas, ni enduit ni peinture ne règlent le problème, ils le masquent temporairement. Commencez par identifier la source : infiltration, remontée capillaire ou condensation. Pour les caves et garages, notre guide sur l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité mur parpaing intérieur</a> détaille le traitement par cuvelage. Et si la fissuration se situe au niveau des joints de chaînage, consultez notre article sur le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux parpaing</a>, un mortier mal dosé est souvent la cause.</p>
 
             </div>
 

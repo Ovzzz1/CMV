@@ -129,7 +129,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Vous avez un devis de <strong>Genay Façades</strong> sur la table pour refaire votre crépi ou isoler vos murs, et vous cherchez des avis avant de verser l'acompte ? C'est le bon réflexe. Dans le bâtiment, confier un <strong>ravalement de façade</strong> sans vérifications préalables peut vite tourner au cauchemar financier. On ne va pas se contenter de compter les étoiles Google — on décortique ici ce que vaut techniquement cette entreprise implantée à <strong>Genay (69730)</strong>.
+                Vous avez un devis de <strong>Genay Façades</strong> sur la table pour refaire votre crépi ou isoler vos murs, et vous cherchez des avis avant de verser l'acompte ? C'est le bon réflexe. Dans le bâtiment, confier un <strong>ravalement de façade</strong> sans vérifications préalables peut vite tourner au cauchemar financier. On ne va pas se contenter de compter les étoiles Google, on décortique ici ce que vaut techniquement cette entreprise implantée à <strong>Genay (69730)</strong>.
             </p>
 
             <div class="article-content">
@@ -140,9 +140,9 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul class="custom-list">
-                        <li><strong>Code NAF 4399C :</strong> "Maçonnerie générale et gros œuvre" — une expertise structurelle, pas seulement cosmétique.</li>
-                        <li><strong>SIRET actif :</strong> Structure établie, capital social validé — condition indispensable pour une assurance décennale valable.</li>
-                        <li><strong>Ancrage local :</strong> Connaissance du PLU Genay et de la Charte QCV (CAUE Rhône Métropole) — un atout majeur pour votre déclaration préalable.</li>
+                        <li><strong>Code NAF 4399C :</strong> "Maçonnerie générale et gros œuvre", une expertise structurelle, pas seulement cosmétique.</li>
+                        <li><strong>SIRET actif :</strong> Structure établie, capital social validé, condition indispensable pour une assurance décennale valable.</li>
+                        <li><strong>Ancrage local :</strong> Connaissance du PLU Genay et de la Charte QCV (CAUE Rhône Métropole), un atout majeur pour votre déclaration préalable.</li>
                         <li><strong>ITE :</strong> Exigez la certification RGE pour bénéficier de MaPrimeRénov' et vérifiez le traitement des ponts thermiques dans le devis.</li>
                         <li><strong>3 points à vérifier dans le devis :</strong> Nettoyage/préparation détaillé, échafaudage inclus, évacuation des gravats prévue.</li>
                     </ul>
@@ -168,7 +168,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="donnees-legales">Genay Façades (69) : Ce que disent les données légales (SIRET et NAF)</h2>
 
-                <p>Avant même de regarder la qualité de l'enduit, assurez-vous que la boîte ne va pas couler pendant les travaux. Genay Façades est enregistrée sous le code NAF <strong>4399C</strong>. Concrètement, ça correspond aux "Travaux de maçonnerie générale et gros œuvre" — une compétence structurelle pour réparer un mur, pas juste passer un coup de peinture dessus.</p>
+                <p>Avant même de regarder la qualité de l'enduit, assurez-vous que la boîte ne va pas couler pendant les travaux. Genay Façades est enregistrée sous le code NAF <strong>4399C</strong>. Concrètement, ça correspond aux "Travaux de maçonnerie générale et gros œuvre", une compétence structurelle pour réparer un mur, pas juste passer un coup de peinture dessus.</p>
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -181,7 +181,7 @@ include dirname(__DIR__) . '/header.php';
                         <tbody>
                             <tr>
                                 <td><strong>Localisation</strong></td>
-                                <td>Genay (69) — Proximité immédiate Val de Saône</td>
+                                <td>Genay (69), Proximité immédiate Val de Saône</td>
                             </tr>
                             <tr>
                                 <td><strong>Spécialisation</strong></td>
@@ -199,23 +199,23 @@ include dirname(__DIR__) . '/header.php';
                     </table>
                 </div>
 
-                <p>Sur les registres légaux, l'entreprise affiche un SIRET actif et un capital social établi — condition indispensable pour que leur assurance décennale (qui vous couvre pendant 10 ans contre les malfaçons) soit valable. Un artisan local interviendra aussi toujours plus vite qu'une grande plateforme qui sous-traite à des kilomètres en cas de pépin après le chantier.</p>
+                <p>Sur les registres légaux, l'entreprise affiche un SIRET actif et un capital social établi, condition indispensable pour que leur assurance décennale (qui vous couvre pendant 10 ans contre les malfaçons) soit valable. Un artisan local interviendra aussi toujours plus vite qu'une grande plateforme qui sous-traite à des kilomètres en cas de pépin après le chantier.</p>
 
                 <h2 id="avis-clients">Ce que disent vraiment les avis clients sur leurs chantiers</h2>
 
                 <p>Quand on épluche les retours des propriétaires, un point fort ressort systématiquement : la propreté du chantier. Ça a l'air d'un détail, mais un façadier qui ne bâche pas correctement vos menuiseries ou vos appuis de fenêtre, c'est des heures de grattage pour vous à la fin.</p>
 
-                <p>La vraie qualité d'un façadier se juge sur la préparation du support. Appliquer un enduit neuf sur un mur qui s'effrite, ça tient deux ans maximum. Les avis sur Genay Façades soulignent une bonne préparation technique — ils savent adapter le <a href="<?php echo BASE_URL; ?>dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux sur parpaing</a> pour que le support accroche et respire correctement.</p>
+                <p>La vraie qualité d'un façadier se juge sur la préparation du support. Appliquer un enduit neuf sur un mur qui s'effrite, ça tient deux ans maximum. Les avis sur Genay Façades soulignent une bonne préparation technique, ils savent adapter le <a href="<?php echo BASE_URL; ?>dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux sur parpaing</a> pour que le support accroche et respire correctement.</p>
 
                 <ul class="custom-list">
-                    <li><strong>Finitions :</strong> Belles arêtes sur les angles et retours de fenêtres propres — signe d'un maçon soigneux.</li>
+                    <li><strong>Finitions :</strong> Belles arêtes sur les angles et retours de fenêtres propres, signe d'un maçon soigneux.</li>
                     <li><strong>Délais :</strong> Calendrier généralement respecté, sous réserve de la météo (un enduit ne se pose pas sous la pluie ou le gel).</li>
                     <li><strong>Chantier :</strong> Protections sérieuses des sols et des ouvertures signalées par plusieurs clients.</li>
                 </ul>
 
                 <h2 id="ite">Isolation Thermique par l'Extérieur (ITE) : Ne prenez pas de risques</h2>
 
-                <p>Aujourd'hui, si vous refaites votre façade, on va forcément vous parler d'<strong>ITE</strong>. Genay Façades propose cette prestation, et c'est une excellente chose de mutualiser l'échafaudage pour faire les deux. Mais l'ITE, c'est de l'horlogerie — une erreur de pose coûte très cher à corriger.</p>
+                <p>Aujourd'hui, si vous refaites votre façade, on va forcément vous parler d'<strong>ITE</strong>. Genay Façades propose cette prestation, et c'est une excellente chose de mutualiser l'échafaudage pour faire les deux. Mais l'ITE, c'est de l'horlogerie, une erreur de pose coûte très cher à corriger.</p>
 
                 <blockquote class="article-blockquote">
                     <p>"J'ai récupéré un chantier en cours de route l'année dernière : un client avait fait appel à une entreprise 'low cost' pour une ITE. Les chevilles de fixation de l'isolant n'avaient pas été posées correctement pour traiter les ponts thermiques. Résultat : des condensations à l'intérieur deux hivers plus tard, et des traces de moisissures en bas des murs. Le prix de la réparation a coûté le double du chantier initial."</p>
@@ -296,13 +296,13 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 
                 <h3>Dois-je faire nettoyer ma toiture avant la façade ?</h3>
-                <p>Absolument. Si vos tuiles sont pleines de mousse, la première grosse pluie fera couler des traînées verdâtres sur votre enduit tout neuf. Prévoyez un démoussage de vos tuiles en terre cuite avant que le façadier ne monte son échafaudage — c'est beaucoup moins coûteux de le faire en même temps que la mise en place du matériel.</p>
+                <p>Absolument. Si vos tuiles sont pleines de mousse, la première grosse pluie fera couler des traînées verdâtres sur votre enduit tout neuf. Prévoyez un démoussage de vos tuiles en terre cuite avant que le façadier ne monte son échafaudage, c'est beaucoup moins coûteux de le faire en même temps que la mise en place du matériel.</p>
 
                 <h3>Est-ce que refaire la façade règle les problèmes d'humidité intérieure ?</h3>
                 <p>Pas toujours. Si l'eau s'infiltre par des fissures extérieures, oui, le ravalement fera le job. Mais si l'humidité vient du sol (remontées capillaires dans un sous-sol par exemple), refaire l'extérieur ne suffira pas. Il faudra envisager une <a href="<?php echo BASE_URL; ?>etancheite-mur-parpaing-interieur">étanchéité mur parpaing par l'intérieur</a> pour bloquer la pression de l'eau.</p>
 
                 <h3>Font-ils des devis gratuits ?</h3>
-                <p>Oui, c'est la norme dans le bâtiment pour ce type de gros travaux. Un façadier sérieux se déplacera toujours pour sonder vos murs avant de vous donner un prix au m². Méfiez-vous des devis réalisés à distance sur simple photo — la préparation du support est impossible à évaluer sans visite terrain.</p>
+                <p>Oui, c'est la norme dans le bâtiment pour ce type de gros travaux. Un façadier sérieux se déplacera toujours pour sonder vos murs avant de vous donner un prix au m². Méfiez-vous des devis réalisés à distance sur simple photo, la préparation du support est impossible à évaluer sans visite terrain.</p>
 
             </div>
 
@@ -320,7 +320,7 @@ include dirname(__DIR__) . '/header.php';
 
             <div class="conclusion-box">
                 <h3>Besoin d'un second avis avant de signer votre devis de ravalement ?</h3>
-                <p>Une contre-expertise par un artisan RGE indépendant vous permet de valider les prix, les techniques proposées et la conformité aux règles du PLU local — avant tout engagement financier.</p>
+                <p>Une contre-expertise par un artisan RGE indépendant vous permet de valider les prix, les techniques proposées et la conformité aux règles du PLU local, avant tout engagement financier.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un avis ou un devis gratuit</a>
             </div>
 
@@ -416,7 +416,7 @@ require_once dirname(__DIR__) . '/schema-data.php';
 $faq_schema = [
     [
         'question' => "Dois-je faire nettoyer ma toiture avant de confier ma façade à Genay Façades ?",
-        'answer'   => "Absolument. Si vos tuiles sont pleines de mousse, la première grosse pluie fera couler des traînées verdâtres sur votre enduit tout neuf. Prévoyez un démoussage des tuiles avant que le façadier monte son échafaudage — c'est beaucoup moins coûteux en même temps."
+        'answer'   => "Absolument. Si vos tuiles sont pleines de mousse, la première grosse pluie fera couler des traînées verdâtres sur votre enduit tout neuf. Prévoyez un démoussage des tuiles avant que le façadier monte son échafaudage, c'est beaucoup moins coûteux en même temps."
     ],
     [
         'question' => "Est-ce que refaire la façade règle les problèmes d'humidité intérieure ?",

@@ -129,7 +129,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Construire un <strong>mur de soutènement à Paris</strong> mêle contraintes géotechniques complexes et exigences architecturales strictes. Pour stabiliser un terrain en pente ou créer des terrasses tout en respectant l'élégance du bâti parisien, le <strong>mur poids en pierre</strong> demeure la solution de référence. Ce type d'ouvrage assure la stabilité des terres par sa propre masse volumique — une alternative durable au béton armé, à condition de maîtriser l'étude de sol, le PLU et les règles du dimensionnement.
+                Construire un <strong>mur de soutènement à Paris</strong> mêle contraintes géotechniques complexes et exigences architecturales strictes. Pour stabiliser un terrain en pente ou créer des terrasses tout en respectant l'élégance du bâti parisien, le <strong>mur poids en pierre</strong> demeure la solution de référence. Ce type d'ouvrage assure la stabilité des terres par sa propre masse volumique, une alternative durable au béton armé, à condition de maîtriser l'étude de sol, le PLU et les règles du dimensionnement.
             </p>
 
             <div class="article-content">
@@ -140,10 +140,10 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul class="custom-list">
-                        <li><strong>Principe du mur poids :</strong> La stabilité repose sur la seule gravité de la pierre — la base doit mesurer 1/3 à 1/2 de la hauteur totale.</li>
+                        <li><strong>Principe du mur poids :</strong> La stabilité repose sur la seule gravité de la pierre, la base doit mesurer 1/3 à 1/2 de la hauteur totale.</li>
                         <li><strong>BET obligatoire à Paris :</strong> Le sous-sol parisien (carrières) exige une étude géotechnique pour la garantie décennale.</li>
                         <li><strong>Le fruit :</strong> Inclinaison de ~10 % de la face extérieure vers le talus pour rediriger les forces de pression.</li>
-                        <li><strong>8 règles d'or :</strong> Drainage dorsal, barbacanes, fondations hors-gel, mortier de chaux — aucune ne doit être omise.</li>
+                        <li><strong>8 règles d'or :</strong> Drainage dorsal, barbacanes, fondations hors-gel, mortier de chaux, aucune ne doit être omise.</li>
                         <li><strong>Diagnostic :</strong> Un "ventre de bœuf" ou des fissures en escalier sont des signaux d'alerte d'effondrement imminent.</li>
                     </ul>
                 </div>
@@ -306,7 +306,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 
                 <h3>Quelle est l'épaisseur idéale pour un mur de 2 mètres de haut ?</h3>
-                <p>Pour une hauteur de 2 mètres, la base de votre mur poids devrait idéalement mesurer entre 70 et 80 cm de largeur pour garantir un équilibre parfait face à la poussée des terres. Ce ratio d'un tiers à la moitié de la hauteur est une règle de base — le BET pourra affiner ce dimensionnement selon la nature du sol.</p>
+                <p>Pour une hauteur de 2 mètres, la base de votre mur poids devrait idéalement mesurer entre 70 et 80 cm de largeur pour garantir un équilibre parfait face à la poussée des terres. Ce ratio d'un tiers à la moitié de la hauteur est une règle de base, le BET pourra affiner ce dimensionnement selon la nature du sol.</p>
 
                 <h3>Peut-on construire un mur poids sans béton à Paris ?</h3>
                 <p>C'est le principe de la pierre sèche, mais cela demande un savoir-faire rare et une épaisseur encore plus importante. À Paris, pour des raisons de sécurité et d'assurance (sous-sol de carrières), on privilégie la maçonnerie liée au mortier de chaux avec des fondations bétonnées hors-gel.</p>

@@ -140,9 +140,9 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel à retenir
                     </div>
                     <ul class="custom-list">
-                        <li><strong>Bon crochet :</strong> Sur panneau sandwich, utilisez un étrier spécial ou un crochet sur hampe chantournée — jamais un crochet standard qui écrase l'isolant.</li>
+                        <li><strong>Bon crochet :</strong> Sur panneau sandwich, utilisez un étrier spécial ou un crochet sur hampe chantournée, jamais un crochet standard qui écrase l'isolant.</li>
                         <li><strong>Perçage :</strong> Toujours sur le sommet de la nervure, jamais dans le creux d'onde.</li>
-                        <li><strong>Joint EPDM :</strong> Serrer fermement sans écraser — le joint doit garder son élasticité pour absorber les dilatations thermiques.</li>
+                        <li><strong>Joint EPDM :</strong> Serrer fermement sans écraser, le joint doit garder son élasticité pour absorber les dilatations thermiques.</li>
                         <li><strong>Métaux :</strong> Vis inox A2 ou acier galvanisé à chaud uniquement pour éviter le couple galvanique.</li>
                         <li><strong>Entraxe :</strong> 50 cm maximum entre chaque crochet pour tenir le vent et le poids de l'eau.</li>
                     </ul>
@@ -163,7 +163,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="crochet">Quel type de crochet pour un panneau sandwich ? (Bac sec vs Isolé)</h2>
                 <p>La principale erreur lors de la préparation du chantier est de confondre la couverture métallique nervurée simple (<span class="hashtag">#bac-sec</span>) et le panneau sandwich à âme isolante.</p>
-                <p>Sur un bac sec, une fixation classique suffit. Mais sur un panneau isolé, la présence de mousse polyuréthane — dont l'épaisseur varie souvent de 30 mm à 100 mm — entre les deux parements métalliques change la donne. Si vous utilisez un crochet standard et que vous forcez le vissage, vous allez inévitablement écraser l'âme isolante et déformer le parement métallique extérieur.</p>
+                <p>Sur un bac sec, une fixation classique suffit. Mais sur un panneau isolé, la présence de mousse polyuréthane, dont l'épaisseur varie souvent de 30 mm à 100 mm, entre les deux parements métalliques change la donne. Si vous utilisez un crochet standard et que vous forcez le vissage, vous allez inévitablement écraser l'âme isolante et déformer le parement métallique extérieur.</p>
                 <p>Pour réussir <a href="<?php echo BASE_URL; ?>gouttieres">votre installation de gouttières</a>, vous devez opter pour un maintien structurel adapté :</p>
                 <ul class="custom-list">
                     <li><strong>Le crochet à étrier spécial panneau sandwich :</strong> Il vient pincer ou épouser précisément la forme de la nervure sans la compresser.</li>
@@ -171,7 +171,7 @@ include dirname(__DIR__) . '/header.php';
                 </ul>
 
                 <blockquote class="article-blockquote">
-                    <p>"Assurez-vous d'acheter des modèles compatibles avec le profil exact de vos ondes — chaque fabricant de panneau sandwich a ses propres cotes de nervure."</p>
+                    <p>"Assurez-vous d'acheter des modèles compatibles avec le profil exact de vos ondes, chaque fabricant de panneau sandwich a ses propres cotes de nervure."</p>
                 </blockquote>
 
                 <h2 id="pose">Installation en vidéo : Les étapes clés sur toiture métallique</h2>
@@ -409,7 +409,7 @@ include dirname(__DIR__) . '/header.php';
             resultText.innerHTML = "<strong>Matériel estimé :</strong> 13 crochets standard + 26 vis galvanisées suffisent pour couvrir une façade de moins de 6 mètres en bac sec.<br><strong>Conseil :</strong> Prévoir 2 crochets supplémentaires en réserve pour les chutes ou ajustements de pente.";
         } else if (userAnswers.step1 === 'small' && userAnswers.step2 === 'sandwich') {
             successBox.style.display = 'block';
-            resultText.innerHTML = "<strong>Matériel estimé :</strong> 13 étriers spéciaux panneau sandwich + 26 vis inox A2 avec rondelle EPDM.<br><strong>Conseil :</strong> Vérifiez le profil exact de vos nervures avant de commander — les étriers ne sont pas universels selon les fabricants.";
+            resultText.innerHTML = "<strong>Matériel estimé :</strong> 13 étriers spéciaux panneau sandwich + 26 vis inox A2 avec rondelle EPDM.<br><strong>Conseil :</strong> Vérifiez le profil exact de vos nervures avant de commander, les étriers ne sont pas universels selon les fabricants.";
         } else if (userAnswers.step1 === 'medium' && userAnswers.step3 === 'yes') {
             successBox.style.display = 'block';
             resultText.innerHTML = "<strong>Matériel estimé :</strong> Passez à un entraxe de 40 cm (au lieu de 50 cm) en zone exposée, soit environ 26 crochets pour 10 mètres + 52 vis.<br><strong>Conseil :</strong> Renforcez également la descente avec un collier supplémentaire à mi-hauteur.";

@@ -131,7 +131,7 @@ include dirname(__DIR__) . '/header.php';
                         <li><a href="#etapes">Comment poser une bâche sur un toit : les étapes</a></li>
                         <li><a href="#duree">Combien de temps laisser une bâche sur un toit ?</a></li>
                         <li><a href="#prix">Prix d'un bâchage de toiture</a></li>
-                        <li><a href="#faq">FAQ — Questions fréquentes</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -181,7 +181,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Sécurité (harnais, longe, échelle)</h3>
 
                 <div style="background-color: #fbe3cb; border-left: 4px solid #e74c3c; padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0; color: #3e2e1f;">
-                    <strong>Attention — Sécurité obligatoire :</strong> Monter sur un toit est dangereux. Un <strong>harnais sécurité</strong> avec longe est indispensable dès que vous quittez l'échelle. Une chute de toit peut être mortelle. Si vous n'êtes pas équipé ou formé, appelez un professionnel.
+                    <strong>Attention, Sécurité obligatoire :</strong> Monter sur un toit est dangereux. Un <strong>harnais sécurité</strong> avec longe est indispensable dès que vous quittez l'échelle. Une chute de toit peut être mortelle. Si vous n'êtes pas équipé ou formé, appelez un professionnel.
                 </div>
 
                 <p>Équipement de sécurité obligatoire :</p>

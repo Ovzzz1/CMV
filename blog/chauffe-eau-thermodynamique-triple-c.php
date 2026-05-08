@@ -169,7 +169,7 @@ include dirname(__DIR__) . '/header.php';
                     deux.</p>
 
                 <p>Le système tourne avec un compresseur extérieur multi-splits (un moteur conçu pour alimenter
-                    plusieurs diffuseurs dans différentes pièces). Il utilise du R32 — le gaz frigorigène standard
+                    plusieurs diffuseurs dans différentes pièces). Il utilise du R32, le gaz frigorigène standard
                     aujourd'hui, car il pollue moins que les anciennes générations. Ce compresseur envoie l'énergie vers
                     les unités intérieures fixées aux murs et vers le ballon d'eau chaude sanitaire (modèle Yutampo II).
                     Le moteur fait l'aiguillage en direct selon ce que vous lui demandez.</p>

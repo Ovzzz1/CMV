@@ -27,9 +27,9 @@ $d = [
 'intro' => 'Si vous vous réveillez avec les chevilles et les mollets criblés de petits boutons rouges qui démangent atrocement, vous faites très probablement face à une infestation de <strong>puces de parquet</strong>. Je suis moi-même passé par cet enfer, et je peux vous garantir qu\'une réaction immédiate est vitale, car ces parasites se multiplient à une vitesse fulgurante. L\'erreur classique est de traiter uniquement son animal de compagnie ou de vaporiser un insecticide au hasard, alors que 95 % du problème se cache littéralement sous vos pieds. Voici le plan d\'action exact et éprouvé par l\'expérience pour éradiquer ces nuisibles de votre logement, étape par étape.',
 
 'tldr' => [
-    ['label' => '95 % du problème est au sol',    'text' => 'Les œufs, larves et nymphes se cachent dans les interstices du parquet, sous les plinthes et dans les tapis — pas sur l\'animal.'],
+    ['label' => '95 % du problème est au sol',    'text' => 'Les œufs, larves et nymphes se cachent dans les interstices du parquet, sous les plinthes et dans les tapis, pas sur l\'animal.'],
     ['label' => '4 étapes combinées',              'text' => 'Aspiration quotidienne, nettoyeur vapeur, lavage textiles à 60°C et traitement ciblé de l\'environnement.'],
-    ['label' => 'Térébenthine pour le bois ancien','text' => 'L\'essence de térébenthine déshydrate les œufs et les adultes en pénétrant dans les rainures — très efficace sur plancher en bois.'],
+    ['label' => 'Térébenthine pour le bois ancien','text' => 'L\'essence de térébenthine déshydrate les œufs et les adultes en pénétrant dans les rainures, très efficace sur plancher en bois.'],
     ['label' => 'Traiter la source',               'text' => 'Sans traitement vétérinaire de l\'animal ou désinfection du jardin, l\'infestation recommencera inévitablement.'],
 ],
 
@@ -143,7 +143,7 @@ HTML,
     ],
 ],
 
-'author_phrase' => 'Philippe partage ici un plan d\'action éprouvé pour venir à bout des puces de parquet sans panique — du diagnostic des nids jusqu\'au traitement radical si nécessaire.',
+'author_phrase' => 'Philippe partage ici un plan d\'action éprouvé pour venir à bout des puces de parquet sans panique, du diagnostic des nids jusqu\'au traitement radical si nécessaire.',
 
 'conclusion' => [
     'title' => 'Votre parquet mérite mieux qu\'une infestation silencieuse.',

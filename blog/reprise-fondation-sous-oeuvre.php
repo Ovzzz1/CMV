@@ -136,7 +136,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Des fissures traversantes, des portes qui frottent, un sol qui s'affaisse. Ce guide vous explique chaque technique, chaque etape de chantier et les budgets reels pour stabiliser votre maison — sans langue de bois.
+                Des fissures traversantes, des portes qui frottent, un sol qui s'affaisse. Ce guide vous explique chaque technique, chaque etape de chantier et les budgets reels pour stabiliser votre maison, sans langue de bois.
             </p>
 
             <div class="article-content">
@@ -151,7 +151,7 @@ include dirname(__DIR__) . '/header.php';
                         <li><strong>Etude de sol obligatoire :</strong> Aucune technique ne peut etre dimensionnee sans une etude geotechnique G2 (1 500 - 3 000 EUR).</li>
                         <li><strong>4 techniques principales :</strong> Micropieux, injection de resine expansive, puits et plots beton, longrines de ceinture.</li>
                         <li><strong>Garantie CatNat :</strong> Si votre commune a un arrete secheresse, votre assurance MRH peut couvrir l'integralite des travaux.</li>
-                        <li><strong>Intervenants specialises :</strong> Jamais un macon generaliste — il faut un bureau d'etudes geotechnique, un ingenieur structure et une entreprise de travaux speciaux.</li>
+                        <li><strong>Intervenants specialises :</strong> Jamais un macon generaliste, il faut un bureau d'etudes geotechnique, un ingenieur structure et une entreprise de travaux speciaux.</li>
                     </ul>
                 </div>
 
@@ -175,11 +175,11 @@ include dirname(__DIR__) . '/header.php';
                 <p>Une fondation qui s'enfonce a besoin d'un nouvel appui. Le but est d'aller chercher un ancrage solide plus bas pour soulager la maconnerie existante. Sur mes chantiers, je rencontre deux situations principales :</p>
 
                 <ul class="custom-list">
-                    <li><strong>La reparation d'une pathologie :</strong> votre maison bouge a cause de cavites souterraines ou du retrait-gonflement des argiles apres une grosse secheresse. Des fissures en escalier sur la maconnerie, des portes qui ne ferment plus — ce sont les signaux a ne pas ignorer. Le <a href="<?php echo BASE_URL; ?>traitement-humidite">traitement de l'humidite des murs</a> et un eventuel <a href="<?php echo BASE_URL; ?>assechement-murs-injections">assechement par injections</a> accompagnent souvent la reprise en sous-oeuvre.</li>
-                    <li><strong>L'evolution structurelle :</strong> vous decidez d'ajouter un etage ou une extension. Les fondations d'origine n'ont pas ete calculees pour encaisser ce nouveau poids — il faut donc obligatoirement augmenter leur capacite portante avant de demarrer. Voir aussi notre guide sur <a href="<?php echo BASE_URL; ?>rehausser-un-mur-en-parpaing-existant">le rehaussement d'un mur en parpaing existant</a>.</li>
+                    <li><strong>La reparation d'une pathologie :</strong> votre maison bouge a cause de cavites souterraines ou du retrait-gonflement des argiles apres une grosse secheresse. Des fissures en escalier sur la maconnerie, des portes qui ne ferment plus, ce sont les signaux a ne pas ignorer. Le <a href="<?php echo BASE_URL; ?>traitement-humidite">traitement de l'humidite des murs</a> et un eventuel <a href="<?php echo BASE_URL; ?>assechement-murs-injections">assechement par injections</a> accompagnent souvent la reprise en sous-oeuvre.</li>
+                    <li><strong>L'evolution structurelle :</strong> vous decidez d'ajouter un etage ou une extension. Les fondations d'origine n'ont pas ete calculees pour encaisser ce nouveau poids, il faut donc obligatoirement augmenter leur capacite portante avant de demarrer. Voir aussi notre guide sur <a href="<?php echo BASE_URL; ?>rehausser-un-mur-en-parpaing-existant">le rehaussement d'un mur en parpaing existant</a>.</li>
                 </ul>
 
-                <p><strong>L'oeil de l'artisan — le test d'activite :</strong> avant de faire venir les pelleteuses, on verifie toujours si le mouvement est actif. On pose des jauges en platre sur les fissures pour surveiller la facade sur deux a trois mois. Des temoins qui craquent signifient que le sol travaille encore et que l'intervention est urgente. Des jauges intactes depuis des annees indiquent que le batiment a trouve son point d'equilibre. Ce diagnostic de base peut vous eviter des dizaines de milliers d'euros de travaux inutiles.</p>
+                <p><strong>L'oeil de l'artisan, le test d'activite :</strong> avant de faire venir les pelleteuses, on verifie toujours si le mouvement est actif. On pose des jauges en platre sur les fissures pour surveiller la facade sur deux a trois mois. Des temoins qui craquent signifient que le sol travaille encore et que l'intervention est urgente. Des jauges intactes depuis des annees indiquent que le batiment a trouve son point d'equilibre. Ce diagnostic de base peut vous eviter des dizaines de milliers d'euros de travaux inutiles.</p>
 
                 <p><strong>Le piege vegetal souvent sous-estime :</strong> les grands arbres plantes trop pres de vos facades agissent comme des pompes gigantesques en ete. Ils assechent la terre sous vos fondations bien plus vite que vous ne l'imaginez, aggravant directement le phenomene de retrait des argiles. Si un chene ou un platane de 10 metres est plante a moins de 5 metres de votre mur, il fait partie integrante du diagnostic.</p>
 
@@ -237,19 +237,19 @@ include dirname(__DIR__) . '/header.php';
 
                 <ul class="custom-list">
                     <li><strong>Bureau d'etudes geotechnique (G2) :</strong> realise les forages pour analyser la resistance du terrain. Sans cette etude, aucune technique ne peut etre serieusement dimensionnee.</li>
-                    <li><strong>Ingenieur structure :</strong> calcule la descente de charges et dimensionne la solution — diametre et nombre de micropieux, section des longrines, espacement des plots. Son plan est la loi du chantier.</li>
+                    <li><strong>Ingenieur structure :</strong> calcule la descente de charges et dimensionne la solution, diametre et nombre de micropieux, section des longrines, espacement des plots. Son plan est la loi du chantier.</li>
                     <li><strong>Entreprise de travaux speciaux :</strong> execute le chantier selon les plans valides par l'ingenieur. C'est elle qui engage sa garantie decennale sur l'ouvrage fini.</li>
                 </ul>
 
                 <h3>Le deroulement chronologique sur le terrain</h3>
 
-                <p><strong>Avant le chantier — le refere preventif :</strong> si vous etes en mitoyennete ou en milieu urbain dense, faites passer un expert judiciaire pour constater l'etat des murs voisins avant le premier coup de pelleteuse. C'est une precaution peu couteuse qui peut eviter de tres longues procedures en cas de recours abusif d'un voisin.</p>
+                <p><strong>Avant le chantier, le refere preventif :</strong> si vous etes en mitoyennete ou en milieu urbain dense, faites passer un expert judiciaire pour constater l'etat des murs voisins avant le premier coup de pelleteuse. C'est une precaution peu couteuse qui peut eviter de tres longues procedures en cas de recours abusif d'un voisin.</p>
 
-                <p><strong>Phase 1 — L'installation et l'etaiement :</strong> securisation absolue de la zone. Les murs porteurs sont soutenus artificiellement par des etais et des chevalements pour eviter tout effondrement pendant que l'on travaille dessous. C'est l'etape qui ne souffre aucune economie ni aucune improvisation.</p>
+                <p><strong>Phase 1, L'installation et l'etaiement :</strong> securisation absolue de la zone. Les murs porteurs sont soutenus artificiellement par des etais et des chevalements pour eviter tout effondrement pendant que l'on travaille dessous. C'est l'etape qui ne souffre aucune economie ni aucune improvisation.</p>
 
-                <p><strong>Phase 2 — L'intervention technique :</strong> forage pour les micropieux, excavation par passes alternees pour les puits, ou percages pour l'injection de resine. Le <a href="<?php echo BASE_URL; ?>dosage-beton-fondation">dosage du beton de fondation</a> est ici critique : on ne transige pas sur les resistances mecaniques requises par l'ingenieur.</p>
+                <p><strong>Phase 2, L'intervention technique :</strong> forage pour les micropieux, excavation par passes alternees pour les puits, ou percages pour l'injection de resine. Le <a href="<?php echo BASE_URL; ?>dosage-beton-fondation">dosage du beton de fondation</a> est ici critique : on ne transige pas sur les resistances mecaniques requises par l'ingenieur.</p>
 
-                <p><strong>Phase 3 — Le coulage et le transfert de charge :</strong> mise en place du beton ou scellement des armatures. Une fois les materiaux secs et resistants, la charge de la maison est transferee de l'etaiement provisoire vers les nouvelles fondations definitives. C'est l'instant ou tout le travail preparatoire prend son sens.</p>
+                <p><strong>Phase 3, Le coulage et le transfert de charge :</strong> mise en place du beton ou scellement des armatures. Une fois les materiaux secs et resistants, la charge de la maison est transferee de l'etaiement provisoire vers les nouvelles fondations definitives. C'est l'instant ou tout le travail preparatoire prend son sens.</p>
 
                 <img src="<?php echo BASE_URL; ?>image/reprise-fondation-sous-oeuvre-2.webp"
                      alt="Installation d'etais de soutien sous un mur porteur pendant une reprise en sous-oeuvre - phase d'etaiement avant travaux"
@@ -275,7 +275,7 @@ include dirname(__DIR__) . '/header.php';
                     </table>
                 </div>
 
-                <p><strong>L'astuce financiere — la garantie Catastrophe Naturelle :</strong> ces montants peuvent faire peur. Pourtant, si l'affaissement vient d'une secheresse et que votre commune fait l'objet d'un arrete interministeriel de Catastrophe Naturelle, la donne change radicalement. Votre assurance multirisque habitation peut prendre en charge la recherche de fuite, l'etude de sol et l'integralite des travaux — deduction faite de la franchise legale. Renseignez-vous en mairie des l'apparition des premiers desordres, pas six mois apres.</p>
+                <p><strong>L'astuce financiere, la garantie Catastrophe Naturelle :</strong> ces montants peuvent faire peur. Pourtant, si l'affaissement vient d'une secheresse et que votre commune fait l'objet d'un arrete interministeriel de Catastrophe Naturelle, la donne change radicalement. Votre assurance multirisque habitation peut prendre en charge la recherche de fuite, l'etude de sol et l'integralite des travaux, deduction faite de la franchise legale. Renseignez-vous en mairie des l'apparition des premiers desordres, pas six mois apres.</p>
 
 
                 <h2 id="etude-de-cas">Etude de cas sur le terrain : le sauvetage d'un pavillon</h2>
@@ -289,7 +289,7 @@ include dirname(__DIR__) . '/header.php';
                      loading="lazy"
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
-                <p>L'entreprise a donc amene une foreuse dans le jardin pour installer <strong>8 micropieux</strong>, relies ensuite par une longrine de redressement en beton arme coulee sous le pignon. Le transfert de charge a stoppe l'affaissement le jour meme de la mise en charge. La structure est desormais perennisee et couverte par une nouvelle <strong>garantie decennale</strong>. Le proprietaire a ensuite fait intervenir un facadier pour <a href="<?php echo BASE_URL; ?>crepi-facade">appliquer un crepi facade</a> et masquer definitivement les fissures — quelques mois plus tard, une fois la structure totalement stabilisee.</p>
+                <p>L'entreprise a donc amene une foreuse dans le jardin pour installer <strong>8 micropieux</strong>, relies ensuite par une longrine de redressement en beton arme coulee sous le pignon. Le transfert de charge a stoppe l'affaissement le jour meme de la mise en charge. La structure est desormais perennisee et couverte par une nouvelle <strong>garantie decennale</strong>. Le proprietaire a ensuite fait intervenir un facadier pour <a href="<?php echo BASE_URL; ?>crepi-facade">appliquer un crepi facade</a> et masquer definitivement les fissures, quelques mois plus tard, une fois la structure totalement stabilisee.</p>
 
 
                 <h2 id="ux-outil">&#9881; Diagnostiquez votre situation</h2>
@@ -357,13 +357,13 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">FAQ, Questions frequentes</h2>
 
                 <h3>Peut-on rester dans la maison pendant une reprise en sous-oeuvre ?</h3>
-                <p>Ca depend entierement de la technique choisie. L'injection de resine expansive permet generalement de maintenir l'habitabilite — le chantier est propre et rapide. En revanche, les micropieux avec forage interieur ou les puits et plots beton imposent souvent un relogement temporaire, car la zone de travail est poussiereuse, bruyante et les acces sont neutralises pendant plusieurs semaines.</p>
+                <p>Ca depend entierement de la technique choisie. L'injection de resine expansive permet generalement de maintenir l'habitabilite, le chantier est propre et rapide. En revanche, les micropieux avec forage interieur ou les puits et plots beton imposent souvent un relogement temporaire, car la zone de travail est poussiereuse, bruyante et les acces sont neutralises pendant plusieurs semaines.</p>
 
                 <h3>Comment savoir si mes fissures necessitent vraiment une reprise en sous-oeuvre ?</h3>
-                <p>La premiere chose a faire est de surveiller l'activite des fissures : collez des jauges en platre ou des temoins papier sur chaque fissure et observez pendant deux a trois mois. Si les temoins cassent, le sol travaille encore et une intervention est tres probable. Si rien ne bouge depuis des annees, la maison a peut-etre trouve son equilibre — dans ce cas, un confortement esthetique peut suffire. Dans tous les cas, seul un ingenieur structure peut trancher apres diagnostic.</p>
+                <p>La premiere chose a faire est de surveiller l'activite des fissures : collez des jauges en platre ou des temoins papier sur chaque fissure et observez pendant deux a trois mois. Si les temoins cassent, le sol travaille encore et une intervention est tres probable. Si rien ne bouge depuis des annees, la maison a peut-etre trouve son equilibre, dans ce cas, un confortement esthetique peut suffire. Dans tous les cas, seul un ingenieur structure peut trancher apres diagnostic.</p>
 
                 <h3>L'assurance peut-elle vraiment payer les travaux de reprise en sous-oeuvre ?</h3>
-                <p>Oui, dans un cas bien precis : si votre commune a ete reconnue en etat de catastrophe naturelle apres une secheresse ou un seisme, votre assurance multirisque habitation est obligee d'indemniser les dommages lies au retrait-gonflement des argiles. Contactez votre mairie pour verifier les arretes CatNat publies, puis votre assureur — il a 5 jours ouvres pour missionner un expert apres votre declaration.</p>
+                <p>Oui, dans un cas bien precis : si votre commune a ete reconnue en etat de catastrophe naturelle apres une secheresse ou un seisme, votre assurance multirisque habitation est obligee d'indemniser les dommages lies au retrait-gonflement des argiles. Contactez votre mairie pour verifier les arretes CatNat publies, puis votre assureur, il a 5 jours ouvres pour missionner un expert apres votre declaration.</p>
 
                 <h3>Quelle est la duree d'une reprise en sous-oeuvre ?</h3>
                 <p>La duree varie enormement selon la technique et la surface a traiter. Une injection de resine sur un affaissement localise peut se regler en deux a trois jours. Un chantier complet avec micropieux sur un pavillon entier dure generalement de trois a six semaines, sans compter l'etude de sol prealable qui prend elle-meme deux a quatre semaines. Prevoyez au minimum deux mois entre la decision d'intervenir et la fin effective du chantier.</p>
@@ -372,7 +372,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Oui. Un <a href="https://www.cemarenov.fr/mur-poids-pierre-paris">mur poids en pierre</a> qui se deplace ou se penche peut necessiter une reprise de sa semelle de fondation par micropieux ou injections, de la meme maniere qu'un mur de maison. Si le mur presente un "ventre de boeuf" ou des fissures en escalier, une intervention sur les fondations est souvent prioritaire avant tout rejointoiement.</p>
 
                 <h3>Qu'en est-il des murs en pierre seche : peuvent-ils etre stabilises sans toucher aux fondations ?</h3>
-                <p>Un <a href="https://www.cemarenov.fr/mur-pierre-seche">mur en pierre seche</a> s'auto-draine et supporte de legeres deformations sans risque structurel majeur. S'il se deforme, le probleme vient presque toujours du remblai arriere ou du drainage — pas des fondations. Une reconstruction partielle avec correction du drainage suffit generalement, sans reprise en sous-oeuvre.</p>
+                <p>Un <a href="https://www.cemarenov.fr/mur-pierre-seche">mur en pierre seche</a> s'auto-draine et supporte de legeres deformations sans risque structurel majeur. S'il se deforme, le probleme vient presque toujours du remblai arriere ou du drainage, pas des fondations. Une reconstruction partielle avec correction du drainage suffit generalement, sans reprise en sous-oeuvre.</p>
 
             </div>
 

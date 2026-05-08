@@ -104,7 +104,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Vous devez inspecter vos tuiles, nettoyer une gouttière ou poser une antenne ? <strong>Monter sur un toit en tuile</strong> sans préparation, c'est jouer avec sa vie. Chaque année, des centaines de particuliers se blessent gravement — ou pire — sur leur propre toiture. Voici comment faire ça proprement, ou reconnaître quand il faut laisser tomber et <a href="<?php echo BASE_URL; ?>contact" style="text-decoration: underline;"><strong>appeler un pro</strong></a>.
+                Vous devez inspecter vos tuiles, nettoyer une gouttière ou poser une antenne ? <strong>Monter sur un toit en tuile</strong> sans préparation, c'est jouer avec sa vie. Chaque année, des centaines de particuliers se blessent gravement, ou pire, sur leur propre toiture. Voici comment faire ça proprement, ou reconnaître quand il faut laisser tomber et <a href="<?php echo BASE_URL; ?>contact" style="text-decoration: underline;"><strong>appeler un pro</strong></a>.
             </p>
 
             <div class="article-content">
@@ -115,7 +115,7 @@ include dirname(__DIR__) . '/header.php';
                         L'essentiel en 30 secondes
                     </div>
                     <ul>
-                        <li><strong>Angle échelle :</strong> 75° (règle du 4:1 — 1 mètre de base pour 4 mètres de hauteur)</li>
+                        <li><strong>Angle échelle :</strong> 75° (règle du 4:1, 1 mètre de base pour 4 mètres de hauteur)</li>
                         <li><strong>Débord au faîtage :</strong> minimum 1 mètre au-dessus du point d'appui.</li>
                         <li><strong>Points de contact :</strong> toujours 3 points de contact avec l'échelle (2 mains + 1 pied ou 2 pieds + 1 main).</li>
                         <li><strong>Risque réel :</strong> 40 000 accidents de chute par an en France, dont 600 mortels.</li>
@@ -132,14 +132,14 @@ include dirname(__DIR__) . '/header.php';
                         <li><a href="#technique-montee">Technique de montée sécurisée sur un toit</a></li>
                         <li><a href="#marcher-tuiles">Comment marcher sur des tuiles sans les abîmer</a></li>
                         <li><a href="#erreurs">Erreurs fatales à éviter absolument</a></li>
-                        <li><a href="#faq">FAQ — Questions fréquentes</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
                 <h2 id="pourquoi-dangereux">Pourquoi monter sur un toit en tuile est dangereux</h2>
 
                 <h3>Le risque de chute : des chiffres qui font réfléchir</h3>
-                <p>En France, on dénombre environ <strong>40 000 accidents de chute de hauteur chaque année</strong>. Parmi eux, <strong>600 sont mortels</strong>. La toiture arrive en tête des causes de décès domestiques chez les bricoleurs. Une chute de 4 mètres — la hauteur d'un toit de maison individuelle — suffit à provoquer des blessures irréversibles : fractures du crâne, vertèbres brisées, paraplégie.</p>
+                <p>En France, on dénombre environ <strong>40 000 accidents de chute de hauteur chaque année</strong>. Parmi eux, <strong>600 sont mortels</strong>. La toiture arrive en tête des causes de décès domestiques chez les bricoleurs. Une chute de 4 mètres, la hauteur d'un toit de maison individuelle, suffit à provoquer des blessures irréversibles : fractures du crâne, vertèbres brisées, paraplégie.</p>
 
                 <div style="background-color: #fbe3cb; border-left: 4px solid #e74c3c; padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0; color: #3e2e1f;">
                     <strong>Mise en garde critique :</strong> Une chute de 3 mètres sur du béton, c'est déjà une chance sur deux de ne pas s'en sortir. Sur un toit, vous n'avez pas de garde-corps. Une seconde d'inattention suffit.
@@ -149,7 +149,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Une tuile en terre cuite supporte mal le poids concentré d'un homme. Neuve ou gelée, elle casse net. Usée, elle s'effrite. Dans les deux cas, vous perdez l'équilibre. Et une tuile cassée, c'est une infiltration assurée. Si vos tuiles montrent des signes d'usure, un <strong><u><a href="<?php echo BASE_URL; ?>demoussage-tuiles-terre-cuite">démoussage professionnel des tuiles</a></u></strong> sera nécessaire pour rétablir leur étanchéité avant toute intervention.</p>
 
                 <h3>La pente et la glissade</h3>
-                <p>Un toit à 30° de pente, c'est déjà raide. À 45°, une tuile devient une piste de luge. Ajoutez une rosée, de la mousse, ou des feuilles mortes — vous tenez plus debout. Sur une pente, pas de droit à l'erreur. Pas de rattrapage.</p>
+                <p>Un toit à 30° de pente, c'est déjà raide. À 45°, une tuile devient une piste de luge. Ajoutez une rosée, de la mousse, ou des feuilles mortes, vous tenez plus debout. Sur une pente, pas de droit à l'erreur. Pas de rattrapage.</p>
 
                 <h3>Quand appeler un professionnel</h3>
                 <p>Appelez un <a href="<?php echo BASE_URL; ?>contact" style="text-decoration: underline;"><strong>couvreur</strong></a> dans ces cas :</p>
@@ -169,7 +169,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="equipement">Équipement indispensable pour monter sur un toit</h2>
 
                 <h3>L'échelle : type, longueur et débord</h3>
-                <p>Prenez une <strong>échelle de couvreur en aluminium ou fibre de verre</strong>. L'aluminium, c'est léger. La fibre de verre, c'est isolant électrique — indispensable près de lignes électriques.</p>
+                <p>Prenez une <strong>échelle de couvreur en aluminium ou fibre de verre</strong>. L'aluminium, c'est léger. La fibre de verre, c'est isolant électrique, indispensable près de lignes électriques.</p>
                 <p><strong>Longueur minimum :</strong> hauteur à atteindre + 1 mètre de débord. Pour un toit à 4 mètres, prenez une échelle de 5 mètres. Pour un R+1 (~6-7 mètres), il vous faut 8-9 mètres.</p>
                 <p>Vérifiez la charge max : <strong>150 kg minimum</strong>. Regardez les échelons : pas de fissures, pas de déformations.</p>
 
@@ -213,10 +213,10 @@ include dirname(__DIR__) . '/header.php';
                 <p>On monte et on descend <strong>face à l'échelle</strong>, jamais de dos. Une main sur un échelon, l'autre sur l'échelon suivant. Pas de précipitation.</p>
 
                 <h3>Basculer du haut de l'échelle vers le toit</h3>
-                <p>Arrivé en haut, vous attrapez le débord de l'échelle des deux mains. Montez encore d'un échelon pour avoir les hanches au niveau du faîtage. Basculez une jambe sur le toit, puis l'autre. <strong>Jamais les deux jambes ensemble</strong> — si la tuile cède, vous restez accroché.</p>
+                <p>Arrivé en haut, vous attrapez le débord de l'échelle des deux mains. Montez encore d'un échelon pour avoir les hanches au niveau du faîtage. Basculez une jambe sur le toit, puis l'autre. <strong>Jamais les deux jambes ensemble</strong>, si la tuile cède, vous restez accroché.</p>
 
                 <blockquote class="article-blockquote">
-                    <p>"J'avais 25 ans, premier chantier solo. Je monte sur un toit à 7 mètres, pas de harnais — on faisait comme ça à l'époque. Une tuile casse sous mon pied, je bascule en arrière. J'ai attrapé l'échelle au dernier moment, les ongles en moins. Depuis, je m'ancre au faîtage AVANT de poser le deuxième pied. C'est la règle qui m'a sauvé la vie."</p>
+                    <p>"J'avais 25 ans, premier chantier solo. Je monte sur un toit à 7 mètres, pas de harnais, on faisait comme ça à l'époque. Une tuile casse sous mon pied, je bascule en arrière. J'ai attrapé l'échelle au dernier moment, les ongles en moins. Depuis, je m'ancre au faîtage AVANT de poser le deuxième pied. C'est la règle qui m'a sauvé la vie."</p>
                 </blockquote>
 
                 <h3>S'ancrer immédiatement au faîtage</h3>
@@ -225,7 +225,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="marcher-tuiles">Comment marcher sur des tuiles sans les abîmer</h2>
 
                 <h3>Marcher sur les liteaux, pas entre</h3>
-                <p>Les tuiles reposent sur des <strong>liteaux</strong> — des planches de bois horizontales fixées sur la charpente. C'est là que ça tient. Entre les liteaux, il n'y a que du vide. Marchez sur les lignes de tuiles qui correspondent aux liteaux. Vous sentez la différence : ferme sous le pied = liteau, creux = entre-deux.</p>
+                <p>Les tuiles reposent sur des <strong>liteaux</strong>, des planches de bois horizontales fixées sur la charpente. C'est là que ça tient. Entre les liteaux, il n'y a que du vide. Marchez sur les lignes de tuiles qui correspondent aux liteaux. Vous sentez la différence : ferme sous le pied = liteau, creux = entre-deux.</p>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
                     <strong>En clair :</strong> Les liteaux sont espacés de 35 à 45 cm. Regardez depuis les combles pour repérer leur position avant de monter. Pour en savoir plus sur l'entretien de vos tuiles, consultez notre guide sur le <strong><u><a href="<?php echo BASE_URL; ?>comment-bacher-toit">bâchage de toit en urgence</a></u></strong> si vous devez protéger rapidement une zone endommagée.
@@ -250,7 +250,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Ne montez jamais seul sur un toit. Quelqu'un doit rester au sol, voir l'échelle, et pouvoir appeler les secours. Si vous êtes seul chez vous, appelez un voisin. Si personne n'est disponible, n'y allez pas.</p>
 
                 <h3>Marcher sur les tuiles fragiles</h3>
-                <p>Tuile qui sonne creux, tuile fissurée, tuile avec de la mousse dessus — tout ça, c'est interdit. Une tuile en mauvais état ne supporte pas 80 kg. Elle casse, vous tombez. Si votre toiture est trop endommagée, envisagez un <strong><u><a href="<?php echo BASE_URL; ?>changement-de-couverture">changement complet de couverture</a></u></strong> pour garantir votre sécurité.</p>
+                <p>Tuile qui sonne creux, tuile fissurée, tuile avec de la mousse dessus, tout ça, c'est interdit. Une tuile en mauvais état ne supporte pas 80 kg. Elle casse, vous tombez. Si votre toiture est trop endommagée, envisagez un <strong><u><a href="<?php echo BASE_URL; ?>changement-de-couverture">changement complet de couverture</a></u></strong> pour garantir votre sécurité.</p>
 
                 <h3>Ignorer la météo</h3>
                 <p>Vent supérieur à 40 km/h : reportez. Pluie, rosée, gel : reportez. Orage dans les 2 heures : reportez. Une rafale de vent sur un toit, ça vous déséquilibre instantanément. Une tuile mouillée, c'est une tuile glissante.</p>
@@ -261,7 +261,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">FAQ — Questions fréquentes</h2>
 
                 <h3>Peut-on monter seul sur un toit ?</h3>
-                <p>Techniquement oui, pratiquement non. La loi ne l'interdit pas, mais la sécurité l'exige : quelqu'un au sol peut voir l'échelle, aider, appeler les secours. Seul sur un toit, une entorse ou un vertige — et vous êtes coincé. Attendez d'avoir un surveillant.</p>
+                <p>Techniquement oui, pratiquement non. La loi ne l'interdit pas, mais la sécurité l'exige : quelqu'un au sol peut voir l'échelle, aider, appeler les secours. Seul sur un toit, une entorse ou un vertige, et vous êtes coincé. Attendez d'avoir un surveillant.</p>
 
                 <h3>Quelle échelle pour un toit à 2 étages ?</h3>
                 <p>Un R+1 fait environ 6 à 7 mètres jusqu'au faîtage. Il vous faut une échelle de <strong>8 à 9 mètres</strong> pour avoir le débord de 1 mètre. Budget : 200 à 400 €. Location : ~40 €/jour.</p>
@@ -297,7 +297,7 @@ include dirname(__DIR__) . '/header.php';
 
             <div class="conclusion-box">
                 <h3>Besoin d'un couvreur professionnel ?</h3>
-                <p>Monter sur un toit en tuile, c'est faisable. Mais ça se prépare. Échelle à 75°, <strong>harnais</strong> sur le dos, <strong>crochet de faîtage</strong>, chaussures qui accrochent — et quelqu'un au sol qui surveille. Si un doute persiste : redescendez. Un couvreur coûte entre 150 et 400 € la journée. C'est le prix de votre sécurité.</p>
+                <p>Monter sur un toit en tuile, c'est faisable. Mais ça se prépare. Échelle à 75°, <strong>harnais</strong> sur le dos, <strong>crochet de faîtage</strong>, chaussures qui accrochent, et quelqu'un au sol qui surveille. Si un doute persiste : redescendez. Un couvreur coûte entre 150 et 400 € la journée. C'est le prix de votre sécurité.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un devis gratuit</a>
             </div>
 
@@ -352,7 +352,7 @@ require_once dirname(__DIR__) . '/schema-data.php';
 $faq_schema = [
     [
         'question' => "Peut-on monter seul sur un toit ?",
-        'answer'   => "Techniquement oui, pratiquement non. La loi ne l'interdit pas, mais la sécurité l'exige : quelqu'un au sol peut voir l'échelle, aider, appeler les secours. Seul sur un toit, une entorse ou un vertige — et vous êtes coincé."
+        'answer'   => "Techniquement oui, pratiquement non. La loi ne l'interdit pas, mais la sécurité l'exige : quelqu'un au sol peut voir l'échelle, aider, appeler les secours. Seul sur un toit, une entorse ou un vertige, et vous êtes coincé."
     ],
     [
         'question' => "Quelle échelle pour un toit à 2 étages ?",

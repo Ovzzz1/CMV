@@ -142,9 +142,9 @@ include dirname(__DIR__) . '/header.php';
                     <ul class="custom-list">
                         <li><strong>3 zones d'une façade :</strong> Soubassement (bas), corps de façade (milieu), couronnement (haut).</li>
                         <li><strong>Travée vs trumeau :</strong> La travée est un alignement vertical de fenêtres ; le trumeau est le mur plein entre deux baies.</li>
-                        <li><strong>Modénature :</strong> L'ensemble des reliefs décoratifs d'une façade — bandeaux, corniches, consoles.</li>
+                        <li><strong>Modénature :</strong> L'ensemble des reliefs décoratifs d'une façade, bandeaux, corniches, consoles.</li>
                         <li><strong>Linteau :</strong> L'élément horizontal qui porte la charge du mur au-dessus d'une fenêtre ou d'une porte.</li>
-                        <li><strong>Acrotère :</strong> Le muret en bordure d'une toiture-terrasse — souvent confondu avec la corniche.</li>
+                        <li><strong>Acrotère :</strong> Le muret en bordure d'une toiture-terrasse, souvent confondu avec la corniche.</li>
                     </ul>
                 </div>
 
@@ -165,7 +165,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
                     <ul class="custom-list" style="margin: 0;">
-                        <li><strong>Checklist — Comment identifier un élément :</strong> Analysez selon 3 axes : la position verticale (soubassement, corps, couronnement), la fonction technique (porteur, décoratif, étanchéité) et le type de relief (saillie ou retrait).</li>
+                        <li><strong>Checklist, Comment identifier un élément :</strong> Analysez selon 3 axes : la position verticale (soubassement, corps, couronnement), la fonction technique (porteur, décoratif, étanchéité) et le type de relief (saillie ou retrait).</li>
                     </ul>
                 </div>
 
@@ -215,7 +215,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Un <strong>bandeau</strong> est une moulure plate qui souligne un étage, tandis que la <strong>corniche</strong> est une saillie prononcée en haut de mur. Ces éléments cassent la verticalité de la façade et évitent les traces de coulures noires sur l'enduit.</p>
 
                 <h3>Balcons, consoles et pilastres</h3>
-                <p>Le balcon repose sur des <strong>consoles</strong> (appuis sculptés en saillie). Pour rythmer le mur sans utiliser de colonnes réelles, on utilise des <strong>pilastres</strong> — des piliers plats purement décoratifs intégrés à la maçonnerie.</p>
+                <p>Le balcon repose sur des <strong>consoles</strong> (appuis sculptés en saillie). Pour rythmer le mur sans utiliser de colonnes réelles, on utilise des <strong>pilastres</strong>, des piliers plats purement décoratifs intégrés à la maçonnerie.</p>
 
                 <img src="<?php echo BASE_URL; ?>image/vocabulaire-architecture-facade3.webp"
                      alt="Détail architectural d'une console en pierre sculptée soutenant un balcon saillant avec corniche décorative"
@@ -367,7 +367,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>La modénature désigne l'ensemble des proportions et des profils des moulures d'une façade. Au-delà de l'esthétique, ces reliefs ont un rôle fonctionnel : ils cassent le ruissellement de l'eau de pluie et empêchent les traces de coulures sombres sur l'enduit. C'est la "signature" visuelle d'un bâtiment et la raison pour laquelle les ABF veillent à sa préservation lors des rénovations.</p>
 
                 <h3>Faut-il un architecte pour rénover une façade avec des éléments ornementaux ?</h3>
-                <p>Si votre bâtiment est situé en secteur sauvegardé ou à proximité d'un monument historique, oui — l'avis d'un Architecte des Bâtiments de France (ABF) est obligatoire et peut imposer le recours à un architecte du patrimoine pour les travaux sur la modénature. Vérifiez le PLU de votre commune avant d'engager tout chantier.</p>
+                <p>Si votre bâtiment est situé en secteur sauvegardé ou à proximité d'un monument historique, oui, l'avis d'un Architecte des Bâtiments de France (ABF) est obligatoire et peut imposer le recours à un architecte du patrimoine pour les travaux sur la modénature. Vérifiez le PLU de votre commune avant d'engager tout chantier.</p>
 
             </div>
 
@@ -385,7 +385,7 @@ include dirname(__DIR__) . '/header.php';
 
             <div class="conclusion-box">
                 <h3>Préparez votre dossier de rénovation de façade</h3>
-                <p>Maîtriser le vocabulaire, c'est bien — mais connaître les techniques et les contraintes réglementaires, c'est encore mieux. Philippe peut vous accompagner dans votre projet de façade, du diagnostic à la réception de chantier.</p>
+                <p>Maîtriser le vocabulaire, c'est bien, mais connaître les techniques et les contraintes réglementaires, c'est encore mieux. Philippe peut vous accompagner dans votre projet de façade, du diagnostic à la réception de chantier.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un avis ou un devis gratuit</a>
             </div>
 

@@ -227,8 +227,8 @@ include dirname(__DIR__) . '/header.php';
                 <ol>
                     <li><strong>Repérage et détuilage :</strong> Identifiez l'emplacement de vos chevrons sous la couverture. Retirez délicatement les tuiles "de couvert" aux futurs points d'ancrage, espacés généralement de 80 à 120 cm.</li>
                     <li><strong>Ancrage dans la charpente :</strong><br>
-                        — <em>Vis à double filetage :</em> Percez le sommet de la tuile de courant, vissez dans le chevron jusqu'à écraser la rondelle EPDM qui assure l'étanchéité.<br>
-                        — <em>Crochet universel :</em> Glissez le crochet dans l'interstice pour pincer le liteau ou le chevron, sans perçage de la terre cuite.</li>
+                       , <em>Vis à double filetage :</em> Percez le sommet de la tuile de courant, vissez dans le chevron jusqu'à écraser la rondelle EPDM qui assure l'étanchéité.<br>
+                       , <em>Crochet universel :</em> Glissez le crochet dans l'interstice pour pincer le liteau ou le chevron, sans perçage de la terre cuite.</li>
                     <li><strong>Sécurisation des tuiles adjacentes :</strong> Posez les crochets anti-glissement sur les tuiles canal autour des fixations. C'est l'étape que la plupart des installations bâclées sautent, et qui génère des problèmes deux ans plus tard.</li>
                     <li><strong>Montage des rails aluminium :</strong> Fixez les rails sur les ancrages. Utilisez le réglage en hauteur (jusqu'à 10° de compensation) pour obtenir un plan parfaitement horizontal malgré les irrégularités du toit.</li>
                     <li><strong>Verrouillage des panneaux :</strong> Posez les panneaux sur les rails, raccordez les câbles, reliez les griffes de mise à la terre, et serrez les étriers finaux et intermédiaires.</li>
@@ -248,7 +248,7 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
                 <h2 id="sans-contre-chevrons">Cas spécifique : fixation sur tuile canal sans contre-chevrons</h2>
-                <p>C'est la situation la plus courante sur les vieilles charpentes du Sud. Sans contre-chevron, il est rarissime que l'espacement des chevrons tombe pile sous le sommet de la courbe de la tuile canal — là où doit passer la vis ou le crochet. Fixer directement dans un liteau trop mince est dangereux : il ne tiendra pas sous l'effet de portance d'un vent fort.</p>
+                <p>C'est la situation la plus courante sur les vieilles charpentes du Sud. Sans contre-chevron, il est rarissime que l'espacement des chevrons tombe pile sous le sommet de la courbe de la tuile canal, là où doit passer la vis ou le crochet. Fixer directement dans un liteau trop mince est dangereux : il ne tiendra pas sous l'effet de portance d'un vent fort.</p>
 
                 <blockquote class="article-blockquote">
                     💡 <strong>Retour de chantier :</strong> Sur un projet près de Montpellier, la charpente ne comportait aucun contre-chevron. Les chevrons tombaient systématiquement dans le creux de la tuile, jamais sur le sommet. On ne pouvait ni percer ni accrocher correctement. On a fabriqué des platines de bois en fixant des lames de terrasse de 27 mm directement sur les chevrons existants. Ça nous a pris une matinée. Depuis, la structure encaisse les coups de Tramontane sans bouger d'un millimètre.

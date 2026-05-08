@@ -190,7 +190,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Le zinc ou le cuivre : la tradition</h3>
                 <p>Le zinc est le standard de la couverture. Un artisan façonne et soude les feuilles à l'étain pour
                     épouser la pente exacte de votre toit, ce qui permet à ce travail sur-mesure de tenir facilement 40
-                    à 50 ans — une longévité d'ailleurs parfaitement alignée avec celle d'un <a
+                    à 50 ans, une longévité d'ailleurs parfaitement alignée avec celle d'un <a
                         href="<?php echo BASE_URL; ?>changement-de-couverture"
                         style="text-decoration: underline;">changement complet et durable de votre couverture</a>. Le
                     cuivre offre une résistance encore supérieure, mais on le réserve le plus souvent aux toitures

@@ -111,7 +111,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Le chaînage horizontal, c'est la ceinture de béton armé qui solidarise les murs d'un parpaing et les empêche de s'écarter. Sans lui, les murs "font tonneau" — ils bombent et fissurent sous leur propre poids. <strong>Combien en prévoir, où les placer, et combien de béton commander : tout est ici.</strong>
+                Le chaînage horizontal, c'est la ceinture de béton armé qui solidarise les murs d'un parpaing et les empêche de s'écarter. Sans lui, les murs "font tonneau", ils bombent et fissurent sous leur propre poids. <strong>Combien en prévoir, où les placer, et combien de béton commander : tout est ici.</strong>
             </p>
 
             <div class="article-content">
@@ -124,7 +124,7 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                     <ul>
                         <li><strong>Rôle :</strong> le chaînage horizontal relie et solidarise les murs, s'oppose aux efforts de traction et répartit les charges verticales sur toute la structure.</li>
-                        <li><strong>Matériau :</strong> blocs en U de même matière que le parpaing (150 ou 200 mm d'épaisseur, hauteur min. 15 cm selon DTU 20.1) — arroser avant de couler.</li>
+                        <li><strong>Matériau :</strong> blocs en U de même matière que le parpaing (150 ou 200 mm d'épaisseur, hauteur min. 15 cm selon DTU 20.1), arroser avant de couler.</li>
                         <li><strong>Ferraillage :</strong> 4 barres HA10 (chaînage 4×10, nuance E40/EP4/10) par rang, équerres dans les angles, enrobage assuré par des cales plastique.</li>
                         <li><strong>Nombre :</strong> 1 couronnement pour une murette ≤ 1,2 m ; 2 chaînages pour une clôture jusqu'à 2 m ; 1 chaînage par niveau de plancher pour une maison.</li>
                     </ul>
@@ -134,19 +134,19 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#calculateur">Calculateur — nombre de chaînages et béton</a></li>
+                        <li><a href="#calculateur">Calculateur, nombre de chaînages et béton</a></li>
                         <li><a href="#role-chainage">À quoi sert le chaînage horizontal ?</a></li>
                         <li><a href="#types-chainage">Les différents types de chaînage</a></li>
                         <li><a href="#realisation">Comment réaliser un chaînage horizontal</a></li>
                         <li><a href="#hauteur-quantite">Hauteur, nombre et règles DTU</a></li>
-                        <li><a href="#faq">FAQ — Questions fréquentes</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
                 <!-- ═══════════════ CALCULATEUR UX (remonté) ═══════════════ -->
                 <h2 id="calculateur">Calculateur — combien de chaînages et de béton pour mon mur ?</h2>
 
-                <p>Renseignez les dimensions de votre mur. L'outil calcule instantanément le nombre de chaînages à poser, leur position et le volume de béton à commander — avec les règles du DTU 20.1 appliquées à votre cas.</p>
+                <p>Renseignez les dimensions de votre mur. L'outil calcule instantanément le nombre de chaînages à poser, leur position et le volume de béton à commander, avec les règles du DTU 20.1 appliquées à votre cas.</p>
 
                 <div style="background-color: var(--color-light); border: 1px solid var(--color-border); border-radius: 12px; padding: 2rem; margin: 1.5rem 0 2rem;">
 
@@ -156,7 +156,7 @@ include dirname(__DIR__) . '/header.php';
                         </div>
                         <div>
                             <p style="font-weight:600; font-size:1rem; margin:0; color: var(--color-dark);">Calculateur chaînage & béton</p>
-                            <p style="font-size:0.85rem; color:#666; margin:0;">Ajustez les sliders — les résultats et le schéma se mettent à jour en temps réel.</p>
+                            <p style="font-size:0.85rem; color:#666; margin:0;">Ajustez les sliders, les résultats et le schéma se mettent à jour en temps réel.</p>
                         </div>
                     </div>
 
@@ -369,7 +369,7 @@ include dirname(__DIR__) . '/header.php';
                     } else if (h <= 3.0) {
                         msg = '📐 DTU 20.1 : 3 chaînages minimum. Au-delà de 2 m, prévoir aussi des poteaux raidisseurs tous les 3 à 4 m.';
                     } else {
-                        msg = '📐 DTU 20.1 : mur > 3 m — 1 chaînage par mètre de hauteur. Faire vérifier le calcul par un professionnel, notamment en zone sismique.';
+                        msg = '📐 DTU 20.1 : mur > 3 m, 1 chaînage par mètre de hauteur. Faire vérifier le calcul par un professionnel, notamment en zone sismique.';
                     }
                     document.getElementById('calc-dtu-note').textContent = msg;
                 }
@@ -378,7 +378,7 @@ include dirname(__DIR__) . '/header.php';
                 if (document.readyState !== 'loading') { calcChain(); }
                 </script>
 
-                <!-- ═══════════════ H2 #1 — RÔLE ═══════════════ -->
+                <!-- ═══════════════ H2 #1, RÔLE ═══════════════ -->
                 <h2 id="role-chainage">À quoi sert le chaînage horizontal dans un mur en parpaing ?</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/chainage horizontal mur parpaing1.webp"
@@ -401,9 +401,9 @@ include dirname(__DIR__) . '/header.php';
                     <strong>En clair :</strong> un mur en parpaing sans chaînage horizontal, c'est une pile de livres sans serre-livres. Ça tient sur une surface plane. Dès qu'il y a une contrainte latérale ou un tassement différentiel, l'ensemble part de travers.
                 </div>
 
-                <p>Le chaînage horizontal n'est pas le seul type de chaînage en maçonnerie. Il travaille en binôme avec le chaînage vertical (dans les angles et poteaux raidisseurs) et le chaînage incliné (sous les rampants de toiture). Les trois sont complémentaires — mais c'est le chaînage horizontal qui assure la cohésion en plan de l'ouvrage, à chaque niveau.</p>
+                <p>Le chaînage horizontal n'est pas le seul type de chaînage en maçonnerie. Il travaille en binôme avec le chaînage vertical (dans les angles et poteaux raidisseurs) et le chaînage incliné (sous les rampants de toiture). Les trois sont complémentaires, mais c'est le chaînage horizontal qui assure la cohésion en plan de l'ouvrage, à chaque niveau.</p>
 
-                <!-- ═══════════════ H2 #2 — TYPES ═══════════════ -->
+                <!-- ═══════════════ H2 #2, TYPES ═══════════════ -->
                 <h2 id="types-chainage">Les différents types de chaînage en maçonnerie</h2>
 
                 <img src="<?php echo BASE_URL; ?>image/chainage horizontal mur parpaing2.webp"
@@ -450,18 +450,18 @@ include dirname(__DIR__) . '/header.php';
                     </table>
                 </div>
 
-                <p>Le chaînage horizontal et le chaînage vertical fonctionnent en binôme. Le vertical ancre la structure de bas en haut ; l'horizontal la boucle à chaque étage. En béton armé, les armatures des deux types sont reliées entre elles par des équerres et des ligatures pour former une cage continue. Si vous prévoyez des <a href="https://www.cemarenov.fr/distance-poteau-raidisseur-mur-parpaing">poteaux raidisseurs</a> dans votre mur — obligatoires dès que la hauteur dépasse 2 m sans chaînage — les sorties d'armatures verticales doivent être intégrées avant de couler chaque chaînage horizontal.</p>
+                <p>Le chaînage horizontal et le chaînage vertical fonctionnent en binôme. Le vertical ancre la structure de bas en haut ; l'horizontal la boucle à chaque étage. En béton armé, les armatures des deux types sont reliées entre elles par des équerres et des ligatures pour former une cage continue. Si vous prévoyez des <a href="https://www.cemarenov.fr/distance-poteau-raidisseur-mur-parpaing">poteaux raidisseurs</a> dans votre mur, obligatoires dès que la hauteur dépasse 2 m sans chaînage, les sorties d'armatures verticales doivent être intégrées avant de couler chaque chaînage horizontal.</p>
 
-                <!-- ═══════════════ H2 #3 — RÉALISATION ═══════════════ -->
+                <!-- ═══════════════ H2 #3, RÉALISATION ═══════════════ -->
                 <h2 id="realisation">Comment réaliser un chaînage horizontal sur un mur en parpaing</h2>
 
                 <h3>Choisir son matériau : le bloc en U et ses alternatives</h3>
 
                 <p>Le standard sur chantier, c'est le <strong>bloc en U</strong> (aussi appelé parpaing de chaînage). Ce bloc en forme de gouttière ouverte sur le dessus reçoit les armatures, puis le béton coulé vient les noyer. Dimensions courantes : 500 × 150 × 200 mm ou 500 × 200 × 200 mm selon l'épaisseur du mur.</p>
 
-                <p>L'avantage du bloc en U sur le coffrage bois classique : il est de la même matière que le parpaing. Quand on vient enduire le mur, la continuité de matériau entre le parpaing et le chaînage évite les fissurations à l'interface. Avec un coffrage bois coulé en place, on obtient une zone béton pleine entourée de parpaing creux — deux matériaux aux comportements thermiques différents, et une ligne de fissure presque garantie dans l'enduit au bout de deux ou trois hivers.</p>
+                <p>L'avantage du bloc en U sur le coffrage bois classique : il est de la même matière que le parpaing. Quand on vient enduire le mur, la continuité de matériau entre le parpaing et le chaînage évite les fissurations à l'interface. Avec un coffrage bois coulé en place, on obtient une zone béton pleine entourée de parpaing creux, deux matériaux aux comportements thermiques différents, et une ligne de fissure presque garantie dans l'enduit au bout de deux ou trois hivers.</p>
 
-                <p>Pour les murs en brique creuse, en béton cellulaire ou en brique de terre cuite, il existe des blocs en U adaptés à chaque matériau — planelles en terre cuite, coffrages perdus, blocs spéciaux. Le principe reste identique : créer un canal continu sur toute la longueur du mur, ferraillé et coulé en béton. Une fois le chaînage posé et le mur monté, la question de la finition se pose rapidement — notre guide sur l'<a href="https://www.cemarenov.fr/enduit-pierre-vue" style="text-decoration: underline;"><strong>enduit pierre vue</strong></a> couvre les techniques adaptées aux maçonneries apparentes. Pour un parpaing standard, le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux sur parpaing</a> mérite une attention particulière : les proportions incorrectes sont la première cause de fissuration à l'interface bloc/chaînage.</p>
+                <p>Pour les murs en brique creuse, en béton cellulaire ou en brique de terre cuite, il existe des blocs en U adaptés à chaque matériau, planelles en terre cuite, coffrages perdus, blocs spéciaux. Le principe reste identique : créer un canal continu sur toute la longueur du mur, ferraillé et coulé en béton. Une fois le chaînage posé et le mur monté, la question de la finition se pose rapidement, notre guide sur l'<a href="https://www.cemarenov.fr/enduit-pierre-vue" style="text-decoration: underline;"><strong>enduit pierre vue</strong></a> couvre les techniques adaptées aux maçonneries apparentes. Pour un parpaing standard, le <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux sur parpaing</a> mérite une attention particulière : les proportions incorrectes sont la première cause de fissuration à l'interface bloc/chaînage.</p>
 
                 <h3>Les étapes de mise en œuvre</h3>
 
@@ -471,10 +471,10 @@ include dirname(__DIR__) . '/header.php';
                      style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
 
                 <ol style="padding-left: 1.5rem; line-height: 2;">
-                    <li style="margin-bottom: 0.75rem;"><strong>Poser les blocs en U</strong> comme des parpaings classiques, alignés par la face intérieure (pas l'extérieure). Le bloc en U est légèrement plus large que le parpaing standard — la face extérieure peut dépasser de 2 à 3 mm, c'est normal.</li>
-                    <li style="margin-bottom: 0.75rem;"><strong>Commencer par les angles.</strong> Découper le fond du U dans l'élément d'angle pour assurer la continuité du béton et le passage des armatures d'une rangée à l'autre. Une demi-planelle vient fermer le coffrage en angle. C'est un détail que beaucoup sautent — et c'est là que les fissurations d'angle démarrent.</li>
+                    <li style="margin-bottom: 0.75rem;"><strong>Poser les blocs en U</strong> comme des parpaings classiques, alignés par la face intérieure (pas l'extérieure). Le bloc en U est légèrement plus large que le parpaing standard, la face extérieure peut dépasser de 2 à 3 mm, c'est normal.</li>
+                    <li style="margin-bottom: 0.75rem;"><strong>Commencer par les angles.</strong> Découper le fond du U dans l'élément d'angle pour assurer la continuité du béton et le passage des armatures d'une rangée à l'autre. Une demi-planelle vient fermer le coffrage en angle. C'est un détail que beaucoup sautent, et c'est là que les fissurations d'angle démarrent.</li>
                     <li style="margin-bottom: 0.75rem;"><strong>Tendre un cordeau</strong> pour aligner les éléments intermédiaires. Même logique que pour la pose des parpaings courants : les extrémités d'abord, le cordeau ensuite, les éléments du milieu en dernier.</li>
-                    <li style="margin-bottom: 0.75rem;"><strong>Arroser les blocs en U</strong> avant de couler. Le bloc est poreux — s'il est sec, il absorbe l'eau du béton et le mélange se dessèche trop vite. La résistance finale chute. Saturer à l'eau propre, laisser égoutter deux minutes, puis couler.</li>
+                    <li style="margin-bottom: 0.75rem;"><strong>Arroser les blocs en U</strong> avant de couler. Le bloc est poreux, s'il est sec, il absorbe l'eau du béton et le mélange se dessèche trop vite. La résistance finale chute. Saturer à l'eau propre, laisser égoutter deux minutes, puis couler.</li>
                     <li style="margin-bottom: 0.75rem;"><strong>Mettre en place le ferraillage</strong> : 4 barres HA10 (ferraillage 4×10, nuance E40/EP4/10) posées sur des cales plastique pour assurer l'enrobage. Dans les angles, 2 à 3 équerres par liaison. Si des poteaux raidisseurs sont prévus, ménager les sorties d'armatures verticales avant de couler.</li>
                     <li style="margin-bottom: 0.75rem;"><strong>Couler le béton</strong> dosé à 350 kg de ciment par m³, par couches successives. Vibrer avec une aiguille ou secouer légèrement les armatures pour chasser les bulles d'air qui créent des points faibles.</li>
                     <li style="margin-bottom: 0.75rem;"><strong>Araser</strong> à hauteur du mur avec une taloche ou un bout de règle. La surface doit être plane pour recevoir la prochaine rangée de parpaings ou la finition de couronnement.</li>
@@ -485,15 +485,15 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
                 <blockquote class="article-blockquote">
-                    <p>"Sur un chantier de clôture, j'ai récupéré un mur où le client avait tout bien fait — bloc en U, ferraillage, béton dosé correctement. Mais il n'avait pas arrosé les blocs avant de couler. Six mois après, l'enduit présentait des fissurations fines sur tout le rang de chaînage. Les blocs secs avaient pompé l'eau du béton. Depuis, c'est la première chose que je vérifie avant de couler : arroser, attendre deux minutes, puis couler. Pas négociable."</p>
+                    <p>"Sur un chantier de clôture, j'ai récupéré un mur où le client avait tout bien fait, bloc en U, ferraillage, béton dosé correctement. Mais il n'avait pas arrosé les blocs avant de couler. Six mois après, l'enduit présentait des fissurations fines sur tout le rang de chaînage. Les blocs secs avaient pompé l'eau du béton. Depuis, c'est la première chose que je vérifie avant de couler : arroser, attendre deux minutes, puis couler. Pas négociable."</p>
                 </blockquote>
 
-                <p>Pour les murs longs dépassant 8 à 10 mètres, prévoir un joint de dilatation avant de monter. Le chaînage horizontal, rigide sur toute la longueur, peut générer des contraintes thermiques qui fissurent le mur si aucune discontinuité n'est prévue. Si le mur présente déjà des remontées d'humidité, traiter le problème avant de couler les chaînages — notre guide sur l'<a href="https://www.cemarenov.fr/assechement-murs-injections" style="text-decoration: underline;"><strong>assèchement des murs par injection</strong></a> détaille les solutions depuis l'extérieur ; pour les caves et garages, l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité intérieure par cuvelage</a> est la seule technique efficace contre la contre-pression hydrostatique.</p>
+                <p>Pour les murs longs dépassant 8 à 10 mètres, prévoir un joint de dilatation avant de monter. Le chaînage horizontal, rigide sur toute la longueur, peut générer des contraintes thermiques qui fissurent le mur si aucune discontinuité n'est prévue. Si le mur présente déjà des remontées d'humidité, traiter le problème avant de couler les chaînages, notre guide sur l'<a href="https://www.cemarenov.fr/assechement-murs-injections" style="text-decoration: underline;"><strong>assèchement des murs par injection</strong></a> détaille les solutions depuis l'extérieur ; pour les caves et garages, l'<a href="https://www.cemarenov.fr/etancheite-mur-parpaing-interieur">étanchéité intérieure par cuvelage</a> est la seule technique efficace contre la contre-pression hydrostatique.</p>
 
-                <!-- ═══════════════ H2 #4 — HAUTEUR + CALCULATEUR ═══════════════ -->
+                <!-- ═══════════════ H2 #4, HAUTEUR + CALCULATEUR ═══════════════ -->
                 <h2 id="hauteur-quantite">Combien de chaînages, à quelle hauteur — et combien de béton ?</h2>
 
-                <p>La règle de base selon le <strong>NF DTU 20.1</strong> (juillet 2020, norme de référence pour la maçonnerie de petits éléments) : un chaînage horizontal à chaque niveau de plancher, plus un chaînage de couronnement en tête de mur. Hauteur minimum du chaînage : 15 cm. Le chaînage bas (pied de mur) n'est pas obligatoire — c'est la fondation qui joue ce rôle.</p>
+                <p>La règle de base selon le <strong>NF DTU 20.1</strong> (juillet 2020, norme de référence pour la maçonnerie de petits éléments) : un chaînage horizontal à chaque niveau de plancher, plus un chaînage de couronnement en tête de mur. Hauteur minimum du chaînage : 15 cm. Le chaînage bas (pied de mur) n'est pas obligatoire, c'est la fondation qui joue ce rôle.</p>
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -538,7 +538,7 @@ include dirname(__DIR__) . '/header.php';
                 <div style="margin: 2rem 0; border-radius: 8px; overflow: hidden; aspect-ratio: 16/9;">
                     <iframe
                         src="https://www.youtube.com/embed/uFJTKztO9mw"
-                        title="Mise en œuvre du chaînage horizontal — démonstration de chantier"
+                        title="Mise en œuvre du chaînage horizontal, démonstration de chantier"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen
@@ -549,23 +549,23 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>En zones sismiques 3, 4 et 5 (Antilles, certaines zones alpines et pyrénéennes), les chaînages doivent être renforcés : armatures plus nombreuses, ancrages aux poteaux raidisseurs obligatoires, liaison mécanique entre les chaînages horizontaux et verticaux. Vérifier sa zone sur le géoportail BRGM avant de démarrer.</p>
 
-                <!-- ═══════════════ H2 #5 — FAQ ═══════════════ -->
+                <!-- ═══════════════ H2 #5, FAQ ═══════════════ -->
                 <h2 id="faq">FAQ — Questions fréquentes</h2>
 
                 <h3>Quelle est la différence entre un chaînage horizontal et un chaînage vertical ?</h3>
-                <p>Le chaînage horizontal court à l'horizontale dans l'épaisseur du mur, à chaque niveau de plancher et en couronnement. Il relie les parois en plan et empêche leur écartement. Le chaînage vertical, lui, court de bas en haut dans les angles et poteaux raidisseurs — il relie les chaînages horizontaux de chaque niveau entre eux. Le vertical ancre, l'horizontal boucle. Les armatures des deux sont reliées entre elles par des équerres pour former une cage continue.</p>
+                <p>Le chaînage horizontal court à l'horizontale dans l'épaisseur du mur, à chaque niveau de plancher et en couronnement. Il relie les parois en plan et empêche leur écartement. Le chaînage vertical, lui, court de bas en haut dans les angles et poteaux raidisseurs, il relie les chaînages horizontaux de chaque niveau entre eux. Le vertical ancre, l'horizontal boucle. Les armatures des deux sont reliées entre elles par des équerres pour former une cage continue.</p>
 
                 <h3>Combien de chaînages horizontaux pour un mur de clôture de 2 m ?</h3>
                 <p>Deux. Un chaînage intermédiaire à environ 1 m de hauteur (5e rang de parpaing), ferraillé avec 4 barres HA10, et un chaînage de couronnement sur la dernière rangée. Pour une clôture inférieure à 1,2 m, le seul couronnement suffit en règle générale.</p>
 
                 <h3>Le chaînage horizontal est-il obligatoire en pied de mur ?</h3>
-                <p>Non. Selon le NF DTU 20.1 et les praticiens expérimentés, le chaînage bas n'est pas obligatoire en pied de mur — c'est la fondation qui joue ce rôle. Le chaînage se positionne en tête de mur et à chaque niveau de plancher. Sur terrain instable ou en zone argileuse, certains maçons l'ajoutent par précaution, mais ce n'est pas une obligation réglementaire pour un mur courant.</p>
+                <p>Non. Selon le NF DTU 20.1 et les praticiens expérimentés, le chaînage bas n'est pas obligatoire en pied de mur, c'est la fondation qui joue ce rôle. Le chaînage se positionne en tête de mur et à chaque niveau de plancher. Sur terrain instable ou en zone argileuse, certains maçons l'ajoutent par précaution, mais ce n'est pas une obligation réglementaire pour un mur courant.</p>
 
                 <h3>Je rehausse un mur existant : dois-je refaire un chaînage horizontal ?</h3>
                 <p>Oui. Le couronnement existant ne vaut plus comme couronnement dès lors que vous montez de nouveaux rangs par-dessus. Il faut un nouveau chaînage en tête de la hauteur totale finale. Si vous rehaussez de plus d'un mètre, prévoir aussi un chaînage intermédiaire dans la nouvelle partie. Notre guide sur <a href="https://www.cemarenov.fr/rehausser-un-mur-en-parpaing-existant" style="text-decoration: underline;"><strong>rehausser un mur en parpaing existant</strong></a> couvre l'ensemble du processus, de la liaison avec l'ancien chaînage aux finitions.</p>
 
                 <h3>Peut-on faire un chaînage horizontal sans bloc en U ?</h3>
-                <p>Oui. Le coffrage bois traditionnel (deux joues maintenues par des pointes et des cales, coulage avec les armatures en place) donne un résultat structurel équivalent. L'inconvénient : la zone coulée est en béton plein, les parpaings adjacents sont creux — deux comportements thermiques différents, et une ligne de fissure probable dans l'enduit à l'interface. Le bloc en U, de même matière que le parpaing, évite ce problème. Si vous hésitez sur la finition une fois le gros-œuvre terminé, notre dossier <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">peut-on laisser un mur en parpaing sans enduit</a> clarifie les obligations légales et les alternatives à l'enduit classique.</p>
+                <p>Oui. Le coffrage bois traditionnel (deux joues maintenues par des pointes et des cales, coulage avec les armatures en place) donne un résultat structurel équivalent. L'inconvénient : la zone coulée est en béton plein, les parpaings adjacents sont creux, deux comportements thermiques différents, et une ligne de fissure probable dans l'enduit à l'interface. Le bloc en U, de même matière que le parpaing, évite ce problème. Si vous hésitez sur la finition une fois le gros-œuvre terminé, notre dossier <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">peut-on laisser un mur en parpaing sans enduit</a> clarifie les obligations légales et les alternatives à l'enduit classique.</p>
 
             </div><!-- /.article-content -->
 
@@ -642,7 +642,7 @@ require_once dirname(__DIR__) . '/schema-data.php';
 $faq_schema = [
     [
         'question' => "Quelle est la différence entre un chaînage horizontal et un chaînage vertical ?",
-        'answer'   => "Le chaînage horizontal court à l'horizontale dans l'épaisseur du mur à chaque niveau de plancher — il relie les parois en plan et empêche leur écartement. Le chaînage vertical court de bas en haut dans les angles et poteaux raidisseurs — il relie les chaînages horizontaux de chaque niveau entre eux. Les armatures des deux sont reliées par des équerres pour former une cage continue."
+        'answer'   => "Le chaînage horizontal court à l'horizontale dans l'épaisseur du mur à chaque niveau de plancher, il relie les parois en plan et empêche leur écartement. Le chaînage vertical court de bas en haut dans les angles et poteaux raidisseurs, il relie les chaînages horizontaux de chaque niveau entre eux. Les armatures des deux sont reliées par des équerres pour former une cage continue."
     ],
     [
         'question' => "Combien de chaînages horizontaux pour un mur de clôture de 2 m ?",
@@ -650,7 +650,7 @@ $faq_schema = [
     ],
     [
         'question' => "Le chaînage horizontal est-il obligatoire en pied de mur ?",
-        'answer'   => "Non. Selon le NF DTU 20.1, le chaînage bas n'est pas obligatoire en pied de mur — la fondation joue ce rôle. Le chaînage se positionne en tête de mur et à chaque niveau de plancher."
+        'answer'   => "Non. Selon le NF DTU 20.1, le chaînage bas n'est pas obligatoire en pied de mur, la fondation joue ce rôle. Le chaînage se positionne en tête de mur et à chaque niveau de plancher."
     ],
     [
         'question' => "Je rehausse un mur existant : dois-je refaire un chaînage horizontal ?",
