@@ -167,7 +167,7 @@ endforeach; ?>
                     <li><strong>Le Lavage :</strong> Application d'un nettoyant ou destructeur de mousses au pulvérisateur, temps d'action (parfois 24h), puis lavage à moyenne ou haute pression selon la fragilité du support.</li>
                     <li><strong>La Préparation (L'essentiel du coût) :</strong> Ouverture et mastiquage acrylique des fissures, purge des vieux joints qui tombent en miettes, reprise des trous avec du mortier de réparation.</li>
                     <li><strong>L'Impression :</strong> Pose du "Primaire" (la sous-couche) au rouleau. C'est elle qui assure l'adhérence (la colle) entre l'ancien mur farinant et le nouvel enduit/peinture.</li>
-                    <li><strong>La Finition :</strong> Projection du nouveau crépi à la tyrolienne, montage de l'ITE (polystyrène), ou application d'une peinture siloxane de finition (couche de présentation).</li>
+                    <li><strong>La Finition :</strong> Projection du nouveau crépi à la tyrolienne, montage de l'ITE (polystyrène), ou application d'une peinture siloxane de finition (couche de présentation). C'est aussi le moment idéal pour vérifier l'état de votre <strong><u><a href="<?php echo BASE_URL; ?>porte-dentree-renovation">porte d'entrée</a></u></strong> — une rénovation de façade est l'opportunité parfaite pour aligner l'aspect de la menuiserie avec le nouveau look de la maison.</li>
                 </ol>
 
                 <blockquote class="article-blockquote">

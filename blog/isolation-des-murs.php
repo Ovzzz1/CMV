@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * isolation-des-murs.php
  * Article: Isolation des murs (ITI vs ITE) — prix, aides, méthodes
@@ -238,7 +238,7 @@ include dirname(__DIR__) . '/header.php';
                     panneaux semi-rigides) contre le mur, puis on vient visser des plaques de plâtre sur les rails.</p>
                 <ul class="custom-list">
                     <li><strong>Avantage :</strong> On rattrape les murs tordus des vieilles bâtisses. On passe toute
-                        l'électricité et la plomberie derrière facilement. L'isolation phonique est exceptionnelle.</li>
+                        l'électricité et la plomberie derrière facilement. L'isolation phonique est exceptionnelle. Si vous intégrez une <strong><u><a href="<?php echo BASE_URL; ?>epaisseur-cloison-pour-porte-a-galandage">porte à galandage dans la cloison</a></u></strong>, le choix de l'épaisseur de rail conditionne directement le montage.</li>
                     <li><strong>Inconvénient :</strong> Plus cher, plus long, et l'épaisseur totale (rail + laine +
                         placo) grignote un peu plus d'espace vital.</li>
                 </ul>

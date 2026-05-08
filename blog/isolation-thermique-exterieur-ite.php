@@ -306,7 +306,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Pour faire baisser cette facture astronomique en 2026, vous devez <strong>absolument</strong> passer
                     par une entreprise certifiée RGE (Reconnu Garant de l'Environnement) et poser une épaisseur
                     d'isolant assurant une résistance thermique (le fameux "R") d'au minimum <strong>3,7
-                        m².K/W</strong>.</p>
+                        m².K/W</strong>. Si vous hésitez sur la répartition entre travaux à confier à un pro et ceux que vous pouvez assumer en DIY, notre guide sur la <strong><u><a href="<?php echo BASE_URL; ?>artisan-renovation-conseils-travaux-diy">stratégie artisan/DIY en rénovation</a></u></strong> vous aidera à maximiser les aides tout en préservant votre budget.</p>
 
                 <ul class="custom-list">
                     <li><strong>MaPrimeRénov' :</strong> L'aide de l'Anah, conditionnée à la couleur de vos revenus

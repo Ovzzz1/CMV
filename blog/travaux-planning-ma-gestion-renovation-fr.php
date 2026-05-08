@@ -296,7 +296,7 @@ include dirname(__DIR__) . '/header.php';
                     par rapport au prévisionnel, et surtout d'adapter les tâches automatiquement. Si une étape prend du
                     retard, tout le reste du planning s'ajuste, vous donnant une vision claire de la nouvelle date de
                     livraison (réception de chantier). C'est le niveau d'organisation minimum exigé aujourd'hui pour ne
-                    pas perdre le contrôle de ses finances.
+                    pas perdre le contrôle de ses finances. 
                 </p>
 
                 <h2 id="faq">5. FAQ : Organisation et marge d'erreur</h2>
