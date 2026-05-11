@@ -21,7 +21,7 @@ $d = [
 'hero' => [
     'breadcrumb' => 'Planning travaux rénovation',
     'tags'       => ['Planning', 'Travaux', 'Chantier', 'Organisation'],
-    'h1'         => '<h1>Planning travaux :<br><span class="h1-accent">structurez votre chantier sans surcoûts</span></h1>',
+    'h1'         => '<h1>Travaux planning ma-gestion-renovation.fr : Un super blog pour sa maison !</h1>',
 ],
 
 'intro' => 'Un chantier de rénovation sans planning n\'est pas un projet, c\'est un pari financier extrêmement risqué. J\'ai constaté sur de nombreux chantiers que l\'absence de vision chronologique est la cause numéro un des surcoûts, car une erreur d\'ordonnancement force souvent à détruire ce qui vient d\'être posé pour laisser passer un réseau oublié. Gérer son planning travaux via ma-gestion-renovation.fr permet de transformer ce chaos potentiel en un pilotage rigoureux, où chaque corps d\'état intervient au moment opportun.',
