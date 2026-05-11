@@ -9,11 +9,11 @@
 $d = [
 
 'meta' => [
-    'title'        => 'Planning travaux : comment structurer votre chantier avec Ma Gestion Rénovation ?',
+    'title'        => 'Travaux planning ma-gestion-renovation.fr : Le blog pour sa maison!',
     'category'     => 'travaux',
     'slug'         => 'travaux-planning-ma-gestion-renovation',
     'image'        => 'https://www.cemarenov.fr/image/travaux-planning-ma-gestion-renovation-1.webp',
-    'excerpt'      => 'Évitez les retards et surcoûts. Découvrez comment structurer votre planning travaux avec ma-gestion-renovation.fr et l\'ordre des étapes clés.',
+    'excerpt'      => 'Évitez les retards et surcoûts. Découvrez comment structurer votre planning travaux avec ma-gestion-renovation.fr',
     'date'         => '2026-05-11',
     'reading_time' => 6,
 ],
