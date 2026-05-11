@@ -93,6 +93,9 @@ RewriteRule ^toiture/hydrofuge-de-toiture/hydrofuge-incolore/?$ /hydrofuge-incol
 RewriteRule ^toiture/nettoyage-demoussage/?$ /nettoyage-demoussage-toiture [R=301,L]
 RewriteRule ^toiture/peinture-thermique/?$ /peinture-thermique-toiture [R=301,L]
 
+# --- Travaux ---
+RewriteRule ^travaux-planning-ma-gestion-renovation-fr/?$ /travaux-planning-ma-gestion-renovation [R=301,L]
+
 # --- Isolation ---
 RewriteRule ^isolation/?$ /isolation-des-murs [R=301,L]
 RewriteRule ^isolation/isolation-des-combles-perdus/?$ /isolation-des-combles-perdus [R=301,L]
