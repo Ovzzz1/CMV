@@ -384,4 +384,41 @@
     <loc>https://www.cemarenov.fr/vocabulaire-architecture-facade</loc>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://www.cemarenov.fr/artisan-renovation-conseils-travaux-diy</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.cemarenov.fr/epaisseur-cloison-pour-porte-a-galandage</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.cemarenov.fr/nettoyer-bois-apres-poncage</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.cemarenov.fr/poncage-aluminium</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.cemarenov.fr/porte-d-entree-renovation</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.cemarenov.fr/travaux-planning-ma-gestion-renovation-fr</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
