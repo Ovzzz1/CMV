@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * peinture-de-facade.php
  * Article: Peinture de façade — prix, types (acrylique, siloxane, pliolite), étapes
@@ -313,7 +313,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Oui, c'est une étape non négociable. Peindre sur une façade sale, mousseuse ou écaillée condamne le travail en moins d'un an. Notre guide sur le <a href="https://www.cemarenov.fr/nettoyage-facade-javel">nettoyage façade à la javel</a> explique les protocoles par type de support avant toute peinture.</p>
 
                 <h3>Comment planifier un chantier de peinture façade dans le cadre d'une rénovation globale ?</h3>
-                <p>La peinture arrive en dernier, après les reprises de fissures, l'éventuelle ITE et le démoussage. Pour séquencer l'ensemble des travaux, notre <a href="https://www.cemarenov.fr/travaux-planning-ma-gestion-renovation-fr">outil de planning de gestion de rénovation</a> aide à organiser chaque étape et suivre les délais artisans.</p>
+                <p>La peinture arrive en dernier, après les reprises de fissures, l'éventuelle ITE et le démoussage. Pour séquencer l'ensemble des travaux, notre <a href="https://www.cemarenov.fr/travaux-planning-ma-gestion-renovation">outil de planning de gestion de rénovation</a> aide à organiser chaque étape et suivre les délais artisans.</p>
 
             </div> <!-- .article-content -->
 

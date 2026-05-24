@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * enduit-facade.php
  * Article: Enduit façade — Classification NF, prix, pose DTU 26.1 et erreurs
@@ -451,7 +451,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Le parpaing est un support cimentaire inerte qui nécessite des proportions précises de ciment, chaux et sable pour une bonne accroche sans fissuration. Notre guide <a href="https://www.cemarenov.fr/dosage-enduit-ciment-chaux-parpaing">dosage enduit ciment chaux sur parpaing</a> détaille les ratios pour chaque couche (gobetis, corps d'enduit, finition) avec les erreurs de gâchage à éviter.</p>
 
                 <h3>Comment préparer l'agenda des travaux de façade ?</h3>
-                <p>Une rénovation de façade s'anticipe : choix des artisans, commandes de matériaux, période de séchage, démarches administratives. L'outil <a href="https://www.cemarenov.fr/travaux-planning-ma-gestion-renovation-fr">planning de gestion de travaux de rénovation</a> peut vous aider à séquencer et suivre chaque étape du chantier.</p>
+                <p>Une rénovation de façade s'anticipe : choix des artisans, commandes de matériaux, période de séchage, démarches administratives. L'outil <a href="https://www.cemarenov.fr/travaux-planning-ma-gestion-renovation">planning de gestion de travaux de rénovation</a> peut vous aider à séquencer et suivre chaque étape du chantier.</p>
 
             </div> <!-- .article-content -->
 
