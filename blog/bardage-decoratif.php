@@ -333,7 +333,7 @@ include dirname(__DIR__) . '/header.php';
                 <ul class="custom-list">
                     <li><strong>Horizontal pin Douglas :</strong> classique pavillon. Large lames 27 mm.</li>
                     <li><strong>Vertical composite :</strong> effet hauteur, contemporain (maisons R+).</li>
-                    <li><strong>Claire-voie ajourée 30 % :</strong> lumière traverse, ventilation naturelle.</li>
+                    <li><strong>Claire-voie ajourée 30 % :</strong> lumière traverse, <a href="https://www.cemarenov.fr/ventilation-naturelle">ventilation naturelle</a>.</li>
                     <li><strong>Faux claire-voie :</strong> esthétique ajouré + isolation pleine.</li>
                     <li><strong>Tôle imitation chêne :</strong> moderne low-cost, pose clips (Bacacier).</li>
                     <li><strong>Diagonal mélèze :</strong> dynamique, pluie ruisselle mieux.</li>
@@ -439,7 +439,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Oui pour la protection et l'isolation. Non si budget inférieur à 5 000 € ou maison historique
                     classée.</p>
 
-                <h3>Comment fixer les gouttières sur une façade avec bardage décoratif ?</h3>
+                <h3>Comment fixer les <a href="https://www.cemarenov.fr/gouttieres">gouttières</a> sur une façade avec bardage décoratif ?</h3>
                 <p>Sur une façade bardée, les crochets de gouttière doivent traverser le bardage et se fixer sur la structure porteuse, jamais sur les panneaux décoratifs eux-mêmes qui ne peuvent pas supporter la charge de l'eau pluviale. Notre guide <a href="https://www.cemarenov.fr/fixation-gouttiere-sur-bac-acier-isole">fixation gouttière sur bac acier isolé</a> détaille les systèmes de fixation adaptés aux façades habillées.</p>
 
             </div> <!-- .article-content -->

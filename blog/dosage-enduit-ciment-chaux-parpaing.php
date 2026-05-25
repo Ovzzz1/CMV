@@ -329,7 +329,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 
                 <h3>Peut-on utiliser du ciment blanc et du sable jaune pour un effet "ton pierre" ?</h3>
-                <p>Oui, c'est la technique idéale pour obtenir un aspect naturel sans peinture de façade. Associez du ciment blanc (0,5 volume) à de la chaux NHL (1,5 volume) et du sable de rivière ocre (4 à 5 volumes) pour la couche de finition. Le rendu est très proche d'une pierre calcaire naturelle.</p>
+                <p>Oui, c'est la technique idéale pour obtenir un aspect naturel sans <a href="https://www.cemarenov.fr/peinture-de-facade">peinture de façade</a>. Associez du ciment blanc (0,5 volume) à de la chaux NHL (1,5 volume) et du sable de rivière ocre (4 à 5 volumes) pour la couche de finition. Le rendu est très proche d'une pierre calcaire naturelle.</p>
 
                 <h3>Combien de temps attendre entre chaque couche d'enduit ?</h3>
                 <p>Comptez minimum 48 heures après le gobetis (couche d'accroche) et environ une semaine après le corps d'enduit avant d'appliquer la finition. Ces délais varient selon la température et l'hygrométrie : par temps humide, doublez les temps d'attente.</p>

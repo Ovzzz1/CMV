@@ -305,7 +305,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 
                 <h3>Peut-on utiliser la javel sur un mur en parpaing brut ?</h3>
-                <p>Oui, c'est possible pour enlever des algues, mais les sels vont ressortir. Demandez-vous d'abord si laisser un mur en parpaing sans enduit à long terme est viable pour vos maçonneries. En règle générale, la réponse est non si vous voulez protéger durablement le béton.</p>
+                <p>Oui, c'est possible pour enlever des algues, mais les sels vont ressortir. Demandez-vous d'abord si laisser un <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">mur en parpaing sans enduit</a> à long terme est viable pour vos maçonneries. En règle générale, la réponse est non si vous voulez protéger durablement le béton.</p>
 
                 <h3>Peut-on mélanger la javel 9,6 % avec du bicarbonate de soude ?</h3>
                 <p>Chimiquement, ça ne sert à rien. Le bicarbonate n'apporte aucune puissance supplémentaire à un extrait à 9,6 %. Contentez-vous de la dilution à l'eau froide selon le tableau de dosage ci-dessus.</p>

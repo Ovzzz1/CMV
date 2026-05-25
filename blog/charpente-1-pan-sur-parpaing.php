@@ -344,7 +344,7 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>Bavette autocollante + mastic polyuréthane :</strong> solution de rattrapage quand la saignée est impossible (mur en pierre, enduit ancien). Moins pérenne mais efficace si le mastic est de qualité et régulièrement inspecté.</li>
                 </ul>
 
-                <p>Même réflexion pour les gouttières : une charpente 1 pan sans système d'évacuation des eaux pluviales, c'est un mur en parpaing qui travaille dans l'humidité en permanence. La gouttière se fixe en pied de toiture sur les chevrons avant-toit ou sur un bandeau fermant la tête des chevrons. Pente minimale : 3 mm/ml vers la descente.</p>
+                <p>Même réflexion pour les <a href="https://www.cemarenov.fr/gouttieres">gouttières</a> : une charpente 1 pan sans système d'évacuation des eaux pluviales, c'est un mur en parpaing qui travaille dans l'humidité en permanence. La gouttière se fixe en pied de toiture sur les chevrons avant-toit ou sur un bandeau fermant la tête des chevrons. Pente minimale : 3 mm/ml vers la descente.</p>
 
                 <h2 id="faq">FAQ, Questions fréquentes</h2>
 

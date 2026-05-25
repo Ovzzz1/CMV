@@ -107,7 +107,7 @@ $d = [
 <p>On commence par mettre à nu le plateau afin de diagnostiquer l'état réel du bâti. Cela implique de retirer les anciennes cloisons précaires, les faux plafonds industriels et les réseaux obsolètes. C'est le moment idéal pour traiter les structures porteuses, comme les IPN, contre la corrosion et pour sabler les briques ou le béton afin de retrouver le cachet brut d'origine.</p>
 
 <h3>Étape 2 : L'isolation thermique et l'étanchéité</h3>
-<p>Un volume de 4 ou 5 mètres sous plafond devient un gouffre énergétique ingérable si l'enveloppe n'est pas traitée. L'isolation par l'intérieur (ITI) est la norme pour conserver les façades industrielles, mais elle doit être couplée à une ventilation mécanique (VMC double flux) ultra-performante pour éviter l'humidité stagnante dans ces grands volumes.</p>
+<p>Un volume de 4 ou 5 mètres sous plafond devient un gouffre énergétique ingérable si l'enveloppe n'est pas traitée. L'isolation par l'intérieur (ITI) est la norme pour conserver les façades industrielles, mais elle doit être couplée à une ventilation mécanique (<a href="https://www.cemarenov.fr/vmc-double-flux">VMC double flux</a>) ultra-performante pour éviter l'humidité stagnante dans ces grands volumes.</p>
 
 <h3>Étape 3 : Création de surfaces et mezzanines</h3>
 <p>L'intérêt majeur d'un loft réside dans sa verticalité. L'ajout d'une mezzanine en structure métallique permet de créer des espaces "nuit" ou bureau tout en conservant le vide visuel sur le séjour. Pour ma part, je conseille l'usage de planchers collaborants acier-béton pour leur robustesse et leur faible épaisseur, permettant de gagner en hauteur libre.</p>

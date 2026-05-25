@@ -233,7 +233,7 @@ endforeach; ?>
                     <li><strong>Anti-mousses préventifs :</strong> Bloquent la repousse des spores quelques années après un nettoyage profond.</li>
                 </ul>
 
-                <h3>L'hydrofuge de toiture : l'étape indispensable</h3>
+                <h3>L'<a href="https://www.cemarenov.fr/hydrofuge-de-toiture">hydrofuge de toiture</a> : l'étape indispensable</h3>
                 <p>Une fois l'<strong>anti-mousse</strong> pleinement actif et la toiture lessivée par la pluie, il faut rebooster la tuile. L'hydrofuge transparent pénètre les pores, repousse l'eau naissante, protège contre le gel fendu, et rallonge l'espérance de <strong>vie de la toiture</strong> d'une bonne décennie.</p>
 
                 <h2 id="quand-comment-nettoyer">Quand et Comment Nettoyer sa Toiture ?</h2>

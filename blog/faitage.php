@@ -253,7 +253,7 @@ include dirname(__DIR__) . '/header.php';
                 <!-- Section 4 -->
                 <h2 id="quand-refaire">4. Comment savoir s'il faut refaire son faîtage ?</h2>
                 <p>Inutile de monter sur le toit : une simple inspection visuelle depuis le sol avec des jumelles
-                    suffit. Les signes d'alerte sont clairs : un mortier qui s'effrite et tombe dans les gouttières, des
+                    suffit. Les signes d'alerte sont clairs : un mortier qui s'effrite et tombe dans les <a href="https://www.cemarenov.fr/gouttieres">gouttières</a>, des
                     tuiles de crête qui se soulèvent ou ne sont plus alignées, ou encore des traces d'humidité au
                     plafond de vos combles aménagés. Si vous observez cela, l'<strong>étanchéité globale de la
                         couverture</strong> est déjà lourdement compromise, et cela pourrait même dériver vers un <a

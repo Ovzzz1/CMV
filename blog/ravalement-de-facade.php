@@ -117,7 +117,7 @@ endforeach; ?>
                         <li><strong>Le prix au m² :</strong> Comptez de <strong>40 à 70 €</strong> pour une peinture/nettoyage, de <strong>80 à 120 €</strong> pour une purge de l'ancien crépi avec réfection traditionnelle à la Chaux, et de <strong>150 à 250 €</strong> si vous ajoutez l'Isolation par l'Extérieur (ITE).</li>
                         <li><strong>L'Obligation (La Loi des 10 ans) :</strong> Dans environ un tiers des grandes communes françaises (Paris, centres historiques), le ravalement est juridiquement obligatoire tous les 10 ans (amende de 3750 €).</li>
                         <li><strong>L'Obligation d'Isoler (Décret 2017) :</strong> Si vous piquez ou refaites l'enduit sur plus de 50% de votre façade, la loi vous <strong>oblige</strong> désormais à adjoindre une isolation thermique, sauf dérogation (ABF ou impossibilité technique).</li>
-                        <li><strong>Les Aides 2026 :</strong> "MaPrimeRénov' Par Geste" ne subventionne PLUS l'isolation des murs extérieurs seule. Vous devez passer par le "Parcours Accompagné" (rénovation globale) ou vous contenter des primes CEE et de l'Eco-PTZ.</li>
+                        <li><strong>Les Aides 2026 :</strong> "MaPrimeRénov' Par Geste" ne subventionne PLUS l'<a href="https://www.cemarenov.fr/isolation-des-murs">isolation des murs</a> extérieurs seule. Vous devez passer par le "Parcours Accompagné" (rénovation globale) ou vous contenter des primes CEE et de l'Eco-PTZ.</li>
                     </ul>
                 </div>
 

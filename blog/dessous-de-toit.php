@@ -340,7 +340,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Qu'est-ce qu'une pièce sous les toits ?</h3>
                 <p>Les combles habitables, avec isolation, fenêtres de toit (Velux) et accès par escalier fixe.</p>
 
-                <h3>Comment fixer des gouttières sur un bac acier avec dessous-de-toit ?</h3>
+                <h3>Comment fixer des <a href="https://www.cemarenov.fr/gouttieres">gouttières</a> sur un bac acier avec dessous-de-toit ?</h3>
                 <p>Sur un débord en bac acier isolé, la fixation des gouttières nécessite des crochets adaptés à l'épaisseur du sandwich et des vis auto-perceuses inox. Notre guide <a href="https://www.cemarenov.fr/fixation-gouttiere-sur-bac-acier-isole">fixation gouttière sur bac acier isolé</a> détaille les systèmes de crochetage, les entraxes à respecter et les pièges à éviter sur ce type de support.</p>
 
             </div> <!-- .article-content -->

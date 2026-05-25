@@ -244,7 +244,7 @@ endforeach; ?>
             <div class="conclusion-box">
                 <h3>L'essentiel à retenir</h3>
                 <p>
-                    La peinture de façade thermorégulante est victime d'un marketing sur-vitaminé. La loi de la thermique est dure mais juste : 2 millimètres de résine à microbilles ne remplaceront <strong>jamais</strong> un gilet de 15 cm d'isolant classique de type "ITE" facturé 150€ le m2, ni ne vous donneront droit aux aides de l'État (MaPrimeRénov). En revanche, c'est l'arme fatale ou <strong>bouclier canicule</strong> indispensable. Posée sur les pignons sud en région chaude (ou sur une toiture type Cool Roof), elle empêchera le soleil de cuire vos parpaings, vous évitant de faire tourner la climatisation à plein régime d'Aout à Septembre !
+                    La <a href="https://www.cemarenov.fr/peinture-de-facade">peinture de façade</a> thermorégulante est victime d'un marketing sur-vitaminé. La loi de la thermique est dure mais juste : 2 millimètres de résine à microbilles ne remplaceront <strong>jamais</strong> un gilet de 15 cm d'isolant classique de type "ITE" facturé 150€ le m2, ni ne vous donneront droit aux aides de l'État (MaPrimeRénov). En revanche, c'est l'arme fatale ou <strong>bouclier canicule</strong> indispensable. Posée sur les pignons sud en région chaude (ou sur une toiture type Cool Roof), elle empêchera le soleil de cuire vos parpaings, vous évitant de faire tourner la climatisation à plein régime d'Aout à Septembre !
                 </p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Comparer : ITE Façade vs Ravalement Thermique</a>
             </div>

@@ -317,7 +317,7 @@ include dirname(__DIR__) . '/header.php';
                 <h2 id="faq">Vos Questions Fréquentes (FAQ)</h2>
                 <div class="faq-section">
                     <h3>Quels sont les 3 types de ventilation les plus courants ?</h3>
-                    <p>Les trois principaux types de ventilation sont la ventilation naturelle (simples flux d'air via
+                    <p>Les trois principaux types de ventilation sont la <a href="https://www.cemarenov.fr/ventilation-naturelle">ventilation naturelle</a> (simples flux d'air via
                         courant d'air libre), la Ventilation Mécanique Contrôlée (VMC Simple ou Double Flux aspirant
                         l'air vicié) et la Ventilation Positives par Surpression (VMI insufflant sous pression légère de
                         l'air réchauffé).</p>

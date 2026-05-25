@@ -19,7 +19,7 @@ $d = [
 ],
 
 'hero' => [
-    'breadcrumb' => 'Réparer crépi façade',
+    'breadcrumb' => 'Réparer <a href="https://www.cemarenov.fr/crepi-facade">crépi façade</a>',
     'tags'       => ['Crépi façade', 'Enduit extérieur', 'Ravalement', 'Bricolage'],
     'h1'         => '<h1>Comment réparer un crépi extérieur qui se décolle :<br><span class="h1-accent">Causes, étapes & raccord invisible</span></h1>',
 ],
