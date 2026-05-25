@@ -133,13 +133,13 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#dangers-karcher">Les Dangers Réels du Karcher pour votre Toiture</a></li>
-                        <li><a href="#usage-pro-karcher">Utilisation Professionnelle : Pourquoi Eux et Pas Vous ?</a></li>
-                        <li><a href="#alternatives-sures">Les Alternatives Sûres au Nettoyage Haute Pression</a></li>
-                        <li><a href="#choisir-produit">Choisir les Bons Produits : Anti-Mousse et Hydrofuge</a></li>
-                        <li><a href="#quand-comment-nettoyer">Quand et Comment Nettoyer sa Toiture ?</a></li>
-                        <li><a href="#pro-ou-diy">Faire Appel à un Pro ou Nettoyer Soi-Même ?</a></li>
-                        <li><a href="#faq">Questions Fréquentes (FAQ)</a></li>
+                        <li>Les Dangers Réels du Karcher pour votre Toiture</li>
+                        <li>Utilisation Professionnelle : Pourquoi Eux et Pas Vous ?</li>
+                        <li>Les Alternatives Sûres au Nettoyage Haute Pression</li>
+                        <li>Choisir les Bons Produits : Anti-Mousse et Hydrofuge</li>
+                        <li>Quand et Comment Nettoyer sa Toiture ?</li>
+                        <li>Faire Appel à un Pro ou Nettoyer Soi-Même ?</li>
+                        <li>Questions Fréquentes (FAQ)</li>
                     </ul>
                 </div>
 

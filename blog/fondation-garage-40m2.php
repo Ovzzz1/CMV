@@ -145,11 +145,11 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#permis">Est-il possible de construire un garage de 40 m2 sans permis de construire ?</a></li>
-                        <li><a href="#profondeur">Quelle profondeur de fondation pour un garage de 40m2 ?</a></li>
-                        <li><a href="#prix">Quel est le prix d'une dalle en béton pour un garage de 40m2 ?</a></li>
-                        <li><a href="#ferraillage">Ferraillage et volume : comment sécuriser un garage double ?</a></li>
-                        <li><a href="#faq">FAQ : Vos questions sur le 40m2</a></li>
+                        <li>Est-il possible de construire un garage de 40 m2 sans permis de construire ?</li>
+                        <li>Quelle profondeur de fondation pour un garage de 40m2 ?</li>
+                        <li>Quel est le prix d'une dalle en béton pour un garage de 40m2 ?</li>
+                        <li>Ferraillage et volume : comment sécuriser un garage double ?</li>
+                        <li>FAQ : Vos questions sur le 40m2</li>
                     </ul>
                 </div>
 

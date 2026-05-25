@@ -151,14 +151,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire de ce guide</div>
                     <ul>
-                        <li><a href="#ordre-artisans">1. L'ordre chronologique intouchable : quel artisan intervient
-                                quand ?</a></li>
-                        <li><a href="#piege-sechage">2. Le piège invisible du planning : les temps de séchage</a></li>
-                        <li><a href="#secret-livraisons">3. Le secret des pros : planifiez les matériaux, pas juste les
-                                hommes</a></li>
-                        <li><a href="#outils-planning">4. Les outils de suivi : ma-gestion-renovation.fr et tableurs</a>
+                        <li>1. L'ordre chronologique intouchable : quel artisan intervient
+                                quand ?</li>
+                        <li>2. Le piège invisible du planning : les temps de séchage</li>
+                        <li>3. Le secret des pros : planifiez les matériaux, pas juste les
+                                hommes</li>
+                        <li>4. Les outils de suivi : ma-gestion-renovation.fr et tableurs
                         </li>
-                        <li><a href="#faq">5. FAQ : Organisation et marge d'erreur</a></li>
+                        <li>5. FAQ : Organisation et marge d'erreur</li>
                     </ul>
                 </div>
 

@@ -124,11 +124,11 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#diagnostic">L'Étape 1 indispensable : Le Diagnostic (Identifier le type d'humidité)</a></li>
-                        <li><a href="#remontees-capillaires">Problème A : Les Remontées Capillaires (Solutions & Prix)</a></li>
-                        <li><a href="#condensation">Problème B : La Condensation et l'hyper-étanchéité</a></li>
-                        <li><a href="#infiltrations">Problème C : L'Infiltration et la pression de cave</a></li>
-                        <li><a href="#arnaques">Avis et Mises en garde : Les 3 arnaques à fuir</a></li>
+                        <li>L'Étape 1 indispensable : Le Diagnostic (Identifier le type d'humidité)</li>
+                        <li>Problème A : Les Remontées Capillaires (Solutions & Prix)</li>
+                        <li>Problème B : La Condensation et l'hyper-étanchéité</li>
+                        <li>Problème C : L'Infiltration et la pression de cave</li>
+                        <li>Avis et Mises en garde : Les 3 arnaques à fuir</li>
                     </ul>
                 </div>
 

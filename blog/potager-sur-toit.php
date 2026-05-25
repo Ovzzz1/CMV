@@ -150,15 +150,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#budget">1. Quel est votre budget ? 3 options pour se lancer</a></li>
-                        <li><a href="#etape1">2. Étape 1 : Vérifier la faisabilité et la sécurité du toit</a></li>
-                        <li><a href="#etape2">3. Étape 2 : Le choix et l'installation des bacs de culture</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Obtenez votre plan d'action sur-mesure</a></li>
-                        <li><a href="#etape3">4. Étape 3 : Remplir avec un substrat léger</a></li>
-                        <li><a href="#etape4">5. Étape 4 : Gérer l'irrigation face au vent et au soleil</a></li>
-                        <li><a href="#galeres">6. Anticiper les galères : météo, oiseaux et rongeurs</a></li>
-                        <li><a href="#legumes">7. Quels légumes et fruits faire pousser en hauteur ?</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Quel est votre budget ? 3 options pour se lancer</li>
+                        <li>2. Étape 1 : Vérifier la faisabilité et la sécurité du toit</li>
+                        <li>3. Étape 2 : Le choix et l'installation des bacs de culture</li>
+                        <li>⚙️ Outil : Obtenez votre plan d'action sur-mesure</li>
+                        <li>4. Étape 3 : Remplir avec un substrat léger</li>
+                        <li>5. Étape 4 : Gérer l'irrigation face au vent et au soleil</li>
+                        <li>6. Anticiper les galères : météo, oiseaux et rongeurs</li>
+                        <li>7. Quels légumes et fruits faire pousser en hauteur ?</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

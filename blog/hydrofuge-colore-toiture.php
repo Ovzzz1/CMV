@@ -159,15 +159,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#hydrofuge-vs-peinture">Hydrofuge coloré vs peinture toiture : l'erreur fatale</a>
+                        <li>Hydrofuge coloré vs peinture toiture : l'erreur fatale
                         </li>
-                        <li><a href="#pour-qui">Pour quelles toitures est-ce vraiment utile ?</a></li>
-                        <li><a href="#prix">Prix hydrofuge coloré toiture 2026 (Pro vs DIY)</a></li>
-                        <li><a href="#application">Les 4 étapes d'application rigoureuses (Le secret de la
-                                durabilité)</a></li>
-                        <li><a href="#avantages-inconvenients">Avis de pro : les avantages et inconvénients réels</a>
+                        <li>Pour quelles toitures est-ce vraiment utile ?</li>
+                        <li>Prix hydrofuge coloré toiture 2026 (Pro vs DIY)</li>
+                        <li>Les 4 étapes d'application rigoureuses (Le secret de la
+                                durabilité)</li>
+                        <li>Avis de pro : les avantages et inconvénients réels
                         </li>
-                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
+                        <li>Foire Aux Questions (FAQ)</li>
                     </ul>
                 </div>
 

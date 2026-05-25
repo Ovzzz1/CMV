@@ -124,12 +124,12 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#comment-ca-marche">Secret de fabrique : Que contient une peinture isolante ?</a></li>
-                        <li><a href="#efficacite-hiver-ete">Efficacité réelle : Le mythe de l'hiver vs la réalité de l'été</a></li>
-                        <li><a href="#valeur-r">Analyse du Résistance Thermique (Le fameux "R")</a></li>
-                        <li><a href="#prix">Prix au m² : Fourniture et Pose (2026)</a></li>
-                        <li><a href="#cas-d-usage">Quand l'utiliser (et quand l'éviter absolument)</a></li>
-                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
+                        <li>Secret de fabrique : Que contient une peinture isolante ?</li>
+                        <li>Efficacité réelle : Le mythe de l'hiver vs la réalité de l'été</li>
+                        <li>Analyse du Résistance Thermique (Le fameux "R")</li>
+                        <li>Prix au m² : Fourniture et Pose (2026)</li>
+                        <li>Quand l'utiliser (et quand l'éviter absolument)</li>
+                        <li>Foire Aux Questions (FAQ)</li>
                     </ul>
                 </div>
 

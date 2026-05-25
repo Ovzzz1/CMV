@@ -129,14 +129,14 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire du Guide</div>
                     <ul>
-                        <li><a href="#fonctionnement">1. Qu'est-ce qu'une Pompe à Chaleur Air-Air et Comment Fonctionne-t-elle ?</a></li>
-                        <li><a href="#avantages">2. Avantages et Inconvénients : Le Vrai Coût du Confort</a></li>
-                        <li><a href="#prix">3. Prix et Coûts Réels : Investissement et Rentabilité</a></li>
-                        <li><a href="#aides">4. Quelles Aides Financières en 2026 pour Votre PAC Air-Air ?</a></li>
-                        <li><a href="#choix-dimensionnement">5. Choisir, Installer et Dimensionner Votre PAC</a></li>
-                        <li><a href="#entretien">6. Entretien et Durée de Vie : Assurer la Performance</a></li>
-                        <li><a href="#comparaisons">7. PAC Air-Air vs Autres Systèmes : La Grande Comparaison</a></li>
-                        <li><a href="#faq">8. FAQ : Vos Questions Fréquentes sur la PAC Air-Air</a></li>
+                        <li>1. Qu'est-ce qu'une Pompe à Chaleur Air-Air et Comment Fonctionne-t-elle ?</li>
+                        <li>2. Avantages et Inconvénients : Le Vrai Coût du Confort</li>
+                        <li>3. Prix et Coûts Réels : Investissement et Rentabilité</li>
+                        <li>4. Quelles Aides Financières en 2026 pour Votre PAC Air-Air ?</li>
+                        <li>5. Choisir, Installer et Dimensionner Votre PAC</li>
+                        <li>6. Entretien et Durée de Vie : Assurer la Performance</li>
+                        <li>7. PAC Air-Air vs Autres Systèmes : La Grande Comparaison</li>
+                        <li>8. FAQ : Vos Questions Fréquentes sur la PAC Air-Air</li>
                     </ul>
                 </div>
 

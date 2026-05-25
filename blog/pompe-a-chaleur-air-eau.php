@@ -167,15 +167,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire de ce Guide</div>
                     <ul>
-                        <li><a href="#fonctionnement">1. Principe et fonctionnement d'une pompe à chaleur air eau</a>
+                        <li>1. Principe et fonctionnement d'une pompe à chaleur air eau
                         </li>
-                        <li><a href="#avantages">2. Avantages vs. Inconvénients (Ce qu'il faut savoir)</a></li>
-                        <li><a href="#prix-aides">3. Budget, Aides & Rentabilité</a></li>
-                        <li><a href="#choix-pac">4. Choisir la puissance et le bon modèle (Monobloc/Bibloc)</a></li>
-                        <li><a href="#installation-entretien">5. Installation, Entretien et Réglementation en
-                                vigueur</a></li>
-                        <li><a href="#optimisation">6. Les secrets pour maximiser la performance et le COP</a></li>
-                        <li><a href="#faq">7. Vos questions Fréquentes d'Experts</a></li>
+                        <li>2. Avantages vs. Inconvénients (Ce qu'il faut savoir)</li>
+                        <li>3. Budget, Aides & Rentabilité</li>
+                        <li>4. Choisir la puissance et le bon modèle (Monobloc/Bibloc)</li>
+                        <li>5. Installation, Entretien et Réglementation en
+                                vigueur</li>
+                        <li>6. Les secrets pour maximiser la performance et le COP</li>
+                        <li>7. Vos questions Fréquentes d'Experts</li>
                     </ul>
                 </div>
 

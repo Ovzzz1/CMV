@@ -124,11 +124,11 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#loi-obligations">La Législation 2026 : Ce que la Mairie peut vous imposer</a></li>
-                        <li><a href="#etapes">Les 4 étapes d'un vrai ravalement de façade</a></li>
-                        <li><a href="#prix">Le Prix au m² d'un façadier en 2026 (Tableau)</a></li>
-                        <li><a href="#aides">Aides de l'Etat : Le grand changement 2026</a></li>
-                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
+                        <li>La Législation 2026 : Ce que la Mairie peut vous imposer</li>
+                        <li>Les 4 étapes d'un vrai ravalement de façade</li>
+                        <li>Le Prix au m² d'un façadier en 2026 (Tableau)</li>
+                        <li>Aides de l'Etat : Le grand changement 2026</li>
+                        <li>Foire Aux Questions (FAQ)</li>
                     </ul>
                 </div>
 

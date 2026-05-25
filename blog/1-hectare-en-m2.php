@@ -147,12 +147,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#convertisseur">Convertisseur hectares ↔ m² (temps réel)</a></li>
-                        <li><a href="#definition">C'est quoi 1 hectare, concrètement ?</a></li>
-                        <li><a href="#formule">La formule de conversion ha en m²</a></li>
-                        <li><a href="#tableau">Tableau de conversion complet</a></li>
-                        <li><a href="#unites">Are, centiare, hectare : lire un acte notarié</a></li>
-                        <li><a href="#faq">FAQ : les questions les plus posées</a></li>
+                        <li>Convertisseur hectares ↔ m² (temps réel)</li>
+                        <li>C'est quoi 1 hectare, concrètement ?</li>
+                        <li>La formule de conversion ha en m²</li>
+                        <li>Tableau de conversion complet</li>
+                        <li>Are, centiare, hectare : lire un acte notarié</li>
+                        <li>FAQ : les questions les plus posées</li>
                     </ul>
                 </div>
 

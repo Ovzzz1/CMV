@@ -150,13 +150,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#pourquoi">Pourquoi isoler une toiture de véranda ?</a></li>
-                        <li><a href="#comprendre">Comprendre le polycarbonate</a></li>
-                        <li><a href="#interieur">Isoler par l'intérieur</a></li>
-                        <li><a href="#exterieur">Isoler par l'extérieur</a></li>
-                        <li><a href="#remplacer">Remplacer le polycarbonate</a></li>
-                        <li><a href="#budget">Budget et aides 2026</a></li>
-                        <li><a href="#faq">FAQ</a></li>
+                        <li>Pourquoi isoler une toiture de véranda ?</li>
+                        <li>Comprendre le polycarbonate</li>
+                        <li>Isoler par l'intérieur</li>
+                        <li>Isoler par l'extérieur</li>
+                        <li>Remplacer le polycarbonate</li>
+                        <li>Budget et aides 2026</li>
+                        <li>FAQ</li>
                     </ul>
                 </div>
 

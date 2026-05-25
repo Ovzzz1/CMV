@@ -124,11 +124,11 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#diagnostic">Le Diagnostic de départ (Identifier le mal)</a></li>
-                        <li><a href="#fissures">Solutions Techniques : Que faire face aux fissures ?</a></li>
-                        <li><a href="#etapes">Les grandes étapes chronologiques d'une rénovation</a></li>
-                        <li><a href="#prix">Grille des Prix au m² pour 2026 (Devis Artisans)</a></li>
-                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
+                        <li>Le Diagnostic de départ (Identifier le mal)</li>
+                        <li>Solutions Techniques : Que faire face aux fissures ?</li>
+                        <li>Les grandes étapes chronologiques d'une rénovation</li>
+                        <li>Grille des Prix au m² pour 2026 (Devis Artisans)</li>
+                        <li>Foire Aux Questions (FAQ)</li>
                     </ul>
                 </div>
 

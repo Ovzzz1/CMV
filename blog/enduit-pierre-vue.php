@@ -171,12 +171,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#definition">1. Qu'est-ce qu'un enduit à pierre vue (vs pierre apparente) ?</a>
+                        <li>1. Qu'est-ce qu'un enduit à pierre vue (vs pierre apparente) ?
                         </li>
-                        <li><a href="#prix">2. Quel est le prix d'un enduit pierre vue au m² ?</a></li>
-                        <li><a href="#etapes">3. Les 4 étapes pour réaliser un enduit à pierre vue</a></li>
-                        <li><a href="#rendement">4. Outil : Quelle surface avec un sac de 25 kg d'enduit ?</a></li>
-                        <li><a href="#faq">5. FAQ sur l'enduit et les murs en pierres</a></li>
+                        <li>2. Quel est le prix d'un enduit pierre vue au m² ?</li>
+                        <li>3. Les 4 étapes pour réaliser un enduit à pierre vue</li>
+                        <li>4. Outil : Quelle surface avec un sac de 25 kg d'enduit ?</li>
+                        <li>5. FAQ sur l'enduit et les murs en pierres</li>
                     </ul>
                 </div>
 

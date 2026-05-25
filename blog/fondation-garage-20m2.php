@@ -145,14 +145,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#obligation">Est-il obligatoire de construire des fondations pour un garage ?</a></li>
-                        <li><a href="#reglementation">Garage de 20m2 : Permis de construire ou déclaration préalable ?</a></li>
-                        <li><a href="#dimensions">Quelle dimension de fondation pour un garage de 20m2 (4x5m) ?</a></li>
-                        <li><a href="#epaisseur">Quelle doit être l'épaisseur des fondations d'un garage ?</a></li>
-                        <li><a href="#calcul-beton">Calcul du volume de béton : combien de toupies commander ?</a></li>
-                        <li><a href="#prix">Quel est le prix de la fondation d'un garage de 20m2 ?</a></li>
-                        <li><a href="#type-fondation">Quel type de fondation est le mieux adapté à un garage ?</a></li>
-                        <li><a href="#faq">FAQ : Cas particuliers</a></li>
+                        <li>Est-il obligatoire de construire des fondations pour un garage ?</li>
+                        <li>Garage de 20m2 : Permis de construire ou déclaration préalable ?</li>
+                        <li>Quelle dimension de fondation pour un garage de 20m2 (4x5m) ?</li>
+                        <li>Quelle doit être l'épaisseur des fondations d'un garage ?</li>
+                        <li>Calcul du volume de béton : combien de toupies commander ?</li>
+                        <li>Quel est le prix de la fondation d'un garage de 20m2 ?</li>
+                        <li>Quel type de fondation est le mieux adapté à un garage ?</li>
+                        <li>FAQ : Cas particuliers</li>
                     </ul>
                 </div>
 

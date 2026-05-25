@@ -161,12 +161,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#definition">Qu'est-ce que l'isolation des combles perdus ?</a></li>
-                        <li><a href="#benefices">Les Bénéfices : Confort, Économies et Environnement</a></li>
-                        <li><a href="#choix">Techniques, Matériaux et Épaisseurs Adaptées</a></li>
-                        <li><a href="#financer">Financer le projet : Coûts et Aides en vigueur</a></li>
-                        <li><a href="#pro-diy">DIY ou Pro RGE : Les erreurs à éviter absolument</a></li>
-                        <li><a href="#faq">Vos Questions Fréquentes</a></li>
+                        <li>Qu'est-ce que l'isolation des combles perdus ?</li>
+                        <li>Les Bénéfices : Confort, Économies et Environnement</li>
+                        <li>Techniques, Matériaux et Épaisseurs Adaptées</li>
+                        <li>Financer le projet : Coûts et Aides en vigueur</li>
+                        <li>DIY ou Pro RGE : Les erreurs à éviter absolument</li>
+                        <li>Vos Questions Fréquentes</li>
                     </ul>
                 </div>
 

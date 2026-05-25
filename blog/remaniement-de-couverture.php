@@ -167,11 +167,11 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#definition">Qu'est-ce qu'un Remaniement de Toiture ?</a></li>
-                        <li><a href="#prix">Prix et Coût d'un Remaniement au m²</a></li>
-                        <li><a href="#etapes">Quand et Comment Procéder ? Étapes Clés</a></li>
-                        <li><a href="#choix-pro">Choisir le bon Couvreur et Optimiser son Projet</a></li>
-                        <li><a href="#faq">Questions Fréquentes (FAQ)</a></li>
+                        <li>Qu'est-ce qu'un Remaniement de Toiture ?</li>
+                        <li>Prix et Coût d'un Remaniement au m²</li>
+                        <li>Quand et Comment Procéder ? Étapes Clés</li>
+                        <li>Choisir le bon Couvreur et Optimiser son Projet</li>
+                        <li>Questions Fréquentes (FAQ)</li>
                     </ul>
                 </div>
 

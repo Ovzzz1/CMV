@@ -159,13 +159,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#fondations">1. Faut-il obligatoirement coffrer ses fondations ?</a></li>
-                        <li><a href="#materiaux">2. Bois vs coffrage perdu : bien choisir son matériel</a></li>
-                        <li><a href="#types">3. Les différents types de coffrages selon votre projet</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Quel coffrage pour votre chantier ?</a></li>
-                        <li><a href="#coulage">4. Guide pas à pas : réussir son coulage sans encombre</a></li>
-                        <li><a href="#logistique">5. Livraison et logistique sur chantier</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Faut-il obligatoirement coffrer ses fondations ?</li>
+                        <li>2. Bois vs coffrage perdu : bien choisir son matériel</li>
+                        <li>3. Les différents types de coffrages selon votre projet</li>
+                        <li>⚙️ Outil : Quel coffrage pour votre chantier ?</li>
+                        <li>4. Guide pas à pas : réussir son coulage sans encombre</li>
+                        <li>5. Livraison et logistique sur chantier</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

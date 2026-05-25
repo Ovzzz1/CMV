@@ -135,17 +135,17 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#types-fondations">Types de fondations et bétons adaptés</a></li>
-                        <li><a href="#beton-proprete">Le béton de propreté (obligatoire DTU 13.1)</a></li>
-                        <li><a href="#quel-beton">Classes C25/30 et C30/37</a></li>
-                        <li><a href="#dosage-par-semelle">Dosage selon le type de semelle</a></li>
-                        <li><a href="#dosage-seau">Dosage béton fondation au seau</a></li>
-                        <li><a href="#dosage-m3">Dosage béton fondation au m³</a></li>
-                        <li><a href="#calculateur">Calculateur de quantités</a></li>
-                        <li><a href="#beton-pret">Béton prêt à l'emploi vs bétonnière</a></li>
-                        <li><a href="#gachage">Ordre de gâchage à la bétonnière</a></li>
-                        <li><a href="#calcul-quantite">Calcul des volumes</a></li>
-                        <li><a href="#faq">FAQ</a></li>
+                        <li>Types de fondations et bétons adaptés</li>
+                        <li>Le béton de propreté (obligatoire DTU 13.1)</li>
+                        <li>Classes C25/30 et C30/37</li>
+                        <li>Dosage selon le type de semelle</li>
+                        <li>Dosage béton fondation au seau</li>
+                        <li>Dosage béton fondation au m³</li>
+                        <li>Calculateur de quantités</li>
+                        <li>Béton prêt à l'emploi vs bétonnière</li>
+                        <li>Ordre de gâchage à la bétonnière</li>
+                        <li>Calcul des volumes</li>
+                        <li>FAQ</li>
                     </ul>
                 </div>
 

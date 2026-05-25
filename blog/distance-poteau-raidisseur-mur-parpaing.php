@@ -151,14 +151,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#role">1. Qu'est-ce qu'un poteau raidisseur et à quoi sert-il ?</a></li>
-                        <li><a href="#distance">2. La distance standard entre deux poteaux</a></li>
-                        <li><a href="#tableau">3. Tableau de référence selon hauteur et épaisseur</a></li>
-                        <li><a href="#implantation">4. Où placer les raidisseurs : les points stratégiques</a></li>
-                        <li><a href="#calcul">5. Combien de poteaux pour votre mur ?</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Calculez votre configuration de raidisseurs</a></li>
-                        <li><a href="#ferraillage">6. Ferraillage et dosage du béton</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Qu'est-ce qu'un poteau raidisseur et à quoi sert-il ?</li>
+                        <li>2. La distance standard entre deux poteaux</li>
+                        <li>3. Tableau de référence selon hauteur et épaisseur</li>
+                        <li>4. Où placer les raidisseurs : les points stratégiques</li>
+                        <li>5. Combien de poteaux pour votre mur ?</li>
+                        <li>⚙️ Outil : Calculez votre configuration de raidisseurs</li>
+                        <li>6. Ferraillage et dosage du béton</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

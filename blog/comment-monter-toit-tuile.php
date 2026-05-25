@@ -126,13 +126,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#pourquoi-dangereux">Pourquoi monter sur un toit en tuile est dangereux</a></li>
-                        <li><a href="#equipement">Équipement indispensable pour monter sur un toit</a></li>
-                        <li><a href="#position-echelle">Comment positionner son échelle correctement</a></li>
-                        <li><a href="#technique-montee">Technique de montée sécurisée sur un toit</a></li>
-                        <li><a href="#marcher-tuiles">Comment marcher sur des tuiles sans les abîmer</a></li>
-                        <li><a href="#erreurs">Erreurs fatales à éviter absolument</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>Pourquoi monter sur un toit en tuile est dangereux</li>
+                        <li>Équipement indispensable pour monter sur un toit</li>
+                        <li>Comment positionner son échelle correctement</li>
+                        <li>Technique de montée sécurisée sur un toit</li>
+                        <li>Comment marcher sur des tuiles sans les abîmer</li>
+                        <li>Erreurs fatales à éviter absolument</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

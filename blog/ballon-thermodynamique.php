@@ -158,19 +158,19 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#fonctionnement">Chauffe-eau thermodynamique : comment ça fonctionne ?</a></li>
-                        <li><a href="#configurations">Les principales configurations d'installation</a></li>
-                        <li><a href="#comparaison">Chauffe-eau électrique vs ballon thermodynamique</a></li>
-                        <li><a href="#dimensionnement">Bien dimensionner : capacité et V40</a></li>
-                        <li><a href="#prix">Prix d'un ballon thermodynamique en 2026</a></li>
-                        <li><a href="#aides">Aides financières en 2026</a></li>
-                        <li><a href="#avantages">Avantages d'un ballon thermodynamique</a></li>
-                        <li><a href="#inconvenients">Inconvénients et contraintes</a></li>
-                        <li><a href="#heures-creuses">Heures creuses et production solaire</a></li>
-                        <li><a href="#entretien">Entretien et durée de vie</a></li>
-                        <li><a href="#rentabilite">Rentabilité : dans quels cas l'investissement est pertinent ?</a>
+                        <li>Chauffe-eau thermodynamique : comment ça fonctionne ?</li>
+                        <li>Les principales configurations d'installation</li>
+                        <li>Chauffe-eau électrique vs ballon thermodynamique</li>
+                        <li>Bien dimensionner : capacité et V40</li>
+                        <li>Prix d'un ballon thermodynamique en 2026</li>
+                        <li>Aides financières en 2026</li>
+                        <li>Avantages d'un ballon thermodynamique</li>
+                        <li>Inconvénients et contraintes</li>
+                        <li>Heures creuses et production solaire</li>
+                        <li>Entretien et durée de vie</li>
+                        <li>Rentabilité : dans quels cas l'investissement est pertinent ?
                         </li>
-                        <li><a href="#faq">FAQ</a></li>
+                        <li>FAQ</li>
                     </ul>
                 </div>
 

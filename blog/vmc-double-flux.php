@@ -134,12 +134,12 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#fonctionnement">Comprendre la VMC Double Flux : L'Échangeur Thermique</a></li>
-                        <li><a href="#comparatif">Double Flux vs Simple Flux : Le Match Décisif</a></li>
-                        <li><a href="#avantages">Inconvénients et Idées Reçues Démystifiées</a></li>
-                        <li><a href="#installation">Installation, Entretien et Erreurs à Éviter</a></li>
-                        <li><a href="#prix">Prix, Rentabilité et Aides MaPrimeRénov'</a></li>
-                        <li><a href="#faq">Vos Questions Fréquentes (FAQ)</a></li>
+                        <li>Comprendre la VMC Double Flux : L'Échangeur Thermique</li>
+                        <li>Double Flux vs Simple Flux : Le Match Décisif</li>
+                        <li>Inconvénients et Idées Reçues Démystifiées</li>
+                        <li>Installation, Entretien et Erreurs à Éviter</li>
+                        <li>Prix, Rentabilité et Aides MaPrimeRénov'</li>
+                        <li>Vos Questions Fréquentes (FAQ)</li>
                     </ul>
                 </div>
 

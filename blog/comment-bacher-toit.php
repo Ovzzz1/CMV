@@ -126,12 +126,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#quand-bacher">Quand bâcher un toit est indispensable</a></li>
-                        <li><a href="#materiel">Matériel nécessaire pour bâcher un toit</a></li>
-                        <li><a href="#etapes">Comment poser une bâche sur un toit : les étapes</a></li>
-                        <li><a href="#duree">Combien de temps laisser une bâche sur un toit ?</a></li>
-                        <li><a href="#prix">Prix d'un bâchage de toiture</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>Quand bâcher un toit est indispensable</li>
+                        <li>Matériel nécessaire pour bâcher un toit</li>
+                        <li>Comment poser une bâche sur un toit : les étapes</li>
+                        <li>Combien de temps laisser une bâche sur un toit ?</li>
+                        <li>Prix d'un bâchage de toiture</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

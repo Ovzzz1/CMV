@@ -151,14 +151,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#pourquoi-puissant">1. Pourquoi l'extrait de javel 9,6 % est-il si puissant ?</a></li>
-                        <li><a href="#tableau-dosage">2. Tableau de dilution selon l'état du mur</a></li>
-                        <li><a href="#securite">3. Sécurité : pourquoi les mélanges sont interdits</a></li>
-                        <li><a href="#premouillage">4. Le réflexe du pré-mouillage</a></li>
-                        <li><a href="#protocole">5. Protocole de nettoyage de A à Z</a></li>
-                        <li><a href="#hydrofuge">6. Spectres humides et traces blanches : l'étape de l'hydrofuge</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Quel dosage pour votre façade ?</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Pourquoi l'extrait de javel 9,6 % est-il si puissant ?</li>
+                        <li>2. Tableau de dilution selon l'état du mur</li>
+                        <li>3. Sécurité : pourquoi les mélanges sont interdits</li>
+                        <li>4. Le réflexe du pré-mouillage</li>
+                        <li>5. Protocole de nettoyage de A à Z</li>
+                        <li>6. Spectres humides et traces blanches : l'étape de l'hydrofuge</li>
+                        <li>⚙️ Outil : Quel dosage pour votre façade ?</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

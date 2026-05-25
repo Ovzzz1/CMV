@@ -155,12 +155,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#pourquoi">Pourquoi démousser vos tuiles terre cuite ?</a></li>
-                        <li><a href="#frequence">À quelle fréquence entretenir sa toiture ?</a></li>
-                        <li><a href="#methodes">Les méthodes de démoussage</a></li>
-                        <li><a href="#securite">Sécurité : les règles d'or avant de monter</a></li>
-                        <li><a href="#budget">Budget : coût d'un démoussage de toiture</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>Pourquoi démousser vos tuiles terre cuite ?</li>
+                        <li>À quelle fréquence entretenir sa toiture ?</li>
+                        <li>Les méthodes de démoussage</li>
+                        <li>Sécurité : les règles d'or avant de monter</li>
+                        <li>Budget : coût d'un démoussage de toiture</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

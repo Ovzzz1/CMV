@@ -152,14 +152,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#acide">1. Enduit neuf et acide urique : la bombe à retardement</a></li>
-                        <li><a href="#produit">2. Quel produit choisir ? (et ce qu'il faut éviter)</a></li>
-                        <li><a href="#methode">3. La méthode étape par étape sur enduit gratté</a></li>
-                        <li><a href="#karcher">4. Nettoyeur haute pression sur crépi : arrêtez le massacre</a></li>
-                        <li><a href="#autres-taches">5. Terre, huile, peinture : adapter la méthode</a></li>
-                        <li><a href="#prevention">6. Prévention : comment éloigner les oiseaux</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Trouvez votre méthode de nettoyage sur-mesure</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Enduit neuf et acide urique : la bombe à retardement</li>
+                        <li>2. Quel produit choisir ? (et ce qu'il faut éviter)</li>
+                        <li>3. La méthode étape par étape sur enduit gratté</li>
+                        <li>4. Nettoyeur haute pression sur crépi : arrêtez le massacre</li>
+                        <li>5. Terre, huile, peinture : adapter la méthode</li>
+                        <li>6. Prévention : comment éloigner les oiseaux</li>
+                        <li>⚙️ Outil : Trouvez votre méthode de nettoyage sur-mesure</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

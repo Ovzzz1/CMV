@@ -119,13 +119,13 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#detecter-comprendre">Détecter et Comprendre la Présence des Fouines</a></li>
-                        <li><a href="#methodes-non-letales">Les Méthodes Non-Létales pour Chasser les Fouines</a></li>
-                        <li><a href="#repulsifs-sonores">Répulsifs Olfactifs et Solutions Sonores</a></li>
-                        <li><a href="#piegeage-exclusion">Piégeage Vivant et Exclusion Physique</a></li>
-                        <li><a href="#prevention-long-terme">Prévention à Long Terme : Sceller et Sécuriser</a></li>
-                        <li><a href="#appel-professionnel">Quand Faire Appel à un Professionnel ?</a></li>
-                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
+                        <li>Détecter et Comprendre la Présence des Fouines</li>
+                        <li>Les Méthodes Non-Létales pour Chasser les Fouines</li>
+                        <li>Répulsifs Olfactifs et Solutions Sonores</li>
+                        <li>Piégeage Vivant et Exclusion Physique</li>
+                        <li>Prévention à Long Terme : Sceller et Sécuriser</li>
+                        <li>Quand Faire Appel à un Professionnel ?</li>
+                        <li>Foire Aux Questions (FAQ)</li>
                     </ul>
                 </div>
 

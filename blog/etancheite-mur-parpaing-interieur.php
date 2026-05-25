@@ -151,15 +151,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#faisabilite">1. Peut-on imperméabiliser un mur en parpaing de l'intérieur ?</a></li>
-                        <li><a href="#diagnostic">2. Diagnostic : pourquoi votre mur est-il humide ?</a></li>
-                        <li><a href="#hydrofuge-vs-cuvelage">3. Hydrofuge vs imperméabilisant : quelle solution choisir ?</a></li>
-                        <li><a href="#etape1">4. Étape 1 : Préparer le support et traiter le salpêtre</a></li>
-                        <li><a href="#etape2">5. Étape 2 : Le congé d'étanchéité sol-mur</a></li>
-                        <li><a href="#etape3">6. Étape 3 : Application en couches croisées</a></li>
-                        <li><a href="#apres-traitement">7. Que mettre sur le mur après le traitement ?</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Diagnostiquez votre problème d'humidité</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Peut-on imperméabiliser un mur en parpaing de l'intérieur ?</li>
+                        <li>2. Diagnostic : pourquoi votre mur est-il humide ?</li>
+                        <li>3. Hydrofuge vs imperméabilisant : quelle solution choisir ?</li>
+                        <li>4. Étape 1 : Préparer le support et traiter le salpêtre</li>
+                        <li>5. Étape 2 : Le congé d'étanchéité sol-mur</li>
+                        <li>6. Étape 3 : Application en couches croisées</li>
+                        <li>7. Que mettre sur le mur après le traitement ?</li>
+                        <li>⚙️ Outil : Diagnostiquez votre problème d'humidité</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

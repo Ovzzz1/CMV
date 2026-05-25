@@ -158,13 +158,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#definition">Comment s'appelle le dessous du toit ?</a></li>
-                        <li><a href="#pourquoi">Pourquoi habiller le dessous de toit ?</a></li>
-                        <li><a href="#materiaux">Les matériaux pour habiller un dessous de toit</a></li>
-                        <li><a href="#prix">Prix d'un habillage de dessous de toit</a></li>
-                        <li><a href="#pose">Comment poser un dessous de toit soi-même</a></li>
-                        <li><a href="#sous-toiture">Est-ce que la sous-toiture est obligatoire ?</a></li>
-                        <li><a href="#faq">FAQ</a></li>
+                        <li>Comment s'appelle le dessous du toit ?</li>
+                        <li>Pourquoi habiller le dessous de toit ?</li>
+                        <li>Les matériaux pour habiller un dessous de toit</li>
+                        <li>Prix d'un habillage de dessous de toit</li>
+                        <li>Comment poser un dessous de toit soi-même</li>
+                        <li>Est-ce que la sous-toiture est obligatoire ?</li>
+                        <li>FAQ</li>
                     </ul>
                 </div>
 

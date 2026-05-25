@@ -145,13 +145,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#reglementation">30m2 : Permis de construire ou simple déclaration préalable ?</a></li>
-                        <li><a href="#prix">Quel est le prix d'une dalle en béton et des fondations pour 30 m2 ?</a></li>
-                        <li><a href="#dimensions">Quelle dimension de fondation pour un garage de 30m2 ?</a></li>
-                        <li><a href="#epaisseur">Quelle doit être l'épaisseur des fondations d'un garage ?</a></li>
-                        <li><a href="#calcul-beton">Calcul du volume de béton : l'obligation de la toupie</a></li>
-                        <li><a href="#type-fondation">Quel type de fondation est le mieux adapté à un garage ?</a></li>
-                        <li><a href="#faq">FAQ : Vos questions fréquentes</a></li>
+                        <li>30m2 : Permis de construire ou simple déclaration préalable ?</li>
+                        <li>Quel est le prix d'une dalle en béton et des fondations pour 30 m2 ?</li>
+                        <li>Quelle dimension de fondation pour un garage de 30m2 ?</li>
+                        <li>Quelle doit être l'épaisseur des fondations d'un garage ?</li>
+                        <li>Calcul du volume de béton : l'obligation de la toupie</li>
+                        <li>Quel type de fondation est le mieux adapté à un garage ?</li>
+                        <li>FAQ : Vos questions fréquentes</li>
                     </ul>
                 </div>
 

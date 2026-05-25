@@ -162,12 +162,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#quest-ce-quun-puits-de-fondation">Qu'est-ce qu'un puits de fondation</a></li>
-                        <li><a href="#quand-faire-des-puits-de-fondation">Quand faire des puits de fondation</a></li>
-                        <li><a href="#technique-de-realisation-des-puits">Technique de réalisation des puits</a></li>
-                        <li><a href="#puits-vs-pieux-quel-choix">Puits de fondation vs pieux</a></li>
-                        <li><a href="#cout-des-puits-de-fondation">Coût des puits de fondation</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>Qu'est-ce qu'un puits de fondation</li>
+                        <li>Quand faire des puits de fondation</li>
+                        <li>Technique de réalisation des puits</li>
+                        <li>Puits de fondation vs pieux</li>
+                        <li>Coût des puits de fondation</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

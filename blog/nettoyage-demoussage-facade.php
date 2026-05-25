@@ -155,13 +155,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire de ce guide</div>
                     <ul>
-                        <li><a href="#prix-demoussage">1. Quel est le prix d'un démoussage de façade au m² ?</a></li>
-                        <li><a href="#causes-traces">2. Les 3 vraies causes des traces rouges et vertes</a></li>
-                        <li><a href="#etapes-nettoyage">3. Comment nettoyer une façade ? Les 4 étapes pro</a></li>
-                        <li><a href="#danger-javel">4. L'erreur fatale : l'eau de Javel sur le crépi</a></li>
-                        <li><a href="#meilleur-produit">5. Quel est le meilleur anti-mousse professionnel en 2026 ?</a>
+                        <li>1. Quel est le prix d'un démoussage de façade au m² ?</li>
+                        <li>2. Les 3 vraies causes des traces rouges et vertes</li>
+                        <li>3. Comment nettoyer une façade ? Les 4 étapes pro</li>
+                        <li>4. L'erreur fatale : l'eau de Javel sur le crépi</li>
+                        <li>5. Quel est le meilleur anti-mousse professionnel en 2026 ?
                         </li>
-                        <li><a href="#faq">6. FAQ : Entretien, saisons et législation</a></li>
+                        <li>6. FAQ : Entretien, saisons et législation</li>
                     </ul>
                 </div>
 

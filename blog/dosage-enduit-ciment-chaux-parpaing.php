@@ -151,14 +151,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#pourquoi-melange">1. Pourquoi le mélange ciment et chaux est idéal sur le parpaing ?</a></li>
-                        <li><a href="#tableau-dosages">2. Tableau des dosages : proportions seau par seau</a></li>
-                        <li><a href="#materiaux">3. Matériaux et outils : faire les bons choix</a></li>
-                        <li><a href="#application">4. Application étape par étape : maîtriser les 3 couches</a></li>
-                        <li><a href="#parpaing-vs-pierre">5. Mur en parpaing vs mur en pierre : attention au piège</a></li>
-                        <li><a href="#erreurs">6. Checklist : 5 erreurs fatales à éviter</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Calculez votre dosage sur-mesure</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Pourquoi le mélange ciment et chaux est idéal sur le parpaing ?</li>
+                        <li>2. Tableau des dosages : proportions seau par seau</li>
+                        <li>3. Matériaux et outils : faire les bons choix</li>
+                        <li>4. Application étape par étape : maîtriser les 3 couches</li>
+                        <li>5. Mur en parpaing vs mur en pierre : attention au piège</li>
+                        <li>6. Checklist : 5 erreurs fatales à éviter</li>
+                        <li>⚙️ Outil : Calculez votre dosage sur-mesure</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

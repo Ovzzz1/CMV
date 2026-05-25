@@ -151,13 +151,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#cadre-legal">1. Le cadre légal : ce que dit la loi sur les murs bruts</a></li>
-                        <li><a href="#risques-techniques">2. Les risques techniques : pourquoi le parpaing craint l'humidité</a></li>
-                        <li><a href="#alternatives">3. Comment protéger un mur sans faire d'enduit classique ?</a></li>
-                        <li><a href="#comparatif">4. Comparatif des solutions de finition</a></li>
-                        <li><a href="#mitoyennete">5. Gérer la mitoyenneté et le voisinage</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Faut-il enduire votre mur ?</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Le cadre légal : ce que dit la loi sur les murs bruts</li>
+                        <li>2. Les risques techniques : pourquoi le parpaing craint l'humidité</li>
+                        <li>3. Comment protéger un mur sans faire d'enduit classique ?</li>
+                        <li>4. Comparatif des solutions de finition</li>
+                        <li>5. Gérer la mitoyenneté et le voisinage</li>
+                        <li>⚙️ Outil : Faut-il enduire votre mur ?</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

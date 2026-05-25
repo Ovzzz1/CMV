@@ -151,13 +151,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#crochet">1. Quel type de crochet pour un panneau sandwich ?</a></li>
-                        <li><a href="#pose">2. Installation : les étapes clés sur toiture métallique</a></li>
-                        <li><a href="#etancheite">3. Les 3 secrets d'une étanchéité durable</a></li>
-                        <li><a href="#securite">4. Sécurité et circulation sur bac acier isolé</a></li>
-                        <li><a href="#calcul">5. Calcul et calepinage du nombre de fixations</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Estimez vos besoins en crochets</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Quel type de crochet pour un panneau sandwich ?</li>
+                        <li>2. Installation : les étapes clés sur toiture métallique</li>
+                        <li>3. Les 3 secrets d'une étanchéité durable</li>
+                        <li>4. Sécurité et circulation sur bac acier isolé</li>
+                        <li>5. Calcul et calepinage du nombre de fixations</li>
+                        <li>⚙️ Outil : Estimez vos besoins en crochets</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

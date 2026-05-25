@@ -167,12 +167,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#anatomie">1. Anatomie : le rôle de la panne faîtière</a></li>
-                        <li><a href="#mise-en-oeuvre">2. Closoir ventilé ou faîtage maçonné : la mise en œuvre</a></li>
-                        <li><a href="#produits">3. Choix des produits : tuile terre cuite et accessoires</a></li>
-                        <li><a href="#quand-refaire">4. Comment savoir s'il faut refaire son faîtage ?</a></li>
-                        <li><a href="#prix">5. Prix au mètre linéaire (Simulateur)</a></li>
-                        <li><a href="#faq">6. FAQ : questions fréquentes</a></li>
+                        <li>1. Anatomie : le rôle de la panne faîtière</li>
+                        <li>2. Closoir ventilé ou faîtage maçonné : la mise en œuvre</li>
+                        <li>3. Choix des produits : tuile terre cuite et accessoires</li>
+                        <li>4. Comment savoir s'il faut refaire son faîtage ?</li>
+                        <li>5. Prix au mètre linéaire (Simulateur)</li>
+                        <li>6. FAQ : questions fréquentes</li>
                     </ul>
                 </div>
 

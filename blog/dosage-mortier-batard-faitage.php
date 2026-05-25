@@ -151,12 +151,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#definition">Qu'est-ce qu'un mortier bâtard et pourquoi l'utiliser ?</a></li>
-                        <li><a href="#dosage">Le dosage exact du mortier bâtard (La règle du 1-1-6)</a></li>
-                        <li><a href="#calculateur">🧮 Calculateur de quantités (Outil interactif)</a></li>
-                        <li><a href="#gachage">Préparation et gâchage : L'ordre pour bien mélanger</a></li>
-                        <li><a href="#pose">Étapes de pose : Comment sceller ses tuiles faîtières ?</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>Qu'est-ce qu'un mortier bâtard et pourquoi l'utiliser ?</li>
+                        <li>Le dosage exact du mortier bâtard (La règle du 1-1-6)</li>
+                        <li>🧮 Calculateur de quantités (Outil interactif)</li>
+                        <li>Préparation et gâchage : L'ordre pour bien mélanger</li>
+                        <li>Étapes de pose : Comment sceller ses tuiles faîtières ?</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

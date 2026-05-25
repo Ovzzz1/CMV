@@ -145,12 +145,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#reglementation">Pourquoi le garage de 50m2 marque la fin des "petites" formalités ?</a></li>
-                        <li><a href="#dimensions">Dimensions et Portance : L'ingénierie d'une dalle de 50m2</a></li>
-                        <li><a href="#logistique">Logistique du coulage : Gérer deux toupies et la cohésion du béton</a></li>
-                        <li><a href="#prix">Quel est le prix réel d'une assise pour 50m2 (Dalle + Fondations) ?</a></li>
-                        <li><a href="#fissuration">Le joint de fractionnement : éviter les fissures structurelles</a></li>
-                        <li><a href="#faq">FAQ : Vos questions sur le 50m2</a></li>
+                        <li>Pourquoi le garage de 50m2 marque la fin des "petites" formalités ?</li>
+                        <li>Dimensions et Portance : L'ingénierie d'une dalle de 50m2</li>
+                        <li>Logistique du coulage : Gérer deux toupies et la cohésion du béton</li>
+                        <li>Quel est le prix réel d'une assise pour 50m2 (Dalle + Fondations) ?</li>
+                        <li>Le joint de fractionnement : éviter les fissures structurelles</li>
+                        <li>FAQ : Vos questions sur le 50m2</li>
                     </ul>
                 </div>
 

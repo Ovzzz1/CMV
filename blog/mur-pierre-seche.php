@@ -151,14 +151,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#principe">1. Qu'est-ce qu'un mur en pierre sèche ?</a></li>
-                        <li><a href="#prix">2. Quel est le prix au m2 en 2026 ?</a></li>
-                        <li><a href="#materiaux">3. Choix des pierres naturelles</a></li>
-                        <li><a href="#fondation">4. La fondation drainante</a></li>
-                        <li><a href="#montage">5. Étapes de montage</a></li>
-                        <li><a href="#reparation">6. Réparation d'un mur effondré</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Estimez votre projet</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Qu'est-ce qu'un mur en pierre sèche ?</li>
+                        <li>2. Quel est le prix au m2 en 2026 ?</li>
+                        <li>3. Choix des pierres naturelles</li>
+                        <li>4. La fondation drainante</li>
+                        <li>5. Étapes de montage</li>
+                        <li>6. Réparation d'un mur effondré</li>
+                        <li>⚙️ Outil : Estimez votre projet</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

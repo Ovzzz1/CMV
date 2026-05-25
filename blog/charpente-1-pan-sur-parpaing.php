@@ -159,12 +159,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#dimensionnement">1. Dimensionnement : sections de bois et choix de l'essence</a></li>
-                        <li><a href="#fixation">2. Fixation sur parpaing : scellement chimique vs sabots directs</a></li>
-                        <li><a href="#montage">3. Étapes de montage : de l'arase au dernier chevron</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Choisissez votre méthode de fixation</a></li>
-                        <li><a href="#etancheite">4. Étanchéité : la jonction avec le mur existant</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Dimensionnement : sections de bois et choix de l'essence</li>
+                        <li>2. Fixation sur parpaing : scellement chimique vs sabots directs</li>
+                        <li>3. Étapes de montage : de l'arase au dernier chevron</li>
+                        <li>⚙️ Outil : Choisissez votre méthode de fixation</li>
+                        <li>4. Étanchéité : la jonction avec le mur existant</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 

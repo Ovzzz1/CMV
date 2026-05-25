@@ -151,15 +151,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li><a href="#parties-facade">1. Les différentes parties d'une façade</a></li>
-                        <li><a href="#anatomie-verticale">2. L'anatomie verticale : du soubassement au couronnement</a></li>
-                        <li><a href="#ouvertures">3. Le lexique technique des ouvertures</a></li>
-                        <li><a href="#modenature">4. La modénature : reliefs et ornements</a></li>
-                        <li><a href="#surfaces">5. Finitions et protection : le vocabulaire des surfaces</a></li>
-                        <li><a href="#dossier-urbanisme">6. Comment décrire une façade pour un dossier d'urbanisme ?</a></li>
-                        <li><a href="#tableau-12-mots">7. Les 12 mots-clés à retenir</a></li>
-                        <li><a href="#ux-outil">⚙️ Outil : Identifiez les éléments de votre façade</a></li>
-                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
+                        <li>1. Les différentes parties d'une façade</li>
+                        <li>2. L'anatomie verticale : du soubassement au couronnement</li>
+                        <li>3. Le lexique technique des ouvertures</li>
+                        <li>4. La modénature : reliefs et ornements</li>
+                        <li>5. Finitions et protection : le vocabulaire des surfaces</li>
+                        <li>6. Comment décrire une façade pour un dossier d'urbanisme ?</li>
+                        <li>7. Les 12 mots-clés à retenir</li>
+                        <li>⚙️ Outil : Identifiez les éléments de votre façade</li>
+                        <li>FAQ, Questions fréquentes</li>
                     </ul>
                 </div>
 
