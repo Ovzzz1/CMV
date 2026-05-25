@@ -156,18 +156,18 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Comprendre le problème avant de sortir la résine</li>
-                        <li>2. Diagnostic sérieux : la bombe à carbure</li>
-                        <li>3. Sur quels murs l'injection fonctionne vraiment ?</li>
-                        <li>4. L'idée de base : créer une arase étanche</li>
-                        <li>5. Résine liquide ou crème : ce qui change</li>
-                        <li>6. Comment se passe concrètement un chantier</li>
-                        <li>7. Ce qu'on oublie souvent : que devient l'eau bloquée ?</li>
-                        <li>8. Combien coûte l'assèchement par injection ?</li>
-                        <li>9. Temps de séchage : le long tunnel</li>
-                        <li>10. Injection : DIY ou professionnel ?</li>
-                        <li>11. Les alternatives à l'injection</li>
-                        <li>12. FAQ – Questions fréquentes</li>
+                        <li><a href="#comprendre-probleme">1. Comprendre le problème avant de sortir la résine</a></li>
+                        <li><a href="#diagnostic">2. Diagnostic sérieux : la bombe à carbure</a></li>
+                        <li><a href="#types-murs">3. Sur quels murs l'injection fonctionne vraiment ?</a></li>
+                        <li><a href="#arase-etanche">4. L'idée de base : créer une arase étanche</a></li>
+                        <li><a href="#produits">5. Résine liquide ou crème : ce qui change</a></li>
+                        <li><a href="#chantier">6. Comment se passe concrètement un chantier</a></li>
+                        <li><a href="#eau-bloquee">7. Ce qu'on oublie souvent : que devient l'eau bloquée ?</a></li>
+                        <li><a href="#prix">8. Combien coûte l'assèchement par injection ?</a></li>
+                        <li><a href="#sechage">9. Temps de séchage : le long tunnel</a></li>
+                        <li><a href="#diy-pro">10. Injection : DIY ou professionnel ?</a></li>
+                        <li><a href="#alternatives">11. Les alternatives à l'injection</a></li>
+                        <li><a href="#faq">12. FAQ – Questions fréquentes</a></li>
                     </ul>
                 </div>
 

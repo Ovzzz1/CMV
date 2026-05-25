@@ -150,26 +150,26 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Quel est votre budget ? 3 options pour se lancer</li>
-                        <li>2. Étape 1 : Vérifier la faisabilité et la sécurité du toit</li>
-                        <li>3. Étape 2 : Le choix et l'installation des bacs de culture</li>
-                        <li>⚙️ Outil : Obtenez votre plan d'action sur-mesure</li>
-                        <li>4. Étape 3 : Remplir avec un substrat léger</li>
-                        <li>5. Étape 4 : Gérer l'irrigation face au vent et au soleil</li>
-                        <li>6. Anticiper les galères : météo, oiseaux et rongeurs</li>
-                        <li>7. Quels légumes et fruits faire pousser en hauteur ?</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#budget">1. Quel est votre budget ? 3 options pour se lancer</a></li>
+                        <li><a href="#etape1">2. Étape 1 : Vérifier la faisabilité et la sécurité du toit</a></li>
+                        <li><a href="#etape2">3. Étape 2 : Le choix et l'installation des bacs de culture</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Obtenez votre plan d'action sur-mesure</a></li>
+                        <li><a href="#etape3">4. Étape 3 : Remplir avec un substrat léger</a></li>
+                        <li><a href="#etape4">5. Étape 4 : Gérer l'irrigation face au vent et au soleil</a></li>
+                        <li><a href="#galeres">6. Anticiper les galères : météo, oiseaux et rongeurs</a></li>
+                        <li><a href="#legumes">7. Quels légumes et fruits faire pousser en hauteur ?</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
                 <h2 id="budget">1. Quel est votre budget ? 3 options pour lancer son potager urbain</h2>
 
-                <p>Avant d'acheter le moindre sac de <span class="hashtag">#terre</span>, définissez votre budget. Voici trois approches pour adapter le projet à votre portefeuille :</p>
+                <p>Avant d'acheter le moindre sac de terre, définissez votre budget. Voici trois approches pour adapter le projet à votre portefeuille :</p>
 
                 <ul class="custom-list">
                     <li><strong>L'option Low Cost (0 - 100 €) :</strong> Utilisez des matériaux de récupération. Transformez des palettes en bois (non traité) ou de vieux fûts en contenants. Optez pour des pots en plastique (plus légers que la terre cuite) et un terreau universel basique.</li>
                     <li><strong>L'option Normale (100 - 300 €) :</strong> Achetez des carrés potagers en bois FSC en kit, prêts à monter. Investissez dans un bon mélange de terre et de compost, ainsi que dans quelques outils de base.</li>
-                    <li><strong>L'option Premium (+ 300 €) :</strong> Faites sur-mesure. Optez pour des bacs surélevés (pour épargner votre dos) intégrant une réserve d'<span class="hashtag">#eau</span>, installez un système d'irrigation en goutte-à-goutte automatisé et utilisez un substrat professionnel ultra-allégé.</li>
+                    <li><strong>L'option Premium (+ 300 €) :</strong> Faites sur-mesure. Optez pour des bacs surélevés (pour épargner votre dos) intégrant une réserve d'eau, installez un système d'irrigation en goutte-à-goutte automatisé et utilisez un substrat professionnel ultra-allégé.</li>
                 </ul>
 
                 <h2 id="etape1">2. Étape 1 : Vérifier la faisabilité (Sécurité et poids du toit)</h2>
@@ -205,7 +205,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Puisque vous ne pouvez pas creuser, la culture hors-sol est obligatoire.</p>
 
                 <ul class="custom-list">
-                    <li><strong>La profondeur :</strong> Pour alléger la structure, privilégiez un <span class="hashtag">#bac</span> ou une <span class="hashtag">#jardinière</span> d'environ 20 à 30 cm de profondeur. C'est suffisant pour la majorité des cultures de toit.</li>
+                    <li><strong>La profondeur :</strong> Pour alléger la structure, privilégiez un bac ou une jardinière d'environ 20 à 30 cm de profondeur. C'est suffisant pour la majorité des cultures de toit.</li>
                     <li><strong>Le géotextile :</strong> Indispensable. Agrafez un feutre géotextile au fond et sur les parois intérieures de vos bacs en bois. Cela empêche la terre de s'échapper par les fentes tout en drainant l'eau.</li>
                     <li><strong>L'espacement :</strong> Laissez au moins 80 cm d'allée entre vos bacs pour pouvoir circuler, arroser et récolter confortablement.</li>
                 </ul>
@@ -218,7 +218,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <div id="ux-outil" class="ux-module">
                     <h3>⚙️ Obtenez votre plan d'action sur-mesure</h3>
-                    <p>Répondez à ces 3 questions rapides pour recevoir une liste de courses et une recommandation personnalisée pour votre <span class="hashtag">#projet</span>.</p>
+                    <p>Répondez à ces 3 questions rapides pour recevoir une liste de courses et une recommandation personnalisée pour votre projet.</p>
 
                     <label for="ux-surface">1. De quelle surface disposez-vous ?</label>
                     <select id="ux-surface">
@@ -246,11 +246,11 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="etape3">4. Étape 3 : Remplir avec un substrat léger (pour soulager la toiture)</h2>
 
-                <p>Ne remplissez jamais vos bacs uniquement avec de la terre végétale classique : une fois gorgée d'eau, elle pèse extrêmement lourd et risque de surcharger la structure. Créez un <span class="hashtag">#sol</span> léger, drainant et nourrissant :</p>
+                <p>Ne remplissez jamais vos bacs uniquement avec de la terre végétale classique : une fois gorgée d'eau, elle pèse extrêmement lourd et risque de surcharger la structure. Créez un sol léger, drainant et nourrissant :</p>
 
                 <ol style="margin-bottom: 20px; padding-left: 20px;">
                     <li><strong>Le drainage (au fond) :</strong> Étalez une couche de 5 à 10 cm de billes d'argile ou de pouzzolane au fond du bac.</li>
-                    <li><strong>Le <span class="hashtag">#substrat</span> (au-dessus) :</strong> Préparez un mélange composé à parts égales de terreau léger, de <span class="hashtag">#compost</span> naturel et d'un peu de perlite pour aérer le tout et alléger considérablement le poids final.</li>
+                    <li><strong>Le substrat (au-dessus) :</strong> Préparez un mélange composé à parts égales de terreau léger, de compost naturel et d'un peu de perlite pour aérer le tout et alléger considérablement le poids final.</li>
                 </ol>
 
                 <h2 id="etape4">5. Étape 4 : Gérer l'irrigation face au vent et au soleil</h2>
@@ -266,7 +266,7 @@ include dirname(__DIR__) . '/header.php';
                 <ul class="custom-list">
                     <li><strong>Le paillage est obligatoire :</strong> Recouvrez toujours la terre de copeaux de bois, de chanvre ou même de cartons bruts. Cela garde la fraîcheur du sol et divise vos besoins en eau par deux.</li>
                     <li><strong>L'arrosage stratégique :</strong> Oubliez l'arrosoir manuel si vous manquez de temps. Installez un réseau de goutte-à-goutte relié à un programmateur.</li>
-                    <li><strong>Récupération :</strong> Si possible, installez un petit récupérateur d'eau de <span class="hashtag">#pluie</span> pour faire des économies et offrir une eau non chlorée à vos plants.</li>
+                    <li><strong>Récupération :</strong> Si possible, installez un petit récupérateur d'eau de pluie pour faire des économies et offrir une eau non chlorée à vos plants.</li>
                 </ul>
 
                 <h2 id="galeres">6. Anticiper les galères : météo, oiseaux et rongeurs</h2>
@@ -278,7 +278,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Un potager en hauteur est extrêmement exposé. Prenez les devants :</p>
 
                 <ul class="custom-list">
-                    <li><strong>Le vent :</strong> Les rafales peuvent coucher vos plants et assécher les feuilles. Fixez solidement vos structures et installez des brise-vents (toile tendue ou haie <span class="hashtag">#végétal</span> en périphérie).</li>
+                    <li><strong>Le vent :</strong> Les rafales peuvent coucher vos plants et assécher les feuilles. Fixez solidement vos structures et installez des brise-vents (toile tendue ou haie végétal en périphérie).</li>
                     <li><strong>Le cagnard :</strong> Un toit en plein été peut se transformer en four. Prévoyez une toile d'ombrage à déployer lors des canicules pour éviter de brûler vos cultures.</li>
                     <li><strong>Les oiseaux et nuisibles :</strong> Les pigeons et corneilles adorent les jeunes pousses. Dès le semis, installez des filets de protection ou utilisez des fûts en plastique coupés en deux en guise de cloches protectrices.</li>
                 </ul>
@@ -289,7 +289,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
                     <ul class="custom-list" style="margin: 0;">
-                        <li><strong>Les stars du toit :</strong> Misez sur tout ce qui est <span class="hashtag">#aromatique</span> (basilic, thym, menthe) et le <span class="hashtag">#légume</span> feuille (salades, épinards, blettes).</li>
+                        <li><strong>Les stars du toit :</strong> Misez sur tout ce qui est aromatique (basilic, thym, menthe) et le légume feuille (salades, épinards, blettes).</li>
                         <li><strong>Pour picorer :</strong> Les tomates cerises, les radis (croissance extrêmement rapide) et les fraisiers s'adaptent parfaitement à la vie en bacs.</li>
                         <li><strong>À éviter absolument :</strong> Fuyez les légumes à racines très profondes comme les carottes longues, ou les grandes cultures très lourdes et sensibles au vent comme le maïs.</li>
                     </ul>
@@ -384,15 +384,15 @@ include dirname(__DIR__) . '/header.php';
             content += '<li><strong>Matériel :</strong> Récupérez 2 ou 3 palettes solides. Achetez uniquement du géotextile (10€) et 100L de terreau universel basique.</li>';
             content += '<li><strong>Le conseil budget :</strong> Réutilisez des bouteilles d\'eau percées et plantées dans la terre pour faire un goutte-à-goutte 100% gratuit.</li>';
         } else if (budget === 'mid') {
-            content += '<li><strong>Matériel :</strong> Achetez 2 carrés potagers en bois FSC (env. 60€/pièce). Commandez un vrai mélange 50% terre / 50% <span class="hashtag">#compost</span>.</li>';
+            content += '<li><strong>Matériel :</strong> Achetez 2 carrés potagers en bois FSC (env. 60€/pièce). Commandez un vrai mélange 50% terre / 50% compost.</li>';
             content += '<li><strong>Le conseil budget :</strong> Investissez dans un kit d\'arrosage simple à brancher sur un robinet existant.</li>';
         } else {
-            content += '<li><strong>Matériel :</strong> Optez pour des bacs surélevés en bois traité autoclave ou métal corten. Achetez un <span class="hashtag">#substrat</span> ultra-léger (perlite, fibre de coco, compost).</li>';
+            content += '<li><strong>Matériel :</strong> Optez pour des bacs surélevés en bois traité autoclave ou métal corten. Achetez un substrat ultra-léger (perlite, fibre de coco, compost).</li>';
             content += '<li><strong>Le conseil budget :</strong> Installez un programmateur d\'arrosage solaire automatisé pour une tranquillité totale, même pendant vos vacances.</li>';
         }
 
         if (time === 'low_time') {
-            content += '<li><strong>Vos plantations idéales :</strong> Radis, tomates cerises et herbes <span class="hashtag">#aromatique</span>. Ce sont des cultures qui poussent presque toutes seules !</li>';
+            content += '<li><strong>Vos plantations idéales :</strong> Radis, tomates cerises et herbes aromatique. Ce sont des cultures qui poussent presque toutes seules !</li>';
             content += '<li><strong>L\'astuce gain de temps :</strong> Mettez une épaisse couche de paillage (chanvre) dès le premier jour. Vous n\'aurez presque plus besoin de désherber ni d\'arroser.</li>';
         } else {
             content += '<li><strong>Vos plantations idéales :</strong> Vous pouvez tenter des légumes plus exigeants comme les courgettes (si bac profond), les aubergines, et gérer vos propres semis de salades.</li>';

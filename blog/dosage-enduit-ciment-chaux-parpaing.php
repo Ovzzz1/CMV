@@ -151,14 +151,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Pourquoi le mélange ciment et chaux est idéal sur le parpaing ?</li>
-                        <li>2. Tableau des dosages : proportions seau par seau</li>
-                        <li>3. Matériaux et outils : faire les bons choix</li>
-                        <li>4. Application étape par étape : maîtriser les 3 couches</li>
-                        <li>5. Mur en parpaing vs mur en pierre : attention au piège</li>
-                        <li>6. Checklist : 5 erreurs fatales à éviter</li>
-                        <li>⚙️ Outil : Calculez votre dosage sur-mesure</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#pourquoi-melange">1. Pourquoi le mélange ciment et chaux est idéal sur le parpaing ?</a></li>
+                        <li><a href="#tableau-dosages">2. Tableau des dosages : proportions seau par seau</a></li>
+                        <li><a href="#materiaux">3. Matériaux et outils : faire les bons choix</a></li>
+                        <li><a href="#application">4. Application étape par étape : maîtriser les 3 couches</a></li>
+                        <li><a href="#parpaing-vs-pierre">5. Mur en parpaing vs mur en pierre : attention au piège</a></li>
+                        <li><a href="#erreurs">6. Checklist : 5 erreurs fatales à éviter</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Calculez votre dosage sur-mesure</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -166,7 +166,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Le parpaing (ou bloc béton) est un matériau stable mais "fermé". Pour le protéger efficacement, il lui faut un revêtement à la fois étanche à la pluie battante et capable de laisser respirer le mur. L'utilisation d'un enduit chaux pur est déconseillée car la chaux aérienne ne ferait pas sa prise correctement sur un support aussi peu poreux. En revanche, en ajoutant du ciment, on crée une réaction chimique qui renforce l'accrochage initial.</p>
 
-                <p>La <span class="hashtag">#chaux-hydraulique</span> (NHL) apporte la fameuse "perspirance" : elle permet à la vapeur d'eau de s'évacuer, évitant que l'humidité reste piégée derrière l'enduit, ce qui causerait des décollements ou du faïençage. Le mortier bâtard absorbe les micro-mouvements du mur sans casser, contrairement à un enduit 100% ciment qui s'avère trop cassant.</p>
+                <p>La chaux hydraulique (NHL) apporte la fameuse "perspirance" : elle permet à la vapeur d'eau de s'évacuer, évitant que l'humidité reste piégée derrière l'enduit, ce qui causerait des décollements ou du faïençage. Le mortier bâtard absorbe les micro-mouvements du mur sans casser, contrairement à un enduit 100% ciment qui s'avère trop cassant.</p>
 
                 <h2 id="tableau-dosages">Le tableau des dosages : proportions seau par seau pour votre enduit</h2>
 
@@ -263,7 +263,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="parpaing-vs-pierre">Mur en parpaing vs Mur en pierre : attention au piège !</h2>
 
-                <p>Le parpaing nécessite du ciment pour l'accroche car c'est un support inerte et peu poreux. À l'inverse, sur de la <span class="hashtag">#pierre-ancienne</span>, le ciment est interdit : il bloque l'humidité et fait éclater les joints par des cycles de gel-dégel. Pour le bâti ancien en pierre, utilisez exclusivement un mortier 100% chaux sans aucun ajout de ciment.</p>
+                <p>Le parpaing nécessite du ciment pour l'accroche car c'est un support inerte et peu poreux. À l'inverse, sur de la pierre ancienne, le ciment est interdit : il bloque l'humidité et fait éclater les joints par des cycles de gel-dégel. Pour le bâti ancien en pierre, utilisez exclusivement un mortier 100% chaux sans aucun ajout de ciment.</p>
 
                 <img src="<?php echo BASE_URL; ?>image/dosage-enduit-ciment-chaux-sur-parpaing3.webp"
                      alt="Zoom sur une finition talochée à la chaux sur parpaing, texture finale de l'enduit bâtard"

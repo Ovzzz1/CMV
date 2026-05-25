@@ -165,11 +165,11 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Quel est le prix pour refaire une toiture de 100 m² ?</li>
-                        <li>2. Quand changer de couverture ? Les 4 signes d'alerte</li>
-                        <li>3. Tuiles, ardoises ou zinc : avantages et spécificités</li>
-                        <li>4. Comment se déroule un changement de couverture ?</li>
-                        <li>5. FAQ : Aides, démarches et autorisations</li>
+                        <li><a href="#prix">1. Quel est le prix pour refaire une toiture de 100 m² ?</a></li>
+                        <li><a href="#quand-changer">2. Quand changer de couverture ? Les 4 signes d'alerte</a></li>
+                        <li><a href="#materiaux">3. Tuiles, ardoises ou zinc : avantages et spécificités</a></li>
+                        <li><a href="#etapes">4. Comment se déroule un changement de couverture ?</a></li>
+                        <li><a href="#faq">5. FAQ : Aides, démarches et autorisations</a></li>
                     </ul>
                 </div>
 

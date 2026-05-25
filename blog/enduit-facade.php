@@ -149,17 +149,17 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Classification NF P15-201 : RME, RPE, RSE</li>
-                        <li>Crépi vs enduit : la différence technique</li>
-                        <li>Les liants : chaux, ciment, glypse</li>
-                        <li>Finition enduit : gratté, taloché, écrasé, ribbé</li>
-                        <li>Combien de sacs d'enduit au m² ?</li>
-                        <li>Prix enduit façade 2026</li>
-                        <li>Préparation support et gobetis (DTU 26.1)</li>
-                        <li>Hydrofuge de masse + teintes (CAS, PLU)</li>
-                        <li>Monocouche vs multicouche</li>
-                        <li>Erreurs courantes + DIY vs entreprise</li>
-                        <li>FAQ</li>
+                        <li><a href="#classification">Classification NF P15-201 : RME, RPE, RSE</a></li>
+                        <li><a href="#crepi-vs-enduit">Crépi vs enduit : la différence technique</a></li>
+                        <li><a href="#liants">Les liants : chaux, ciment, glypse</a></li>
+                        <li><a href="#finitions">Finition enduit : gratté, taloché, écrasé, ribbé</a></li>
+                        <li><a href="#calcul-sacs">Combien de sacs d'enduit au m² ?</a></li>
+                        <li><a href="#prix">Prix enduit façade 2026</a></li>
+                        <li><a href="#preparation">Préparation support et gobetis (DTU 26.1)</a></li>
+                        <li><a href="#hydrofuge">Hydrofuge de masse + teintes (CAS, PLU)</a></li>
+                        <li><a href="#monocouche-multicouche">Monocouche vs multicouche</a></li>
+                        <li><a href="#erreurs">Erreurs courantes + DIY vs entreprise</a></li>
+                        <li><a href="#faq">FAQ</a></li>
                     </ul>
                 </div>
 

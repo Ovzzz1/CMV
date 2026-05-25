@@ -161,13 +161,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Qu'est-ce que l'ITE et pourquoi la préférer ?</li>
-                        <li>2. Solutions d'ITE : isolation sous enduit ou sous bardage ?</li>
-                        <li>3. Les meilleurs isolants pour sa façade (PSE, Laine, Biosourcé)
+                        <li><a href="#definition">1. Qu'est-ce que l'ITE et pourquoi la préférer ?</a></li>
+                        <li><a href="#solutions">2. Solutions d'ITE : isolation sous enduit ou sous bardage ?</a></li>
+                        <li><a href="#isolants">3. Les meilleurs isolants pour sa façade (PSE, Laine, Biosourcé)</a>
                         </li>
-                        <li>4. Prix au m² d'une ITE et nouvelles normes d'aides 2026</li>
-                        <li>5. Inconvénients et pièges à éviter lors des travaux</li>
-                        <li>6. FAQ sur l'isolation thermique extérieure</li>
+                        <li><a href="#prix">4. Prix au m² d'une ITE et nouvelles normes d'aides 2026</a></li>
+                        <li><a href="#pieges">5. Inconvénients et pièges à éviter lors des travaux</a></li>
+                        <li><a href="#faq">6. FAQ sur l'isolation thermique extérieure</a></li>
                     </ul>
                 </div>
 

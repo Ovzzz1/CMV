@@ -153,13 +153,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Qu'est-ce qu'un inverseur de polarité et comment fonctionne-t-il ?
+                        <li><a href="#definition">Qu'est-ce qu'un inverseur de polarité et comment fonctionne-t-il ?</a>
                         </li>
-                        <li>Pourquoi le choisir plutôt que l'injection de résine ?</li>
-                        <li>Prix 2026 : Combien coûte un boîtier IPE ?</li>
-                        <li>Les limites : pourquoi 20% des clients sont déçus</li>
-                        <li>Avis terrain : Gadget ou vraie solution ?</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#avantages">Pourquoi le choisir plutôt que l'injection de résine ?</a></li>
+                        <li><a href="#prix">Prix 2026 : Combien coûte un boîtier IPE ?</a></li>
+                        <li><a href="#limites">Les limites : pourquoi 20% des clients sont déçus</a></li>
+                        <li><a href="#avis-terrain">Avis terrain : Gadget ou vraie solution ?</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

@@ -124,12 +124,12 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Comment fonctionne une installation ? (Le jargon démystifié)</li>
-                        <li>Prix réel d'un projet photovoltaïque (3 kWc à 9 kWc)</li>
-                        <li>Démarchage et Arnaques : Les 3 red flags absolus</li>
-                        <li>Quelles sont les VRAIES aides de l'État en 2026 ?</li>
-                        <li>Bilan de rentabilité : En combien d'années est-ce payé ?</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#fonctionnement">Comment fonctionne une installation ? (Le jargon démystifié)</a></li>
+                        <li><a href="#prix">Prix réel d'un projet photovoltaïque (3 kWc à 9 kWc)</a></li>
+                        <li><a href="#demarchage-arnaques">Démarchage et Arnaques : Les 3 red flags absolus</a></li>
+                        <li><a href="#aides">Quelles sont les VRAIES aides de l'État en 2026 ?</a></li>
+                        <li><a href="#rentabilite">Bilan de rentabilité : En combien d'années est-ce payé ?</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

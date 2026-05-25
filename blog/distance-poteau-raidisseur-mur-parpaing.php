@@ -151,20 +151,20 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Qu'est-ce qu'un poteau raidisseur et à quoi sert-il ?</li>
-                        <li>2. La distance standard entre deux poteaux</li>
-                        <li>3. Tableau de référence selon hauteur et épaisseur</li>
-                        <li>4. Où placer les raidisseurs : les points stratégiques</li>
-                        <li>5. Combien de poteaux pour votre mur ?</li>
-                        <li>⚙️ Outil : Calculez votre configuration de raidisseurs</li>
-                        <li>6. Ferraillage et dosage du béton</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#role">1. Qu'est-ce qu'un poteau raidisseur et à quoi sert-il ?</a></li>
+                        <li><a href="#distance">2. La distance standard entre deux poteaux</a></li>
+                        <li><a href="#tableau">3. Tableau de référence selon hauteur et épaisseur</a></li>
+                        <li><a href="#implantation">4. Où placer les raidisseurs : les points stratégiques</a></li>
+                        <li><a href="#calcul">5. Combien de poteaux pour votre mur ?</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Calculez votre configuration de raidisseurs</a></li>
+                        <li><a href="#ferraillage">6. Ferraillage et dosage du béton</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
                 <h2 id="role">Qu'est-ce qu'un poteau raidisseur et à quoi sert-il vraiment ?</h2>
                 <p>En maçonnerie, on confond souvent le simple montage des blocs avec l'intégrité structurelle de l'ouvrage. Un <strong>poteau raidisseur</strong> (ou chaînage vertical) est l'ossature en béton armé qui vient rigidifier votre mur de l'intérieur.</p>
-                <p>Contrairement aux parpaings qui supportent très bien l'écrasement (<span class="hashtag">#compression</span>), ils sont très fragiles face aux pressions latérales (traction et flexion). Le rôle du raidisseur est simple : <strong>empêcher votre mur de se fissurer, de se tordre ou de basculer</strong> sous l'effet du vent, d'un choc ou de la poussée des terres. Il forme, avec le chaînage horizontal en haut du mur, un cadre rigide indispensable à la stabilité de l'ensemble, directement ancré dans votre fondation.</p>
+                <p>Contrairement aux parpaings qui supportent très bien l'écrasement (compression), ils sont très fragiles face aux pressions latérales (traction et flexion). Le rôle du raidisseur est simple : <strong>empêcher votre mur de se fissurer, de se tordre ou de basculer</strong> sous l'effet du vent, d'un choc ou de la poussée des terres. Il forme, avec le chaînage horizontal en haut du mur, un cadre rigide indispensable à la stabilité de l'ensemble, directement ancré dans votre fondation.</p>
 
                 <p><em>Découvrez en vidéo le rôle crucial des raidisseurs dans la tenue de votre maçonnerie.</em></p>
                 <div class="video-container">

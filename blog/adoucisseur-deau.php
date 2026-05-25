@@ -158,15 +158,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Pourquoi le calcaire devient un problème à la maison
+                        <li><a href="#calcaire-probleme">1. Pourquoi le calcaire devient un problème à la maison</a>
                         </li>
-                        <li>2. Comment fonctionne vraiment un adoucisseur à
-                                sel</li>
-                        <li>3. Vrai ou Faux : les idées reçues sur l'eau adoucie</li>
-                        <li>4. Les avantages et les inconvénients d'un
-                                adoucisseur</li>
-                        <li>5. Est-ce que c'est vraiment utile chez vous ?</li>
-                        <li>6. Prix d'un adoucisseur et coût d'utilisation réel</li>
+                        <li><a href="#fonctionnement-adoucisseur">2. Comment fonctionne vraiment un adoucisseur à
+                                sel</a></li>
+                        <li><a href="#idees-recues">3. Vrai ou Faux : les idées reçues sur l'eau adoucie</a></li>
+                        <li><a href="#avantages-inconvenients">4. Les avantages et les inconvénients d'un
+                                adoucisseur</a></li>
+                        <li><a href="#utile-chez-vous">5. Est-ce que c'est vraiment utile chez vous ?</a></li>
+                        <li><a href="#prix-couts">6. Prix d'un adoucisseur et coût d'utilisation réel</a></li>
                     </ul>
                 </div>
 

@@ -156,12 +156,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Le principe physique : Qu'est-ce que le Cool Roof ?</li>
-                        <li>Le grand malentendu : Réflexion (Été) vs Isolation (Hiver)
+                        <li><a href="#cool-roof">Le principe physique : Qu'est-ce que le Cool Roof ?</a></li>
+                        <li><a href="#mythe-isolation">Le grand malentendu : Réflexion (Été) vs Isolation (Hiver)</a>
                         </li>
-                        <li>Le Prix : Peinture seule vs Chantier complet</li>
-                        <li>Sur quels toits l'appliquer ? (Les risques)</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#prix">Le Prix : Peinture seule vs Chantier complet</a></li>
+                        <li><a href="#supports">Sur quels toits l'appliquer ? (Les risques)</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

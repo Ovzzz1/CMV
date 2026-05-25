@@ -301,15 +301,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Diagnostic : votre mur parpaing est-il prêt ?</li>
-                        <li>2. Matériel : outillage et fournitures nécessaires</li>
-                        <li>3. Étape 1 : fixer l'ossature bois sur le parpaing</li>
-                        <li>4. Étape 2 : pare-pluie et lame d'air</li>
-                        <li>5. Étape 3 : pose des lames et finitions</li>
-                        <li>⚙️ Outil : Trouvez l'essence de bois adaptée à votre façade</li>
-                        <li>6. Quelle essence de bois pour durer 30 ans ?</li>
-                        <li>7. Les 3 erreurs critiques à éviter</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#diagnostic">1. Diagnostic : votre mur parpaing est-il prêt ?</a></li>
+                        <li><a href="#materiel">2. Matériel : outillage et fournitures nécessaires</a></li>
+                        <li><a href="#ossature">3. Étape 1 : fixer l'ossature bois sur le parpaing</a></li>
+                        <li><a href="#pare-pluie">4. Étape 2 : pare-pluie et lame d'air</a></li>
+                        <li><a href="#pose-lames">5. Étape 3 : pose des lames et finitions</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Trouvez l'essence de bois adaptée à votre façade</a></li>
+                        <li><a href="#essence">6. Quelle essence de bois pour durer 30 ans ?</a></li>
+                        <li><a href="#erreurs">7. Les 3 erreurs critiques à éviter</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 

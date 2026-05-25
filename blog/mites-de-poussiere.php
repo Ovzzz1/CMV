@@ -139,13 +139,13 @@ include dirname(__DIR__) . '/header.php';
  <div class="toc-box">
  <div class="toc-title">Sommaire</div>
  <ul>
- <li>Qu'est-ce qu'une mite de poussière exactement ?</li>
- <li>Où vivent les mites de poussière dans la maison ?</li>
- <li>Les dangers pour la santé : allergies et asthme</li>
- <li>Comment détecter une infestation de mites</li>
- <li>Solutions pour éliminer les mites : naturelles et chimiques</li>
- <li>Prévention : chiffres clés, humidité et température</li>
- <li>FAQ, Questions fréquentes</li>
+ <li><a href="#definition">Qu'est-ce qu'une mite de poussière exactement ?</a></li>
+ <li><a href="#habitat">Où vivent les mites de poussière dans la maison ?</a></li>
+ <li><a href="#dangers">Les dangers pour la santé : allergies et asthme</a></li>
+ <li><a href="#detection">Comment détecter une infestation de mites</a></li>
+ <li><a href="#solutions">Solutions pour éliminer les mites : naturelles et chimiques</a></li>
+ <li><a href="#prevention">Prévention : chiffres clés, humidité et température</a></li>
+ <li><a href="#faq">FAQ, Questions fréquentes</a></li>
  </ul>
  </div>
 

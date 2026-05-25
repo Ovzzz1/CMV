@@ -153,12 +153,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Le match final : ITI (Intérieur) vs ITE (Extérieur)</li>
-                        <li>Prix de l'isolation des murs par l'intérieur (ITI)</li>
-                        <li>Prix de l'isolation des murs par l'extérieur (ITE)</li>
-                        <li>Lequel choisir : Laine de verre, Polystyrène, ou Biosourcés ?</li>
-                        <li>Aides 2026 : Comment financer vos murs ?</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#comparatif">Le match final : ITI (Intérieur) vs ITE (Extérieur)</a></li>
+                        <li><a href="#prix-iti">Prix de l'isolation des murs par l'intérieur (ITI)</a></li>
+                        <li><a href="#prix-ite">Prix de l'isolation des murs par l'extérieur (ITE)</a></li>
+                        <li><a href="#isolants">Lequel choisir : Laine de verre, Polystyrène, ou Biosourcés ?</a></li>
+                        <li><a href="#aides">Aides 2026 : Comment financer vos murs ?</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

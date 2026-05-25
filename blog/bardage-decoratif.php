@@ -159,13 +159,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Prix bardage décoratif au m²</li>
-                        <li>Bardage bois vs composite vs PVC</li>
-                        <li>8 idées bardage décoratif moderne</li>
-                        <li>Durée de vie et entretien</li>
-                        <li>Comment poser un bardage</li>
-                        <li>Aides financières et budget total</li>
-                        <li>FAQ Bardage Décoratif</li>
+                        <li><a href="#prix">Prix bardage décoratif au m²</a></li>
+                        <li><a href="#bois-composite-pvc">Bardage bois vs composite vs PVC</a></li>
+                        <li><a href="#idees">8 idées bardage décoratif moderne</a></li>
+                        <li><a href="#duree-vie">Durée de vie et entretien</a></li>
+                        <li><a href="#pose">Comment poser un bardage</a></li>
+                        <li><a href="#aides">Aides financières et budget total</a></li>
+                        <li><a href="#faq">FAQ Bardage Décoratif</a></li>
                     </ul>
                 </div>
 

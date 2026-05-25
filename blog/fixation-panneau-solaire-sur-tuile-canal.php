@@ -114,12 +114,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Tuile canal : caractéristiques et complexité technique</li>
-                        <li>Avantages et inconvénients pour le solaire</li>
-                        <li>Quel est le coût d'une fixation tuile canal ?</li>
-                        <li>Comment installer les panneaux pas-à-pas</li>
-                        <li>Cas spécifique : sans contre-chevrons</li>
-                        <li>Questions fréquentes (FAQ)</li>
+                        <li><a href="#tuile-canal-complexite">Tuile canal : caractéristiques et complexité technique</a></li>
+                        <li><a href="#avantages-inconvenients">Avantages et inconvénients pour le solaire</a></li>
+                        <li><a href="#cout-fixation">Quel est le coût d'une fixation tuile canal ?</a></li>
+                        <li><a href="#installation">Comment installer les panneaux pas-à-pas</a></li>
+                        <li><a href="#sans-contre-chevrons">Cas spécifique : sans contre-chevrons</a></li>
+                        <li><a href="#faq">Questions fréquentes (FAQ)</a></li>
                     </ul>
                 </div>
 

@@ -170,12 +170,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Qu'est-ce que la Ventilation par Surpression (VMI/VPS) ?</li>
-                        <li>Les Avantages Incontestables de l'Insufflation</li>
-                        <li>Ventilation par Surpression vs VMC : Le Match Détaillé</li>
-                        <li>Installation et Entretien : Tout ce qu'il faut savoir</li>
-                        <li>Défis spécifiques : Gaz radon et rénovation</li>
-                        <li>Vos Questions Fréquentes (FAQ)</li>
+                        <li><a href="#definition">Qu'est-ce que la Ventilation par Surpression (VMI/VPS) ?</a></li>
+                        <li><a href="#avantages">Les Avantages Incontestables de l'Insufflation</a></li>
+                        <li><a href="#comparatif">Ventilation par Surpression vs VMC : Le Match Détaillé</a></li>
+                        <li><a href="#installation">Installation et Entretien : Tout ce qu'il faut savoir</a></li>
+                        <li><a href="#innovations">Défis spécifiques : Gaz radon et rénovation</a></li>
+                        <li><a href="#faq">Vos Questions Fréquentes (FAQ)</a></li>
                     </ul>
                 </div>
 

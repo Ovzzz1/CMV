@@ -172,13 +172,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Pourquoi appliquer un traitement hydrofuge sur sa toiture ?</li>
-                        <li>2. Quels sont les différents types d'hydrofuges pour toiture ?</li>
-                        <li>3. Comment choisir le bon produit hydrofuge ? (Outil interactif)</li>
-                        <li>4. Comment appliquer un hydrofuge sur toiture ? (Les 4 étapes)</li>
-                        <li>5. Quel est le prix d'un traitement hydrofuge de toiture ?</li>
-                        <li>6. Faut-il hydrofuger soi-même ou faire appel à un professionnel ?</li>
-                        <li>7. Foire Aux Questions (FAQ)</li>
+                        <li><a href="#pourquoi">1. Pourquoi appliquer un traitement hydrofuge sur sa toiture ?</a></li>
+                        <li><a href="#types">2. Quels sont les différents types d'hydrofuges pour toiture ?</a></li>
+                        <li><a href="#choisir">3. Comment choisir le bon produit hydrofuge ? (Outil interactif)</a></li>
+                        <li><a href="#etapes">4. Comment appliquer un hydrofuge sur toiture ? (Les 4 étapes)</a></li>
+                        <li><a href="#prix">5. Quel est le prix d'un traitement hydrofuge de toiture ?</a></li>
+                        <li><a href="#pro">6. Faut-il hydrofuger soi-même ou faire appel à un professionnel ?</a></li>
+                        <li><a href="#faq">7. Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

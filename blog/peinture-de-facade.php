@@ -154,11 +154,11 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Acrylique, Siloxane ou Pliolite : Le grand match</li>
-                        <li>Prix d'un peintre façadier : Fourchette au m² 2026</li>
-                        <li>Les 4 étapes cruciales d'un chantier pro</li>
-                        <li>Les erreurs qui font cloquer votre façade</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#comparatif-resines">Acrylique, Siloxane ou Pliolite : Le grand match</a></li>
+                        <li><a href="#prix-2026">Prix d'un peintre façadier : Fourchette au m² 2026</a></li>
+                        <li><a href="#etapes">Les 4 étapes cruciales d'un chantier pro</a></li>
+                        <li><a href="#erreurs">Les erreurs qui font cloquer votre façade</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

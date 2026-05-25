@@ -134,12 +134,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Calculateur, nombre de chaînages et béton</li>
-                        <li>À quoi sert le chaînage horizontal ?</li>
-                        <li>Les différents types de chaînage</li>
-                        <li>Comment réaliser un chaînage horizontal</li>
-                        <li>Hauteur, nombre et règles DTU</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#calculateur">Calculateur, nombre de chaînages et béton</a></li>
+                        <li><a href="#role-chainage">À quoi sert le chaînage horizontal ?</a></li>
+                        <li><a href="#types-chainage">Les différents types de chaînage</a></li>
+                        <li><a href="#realisation">Comment réaliser un chaînage horizontal</a></li>
+                        <li><a href="#hauteur-quantite">Hauteur, nombre et règles DTU</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 

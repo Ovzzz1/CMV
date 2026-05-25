@@ -151,13 +151,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Ce que disent les données légales (SIRET et NAF)</li>
-                        <li>2. Ce que disent vraiment les avis clients</li>
-                        <li>3. ITE : ne prenez pas de risques</li>
-                        <li>4. Urbanisme : leur ancrage local, un atout majeur</li>
-                        <li>5. Analyse de devis : 3 points à vérifier avant de signer</li>
-                        <li>⚙️ Outil : Évaluez votre devis de ravalement</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#donnees-legales">1. Ce que disent les données légales (SIRET et NAF)</a></li>
+                        <li><a href="#avis-clients">2. Ce que disent vraiment les avis clients</a></li>
+                        <li><a href="#ite">3. ITE : ne prenez pas de risques</a></li>
+                        <li><a href="#urbanisme">4. Urbanisme : leur ancrage local, un atout majeur</a></li>
+                        <li><a href="#analyse-devis">5. Analyse de devis : 3 points à vérifier avant de signer</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Évaluez votre devis de ravalement</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 

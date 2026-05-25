@@ -151,15 +151,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Les différentes parties d'une façade</li>
-                        <li>2. L'anatomie verticale : du soubassement au couronnement</li>
-                        <li>3. Le lexique technique des ouvertures</li>
-                        <li>4. La modénature : reliefs et ornements</li>
-                        <li>5. Finitions et protection : le vocabulaire des surfaces</li>
-                        <li>6. Comment décrire une façade pour un dossier d'urbanisme ?</li>
-                        <li>7. Les 12 mots-clés à retenir</li>
-                        <li>⚙️ Outil : Identifiez les éléments de votre façade</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#parties-facade">1. Les différentes parties d'une façade</a></li>
+                        <li><a href="#anatomie-verticale">2. L'anatomie verticale : du soubassement au couronnement</a></li>
+                        <li><a href="#ouvertures">3. Le lexique technique des ouvertures</a></li>
+                        <li><a href="#modenature">4. La modénature : reliefs et ornements</a></li>
+                        <li><a href="#surfaces">5. Finitions et protection : le vocabulaire des surfaces</a></li>
+                        <li><a href="#dossier-urbanisme">6. Comment décrire une façade pour un dossier d'urbanisme ?</a></li>
+                        <li><a href="#tableau-12-mots">7. Les 12 mots-clés à retenir</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Identifiez les éléments de votre façade</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -209,7 +209,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="modenature">4. La modénature de façade : les éléments de relief et d'ornement</h2>
 
-                <p>La <span class="hashtag">#modénature</span> désigne l'ensemble des reliefs qui animent une façade. Ces détails ne sont pas que décoratifs : ils servent à "couper" le ruissellement de l'eau et à éviter les traces de coulures sur l'enduit.</p>
+                <p>La modénature désigne l'ensemble des reliefs qui animent une façade. Ces détails ne sont pas que décoratifs : ils servent à "couper" le ruissellement de l'eau et à éviter les traces de coulures sur l'enduit.</p>
 
                 <h3>Bandeaux, cordons et corniches</h3>
                 <p>Un <strong>bandeau</strong> est une moulure plate qui souligne un étage, tandis que la <strong>corniche</strong> est une saillie prononcée en haut de mur. Ces éléments cassent la verticalité de la façade et évitent les traces de coulures noires sur l'enduit.</p>

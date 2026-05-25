@@ -150,11 +150,11 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Au sommaire de ce guide</div>
                     <ul>
-                        <li>1. Le concept : comment fonctionne le Triple C ?</li>
-                        <li>2. Chiffres et performances sur le terrain</li>
-                        <li>3. Les vrais avantages au quotidien</li>
-                        <li>4. Le piège du système tout-en-un</li>
-                        <li>5. Prix et contraintes d'installation</li>
+                        <li><a href="#concept">1. Le concept : comment fonctionne le Triple C ?</a></li>
+                        <li><a href="#performances">2. Chiffres et performances sur le terrain</a></li>
+                        <li><a href="#avantages">3. Les vrais avantages au quotidien</a></li>
+                        <li><a href="#limites">4. Le piège du système tout-en-un</a></li>
+                        <li><a href="#budget">5. Prix et contraintes d'installation</a></li>
                     </ul>
                 </div>
 
@@ -283,7 +283,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Le Triple C d'Hitachi est une excellente machine qui règle intelligemment le problème des moteurs
                     encombrants. Foncez si votre maison garde bien la chaleur et que la puissance a été calculée par un
                     pro. Dans le cas contraire, exigez un bilan thermique avant toute commande.</p>
-                Obtenir 3 devis locaux et comparer
+                <a href="#devis" class="btn-primary">Obtenir 3 devis locaux et comparer</a>
             </div>
 
             <!-- Similar Articles -->

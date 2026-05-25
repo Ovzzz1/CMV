@@ -147,17 +147,17 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Gouttières : définition et rôle essentiel</li>
-                        <li>Gouttière vs chéneau : les différences</li>
-                        <li>Dimensionnement : surface projetée et développés</li>
-                        <li>Les principaux types de gouttières</li>
-                        <li>Matériaux comparés : zinc, alu, PVC, cuivre, acier</li>
-                        <li>Prix gouttières : €/ml, pose, maison 100 m²</li>
-                        <li>Installation : DTU 60.11, fixation, DIY vs pro</li>
-                        <li>Accessoires indispensables</li>
-                        <li>Entretien et durée de vie</li>
-                        <li>Quand remplacer des gouttières de 20 ans ?</li>
-                        <li>FAQ</li>
+                        <li><a href="#definition">Gouttières : définition et rôle essentiel</a></li>
+                        <li><a href="#gouttiere-cheneau">Gouttière vs chéneau : les différences</a></li>
+                        <li><a href="#dimensionnement">Dimensionnement : surface projetée et développés</a></li>
+                        <li><a href="#types">Les principaux types de gouttières</a></li>
+                        <li><a href="#materiaux">Matériaux comparés : zinc, alu, PVC, cuivre, acier</a></li>
+                        <li><a href="#prix">Prix gouttières : €/ml, pose, maison 100 m²</a></li>
+                        <li><a href="#installation">Installation : DTU 60.11, fixation, DIY vs pro</a></li>
+                        <li><a href="#accessoires">Accessoires indispensables</a></li>
+                        <li><a href="#entretien">Entretien et durée de vie</a></li>
+                        <li><a href="#quand-remplacer">Quand remplacer des gouttières de 20 ans ?</a></li>
+                        <li><a href="#faq">FAQ</a></li>
                     </ul>
                 </div>
 

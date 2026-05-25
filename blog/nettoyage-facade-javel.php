@@ -151,14 +151,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Pourquoi l'extrait de javel 9,6 % est-il si puissant ?</li>
-                        <li>2. Tableau de dilution selon l'état du mur</li>
-                        <li>3. Sécurité : pourquoi les mélanges sont interdits</li>
-                        <li>4. Le réflexe du pré-mouillage</li>
-                        <li>5. Protocole de nettoyage de A à Z</li>
-                        <li>6. Spectres humides et traces blanches : l'étape de l'hydrofuge</li>
-                        <li>⚙️ Outil : Quel dosage pour votre façade ?</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#pourquoi-puissant">1. Pourquoi l'extrait de javel 9,6 % est-il si puissant ?</a></li>
+                        <li><a href="#tableau-dosage">2. Tableau de dilution selon l'état du mur</a></li>
+                        <li><a href="#securite">3. Sécurité : pourquoi les mélanges sont interdits</a></li>
+                        <li><a href="#premouillage">4. Le réflexe du pré-mouillage</a></li>
+                        <li><a href="#protocole">5. Protocole de nettoyage de A à Z</a></li>
+                        <li><a href="#hydrofuge">6. Spectres humides et traces blanches : l'étape de l'hydrofuge</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Quel dosage pour votre façade ?</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -169,7 +169,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="pourquoi-puissant">Pourquoi l'extrait de javel 9,6 % est-il si puissant ?</h2>
 
-                <p>L'<span class="hashtag">#hypochlorite-de-sodium</span> (le vrai nom de la javel) à 9,6 % est le standard sur les chantiers de rénovation. Sa concentration en <strong>chlore actif</strong> est suffisante pour détruire la matière organique instantanément, sans avoir besoin de frotter. C'est presque 4 fois plus puissant que la javel ménagère classique à 2,6 %.</p>
+                <p>L'hypochlorite de sodium (le vrai nom de la javel) à 9,6 % est le standard sur les chantiers de rénovation. Sa concentration en <strong>chlore actif</strong> est suffisante pour détruire la matière organique instantanément, sans avoir besoin de frotter. C'est presque 4 fois plus puissant que la javel ménagère classique à 2,6 %.</p>
 
                 <div style="background-color: var(--color-light); border-left: 4px solid var(--color-primary); padding: 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0;">
                     <ul class="custom-list" style="margin: 0;">

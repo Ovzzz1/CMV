@@ -157,12 +157,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. C'est quoi un abergement de cheminée ?</li>
-                        <li>2. Zinc, Plomb ou Wakaflex : que choisir ?</li>
-                        <li>3. Prix d'un abergement : le vrai budget</li>
-                        <li>4. Les étapes de pose</li>
-                        <li>5. Le mythe de la réparation au silicone</li>
-                        <li>6. Questions fréquentes</li>
+                        <li><a href="#definition">1. C'est quoi un abergement de cheminée ?</a></li>
+                        <li><a href="#materiaux">2. Zinc, Plomb ou Wakaflex : que choisir ?</a></li>
+                        <li><a href="#prix">3. Prix d'un abergement : le vrai budget</a></li>
+                        <li><a href="#pose">4. Les étapes de pose</a></li>
+                        <li><a href="#erreurs">5. Le mythe de la réparation au silicone</a></li>
+                        <li><a href="#faq">6. Questions fréquentes</a></li>
                     </ul>
                 </div>
 

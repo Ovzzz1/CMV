@@ -153,14 +153,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Les 2 méthodes : Intérieur (Rampants) vs Extérieur
-                                (Sarking)</li>
-                        <li>Prix de l'isolation de toiture au m² en 2026</li>
-                        <li>Quels isolants choisir pour ne pas étouffer l'été ?</li>
-                        <li>La règle absolue : L'épaisseur et la valeur "R"</li>
-                        <li>Le détail mortel : Le Pare-Vapeur et la Lame d'air</li>
-                        <li>Aides financières 2026 : MaPrimeRénov' et CEE</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#interieur-exterieur">Les 2 méthodes : Intérieur (Rampants) vs Extérieur
+                                (Sarking)</a></li>
+                        <li><a href="#prix">Prix de l'isolation de toiture au m² en 2026</a></li>
+                        <li><a href="#materiaux">Quels isolants choisir pour ne pas étouffer l'été ?</a></li>
+                        <li><a href="#epaisseur-r">La règle absolue : L'épaisseur et la valeur "R"</a></li>
+                        <li><a href="#pare-vapeur">Le détail mortel : Le Pare-Vapeur et la Lame d'air</a></li>
+                        <li><a href="#aides">Aides financières 2026 : MaPrimeRénov' et CEE</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

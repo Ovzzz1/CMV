@@ -153,13 +153,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire de ce guide</div>
                     <ul>
-                        <li>1. Pourquoi choisir l'ITI plutôt que l'ITE ?</li>
-                        <li>2. Calcul de la perte de surface : Quelle épaisseur choisir
-                                ?</li>
-                        <li>3. Les 3 techniques de pose validées par les artisans RGE
+                        <li><a href="#pourquoi-iti">1. Pourquoi choisir l'ITI plutôt que l'ITE ?</a></li>
+                        <li><a href="#epaisseur-surface">2. Calcul de la perte de surface : Quelle épaisseur choisir
+                                ?</a></li>
+                        <li><a href="#techniques-pose">3. Les 3 techniques de pose validées par les artisans RGE</a>
                         </li>
-                        <li>4. Les erreurs fatales (qui ruinent vos murs)</li>
-                        <li>5. FAQ : Oublis fréquents et cas pratiques</li>
+                        <li><a href="#pieges-techniques">4. Les erreurs fatales (qui ruinent vos murs)</a></li>
+                        <li><a href="#faq">5. FAQ : Oublis fréquents et cas pratiques</a></li>
                     </ul>
                 </div>
 

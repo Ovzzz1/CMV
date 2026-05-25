@@ -157,15 +157,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Crépi façade vs enduit : la différence qui change tout</li>
-                        <li>Les 4 types de crépi + finitions</li>
-                        <li>Prix crépi façade 2026</li>
-                        <li>Pose crépi façade : les 7 étapes DTU 26.1</li>
-                        <li>Avantages, inconvénients et durée de vie</li>
-                        <li>Crépi et valeur de la maison</li>
-                        <li>Entretien crépi : les signaux d'alerte</li>
-                        <li>Erreurs de pose les plus coûteuses</li>
-                        <li>FAQ Crépi Façade</li>
+                        <li><a href="#crepi-vs-enduit">Crépi façade vs enduit : la différence qui change tout</a></li>
+                        <li><a href="#types">Les 4 types de crépi + finitions</a></li>
+                        <li><a href="#prix">Prix crépi façade 2026</a></li>
+                        <li><a href="#pose">Pose crépi façade : les 7 étapes DTU 26.1</a></li>
+                        <li><a href="#avantages">Avantages, inconvénients et durée de vie</a></li>
+                        <li><a href="#valeur">Crépi et valeur de la maison</a></li>
+                        <li><a href="#entretien">Entretien crépi : les signaux d'alerte</a></li>
+                        <li><a href="#erreurs">Erreurs de pose les plus coûteuses</a></li>
+                        <li><a href="#faq">FAQ Crépi Façade</a></li>
                     </ul>
                 </div>
 

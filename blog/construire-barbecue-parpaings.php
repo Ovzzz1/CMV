@@ -119,19 +119,19 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Étape 1 : Le traçage et le décaissement du terrain</li>
-                        <li>Étape 2 : Hérisson, ferraillage et coulage de la dalle</li>
-                        <li>Étape 3 : Le tracé du "U" au cordeau sur la dalle sèche</li>
-                        <li>Étape 4 : La pose cruciale du premier rang de parpaings</li>
-                        <li>Étape 5 : L'élévation des murs et le contrôle de l'aplomb</li>
-                        <li>Étape 6 : La création du coffrage en bois pour le plan de feu</li>
-                        <li>Étape 7 : Ferraillage et coulage de la dalle intermédiaire</li>
-                        <li>Étape 8 : La pose de la sole en briques réfractaires</li>
-                        <li>Étape 9 : Le montage des parois latérales du foyer</li>
-                        <li>Étape 10 : L'intégration des supports de grille métalliques</li>
-                        <li>Étape 11 : L'application de l'enduit hydrofuge de finition</li>
-                        <li>Étape 12 : Le séchage, le premier feu et l'inauguration</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#etape-1">Étape 1 : Le traçage et le décaissement du terrain</a></li>
+                        <li><a href="#etape-2">Étape 2 : Hérisson, ferraillage et coulage de la dalle</a></li>
+                        <li><a href="#etape-3">Étape 3 : Le tracé du "U" au cordeau sur la dalle sèche</a></li>
+                        <li><a href="#etape-4">Étape 4 : La pose cruciale du premier rang de parpaings</a></li>
+                        <li><a href="#etape-5">Étape 5 : L'élévation des murs et le contrôle de l'aplomb</a></li>
+                        <li><a href="#etape-6">Étape 6 : La création du coffrage en bois pour le plan de feu</a></li>
+                        <li><a href="#etape-7">Étape 7 : Ferraillage et coulage de la dalle intermédiaire</a></li>
+                        <li><a href="#etape-8">Étape 8 : La pose de la sole en briques réfractaires</a></li>
+                        <li><a href="#etape-9">Étape 9 : Le montage des parois latérales du foyer</a></li>
+                        <li><a href="#etape-10">Étape 10 : L'intégration des supports de grille métalliques</a></li>
+                        <li><a href="#etape-11">Étape 11 : L'application de l'enduit hydrofuge de finition</a></li>
+                        <li><a href="#etape-12">Étape 12 : Le séchage, le premier feu et l'inauguration</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

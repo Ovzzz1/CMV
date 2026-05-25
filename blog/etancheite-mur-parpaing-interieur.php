@@ -151,21 +151,21 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Peut-on imperméabiliser un mur en parpaing de l'intérieur ?</li>
-                        <li>2. Diagnostic : pourquoi votre mur est-il humide ?</li>
-                        <li>3. Hydrofuge vs imperméabilisant : quelle solution choisir ?</li>
-                        <li>4. Étape 1 : Préparer le support et traiter le salpêtre</li>
-                        <li>5. Étape 2 : Le congé d'étanchéité sol-mur</li>
-                        <li>6. Étape 3 : Application en couches croisées</li>
-                        <li>7. Que mettre sur le mur après le traitement ?</li>
-                        <li>⚙️ Outil : Diagnostiquez votre problème d'humidité</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#faisabilite">1. Peut-on imperméabiliser un mur en parpaing de l'intérieur ?</a></li>
+                        <li><a href="#diagnostic">2. Diagnostic : pourquoi votre mur est-il humide ?</a></li>
+                        <li><a href="#hydrofuge-vs-cuvelage">3. Hydrofuge vs imperméabilisant : quelle solution choisir ?</a></li>
+                        <li><a href="#etape1">4. Étape 1 : Préparer le support et traiter le salpêtre</a></li>
+                        <li><a href="#etape2">5. Étape 2 : Le congé d'étanchéité sol-mur</a></li>
+                        <li><a href="#etape3">6. Étape 3 : Application en couches croisées</a></li>
+                        <li><a href="#apres-traitement">7. Que mettre sur le mur après le traitement ?</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Diagnostiquez votre problème d'humidité</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
                 <h2 id="faisabilite">Peut-on réellement imperméabiliser un mur en parpaing de l'intérieur ?</h2>
 
-                <p>La réponse est <strong>oui</strong>, mais cela demande une approche spécifique appelée le <span class="hashtag">#cuvelage</span>. Contrairement à une simple peinture qui finirait par cloquer sous la pression, un traitement d'étanchéité intérieur sérieux est conçu pour résister à la <strong>contre-pression hydrostatique</strong>.</p>
+                <p>La réponse est <strong>oui</strong>, mais cela demande une approche spécifique appelée le cuvelage. Contrairement à une simple peinture qui finirait par cloquer sous la pression, un traitement d'étanchéité intérieur sérieux est conçu pour résister à la <strong>contre-pression hydrostatique</strong>.</p>
 
                 <p>L'étanchéité intérieure ne fait pas disparaître l'eau présente dans le parpaing, mais elle crée une barrière infranchissable qui garde votre pièce au sec. C'est une solution curative fiable, utilisée quotidiennement par les professionnels pour réhabiliter des caves totalement inondées.</p>
 
@@ -226,7 +226,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>C'est ici que 80 % des échecs se jouent. Appliquer un produit d'étanchéité sur un mur sale ou friable est une perte de temps totale. Brossez les restes de peinture ou d'enduit précédent pour mettre le parpaing à nu.</p>
 
-                <p>Portez une attention particulière au <span class="hashtag">#salpêtre</span>. Ces "fleurs de sel" blanches sont des sels minéraux transportés par l'eau. S'ils restent emprisonnés derrière votre étanchéité, ils finiront par la faire éclater de l'intérieur. Appliquez un <strong>traitement anti-salpêtre</strong> spécifique après avoir brossé, pour neutraliser chimiquement ces sels.</p>
+                <p>Portez une attention particulière au salpêtre. Ces "fleurs de sel" blanches sont des sels minéraux transportés par l'eau. S'ils restent emprisonnés derrière votre étanchéité, ils finiront par la faire éclater de l'intérieur. Appliquez un <strong>traitement anti-salpêtre</strong> spécifique après avoir brossé, pour neutraliser chimiquement ces sels.</p>
 
                 <h2 id="etape2">Étape 2 : Traitement de la jonction sol-mur (Le "Congé d'étanchéité")</h2>
 

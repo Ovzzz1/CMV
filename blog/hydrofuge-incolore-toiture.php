@@ -131,12 +131,12 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>À quoi sert vraiment un hydrofuge de toiture incolore ?</li>
-                        <li>Sur quelles tuiles faut-il l'appliquer (et sur lesquelles l'éviter) ?</li>
-                        <li>Prix 2026 : Coût de l'hydrofuge au m² (DIY et Pro)</li>
-                        <li>Les 3 étapes d'application cruciales</li>
-                        <li>Avis et retours terrain : faut-il vraiment le faire ?</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#principe">À quoi sert vraiment un hydrofuge de toiture incolore ?</a></li>
+                        <li><a href="#materiaux">Sur quelles tuiles faut-il l'appliquer (et sur lesquelles l'éviter) ?</a></li>
+                        <li><a href="#prix">Prix 2026 : Coût de l'hydrofuge au m² (DIY et Pro)</a></li>
+                        <li><a href="#application">Les 3 étapes d'application cruciales</a></li>
+                        <li><a href="#avis">Avis et retours terrain : faut-il vraiment le faire ?</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

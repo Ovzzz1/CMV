@@ -151,18 +151,18 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Quel type de crochet pour un panneau sandwich ?</li>
-                        <li>2. Installation : les étapes clés sur toiture métallique</li>
-                        <li>3. Les 3 secrets d'une étanchéité durable</li>
-                        <li>4. Sécurité et circulation sur bac acier isolé</li>
-                        <li>5. Calcul et calepinage du nombre de fixations</li>
-                        <li>⚙️ Outil : Estimez vos besoins en crochets</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#crochet">1. Quel type de crochet pour un panneau sandwich ?</a></li>
+                        <li><a href="#pose">2. Installation : les étapes clés sur toiture métallique</a></li>
+                        <li><a href="#etancheite">3. Les 3 secrets d'une étanchéité durable</a></li>
+                        <li><a href="#securite">4. Sécurité et circulation sur bac acier isolé</a></li>
+                        <li><a href="#calcul">5. Calcul et calepinage du nombre de fixations</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Estimez vos besoins en crochets</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
                 <h2 id="crochet">Quel type de crochet pour un panneau sandwich ? (Bac sec vs Isolé)</h2>
-                <p>La principale erreur lors de la préparation du chantier est de confondre la couverture métallique nervurée simple (<span class="hashtag">#bac-sec</span>) et le panneau sandwich à âme isolante.</p>
+                <p>La principale erreur lors de la préparation du chantier est de confondre la couverture métallique nervurée simple (bac sec) et le panneau sandwich à âme isolante.</p>
                 <p>Sur un bac sec, une fixation classique suffit. Mais sur un panneau isolé, la présence de mousse polyuréthane, dont l'épaisseur varie souvent de 30 mm à 100 mm, entre les deux parements métalliques change la donne. Si vous utilisez un crochet standard et que vous forcez le vissage, vous allez inévitablement écraser l'âme isolante et déformer le parement métallique extérieur.</p>
                 <p>Pour réussir <a href="<?php echo BASE_URL; ?>gouttieres">votre installation de gouttières</a>, vous devez opter pour un maintien structurel adapté :</p>
                 <ul class="custom-list">
@@ -191,7 +191,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Ne fixez jamais un crochet dans le creux de l'onde (le "bas d'onde"). C'est par ce canal que l'eau circule à haut débit. Même avec une bonne vis, la pression de l'eau finira par provoquer une infiltration par capillarité. Le sommet de la nervure de recouvrement est la seule zone sûre.</p>
 
                 <h3>2. Maîtriser le serrage des joints EPDM</h3>
-                <p>L'ancrage s'effectue avec des vis auto-foreuses de bardage munies d'une rondelle néoprène (ou joint EPDM). Le secret terrain : ne vissez pas avec excès. Le métal "travaille" sous l'effet de la chaleur. Si la rondelle est complètement écrasée au montage, elle se déchirera aux premiers changements de température. Le joint doit être fermement appuyé, mais conserver son élasticité pour absorber les micro-mouvements et bloquer tout <span class="hashtag">#pont-thermique</span>.</p>
+                <p>L'ancrage s'effectue avec des vis auto-foreuses de bardage munies d'une rondelle néoprène (ou joint EPDM). Le secret terrain : ne vissez pas avec excès. Le métal "travaille" sous l'effet de la chaleur. Si la rondelle est complètement écrasée au montage, elle se déchirera aux premiers changements de température. Le joint doit être fermement appuyé, mais conserver son élasticité pour absorber les micro-mouvements et bloquer tout pont thermique.</p>
 
                 <h3>3. Attention au couple galvanique</h3>
                 <p>N'utilisez jamais des vis de récupération. Mettre en contact des métaux incompatibles provoque une réaction électrochimique : la rouille rongera votre toiture en quelques années. Privilégiez l'inox A2 ou l'acier galvanisé à chaud spécifiquement traité.</p>

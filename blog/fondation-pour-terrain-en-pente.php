@@ -160,13 +160,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. L'étude de sol G2 : le préalable non négociable</li>
-                        <li>2. Les fondations en gradins pour la maçonnerie classique</li>
-                        <li>3. La maison sur plots ou pilotis (ossature bois)</li>
-                        <li>4. Terrassement et gestion de l'eau</li>
-                        <li>5. Budget et logistique : les surcoûts cachés</li>
-                        <li>⚙️ Outil : Quelle fondation pour mon terrain en pente ?</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#etude-sol">1. L'étude de sol G2 : le préalable non négociable</a></li>
+                        <li><a href="#fondations-gradins">2. Les fondations en gradins pour la maçonnerie classique</a></li>
+                        <li><a href="#maison-sur-plots">3. La maison sur plots ou pilotis (ossature bois)</a></li>
+                        <li><a href="#gestion-eau">4. Terrassement et gestion de l'eau</a></li>
+                        <li><a href="#budget">5. Budget et logistique : les surcoûts cachés</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Quelle fondation pour mon terrain en pente ?</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 

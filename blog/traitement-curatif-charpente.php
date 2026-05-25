@@ -170,14 +170,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Qu'est-ce qu'un traitement curatif et pourquoi est-ce urgent ?
+                        <li><a href="#definition">Qu'est-ce qu'un traitement curatif et pourquoi est-ce urgent ?</a>
                         </li>
-                        <li>Curatif ou Préventif : Ne faites pas l'erreur !</li>
-                        <li>Les 5 signes qui prouvent que votre charpente est dévorée</li>
-                        <li>Comment se déroule un traitement curatif professionnel ?</li>
-                        <li>Prix d'un traitement curatif charpente et pourquoi éviter le
-                                "Fait-Maison"</li>
-                        <li>Vos Questions Fréquentes (FAQ)</li>
+                        <li><a href="#comparaison">Curatif ou Préventif : Ne faites pas l'erreur !</a></li>
+                        <li><a href="#diagnostic">Les 5 signes qui prouvent que votre charpente est dévorée</a></li>
+                        <li><a href="#etapes">Comment se déroule un traitement curatif professionnel ?</a></li>
+                        <li><a href="#prix">Prix d'un traitement curatif charpente et pourquoi éviter le
+                                "Fait-Maison"</a></li>
+                        <li><a href="#faq">Vos Questions Fréquentes (FAQ)</a></li>
                     </ul>
                 </div>
 

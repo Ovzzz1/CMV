@@ -159,13 +159,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Faut-il obligatoirement coffrer ses fondations ?</li>
-                        <li>2. Bois vs coffrage perdu : bien choisir son matériel</li>
-                        <li>3. Les différents types de coffrages selon votre projet</li>
-                        <li>⚙️ Outil : Quel coffrage pour votre chantier ?</li>
-                        <li>4. Guide pas à pas : réussir son coulage sans encombre</li>
-                        <li>5. Livraison et logistique sur chantier</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#fondations">1. Faut-il obligatoirement coffrer ses fondations ?</a></li>
+                        <li><a href="#materiaux">2. Bois vs coffrage perdu : bien choisir son matériel</a></li>
+                        <li><a href="#types">3. Les différents types de coffrages selon votre projet</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Quel coffrage pour votre chantier ?</a></li>
+                        <li><a href="#coulage">4. Guide pas à pas : réussir son coulage sans encombre</a></li>
+                        <li><a href="#logistique">5. Livraison et logistique sur chantier</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -189,7 +189,7 @@ include dirname(__DIR__) . '/header.php';
                      loading="lazy"
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
-                <p>Le choix du matériau impacte directement votre budget et la solidité de votre structure. Nous avons trop souvent vu des chantiers tourner au désastre à cause de l'utilisation de panneaux d'OSB. Sous l'effet de l'humidité du béton et de la pression hydrostatique, les copeaux de bois gonflent, la colle sature et le panneau explose. Pour un <span class="hashtag">#coffrage-bois</span>, privilégiez toujours la planche de coffrage en sapin ou le contreplaqué filmé.</p>
+                <p>Le choix du matériau impacte directement votre budget et la solidité de votre structure. Nous avons trop souvent vu des chantiers tourner au désastre à cause de l'utilisation de panneaux d'OSB. Sous l'effet de l'humidité du béton et de la pression hydrostatique, les copeaux de bois gonflent, la colle sature et le panneau explose. Pour un coffrage bois, privilégiez toujours la planche de coffrage en sapin ou le contreplaqué filmé.</p>
 
                 <div class="guide-links-box">
                     <h3>Vos fondations, de A à Z</h3>
@@ -202,7 +202,7 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                 </div>
 
-                <p>Le <span class="hashtag">#coffrage-perdu</span> est devenu la norme sur les chantiers performants. Ces plaques légères en polypropylène se laissent en terre après le coulage, offrant une barrière supplémentaire. Cette technique contribue d'ailleurs indirectement au <a href="<?php echo BASE_URL; ?>traitement-humidite">traitement de l'humidité</a> ascensionnelle en limitant le contact direct entre le béton poreux et la terre humide dès la phase de construction.</p>
+                <p>Le coffrage perdu est devenu la norme sur les chantiers performants. Ces plaques légères en polypropylène se laissent en terre après le coulage, offrant une barrière supplémentaire. Cette technique contribue d'ailleurs indirectement au <a href="<?php echo BASE_URL; ?>traitement-humidite">traitement de l'humidité</a> ascensionnelle en limitant le contact direct entre le béton poreux et la terre humide dès la phase de construction.</p>
 
                 <div class="table-wrapper">
                     <table class="content-table">

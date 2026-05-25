@@ -136,13 +136,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Comment savoir si une toiture contient de l'amiante ?</li>
-                        <li>Une toiture en amiante est-elle vraiment dangereuse ?</li>
-                        <li>Que faire avec un toit en fibrociment amianté ? Les 3 options</li>
-                        <li>Nettoyage et travaux : ce qu'il ne faut surtout pas faire soi-même</li>
-                        <li>Achat ou vente d'une maison avec toiture en amiante</li>
-                        <li>Quel est le prix pour traiter ou remplacer un toit en amiante ?</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#identifier">Comment savoir si une toiture contient de l'amiante ?</a></li>
+                        <li><a href="#danger">Une toiture en amiante est-elle vraiment dangereuse ?</a></li>
+                        <li><a href="#que-faire">Que faire avec un toit en fibrociment amianté ? Les 3 options</a></li>
+                        <li><a href="#erreurs">Nettoyage et travaux : ce qu'il ne faut surtout pas faire soi-même</a></li>
+                        <li><a href="#immobilier">Achat ou vente d'une maison avec toiture en amiante</a></li>
+                        <li><a href="#prix">Quel est le prix pour traiter ou remplacer un toit en amiante ?</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 

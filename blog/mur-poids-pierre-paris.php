@@ -151,14 +151,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Qu'est-ce qu'un mur poids et pourquoi choisir la pierre ?</li>
-                        <li>2. Dimensionnement : une épaisseur de 10 cm est-elle suffisante ?</li>
-                        <li>3. Pourquoi le BET est indispensable à Paris ?</li>
-                        <li>4. Les 8 règles d'or pour un soutènement pérenne</li>
-                        <li>5. Quel est le prix au m² à Paris ?</li>
-                        <li>6. Diagnostic : identifier les fissures et risques d'effondrement</li>
-                        <li>⚙️ Outil : Évaluez votre mur de soutènement</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#principe">1. Qu'est-ce qu'un mur poids et pourquoi choisir la pierre ?</a></li>
+                        <li><a href="#dimensionnement">2. Dimensionnement : une épaisseur de 10 cm est-elle suffisante ?</a></li>
+                        <li><a href="#bet">3. Pourquoi le BET est indispensable à Paris ?</a></li>
+                        <li><a href="#regles">4. Les 8 règles d'or pour un soutènement pérenne</a></li>
+                        <li><a href="#prix">5. Quel est le prix au m² à Paris ?</a></li>
+                        <li><a href="#diagnostic">6. Diagnostic : identifier les fissures et risques d'effondrement</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Évaluez votre mur de soutènement</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -193,7 +193,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="bet">Pourquoi l'étude d'un Bureau d'Études Structure (BET) est indispensable à Paris ?</h2>
 
-                <p>Le sous-sol parisien est truffé de cavités et d'anciennes <span class="hashtag">#carrières</span>, ce qui rend chaque projet de construction sensible. Faire appel à un <strong>bureau d'études</strong> permet de valider le calcul de stabilité selon les normes <strong>Eurocode 7</strong>. Ce diagnostic est souvent exigé par les assurances pour couvrir la garantie décennale, surtout en cas de mitoyenneté directe.</p>
+                <p>Le sous-sol parisien est truffé de cavités et d'anciennes carrières, ce qui rend chaque projet de construction sensible. Faire appel à un <strong>bureau d'études</strong> permet de valider le calcul de stabilité selon les normes <strong>Eurocode 7</strong>. Ce diagnostic est souvent exigé par les assurances pour couvrir la garantie décennale, surtout en cas de mitoyenneté directe.</p>
 
                 <p>Par ailleurs, le <strong>PLU de Paris</strong> impose des règles strictes sur l'aspect des murs visibles depuis l'espace public. Dans de nombreux quartiers historiques, les Architectes des Bâtiments de France (ABF) préconisent un enduit à pierres vues pour protéger le mortier tout en laissant apparaître la noblesse du matériau.</p>
 

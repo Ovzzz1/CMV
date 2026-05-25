@@ -141,12 +141,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Pourquoi surélever son muret (et l'alternative sans maçonnerie)</li>
-                        <li>Les 2 vérifications vitales avant de rajouter du poids</li>
-                        <li>La technique de pro pour lier la surélévation à l'ancien mur</li>
-                        <li>Raccorder un nouveau mur perpendiculaire</li>
-                        <li>FAQ : Cas particuliers et budget</li>
-                        <li>Suites du chantier : finitions et aménagements</li>
+                        <li><a href="#pourquoi-rehausser">Pourquoi surélever son muret (et l'alternative sans maçonnerie)</a></li>
+                        <li><a href="#verifications-vitales">Les 2 vérifications vitales avant de rajouter du poids</a></li>
+                        <li><a href="#technique-liaison">La technique de pro pour lier la surélévation à l'ancien mur</a></li>
+                        <li><a href="#mur-perpendiculaire">Raccorder un nouveau mur perpendiculaire</a></li>
+                        <li><a href="#faq">FAQ : Cas particuliers et budget</a></li>
+                        <li><a href="#suites-chantier">Suites du chantier : finitions et aménagements</a></li>
                     </ul>
                 </div>
 

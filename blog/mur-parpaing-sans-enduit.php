@@ -151,13 +151,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Le cadre légal : ce que dit la loi sur les murs bruts</li>
-                        <li>2. Les risques techniques : pourquoi le parpaing craint l'humidité</li>
-                        <li>3. Comment protéger un mur sans faire d'enduit classique ?</li>
-                        <li>4. Comparatif des solutions de finition</li>
-                        <li>5. Gérer la mitoyenneté et le voisinage</li>
-                        <li>⚙️ Outil : Faut-il enduire votre mur ?</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#cadre-legal">1. Le cadre légal : ce que dit la loi sur les murs bruts</a></li>
+                        <li><a href="#risques-techniques">2. Les risques techniques : pourquoi le parpaing craint l'humidité</a></li>
+                        <li><a href="#alternatives">3. Comment protéger un mur sans faire d'enduit classique ?</a></li>
+                        <li><a href="#comparatif">4. Comparatif des solutions de finition</a></li>
+                        <li><a href="#mitoyennete">5. Gérer la mitoyenneté et le voisinage</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Faut-il enduire votre mur ?</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 
@@ -174,7 +174,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Dans de nombreuses municipalités, laisser des parpaings apparents est considéré comme un travail "non fini". La mairie peut vous imposer la pose d'un enduit ou d'une peinture pour respecter l'unité architecturale du quartier. Une simple <strong>déclaration préalable de travaux</strong> peut être rejetée si la finition n'est pas précisée.</p>
 
                 <h3>Le cas sensible du mur en limite de propriété</h3>
-                <p>La situation se complique lorsque votre mur se situe en limite séparative avec votre voisin. Bien que le mur vous appartienne, son aspect brut peut être perçu comme une <span class="hashtag">#nuisance-visuelle</span>. Si votre voisin estime que la vue sur vos parpaings gris déprécie la valeur de sa propriété, il peut invoquer un trouble anormal de voisinage et un juge peut vous contraindre à réaliser un crépi.</p>
+                <p>La situation se complique lorsque votre mur se situe en limite séparative avec votre voisin. Bien que le mur vous appartienne, son aspect brut peut être perçu comme une nuisance visuelle. Si votre voisin estime que la vue sur vos parpaings gris déprécie la valeur de sa propriété, il peut invoquer un trouble anormal de voisinage et un juge peut vous contraindre à réaliser un crépi.</p>
 
                 <h2 id="risques-techniques">2. Les risques techniques : Pourquoi le parpaing craint l'humidité</h2>
 

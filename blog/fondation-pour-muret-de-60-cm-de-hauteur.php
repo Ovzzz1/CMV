@@ -159,15 +159,15 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Pourquoi la fondation est critique à 60 cm</li>
-                        <li>2. Analyse du terrain et cadre légal</li>
-                        <li>3. Quelles dimensions pour votre fondation ?</li>
-                        <li>4. Matériaux, outils et sécurité</li>
-                        <li>5. Réaliser sa fondation étape par étape</li>
-                        <li>6. Gérer les facteurs X du chantier</li>
-                        <li>⚙️ Outil : Calculez vos besoins en matériaux</li>
-                        <li>7. Temps de séchage et finitions</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#pourquoi-fondation">1. Pourquoi la fondation est critique à 60 cm</a></li>
+                        <li><a href="#analyse-terrain">2. Analyse du terrain et cadre légal</a></li>
+                        <li><a href="#dimensions">3. Quelles dimensions pour votre fondation ?</a></li>
+                        <li><a href="#materiaux">4. Matériaux, outils et sécurité</a></li>
+                        <li><a href="#etapes">5. Réaliser sa fondation étape par étape</a></li>
+                        <li><a href="#facteurs-x">6. Gérer les facteurs X du chantier</a></li>
+                        <li><a href="#ux-outil">⚙️ Outil : Calculez vos besoins en matériaux</a></li>
+                        <li><a href="#sechage">7. Temps de séchage et finitions</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 

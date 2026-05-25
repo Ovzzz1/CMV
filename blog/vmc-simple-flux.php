@@ -129,12 +129,12 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Comment fonctionne vraiment une VMC ?</li>
-                        <li>Autoréglable ou Hygroréglable : Lequel choisir ?</li>
-                        <li>Avantages et Inconvénients à connaître</li>
-                        <li>Le Budget : Prix, Pose et Aides (Calculateur)</li>
-                        <li>Installation et Entretien courant</li>
-                        <li>Vos Questions Fréquentes (FAQ)</li>
+                        <li><a href="#section1">Comment fonctionne vraiment une VMC ?</a></li>
+                        <li><a href="#section2">Autoréglable ou Hygroréglable : Lequel choisir ?</a></li>
+                        <li><a href="#section3">Avantages et Inconvénients à connaître</a></li>
+                        <li><a href="#section4">Le Budget : Prix, Pose et Aides (Calculateur)</a></li>
+                        <li><a href="#section5">Installation et Entretien courant</a></li>
+                        <li><a href="#faq">Vos Questions Fréquentes (FAQ)</a></li>
                     </ul>
                 </div>
 

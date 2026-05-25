@@ -158,14 +158,14 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>1. Pourquoi consolider ses fondations ?</li>
-                        <li>2. Les 4 techniques pour stabiliser la structure</li>
-                        <li>3. Les intervenants et les etapes du chantier</li>
-                        <li>4. Quel est le vrai prix d'une reprise en sous-oeuvre ?</li>
-                        <li>5. Etude de cas sur le terrain</li>
-                        <li>&#9881; Outil : Diagnostiquez votre situation</li>
-                        <li>Articles connexes</li>
-                        <li>FAQ, Questions frequentes</li>
+                        <li><a href="#pourquoi">1. Pourquoi consolider ses fondations ?</a></li>
+                        <li><a href="#techniques">2. Les 4 techniques pour stabiliser la structure</a></li>
+                        <li><a href="#etapes">3. Les intervenants et les etapes du chantier</a></li>
+                        <li><a href="#prix">4. Quel est le vrai prix d'une reprise en sous-oeuvre ?</a></li>
+                        <li><a href="#etude-de-cas">5. Etude de cas sur le terrain</a></li>
+                        <li><a href="#ux-outil">&#9881; Outil : Diagnostiquez votre situation</a></li>
+                        <li><a href="#liens">Articles connexes</a></li>
+                        <li><a href="#faq">FAQ, Questions frequentes</a></li>
                     </ul>
                 </div>
 

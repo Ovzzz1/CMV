@@ -139,14 +139,14 @@ include dirname(__DIR__) . '/header.php';
  <div class="toc-box">
  <div class="toc-title">Sommaire</div>
  <ul>
- <li>Qu'est-ce qu'un gazon anglais exactement ?</li>
- <li>L'entretien épuisant du gazon anglais</li>
- <li>La consommation d'eau démesurée</li>
- <li>Les coûts cachés qui s'accumulent</li>
- <li>L'impact écologique sérieux</li>
- <li>Inadapté au climat français actuel</li>
- <li>Les alternatives plus raisonnables</li>
- <li>FAQ</li>
+ <li><a href="#definition">Qu'est-ce qu'un gazon anglais exactement ?</a></li>
+ <li><a href="#entretien">L'entretien épuisant du gazon anglais</a></li>
+ <li><a href="#eau">La consommation d'eau démesurée</a></li>
+ <li><a href="#couts">Les coûts cachés qui s'accumulent</a></li>
+ <li><a href="#ecologie">L'impact écologique sérieux</a></li>
+ <li><a href="#climat">Inadapté au climat français actuel</a></li>
+ <li><a href="#alternatives">Les alternatives plus raisonnables</a></li>
+ <li><a href="#faq">FAQ</a></li>
  </ul>
  </div>
 

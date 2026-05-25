@@ -121,12 +121,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Indivision, mitoyenneté ou servitude : comment définir votre toit partagé ?</li>
-                        <li>Entretien et travaux : qui paie quoi et comment calculer sa part ?</li>
-                        <li>Les 5 étapes pour organiser des travaux avec son voisin</li>
-                        <li>Que faire si le voisin refuse de payer ou bloque les réparations ?</li>
-                        <li>Transformer sa toiture commune (Velux, surélévation, solaire)</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#definition">Indivision, mitoyenneté ou servitude : comment définir votre toit partagé ?</a></li>
+                        <li><a href="#frais">Entretien et travaux : qui paie quoi et comment calculer sa part ?</a></li>
+                        <li><a href="#etapes">Les 5 étapes pour organiser des travaux avec son voisin</a></li>
+                        <li><a href="#litige">Que faire si le voisin refuse de payer ou bloque les réparations ?</a></li>
+                        <li><a href="#transformation">Transformer sa toiture commune (Velux, surélévation, solaire)</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

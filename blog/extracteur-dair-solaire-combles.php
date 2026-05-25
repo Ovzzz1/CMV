@@ -162,13 +162,13 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Qu'est-ce qu'un Extracteur d'Air Solaire ?</li>
-                        <li>Les Avantages pour Vos Combles et Votre Budget</li>
-                        <li>Calculateur et Choix du Modèle Adapté</li>
-                        <li>Installation et Entretien Pratique</li>
-                        <li>Prix, Aides et Rentabilité</li>
-                        <li>Solaire vs VMC : Le Duel des Ventilations</li>
-                        <li>Vos Questions Fréquentes</li>
+                        <li><a href="#definition-fonctionnement">Qu'est-ce qu'un Extracteur d'Air Solaire ?</a></li>
+                        <li><a href="#avantages">Les Avantages pour Vos Combles et Votre Budget</a></li>
+                        <li><a href="#choix-modele">Calculateur et Choix du Modèle Adapté</a></li>
+                        <li><a href="#installation-entretien">Installation et Entretien Pratique</a></li>
+                        <li><a href="#prix-aides">Prix, Aides et Rentabilité</a></li>
+                        <li><a href="#comparaison-vmc">Solaire vs VMC : Le Duel des Ventilations</a></li>
+                        <li><a href="#faq">Vos Questions Fréquentes</a></li>
                     </ul>
                 </div>
 

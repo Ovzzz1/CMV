@@ -175,12 +175,12 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Faut-il obligatoirement des fondations pour un garage ?</li>
-                        <li>Outil : Quel type et profondeur pour votre garage ?</li>
-                        <li>Quel type de fondation est le mieux adapté ?</li>
-                        <li>Les 5 étapes clés pour faire vos fondations</li>
-                        <li>Chantier complexe : quand déléguer à un professionnel ?</li>
-                        <li>FAQ : Vos questions fréquentes (Coût, mur existant, etc.)</li>
+                        <li><a href="#obligation-fondations">Faut-il obligatoirement des fondations pour un garage ?</a></li>
+                        <li><a href="#outil-diagnostic">Outil : Quel type et profondeur pour votre garage ?</a></li>
+                        <li><a href="#choix-fondation">Quel type de fondation est le mieux adapté ?</a></li>
+                        <li><a href="#etapes-construction">Les 5 étapes clés pour faire vos fondations</a></li>
+                        <li><a href="#deleguer-pro">Chantier complexe : quand déléguer à un professionnel ?</a></li>
+                        <li><a href="#faq">FAQ : Vos questions fréquentes (Coût, mur existant, etc.)</a></li>
                     </ul>
                 </div>
 

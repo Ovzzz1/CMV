@@ -133,12 +133,12 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Comment fonctionne un hydrofuge de façade incolore ?</li>
-                        <li>Avis sur les hydrofuges : Sikagard, Dalep, Procom</li>
-                        <li>Prix hydrofuge incolore 2026 (Achat direct vs Artisan)</li>
-                        <li>Application : Les 4 règles d'un chantier réussi</li>
-                        <li>L'astuce terrain : Le test de la goutte d'eau</li>
-                        <li>Foire Aux Questions (FAQ)</li>
+                        <li><a href="#comment-ca-marche">Comment fonctionne un hydrofuge de façade incolore ?</a></li>
+                        <li><a href="#avis">Avis sur les hydrofuges : Sikagard, Dalep, Procom</a></li>
+                        <li><a href="#prix">Prix hydrofuge incolore 2026 (Achat direct vs Artisan)</a></li>
+                        <li><a href="#application">Application : Les 4 règles d'un chantier réussi</a></li>
+                        <li><a href="#test">L'astuce terrain : Le test de la goutte d'eau</a></li>
+                        <li><a href="#faq">Foire Aux Questions (FAQ)</a></li>
                     </ul>
                 </div>
 

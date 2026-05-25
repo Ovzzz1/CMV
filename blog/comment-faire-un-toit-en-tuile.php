@@ -135,20 +135,20 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Ce qu'il faut savoir avant de commencer</li>
-                        <li>Étape 1, Inspecter et préparer la charpente</li>
-                        <li>Étape 2, Poser l'écran de sous-toiture</li>
-                        <li>Étape 3, Contre-lattes et latte de ventilation basse</li>
-                        <li>Étape 4, Calculer le pureau et poser les liteaux</li>
-                        <li>Étape 5, Préparer l'égout et poser le rang de départ</li>
-                        <li>Étape 6, Poser les tuiles courantes rangée par rangée</li>
-                        <li>Étape 7, Couper les tuiles aux obstacles et en rive</li>
-                        <li>Étape 8, Fixer les tuiles selon la zone de vent</li>
-                        <li>Étape 9, Traiter les points singuliers</li>
-                        <li>Étape 10, Poser les faîtières et fermer le faîtage</li>
-                        <li>Combien coûte une toiture en tuile ?</li>
-                        <li>Quelle est la durée de vie d'une toiture en tuile ?</li>
-                        <li>FAQ, Questions fréquentes</li>
+                        <li><a href="#avant-de-commencer">Ce qu'il faut savoir avant de commencer</a></li>
+                        <li><a href="#etape-1">Étape 1, Inspecter et préparer la charpente</a></li>
+                        <li><a href="#etape-2">Étape 2, Poser l'écran de sous-toiture</a></li>
+                        <li><a href="#etape-3">Étape 3, Contre-lattes et latte de ventilation basse</a></li>
+                        <li><a href="#etape-4">Étape 4, Calculer le pureau et poser les liteaux</a></li>
+                        <li><a href="#etape-5">Étape 5, Préparer l'égout et poser le rang de départ</a></li>
+                        <li><a href="#etape-6">Étape 6, Poser les tuiles courantes rangée par rangée</a></li>
+                        <li><a href="#etape-7">Étape 7, Couper les tuiles aux obstacles et en rive</a></li>
+                        <li><a href="#etape-8">Étape 8, Fixer les tuiles selon la zone de vent</a></li>
+                        <li><a href="#etape-9">Étape 9, Traiter les points singuliers</a></li>
+                        <li><a href="#etape-10">Étape 10, Poser les faîtières et fermer le faîtage</a></li>
+                        <li><a href="#cout">Combien coûte une toiture en tuile ?</a></li>
+                        <li><a href="#duree-vie">Quelle est la durée de vie d'une toiture en tuile ?</a></li>
+                        <li><a href="#faq">FAQ, Questions fréquentes</a></li>
                     </ul>
                 </div>
 

@@ -164,18 +164,18 @@ include dirname(__DIR__) . '/header.php';
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Qu'est-ce que la Ventilation Naturelle ? Principes et
-                                Fonctionnement</li>
-                        <li>Avantages et Inconvénients : Une Évaluation Équilibrée</li>
-                        <li>L'Impératif de Ventiler : Pour votre Santé et la Durabilité de votre
-                                Logement</li>
-                        <li>Au-delà du "Tout Naturel" : Les Systèmes Hybrides et Assistés</li>
-                        <li>Ventilation Naturelle vs. VMC : Faire le Bon Choix pour votre
-                                Maison</li>
-                        <li>Budget et Rentabilité : Quel Coût pour une Ventilation Naturelle ?</li>
-                        <li>Optimisation et Entretien : Conseils Pratiques pour une Efficacité
-                                Maximale</li>
-                        <li>FAQ Ventilation Naturelle : Vos Questions</li>
+                        <li><a href="#principes">Qu'est-ce que la Ventilation Naturelle ? Principes et
+                                Fonctionnement</a></li>
+                        <li><a href="#avantages">Avantages et Inconvénients : Une Évaluation Équilibrée</a></li>
+                        <li><a href="#importance">L'Impératif de Ventiler : Pour votre Santé et la Durabilité de votre
+                                Logement</a></li>
+                        <li><a href="#hybrides">Au-delà du "Tout Naturel" : Les Systèmes Hybrides et Assistés</a></li>
+                        <li><a href="#comparaisons">Ventilation Naturelle vs. VMC : Faire le Bon Choix pour votre
+                                Maison</a></li>
+                        <li><a href="#prix">Budget et Rentabilité : Quel Coût pour une Ventilation Naturelle ?</a></li>
+                        <li><a href="#optimisation">Optimisation et Entretien : Conseils Pratiques pour une Efficacité
+                                Maximale</a></li>
+                        <li><a href="#faq">FAQ Ventilation Naturelle : Vos Questions</a></li>
                     </ul>
                 </div>
 

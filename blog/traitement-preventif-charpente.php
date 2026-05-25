@@ -129,13 +129,13 @@ endforeach; ?>
                 <div class="toc-box">
                     <div class="toc-title">Sommaire</div>
                     <ul>
-                        <li>Comprendre le Traitement : Définition et Bénéfices</li>
-                        <li>Préventif ou Curatif : Bien Choisir son Approche</li>
-                        <li>Les Ennemis : Insectes, Champignons et Humidité</li>
-                        <li>Méthodes et Produits : Pulvérisation vs Injection</li>
-                        <li>Normes, Classes d'Emploi et Réglementation</li>
-                        <li>DIY ou Pro : Calculateur et Bon Choix</li>
-                        <li>Vos Questions Fréquentes</li>
+                        <li><a href="#section1">Comprendre le Traitement : Définition et Bénéfices</a></li>
+                        <li><a href="#section2">Préventif ou Curatif : Bien Choisir son Approche</a></li>
+                        <li><a href="#section3">Les Ennemis : Insectes, Champignons et Humidité</a></li>
+                        <li><a href="#section4">Méthodes et Produits : Pulvérisation vs Injection</a></li>
+                        <li><a href="#section5">Normes, Classes d'Emploi et Réglementation</a></li>
+                        <li><a href="#section6">DIY ou Pro : Calculateur et Bon Choix</a></li>
+                        <li><a href="#faq">Vos Questions Fréquentes</a></li>
                     </ul>
                 </div>
 
