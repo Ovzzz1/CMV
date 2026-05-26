@@ -326,9 +326,10 @@ include dirname(__DIR__) . '/header.php';
                     </li>
                 </ul>
 
-                <p>L'épaisseur totale finie doit être de 12-18 mm. La température minimale de pose est de 5 °C : pas de
-                    gel pendant la prise, sinon le liant hydraulique gèle et le crépi s'effrite dès le printemps
-                    suivant.</p>
+                <p>La <strong>pose de crépis</strong> respecte le DTU 26.1 : la température minimale est de 5 °C et aucun gel ne doit survenir pendant la prise, sinon le liant hydraulique gèle et le crépis s'effrite dès le printemps suivant.</p>
+
+                <h3>Quelle épaisseur de crépis pour une façade ?</h3>
+                <p>L'épaisseur totale d'un crépis façade se décompose en deux couches : le <strong>corps d'enduit</strong> (10 à 15 mm) et la <strong>finition crépis</strong> (2 à 3 mm). Total constaté sur chantier : <strong>12 à 18 mm</strong>. Le DTU 26.1 impose une armature de maille alcali-résistante dès que l'épaisseur totale dépasse 10 mm. En dessous de 10 mm, le crépis est trop mince pour tenir les chocs et les cycles gel-dégel — c'est la première cause de décollement sur des façades nord et est.</p>
 
                 <!-- Section : Avantages -->
                 <h2 id="avantages">Avantages, inconvénients et durée de vie par région</h2>
@@ -399,9 +400,9 @@ include dirname(__DIR__) . '/header.php';
                 <!-- Section : FAQ -->
                 <h2 id="faq">FAQ Crépi Façade</h2>
 
-                <h3>Quel est le prix moyen d'un crépi de façade ?</h3>
-                <p>Comptez 30-60 €/m² pour un crépi nu taloché minéral (pose comprise), et environ 100 €/m² si vous
-                    combinez le crépi avec une ITE silicone. Pour une maison de 100 m² de façade : 3 000 € en ravalement
+                <h3>Quel est le prix moyen d'un crépis de façade ?</h3>
+                <p>Comptez 30-60 €/m² pour un crépis nu taloché minéral (pose comprise), et environ 100 €/m² si vous
+                    combinez le crépis avec une ITE silicone. Pour une maison de 100 m² de façade : 3 000 € en ravalement
                     simple, 10 000 € avec ITE (avant déduction des aides).</p>
 
                 <h3>Quelle est la différence entre enduit et crépissage ?</h3>

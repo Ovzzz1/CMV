@@ -271,7 +271,10 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Étape 4 — Le solin</h3>
                 <p>Pour sceller l'ensemble contre la maçonnerie, on fixe une bande métallique porte-solin avec des
                     chevilles à frapper. On applique finalement un cordon de <strong>mastic polyuréthane</strong> (une
-                    colle élastomère spécial couverture) dans la lèvre de cette bande pour une finition parfaite.</p>
+                    colle élastomère spécial couverture) dans la lèvre de cette bande pour une finition parfaite.
+                    L'ensemble de ces quatre étapes constitue ce qu'un <strong>zingueur</strong> qualifié réalise
+                    systématiquement lors d'une réfection d'abergement : c'est un travail de précision qui ne
+                    s'improvise pas.</p>
 
                 <!-- Section 5 -->
                 <h2 id="erreurs">Le mythe de la réparation au silicone</h2>

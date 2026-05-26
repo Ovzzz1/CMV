@@ -163,7 +163,7 @@ include dirname(__DIR__) . '/header.php';
                 </div>
 
                 <h2 id="role">Qu'est-ce qu'un poteau raidisseur et à quoi sert-il vraiment ?</h2>
-                <p>En maçonnerie, on confond souvent le simple montage des blocs avec l'intégrité structurelle de l'ouvrage. Un <strong>poteau raidisseur</strong> (ou chaînage vertical) est l'ossature en béton armé qui vient rigidifier votre mur de l'intérieur.</p>
+                <p>En maçonnerie, on confond souvent le simple montage des blocs avec l'intégrité structurelle de l'ouvrage. Un <strong>poteau raidisseur en maçonnerie</strong> (ou chaînage vertical) est l'ossature en béton armé qui vient rigidifier votre mur de l'intérieur.</p>
                 <p>Contrairement aux parpaings qui supportent très bien l'écrasement (compression), ils sont très fragiles face aux pressions latérales (traction et flexion). Le rôle du raidisseur est simple : <strong>empêcher votre mur de se fissurer, de se tordre ou de basculer</strong> sous l'effet du vent, d'un choc ou de la poussée des terres. Il forme, avec le chaînage horizontal en haut du mur, un cadre rigide indispensable à la stabilité de l'ensemble, directement ancré dans votre fondation.</p>
 
                 <p><em>Découvrez en vidéo le rôle crucial des raidisseurs dans la tenue de votre maçonnerie.</em></p>

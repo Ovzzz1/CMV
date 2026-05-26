@@ -155,8 +155,8 @@ endforeach; ?>
                     <li>Débris d'oiseaux ou de rongeurs près du nid.</li>
                 </ul>
 
-                <h2 id="methodes-non-letales">Les Méthodes Non-Létales pour Chasser les Fouines de Votre Habitat</h2>
-                <p>Une fois la fouine repérée sous votre toiture, il faut réagir vite. L'isolant s'abîme chaque nuit. Mais attention aux règles.</p>
+                <h2 id="methodes-non-letales">Les Méthodes Non-Létales pour Chasser les Fouines de Vos Combles</h2>
+                <p>Une fois la fouine repérée dans vos combles ou sous votre toiture, il faut réagir vite. L'isolant s'abîme chaque nuit. Mais attention aux règles.</p>
 
                 <h3>Comprendre le statut protégé de la fouine</h3>
                 <p>En France, selon les départements, la fouine a un statut particulier. Il est formellement interdit de l'empoisonner. On utilise des méthodes d'éloignement douces. L'objectif consiste à rendre vos combles inconfortables pour la pousser à déménager.</p>
@@ -273,6 +273,9 @@ endforeach; ?>
 
                 <h3>L'assurance habitation paie-t-elle les dégâts ?</h3>
                 <p>La très grande majorité des contrats standards ne couvrent pas les rongeurs et les mustélidés (considérés comme faune sauvage). La facture de la laine de roche à remplacer et des câbles électriques à tirer sera de votre poche. Relisez bien vos conditions particulières.</p>
+
+                <h3>Quel grillage anti-fouine utiliser pour bloquer les accès à la toiture ?</h3>
+                <p>Le matériau de référence est le <strong>grillage galvanisé soudé à maille 10 × 10 mm</strong>, en acier épais (au moins 1 mm de fil). Il est suffisamment rigide pour résister aux mâchoires de la fouine et ne rouille pas sous les tuiles. Fixez-le avec des agrafes inox ou de la colle polyuréthane sur les liteaux et les rives. Évitez les grillages à nœuds simple (type poulailler) : trop souple, la fouine écarte les mailles. Une fois posé, le grillage anti-fouine n'a pas besoin d'entretien — il dure aussi longtemps que la toiture.</p>
 
             </div> <!-- .article-content -->
 

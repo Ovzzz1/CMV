@@ -182,8 +182,8 @@ include dirname(__DIR__) . '/header.php';
                     verticalement jusqu'à trouver un sol suffisamment résistant pour supporter la charge de l'ouvrage.
                 </p>
 
-                <p>Le principe est simple : on creuse un trou cylindrique, on le ferraille, on le cimente. Le puits
-                    repose alors sur une couche stable et transmet les charges de la construction vers le sol porteur.
+                <p>Le principe est simple : on creuse un trou cylindrique, on le ferraille, on le cimente. Qu'on parle de <strong>fondation par puits</strong> ou de <strong>fondation en puits</strong>, la logique est identique — le puits
+                    repose sur une couche stable et transmet les charges de la construction vers le sol porteur.
                     On appelle cette base le <strong>radier</strong>, c'est la partie inférieure du puits qui s'évente
                     légèrement pour répartir la charge sur une surface plus grande.</p>
 

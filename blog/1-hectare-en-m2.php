@@ -276,6 +276,33 @@ include dirname(__DIR__) . '/header.php';
                     </table>
                 </div>
 
+                <!-- Schéma visuel à l'échelle -->
+                <div style="background:linear-gradient(135deg,#f0fdf4 0%,#f0f9ff 100%);border:1px solid #d1d5db;border-radius:10px;padding:20px 20px 14px;margin:20px 0;">
+                    <p style="text-align:center;font-weight:700;font-size:15px;margin:0 0 16px;color:#111827;">📐 1 hectare en images — à l'échelle</p>
+                    <div style="display:flex;gap:12px;align-items:flex-end;justify-content:center;flex-wrap:wrap;">
+                        <div style="text-align:center;">
+                            <div style="width:150px;height:150px;background:#bbf7d0;border:2px solid #16a34a;border-radius:4px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;">
+                                <strong style="font-size:15px;color:#14532d;">1 ha</strong>
+                                <span style="font-size:12px;color:#166534;">10 000 m²</span>
+                                <span style="font-size:11px;color:#4b5563;">100 × 100 m</span>
+                            </div>
+                            <p style="margin:5px 0 0;font-size:11px;color:#6b7280;">← 100 m →</p>
+                        </div>
+                        <div style="padding-bottom:55px;color:#6b7280;font-size:22px;font-weight:700;">=</div>
+                        <div style="text-align:center;">
+                            <div style="width:158px;height:102px;background:#bfdbfe;border:2px solid #2563eb;border-radius:4px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;">
+                                <span style="font-size:15px;">⚽</span>
+                                <strong style="font-size:12px;color:#1e3a8a;">Terrain de foot</strong>
+                                <span style="font-size:11px;color:#1d4ed8;">7 140 m²</span>
+                                <span style="font-size:10px;color:#4b5563;">105 × 68 m</span>
+                            </div>
+                            <p style="margin:5px 0 0;font-size:11px;color:#6b7280;">← 105 m →</p>
+                        </div>
+                        <div style="padding-bottom:55px;color:#6b7280;font-size:20px;font-weight:700;">× 1,4</div>
+                    </div>
+                    <p style="text-align:center;font-size:11px;color:#9ca3af;margin:10px 0 0;">Les rectangles sont tracés à l'échelle · 1 px ≈ 0,67 m</p>
+                </div>
+
                 <p>En immobilier, un terrain constructible de 1 ha est considéré comme grand.
                     Les PLU limitent généralement la surface minimale des lots à construire entre
                     200 m² et 2 000 m² selon la zone. 1 ha vous laisse en théorie largement de quoi
@@ -407,6 +434,12 @@ include dirname(__DIR__) . '/header.php';
                                 <td>0,25 km²</td>
                             </tr>
                             <tr>
+                                <td>30 ha</td>
+                                <td>300 000 m²</td>
+                                <td>3 000 a</td>
+                                <td>0,30 km²</td>
+                            </tr>
+                            <tr>
                                 <td>50 ha</td>
                                 <td>500 000 m²</td>
                                 <td>5 000 a</td>
@@ -530,6 +563,9 @@ include dirname(__DIR__) . '/header.php';
                     à 50 ha. Pour un domaine viticole ou une forêt en gestion, 1 ha est
                     un début. Repère rapide : <strong>1 ha ≈ 1,4 terrain de football.</strong></p>
 
+                <h3>Un hectare, c'est combien de parcelles ?</h3>
+                <p>En France, la surface médiane d'une parcelle cadastrale est d'environ <strong>8 ares (800 m²)</strong>. Sur cette base, 1 hectare correspond à peu près à <strong>12 à 13 parcelles moyennes</strong>. En pratique, une seule tient souvent plusieurs hectares en milieu rural, tandis qu'en zone pavillonnaire, 1 ha peut regrouper 5 à 20 lots selon le PLU. C'est la mention au cadastre (en ha / a / ca) qui fait foi lors d'une vente.</p>
+
                 <h3>Qu'est-ce qu'un mètre carré (m²) ?</h3>
                 <p>Le <strong>mètre carré</strong> est l'unité de base de la superficie dans le
                     Système international d'unités. Il correspond à la surface d'un carré de
@@ -544,6 +580,9 @@ include dirname(__DIR__) . '/header.php';
                     n'appartient pas officiellement au Système international d'unités (SI),
                     mais son usage est reconnu et accepté avec lui pour les surfaces
                     foncières.</p>
+
+                <h3>Quel est le symbole de l'hectare ?</h3>
+                <p>Le symbole officiel de l'hectare est <strong>ha</strong> — deux lettres minuscules, sans majuscule ni point abréviatif. On écrit donc <em>2 ha</em> et non <em>2 Ha</em> ni <em>2 ha.</em>. Ce symbole est défini par le Bureau international des poids et mesures (BIPM) et reconnu dans tous les pays du système métrique. À ne pas confondre avec <em>h</em> (heure) ou <em>Ha</em> (hafnium en chimie).</p>
 
                 <h3>Comment calculer la surface d'un terrain ?</h3>
                 <p>Pour un terrain rectangulaire : longueur × largeur = m². Pour une parcelle

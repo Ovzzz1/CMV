@@ -204,8 +204,8 @@ include dirname(__DIR__) . '/header.php';
                         réduits en miettes, menaçant la structure globale du bien immobilier.</li>
                 </ul>
 
-                <h2 id="prix">Prix et Coût d'un Remaniement de Toiture au m²</h2>
-                <p>Toute la force de ce procédé réside dans son <strong>prix</strong> ultra-compétitif. Étant donné que
+                <h2 id="prix">Prix et Tarif d'un Remaniement de Toiture au m²</h2>
+                <p>Toute la force de ce procédé réside dans son <strong>tarif</strong> ultra-compétitif. Étant donné que
                     dans un remaniement standard on recycle 70 à 80 % de vos vieilles tuiles, vous ne payez (presque
                     que) le temps de manutention de votre équipe de couvreurs.</p>
 
@@ -338,6 +338,9 @@ include dirname(__DIR__) . '/header.php';
                         de pente, aucun percement de verrière, ni aucun changement drastique de matériaux ou couleurs
                         pour la façade) n'oblige quasiment jamais un dépôt fastidieux aux Services Techniques et
                         urbanistiques. Validez néanmoins d'un coup de téléphone poli auprès de votre commune.</p>
+
+                    <h3>Quel est le tarif au m² d'un remaniement de toiture en 2026 ?</h3>
+                    <p>Le <strong>tarif d'un remaniement de toiture</strong> se situe entre <strong>20 et 70 €/m²</strong> selon le type de matériau et la complexité du chantier : 20-50 €/m² pour des tuiles mécaniques ou canal, 35-70 €/m² pour des ardoises naturelles. Ce tarif inclut la dépose, le tri, le nettoyage et la repose des tuiles récupérables, plus le remplacement des éléments cassés. À surface identique, le coût d'un remaniement représente environ 30 à 50 % du prix d'une réfection totale.</p>
                 </div> <!-- .faq-section -->
 
             </div> <!-- .article-content -->

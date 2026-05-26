@@ -223,7 +223,7 @@ include dirname(__DIR__) . '/header.php';
                     jonction. L'ancien et le nouveau mur travaillent différemment sous les contraintes thermiques et
                     mécaniques. Il faut les coudre ensemble, pas juste les coller.</p>
 
-                <h3>Étape 1 : Le piège du parpaing creux (comment bien ancrer ses fers ?)</h3>
+                <h3>Étape 1 : Ancrage sur mur existant — le piège du parpaing creux</h3>
 
                 <p>Pour solidariser les deux parties, vous devez prolonger les poteaux raidisseurs verticaux (idéalement
                     tous les 2,50 m à 3 m). C'est là que beaucoup se font piéger. Vous percez le haut de votre mur

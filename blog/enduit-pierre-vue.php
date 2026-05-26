@@ -186,7 +186,7 @@ include dirname(__DIR__) . '/header.php';
                         href="<?php echo BASE_URL; ?>ravalement-de-facade"
                         style="text-decoration: underline;">ravalement de façade</a> traditionnel,
                     la distinction entre ces deux techniques change radicalement la pérennité de votre maison.
-                    <strong>L'enduit pierre vue</strong> n'est pas un simple jointoiement creux. La mise en œuvre
+                    <strong>L'enduit pierre vue</strong> — aussi appelé <strong>enduit à pierre apparente</strong> — n'est pas un simple jointoiement creux. La mise en œuvre
                     consiste à enduire l'<strong>ensemble du mur</strong>, puis à brosser l'excédent pour créer un effet
                     de relief. Les <strong>pierres restent</strong> en grande partie recouvertes, seules les faces les
                     plus saillantes ou les plus belles émergent.

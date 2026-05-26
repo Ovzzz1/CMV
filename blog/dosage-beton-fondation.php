@@ -776,6 +776,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Les dosages sont-ils les mêmes sur un terrain en pente ?</h3>
                 <p>Le dosage du béton lui-même ne change pas, mais les fondations sur terrain en pente nécessitent un découpage en plots horizontaux reliés par des longrines inclinées, avec des armatures d'attente à chaque niveau. Le risque de glissement impose souvent un béton légèrement plus riche (400 kg/m³). Notre dossier <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondation pour terrain en pente</a> couvre les techniques d'ancrage adaptées à chaque type de sol.</p>
 
+                <h3>Quel est le dosage du gros béton de fondation ?</h3>
+                <p>Le <strong>gros béton</strong> (ou béton de masse) est un béton non armé utilisé pour les fondations légères, les semelles de faible profondeur ou le remplissage de puits. Son dosage est plus maigre que celui d'une semelle armée : <strong>250 kg de ciment CEM II/B par m³</strong>, proportion 1-3-5 (1 volume ciment, 3 volumes sable, 5 volumes gravier). À ne pas confondre avec le béton de propreté (200 kg/m³) ni avec le béton structurel armé (350 kg/m³). Le gros béton de fondation convient pour les murets bas, les dalles de sol non circulables et les hérissons, pas pour les fondations portant une structure en élévation.</p>
+
                 <h3>Quand préférer des puits de fondation à des semelles filantes ?</h3>
                 <p>Dès que le sol porteur est trop profond pour des semelles classiques, sol compressible, remblai ou présence d'une nappe phréatique haute. Les <a href="https://www.cemarenov.fr/fondation-puits">puits de fondation</a> descendent chercher le bon sol à 1,5 à 4 mètres de profondeur, là où les semelles filantes seraient trop coûteuses à excaver.</p>
 

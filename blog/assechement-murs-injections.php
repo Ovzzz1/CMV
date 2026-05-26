@@ -271,7 +271,7 @@ include dirname(__DIR__) . '/header.php';
                     barrière et les taches réapparaissent un peu plus loin.</p>
 
                 <!-- Section 8 -->
-                <h2 id="prix">Combien coûte l'assèchement par injection ?</h2>
+                <h2 id="prix">Combien coûte l'assèchement des murs par injection ?</h2>
                 <p>Les entreprises spécialisées facturent au mètre linéaire de mur traité, pas au mètre carré de surface
                     visible. Le prix dépend de l'épaisseur du mur, de la nature de la maçonnerie, de l'accessibilité et
                     de la reprise ou non des enduits derrière.</p>
