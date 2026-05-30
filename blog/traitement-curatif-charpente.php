@@ -300,6 +300,8 @@ include dirname(__DIR__) . '/header.php';
                         ré-infestation venant de l'extérieur.</li>
                 </ol>
 
+                <p>Sur du bois raboté ou poncé avant intervention, il est impératif de <a href="<?php echo BASE_URL; ?>nettoyer-bois-apres-poncage" style="text-decoration: underline;">nettoyer soigneusement le bois après ponçage</a> : la poussière fine obstrue les pores et empêche la pénétration de l'insecticide-fongicide en profondeur.</p>
+
                 <h2 id="prix">Prix d'un traitement curatif charpente et pourquoi éviter le "Fait-Maison"</h2>
 
                 <figure style="margin: 2rem 0; max-width: 100%;">

@@ -234,7 +234,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Moulurée rectangulaire</h3>
                 <p>Esthétique moderne et angulaire, capacité hydraulique importante grâce au fond plat. Disponible en
-                    couleurs RAL (surtout en alu). Idéale pour les maisons contemporaines.</p>
+                    couleurs RAL (surtout en alu). Idéale pour les maisons contemporaines. L'aluminium peut être restauré après oxydation grâce à un <a href="<?php echo BASE_URL; ?>poncage-aluminium" style="text-decoration: underline;">ponçage de l'aluminium</a> avant reprise de peinture, une opération réalisable en DIY si la dégradation reste superficielle.</p>
 
                 <h3>Nantaise / Havraise</h3>
                 <p>Profil traditionnel rampant, conçu pour les toitures anciennes avec rives travaillées. Se retrouve

@@ -642,7 +642,7 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Besoin d'un devis pour vos fondations ?</h3>
                 <p>Les puits de fondation offrent une solution économique et fiable pour les extensions et les terrains
                     à sol faible. Chaque situation est unique, une étude de sol précise détermine la meilleure
-                    technique à adopter. Demandez l'avis d'un professionnel avant de vous lancer.</p>
+                    technique à adopter. Demandez l'avis d'un professionnel avant de vous lancer. Ces bases béton s'appliquent aussi aux extensions maçonnées avec escaliers d'accès : notre guide sur la <a href="<?php echo BASE_URL; ?>renover-escalier-beton-exterieur" style="text-decoration: underline;">rénovation d'un escalier béton extérieur</a> complète cette approche structurelle.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un devis gratuit</a>
             </div>
 

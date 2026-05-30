@@ -110,13 +110,13 @@ $d = [
 <p>Un volume de 4 ou 5 mètres sous plafond devient un gouffre énergétique ingérable si l'enveloppe n'est pas traitée. L'isolation par l'intérieur (ITI) est la norme pour conserver les façades industrielles, mais elle doit être couplée à une ventilation mécanique (<a href="https://www.cemarenov.fr/vmc-double-flux">VMC double flux</a>) ultra-performante pour éviter l'humidité stagnante dans ces grands volumes.</p>
 
 <h3>Étape 3 : Création de surfaces et mezzanines</h3>
-<p>L'intérêt majeur d'un loft réside dans sa verticalité. L'ajout d'une mezzanine en structure métallique permet de créer des espaces "nuit" ou bureau tout en conservant le vide visuel sur le séjour. Pour ma part, je conseille l'usage de planchers collaborants acier-béton pour leur robustesse et leur faible épaisseur, permettant de gagner en hauteur libre.</p>
+<p>L'intérêt majeur d'un loft réside dans sa verticalité. L'ajout d'une <a href="<?php echo BASE_URL; ?>mezzanine-faible-hauteur-sous-plafond" style="text-decoration: underline;">mezzanine</a> en structure métallique permet de créer des espaces "nuit" ou bureau tout en conservant le vide visuel sur le séjour. Pour ma part, je conseille l'usage de planchers collaborants acier-béton pour leur robustesse et leur faible épaisseur, permettant de gagner en hauteur libre.</p>
 
 <h3>Étape 4 : Distribution des réseaux et du chauffage</h3>
 <p>La plomberie et l'électricité doivent être pensées comme des éléments de décor car elles seront souvent apparentes sous gaines acier pour renforcer le style atelier. Concernant le chauffage, le plancher chauffant est, selon mon expérience, la seule solution réellement efficace pour éviter que toute la chaleur ne s'accumule inutilement sous le toit par convection.</p>
 
 <h3>Étape 5 : Aménagement et zonage sans cloisonner</h3>
-<p>La dernière étape consiste à rendre l'espace habitable et chaleureux. L'enjeu est de définir les fonctions quotidiennes sans ériger de murs opaques qui briseraient la sensation d'espace. On utilise alors les matériaux nobles comme le chêne pour les sols ou le béton ciré pour unifier les surfaces.</p>
+<p>La dernière étape consiste à rendre l'espace habitable et chaleureux. L'enjeu est de définir les fonctions quotidiennes sans ériger de murs opaques qui briseraient la sensation d'espace. On utilise alors les matériaux nobles comme le chêne pour les sols ou le béton ciré pour unifier les surfaces. Pour préserver ce parquet dans le temps, l'<a href="<?php echo BASE_URL; ?>entretien-du-parquet-huile" style="text-decoration: underline;">entretien d'un parquet huilé</a> s'avère bien plus pratique qu'une finition vitrifiée : chaque zone abîmée se répare localement sans ponçage de l'ensemble.</p>
 
 <h2 id="idees">4. 5 idées d'aménagement pour structurer votre loft avec style</h2>
 
@@ -132,7 +132,7 @@ $d = [
 
 <h2 id="confort">5. Confort acoustique et thermique : les secrets d'un loft vivable</h2>
 
-<p>Vivre dans un loft peut vite devenir pénible si l'acoustique n'est pas traitée en amont. Ces surfaces brutes sont de véritables caisses de résonance. Par conséquent, il est indispensable d'intégrer des matériaux absorbants dès la conception : tapis épais, faux-plafonds acoustiques partiels ou panneaux muraux en bois noble. À l'inverse, pour le confort thermique d'été, prévoyez impérativement des protections solaires extérieures sur vos verrières car l'effet de serre sous une toiture industrielle peut rendre le loft invivable en cas de forte chaleur.</p>
+<p>Vivre dans un loft peut vite devenir pénible si l'acoustique n'est pas traitée en amont. Ces surfaces brutes sont de véritables caisses de résonance. Par conséquent, il est indispensable d'intégrer des matériaux absorbants dès la conception : tapis épais, faux-plafonds acoustiques partiels ou panneaux muraux en bois noble. À l'inverse, pour le confort thermique d'été, prévoyez impérativement des protections solaires extérieures sur vos verrières car l'effet de serre sous une toiture industrielle peut rendre le loft invivable en cas de forte chaleur. Si vous posez des lames en chêne brut, <a href="<?php echo BASE_URL; ?>huiler-un-parquet" style="text-decoration: underline;">huiler le parquet</a> vous-même reste tout à fait faisable et permet de personnaliser la profondeur de teinte avant de refermer le chantier.</p>
 
 HTML,
 

@@ -181,7 +181,7 @@ include dirname(__DIR__) . '/header.php';
                      style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
                 <h3>La physique du muret : poids propre vs poussée latérale</h3>
-                <p>Si votre muret délimite simplement un jardin, il subit principalement la prise au vent. En revanche, s'il sert de jardinière ou de soutènement léger, la terre humide exerce une pression latérale constante qui cherche à faire pivoter le mur sur sa base. La fondation doit agir comme un contrepoids, suffisamment large pour stabiliser cet effet de levier.</p>
+                <p>Si votre muret délimite simplement un jardin, il subit principalement la prise au vent. En revanche, s'il sert de jardinière ou de soutènement léger, la terre humide exerce une pression latérale constante qui cherche à faire pivoter le mur sur sa base. La fondation doit agir comme un contrepoids, suffisamment large pour stabiliser cet effet de levier. Si ce muret délimite une pelouse, sachez que le <a href="<?php echo BASE_URL; ?>gazon-anglais-inconvenients" style="text-decoration: underline;">gazon anglais présente des inconvénients souvent sous-estimés</a> en matière d'entretien et de consommation d'eau avant de choisir votre engazonnement.</p>
 
                 <h3>Les risques de fissures : basculement et déchaussement</h3>
                 <p>Sans une base rigide, les micro-mouvements du terrain provoquent des tensions que le mortier, très rigide, ne peut compenser. Des fissures verticales se forment, souvent au niveau des angles. Sur le terrain, le déchaussement du premier rang de parpaings est la cause n°1 de sinistre lorsque la semelle a été coulée trop superficiellement.</p>

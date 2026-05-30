@@ -151,7 +151,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h2 id="frais">Entretien et travaux : qui paie quoi et comment calculer sa part ?</h2>
 
-                <p>C'est la question qui fâche. La règle d'or consiste à séparer ce qui est privatif de ce qui est commun. Si vous voulez isoler vos combles ou changer vos fenêtres de toit, c'est pour votre pomme. En revanche, si la charpente commune pourrit ou si le faîtage menace de s'effondrer, la facture se partage.</p>
+                <p>C'est la question qui fâche. La règle d'or consiste à séparer ce qui est privatif de ce qui est commun. Si vous voulez isoler vos combles ou changer vos fenêtres de toit, c'est pour votre pomme. En revanche, si la charpente commune pourrit ou si le faîtage menace de s'effondrer, la facture se partage. Les copropriétaires qui souhaitent valoriser une toiture-terrasse peuvent aussi envisager un <a href="<?php echo BASE_URL; ?>potager-sur-toit" style="text-decoration: underline;">potager sur le toit</a>, sous réserve d'un accord collectif et d'une vérification préalable de la charge admissible par la dalle.</p>
 
                 <h3>La répartition au prorata de la surface (Article 815-10)</h3>
                 <p>Beaucoup de gens pensent qu'une toiture partagée à deux se paie systématiquement à 50/50. C'est faux. Sauf mention contraire explicite dans votre acte de vente, les charges se divisent selon vos droits dans l'indivision. En clair : vous payez proportionnellement à la surface habitable que vous occupez sous le toit, tel que défini par <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432430" rel="nofollow" target="_blank">l'article 815-10 du Code civil</a>.</p>

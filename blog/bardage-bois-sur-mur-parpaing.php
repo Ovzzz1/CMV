@@ -383,6 +383,8 @@ include dirname(__DIR__) . '/header.php';
                     points de colle sur un support minéral brut. Seule la fixation mécanique sur ossature est conforme
                     au DTU 41.2.</p>
 
+                <p>Si vos lames ont été poncées et présentent des auréoles avant pose, notre guide sur les <a href="<?php echo BASE_URL; ?>tache-sur-bois-apres-poncage" style="text-decoration: underline;">taches sur bois après ponçage</a> vous donnera la méthode pour partir sur un support parfaitement propre.</p>
+
                 <h2 id="ossature">Étape 1 : fixer l'ossature bois (les tasseaux) sur le parpaing</h2>
 
                 <p>L'ossature constitue la structure porteuse du bardage. Son rôle est de maintenir les lames tout en

@@ -307,7 +307,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <p>Un point important : ne confiez pas ce travail à un démarcheur qui sonne à votre porte. Passez par
                     une entreprise avec références, idéalement certifiée Qualibat sur ce type d'ouvrage, et exigez une
-                    garantie écrite.</p>
+                    garantie écrite. Pour aller plus loin dans la sélection de vos prestataires, notre guide <a href="<?php echo BASE_URL; ?>artisan-renovation-conseils-travaux-diy" style="text-decoration: underline;">conseils pour choisir un artisan en rénovation</a> vous évite les pièges classiques du démarchage agressif.</p>
 
                 <!-- Section 9 -->
                 <h2 id="sechage">Temps de séchage : le long tunnel dont on ne parle pas assez</h2>

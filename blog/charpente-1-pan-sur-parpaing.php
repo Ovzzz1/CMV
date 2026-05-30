@@ -224,7 +224,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Scellement chimique sur parpaing creux : la seule méthode fiable</h3>
 
-                <p>Le <strong>scellement chimique</strong> par résine époxyde ou vinylester est la seule solution fiable sur parpaing creux. Un tamis métallique inséré dans le trou de forage permet à la résine injectée de diffuser dans le vide du bloc et de créer un ancrage massif. Marques de référence : Hilti HIT-RE 500, Fischer FIS V Plus, Spit Epcon.</p>
+                <p>Le <strong>scellement chimique</strong> par résine époxyde ou vinylester est la seule solution fiable sur parpaing creux. Un tamis métallique inséré dans le trou de forage permet à la résine injectée de diffuser dans le vide du bloc et de créer un ancrage massif. Marques de référence : Hilti HIT-RE 500, Fischer FIS V Plus, Spit Epcon. La résine époxyde a aussi ses adeptes pour la rénovation des sols intérieurs : notre guide sur la <a href="<?php echo BASE_URL; ?>resine-epoxy-sur-carrelage" style="text-decoration: underline;">résine époxy sur carrelage</a> détaille cette application de rénovation, très différente mais fondée sur les mêmes propriétés d'adhérence et de dureté.</p>
 
                 <ol style="margin-bottom: 20px; padding-left: 20px;">
                     <li><strong>Percer</strong> au bon diamètre (12 à 16 mm selon la tige filetée).</li>

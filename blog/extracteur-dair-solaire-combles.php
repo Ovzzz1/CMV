@@ -205,6 +205,8 @@ include dirname(__DIR__) . '/header.php';
                         href="<?php echo BASE_URL; ?>pompe-a-chaleur-air-air" style="text-decoration: underline;">pompe
                         à chaleur air-air réversible (climatisation)</a>.</p>
 
+                <p>Si vous souhaitez aller plus loin et <a href="<?php echo BASE_URL; ?>chambre-sous-combles-faible-hauteur" style="text-decoration: underline;">aménager une chambre dans ces combles rafraîchis</a>, notre guide pratique détaille comment optimiser l'espace et le confort de vie sous une faible hauteur sous plafond.</p>
+
                 <h3>Prévenir l'humidité et les moisissures en hiver</h3>
                 <p>L'hiver pose un autre problème : la condensation. La différence de température entre la maison
                     chauffée et le toit glacial crée de l'humidité. Si cet air n'est pas renouvelé, il trempe la laine
@@ -401,6 +403,8 @@ include dirname(__DIR__) . '/header.php';
                     VMC tourne lentement (environ 150 m³/h). L'extracteur solaire est conçu pour brasser d'énormes
                     volumes (jusqu'à 1000 m³/h) en plein cagnard, au moment précis où la chaleur s'accumule. De plus, il
                     s'installe sans tirer le moindre câble dans la charpente.</p>
+
+                <p>Si votre maison possède déjà une VMC dont les gaines transitent par les combles, un <a href="<?php echo BASE_URL; ?>comment-nettoyer-une-vmc-dans-les-combles" style="text-decoration: underline;">entretien régulier de la VMC dans les combles</a> s'impose pour éviter que poussières et condensation n'obstruent progressivement les bouches d'extraction.</p>
 
                 <h2 id="faq">Vos Questions Fréquentes</h2>
                 <div class="faq-section">

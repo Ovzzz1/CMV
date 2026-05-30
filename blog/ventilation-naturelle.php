@@ -267,7 +267,7 @@ include dirname(__DIR__) . '/header.php';
                 <ul class="custom-list">
                     <li><strong>Santé des occupants :</strong> La ventilation évacue le CO2 issu de la respiration, les
                         COV (Composés Organiques Volatils) émis par les peintures et les meubles, les allergènes
-                        (acariens) et les virus en circulation.</li>
+                        (<a href="<?php echo BASE_URL; ?>mites-de-poussiere" style="text-decoration: underline;">acariens</a>) et les virus en circulation.</li>
                     <li><strong>Préservation du bâti :</strong> L'<a href="<?php echo BASE_URL; ?>traitement-humidite" style="text-decoration: underline;">humidité excessive</a> générée par la douche ou la cuisine
                         dégrade les revêtements, pourrit le bois et favorise l'apparition de moisissures (Salpêtre,
                         Mérules) qui détruisent la maison.</li>

@@ -224,7 +224,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Ici, l'enjeu est l'enrobage du ferraillage. Le coffrage doit permettre de maintenir les aciers à au moins 4 ou 5 cm des parois pour éviter la corrosion future. Dans le cas de rénovations lourdes, une <a href="<?php echo BASE_URL; ?>reprise-fondation-sous-oeuvre">reprise en sous-œuvre</a> peut nécessiter un coffrage par passes successives, une technique chirurgicale qui ne supporte aucune approximation.</p>
 
                 <h3 id="dalle">Le coffrage de dalle et radier</h3>
-                <p>On parle ici de coffrage de rive. Il doit être parfaitement de niveau car il sert de guide pour tirer la règle de maçon. La planéité finale de votre sol dépend de la précision de ce cadre. Toute erreur de quelques millimètres se retrouvera sous chaque dalle de revêtement.</p>
+                <p>On parle ici de coffrage de rive. Il doit être parfaitement de niveau car il sert de guide pour tirer la règle de maçon. La planéité finale de votre sol dépend de la précision de ce cadre. Toute erreur de quelques millimètres se retrouvera sous chaque dalle de revêtement. Si vous optez pour un <a href="<?php echo BASE_URL; ?>nettoyage-carrelage-gres-cerame-mat" style="text-decoration: underline;">carrelage en grès cérame mat</a> comme finition, sachez qu'il exige une méthode d'entretien spécifique pour rester impeccable sans traces tenaces.</p>
 
                 <h3 id="pilier">Le coffrage de pilier et poteau</h3>
                 <p>C'est le point de pression maximale. Le béton pèse lourd verticalement. Un coffrage de poteau doit être "cerclé" tous les 30 à 50 cm avec des serre-joints pour éviter que le bas ne s'évase. Ne lésinez pas sur les renforts : un poteau qui éclate en cours de coulage, c'est une journée perdue et du béton à reprendre.</p>
@@ -338,7 +338,7 @@ include dirname(__DIR__) . '/header.php';
 
             <div class="conclusion-box">
                 <h3>Un doute sur votre coffrage ou vos fondations ?</h3>
-                <p>Avant de couler du béton sur un terrain difficile ou pour un ouvrage structurel important, il est toujours préférable de faire valider votre projet par un professionnel. Une heure de conseil peut éviter des semaines de reprise.</p>
+                <p>Avant de couler du béton sur un terrain difficile ou pour un ouvrage structurel important, il est toujours préférable de faire valider votre projet par un professionnel. Une heure de conseil peut éviter des semaines de reprise. Ces techniques s'appliquent aussi aux petits ouvrages de jardin : si votre prochain chantier est un <a href="<?php echo BASE_URL; ?>construire-barbecue-parpaings" style="text-decoration: underline;">barbecue en parpaings</a>, notre guide dédié adapte ces principes à cette construction de plein air.</p>
                 <a href="<?php echo BASE_URL; ?>contact" class="btn-primary">Obtenir un avis ou un devis gratuit</a>
             </div>
 

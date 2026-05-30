@@ -202,6 +202,8 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>L'ébrasement :</strong> Épaisseur du mur vue de l'intérieur, souvent biseautée pour diffuser la lumière naturelle.</li>
                 </ul>
 
+                <p>Pour les ouvertures intérieures intégrant une porte à galandage coulissante, l'<a href="<?php echo BASE_URL; ?>epaisseur-cloison-pour-porte-a-galandage" style="text-decoration: underline;">épaisseur de la cloison</a> est un paramètre imposé par le fabricant, indépendant des règles d'ébrasement extérieur.</p>
+
                 <img src="<?php echo BASE_URL; ?>image/vocabulaire-architecture-facade2.webp"
                      alt="Vue en gros plan d'un encadrement de baie de fenêtre en pierre avec linteau, jambages et appui annotés"
                      loading="lazy"
@@ -236,6 +238,8 @@ include dirname(__DIR__) . '/header.php';
                     <li><strong>Détailler les ouvertures :</strong> Type de linteaux (béton, pierre, métal) et de menuiseries (bois, PVC, aluminium).</li>
                     <li><strong>Lister la modénature :</strong> Présence de bandeaux, de balcons ou de corniches.</li>
                 </ol>
+
+                <p>Si votre projet porte spécifiquement sur la <a href="<?php echo BASE_URL; ?>porte-d-entree-renovation" style="text-decoration: underline;">rénovation de la porte d'entrée</a>, notre guide dédié couvre les matériaux, les prix et les critères de sécurité à valider avant de choisir un modèle.</p>
 
                 <h2 id="tableau-12-mots">7. Les 12 mots-clés à retenir</h2>
 

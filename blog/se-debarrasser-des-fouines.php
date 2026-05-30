@@ -255,7 +255,7 @@ endforeach; ?>
                 <p>Si votre toit monte à 8 mètres de haut sans accès sécurisé, ne prenez pas le risque de poser du grillage vous-même. Pareil si l'odeur dans les combles persiste malgré le départ supposé de l'animal : il y a peut-être des petits cachés dans la laine de verre. Un pro possède le matériel d'inspection et les harnais de sécurité.</p>
 
                 <h3>Choisir le bon artisan</h3>
-                <p>Un professionnel certifié (dératiseur ou couvreur habitué aux nuisibles) factura entre 300 et 800 euros selon l'accès au toit et le nombre de grilles à poser. C'est un budget, mais comparé au prix d'une réfection complète d'isolation de combles (qui chiffre vite en milliers d'euros), le calcul est vite fait.</p>
+                <p>Un professionnel certifié (dératiseur ou couvreur habitué aux nuisibles) factura entre 300 et 800 euros selon l'accès au toit et le nombre de grilles à poser. C'est un budget, mais comparé au prix d'une réfection complète d'isolation de combles (qui chiffre vite en milliers d'euros), le calcul est vite fait. Si votre logement souffre également d'une infestation de <a href="<?php echo BASE_URL; ?>puce-dans-le-parquet" style="text-decoration: underline;">puces dans le parquet</a>, la démarche de traitement est différente mais l'urgence d'agir rapidement reste la même.</p>
 
                 <h2 id="faq">Foire Aux Questions (FAQ)</h2>
                 
