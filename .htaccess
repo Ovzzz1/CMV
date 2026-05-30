@@ -1,6 +1,14 @@
 RewriteEngine On
 
 # ============================================================
+# 410 GONE — Ancien contenu WordPress (libère le crawl budget)
+# ============================================================
+RewriteRule ^wp-content/.*$ - [R=410,L]
+RewriteRule ^wp-admin/.*$ - [R=410,L]
+RewriteRule ^feed/?$ - [R=410,L]
+RewriteRule ^comments/feed/?$ - [R=410,L]
+
+# ============================================================
 # FORCE UTF-8 CHARSET
 # ============================================================
 AddDefaultCharset UTF-8
