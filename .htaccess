@@ -32,19 +32,23 @@ RewriteRule ^ - [E=CANONICAL_PATH:%{REQUEST_URI}]
 Header always set Link "<https://www.cemarenov.fr%{CANONICAL_PATH}e>; rel=\"canonical\""
 
 # ============================================================
-# 301 REDIRECTS — Old URLs → New clean URLs (LIVE pages only)
+# 301 REDIRECTS — Old WP URLs + suppressed thin pages → articles indexés
 # ============================================================
 
-# --- Chauffage ---
-RewriteRule ^chauffage/?$ /pompe-a-chaleur-air-eau [R=301,L]
-RewriteRule ^chauffage/ballon-thermodynamique/?$ /ballon-thermodynamique [R=301,L]
-RewriteRule ^chauffage/pompe-a-chaleur-air-air/?$ /pompe-a-chaleur-air-air [R=301,L]
-RewriteRule ^chauffage/pompe-a-chaleur-air-eau/?$ /pompe-a-chaleur-air-eau [R=301,L]
+# --- Chauffage / Énergie ---
+RewriteRule ^chauffage/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+RewriteRule ^chauffage/ballon-thermodynamique/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+RewriteRule ^chauffage/pompe-a-chaleur-air-air/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+RewriteRule ^chauffage/pompe-a-chaleur-air-eau/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
 RewriteRule ^chauffage/triple-c-r32-chauffe-eau-thermodynamique-multi-splits/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+RewriteRule ^ballon-thermodynamique/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+RewriteRule ^pompe-a-chaleur-air-air/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+RewriteRule ^pompe-a-chaleur-air-eau/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
 
 # --- Énergies Solaire ---
-RewriteRule ^energies-solaire/?$ /panneaux-photovoltaiques [R=301,L]
-RewriteRule ^energies-solaire/panneaux-photovoltaiques/?$ /panneaux-photovoltaiques [R=301,L]
+RewriteRule ^energies-solaire/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+RewriteRule ^energies-solaire/panneaux-photovoltaiques/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
+RewriteRule ^panneaux-photovoltaiques/?$ /chauffe-eau-thermodynamique-triple-c [R=301,L]
 
 # --- Traitement de l'eau ---
 RewriteRule ^traitement-de-leau/?$ /adoucisseur-deau [R=301,L]
@@ -54,63 +58,79 @@ RewriteRule ^traitement-de-leau/adoucisseur-deau/?$ /adoucisseur-deau [R=301,L]
 RewriteRule ^ventilation/?$ /vmc-double-flux [R=301,L]
 RewriteRule ^ventilation/extracteur-dair-a-energie-solaire-pour-combles/?$ /extracteur-dair-solaire-combles [R=301,L]
 RewriteRule ^ventilation/ventilation-naturelle/?$ /ventilation-naturelle [R=301,L]
-RewriteRule ^ventilation/ventilation-par-surpression/?$ /ventilation-par-surpression [R=301,L]
+RewriteRule ^ventilation/ventilation-par-surpression/?$ /vmc-double-flux [R=301,L]
 RewriteRule ^ventilation/vmc-double-flux/?$ /vmc-double-flux [R=301,L]
-RewriteRule ^ventilation/vmc-simple-flux/?$ /vmc-simple-flux [R=301,L]
+RewriteRule ^ventilation/vmc-simple-flux/?$ /vmc-double-flux [R=301,L]
+RewriteRule ^ventilation-par-surpression/?$ /vmc-double-flux [R=301,L]
+RewriteRule ^vmc-simple-flux/?$ /vmc-double-flux [R=301,L]
 
 # --- Charpente ---
 RewriteRule ^charpente/?$ /traitement-curatif-charpente [R=301,L]
 RewriteRule ^charpente/traitement-curatif/?$ /traitement-curatif-charpente [R=301,L]
-RewriteRule ^charpente/traitement-preventif/?$ /traitement-preventif-charpente [R=301,L]
+RewriteRule ^charpente/traitement-preventif/?$ /traitement-curatif-charpente [R=301,L]
+RewriteRule ^traitement-preventif-charpente/?$ /traitement-curatif-charpente [R=301,L]
 
 # --- Couverture ---
 RewriteRule ^couverture/?$ /changement-de-couverture [R=301,L]
 RewriteRule ^couverture/changement-de-couverture/?$ /changement-de-couverture [R=301,L]
-RewriteRule ^couverture/faitage/?$ /faitage [R=301,L]
+RewriteRule ^couverture/faitage/?$ /dosage-mortier-batard-faitage [R=301,L]
 RewriteRule ^couverture/abergement-de-cheminee/?$ /abergement-de-cheminee [R=301,L]
-RewriteRule ^couverture/remaniement-de-couverture/?$ /remaniement-de-couverture [R=301,L]
+RewriteRule ^couverture/remaniement-de-couverture/?$ /changement-de-couverture [R=301,L]
 RewriteRule ^couverture/accessoires-et-finitions/?$ /gouttieres [R=301,L]
-RewriteRule ^couverture/accessoires-et-finitions/dessous-de-toit/?$ /dessous-de-toit [R=301,L]
+RewriteRule ^couverture/accessoires-et-finitions/dessous-de-toit/?$ /gouttieres [R=301,L]
 RewriteRule ^couverture/accessoires-et-finitions/gouttieres/?$ /gouttieres [R=301,L]
+RewriteRule ^faitage/?$ /dosage-mortier-batard-faitage [R=301,L]
+RewriteRule ^remaniement-de-couverture/?$ /changement-de-couverture [R=301,L]
+RewriteRule ^dessous-de-toit/?$ /gouttieres [R=301,L]
 
-# --- Façade > Ravalement ---
-RewriteRule ^facade/?$ /ravalement-de-facade [R=301,L]
-RewriteRule ^facade/ravalement-de-facade/?$ /ravalement-de-facade [R=301,L]
-RewriteRule ^facade/ravalement-de-facade/le-bardage-decoratif/?$ /bardage-decoratif [R=301,L]
+# --- Façade ---
+RewriteRule ^facade/?$ /crepi-facade [R=301,L]
+RewriteRule ^facade/ravalement-de-facade/?$ /crepi-facade [R=301,L]
+RewriteRule ^facade/ravalement-de-facade/le-bardage-decoratif/?$ /bardage-bois-sur-mur-parpaing [R=301,L]
 RewriteRule ^facade/ravalement-de-facade/le-crepi/?$ /crepi-facade [R=301,L]
 RewriteRule ^facade/ravalement-de-facade/lenduit-a-pierre-vue/?$ /enduit-pierre-vue [R=301,L]
-RewriteRule ^facade/ravalement-de-facade/lenduit/?$ /enduit-facade [R=301,L]
-
-# --- Façade > Rénovation ---
-RewriteRule ^facade/renovation-de-facade/?$ /renovation-de-facade [R=301,L]
-RewriteRule ^facade/renovation-de-facade/hydrofuge-incolore-de-facade/?$ /hydrofuge-incolore-facade [R=301,L]
+RewriteRule ^facade/ravalement-de-facade/lenduit/?$ /enduit-pierre-vue [R=301,L]
+RewriteRule ^facade/renovation-de-facade/?$ /crepi-facade [R=301,L]
+RewriteRule ^facade/renovation-de-facade/hydrofuge-incolore-de-facade/?$ /nettoyage-demoussage-facade [R=301,L]
 RewriteRule ^facade/renovation-de-facade/nettoyage-demoussage/?$ /nettoyage-demoussage-facade [R=301,L]
-RewriteRule ^facade/renovation-de-facade/peinture-de-facade/?$ /peinture-de-facade [R=301,L]
+RewriteRule ^facade/renovation-de-facade/peinture-de-facade/?$ /peinture-isolante-facade [R=301,L]
 RewriteRule ^facade/renovation-de-facade/peinture-isolante-de-facade/?$ /peinture-isolante-facade [R=301,L]
-
-# --- Façade > Humidité ---
-RewriteRule ^facade/traitement-d-humidite/?$ /traitement-humidite [R=301,L]
+RewriteRule ^facade/traitement-d-humidite/?$ /assechement-murs-injections [R=301,L]
 RewriteRule ^facade/traitement-d-humidite/assechement-des-murs-par-injections/?$ /assechement-murs-injections [R=301,L]
-RewriteRule ^facade/traitement-d-humidite/inverseur-de-polarite-electromagnetique/?$ /inverseur-polarite-electromagnetique [R=301,L]
+RewriteRule ^facade/traitement-d-humidite/inverseur-de-polarite-electromagnetique/?$ /assechement-murs-injections [R=301,L]
+RewriteRule ^ravalement-de-facade/?$ /crepi-facade [R=301,L]
+RewriteRule ^renovation-de-facade/?$ /crepi-facade [R=301,L]
+RewriteRule ^bardage-decoratif/?$ /bardage-bois-sur-mur-parpaing [R=301,L]
+RewriteRule ^enduit-facade/?$ /enduit-pierre-vue [R=301,L]
+RewriteRule ^hydrofuge-incolore-facade/?$ /nettoyage-demoussage-facade [R=301,L]
+RewriteRule ^peinture-de-facade/?$ /peinture-isolante-facade [R=301,L]
+RewriteRule ^traitement-humidite/?$ /assechement-murs-injections [R=301,L]
+RewriteRule ^inverseur-polarite-electromagnetique/?$ /assechement-murs-injections [R=301,L]
 
 # --- Toiture ---
-RewriteRule ^toiture/?$ /hydrofuge-de-toiture [R=301,L]
-RewriteRule ^toiture/hydrofuge-de-toiture/?$ /hydrofuge-de-toiture [R=301,L]
-RewriteRule ^toiture/hydrofuge-de-toiture/hydrofuge-colore/?$ /hydrofuge-colore-toiture [R=301,L]
-RewriteRule ^toiture/hydrofuge-de-toiture/hydrofuge-incolore/?$ /hydrofuge-incolore-toiture [R=301,L]
-RewriteRule ^toiture/nettoyage-demoussage/?$ /nettoyage-demoussage-toiture [R=301,L]
-RewriteRule ^toiture/peinture-thermique/?$ /peinture-thermique-toiture [R=301,L]
+RewriteRule ^toiture/?$ /nettoyage-toiture-karcher [R=301,L]
+RewriteRule ^toiture/hydrofuge-de-toiture/?$ /nettoyage-toiture-karcher [R=301,L]
+RewriteRule ^toiture/hydrofuge-de-toiture/hydrofuge-colore/?$ /nettoyage-toiture-karcher [R=301,L]
+RewriteRule ^toiture/hydrofuge-de-toiture/hydrofuge-incolore/?$ /nettoyage-toiture-karcher [R=301,L]
+RewriteRule ^toiture/nettoyage-demoussage/?$ /nettoyage-demoussage-facade [R=301,L]
+RewriteRule ^toiture/peinture-thermique/?$ /nettoyage-toiture-karcher [R=301,L]
+RewriteRule ^hydrofuge-de-toiture/?$ /nettoyage-toiture-karcher [R=301,L]
+RewriteRule ^hydrofuge-colore-toiture/?$ /nettoyage-toiture-karcher [R=301,L]
+RewriteRule ^hydrofuge-incolore-toiture/?$ /nettoyage-toiture-karcher [R=301,L]
+RewriteRule ^peinture-thermique-toiture/?$ /nettoyage-toiture-karcher [R=301,L]
 
 # --- Travaux ---
 RewriteRule ^travaux-planning-ma-gestion-renovation-fr/?$ /travaux-planning-ma-gestion-renovation [R=301,L]
 
 # --- Isolation ---
-RewriteRule ^isolation/?$ /isolation-des-murs [R=301,L]
+RewriteRule ^isolation/?$ /isolation-thermique-interieur-iti [R=301,L]
 RewriteRule ^isolation/isolation-des-combles-perdus/?$ /isolation-des-combles-perdus [R=301,L]
-RewriteRule ^isolation/isolation-des-murs/?$ /isolation-des-murs [R=301,L]
-RewriteRule ^isolation/isolation-des-murs/lisolation-thermique-par-lexterieur-ite/?$ /isolation-thermique-exterieur-ite [R=301,L]
+RewriteRule ^isolation/isolation-des-murs/?$ /isolation-thermique-interieur-iti [R=301,L]
+RewriteRule ^isolation/isolation-des-murs/lisolation-thermique-par-lexterieur-ite/?$ /isolation-thermique-interieur-iti [R=301,L]
 RewriteRule ^isolation/isolation-des-murs/lisolation-thermique-par-linterieur-iti/?$ /isolation-thermique-interieur-iti [R=301,L]
 RewriteRule ^isolation/isolation-sous-rampants-sous-toiture/?$ /isolation-sous-rampants-toiture [R=301,L]
+RewriteRule ^isolation-des-murs/?$ /isolation-thermique-interieur-iti [R=301,L]
+RewriteRule ^isolation-thermique-exterieur-ite/?$ /isolation-thermique-interieur-iti [R=301,L]
 
 # ============================================================
 # CLEAN URLs — Remove .php extensions
