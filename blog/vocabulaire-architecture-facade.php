@@ -368,6 +368,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Faut-il un architecte pour rénover une façade avec des éléments ornementaux ?</h3>
                 <p>Si votre bâtiment est situé en secteur sauvegardé ou à proximité d'un monument historique, oui, l'avis d'un Architecte des Bâtiments de France (ABF) est obligatoire et peut imposer le recours à un architecte du patrimoine pour les travaux sur la modénature. Vérifiez le PLU de votre commune avant d'engager tout chantier.</p>
+<p>Ce vocabulaire architectural est aussi utile lors d'une <a href="https://www.cemarenov.fr/renovation-de-loft">rénovation de loft</a> : la lecture des plans, le dialogue avec les ABF et la gestion des contraintes porteuses nécessitent une maîtrise précise de ces termes techniques.</p>
 
             </div>
 

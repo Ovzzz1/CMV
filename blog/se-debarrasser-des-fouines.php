@@ -274,8 +274,12 @@ endforeach; ?>
                 <h3>L'assurance habitation paie-t-elle les dégâts ?</h3>
                 <p>La très grande majorité des contrats standards ne couvrent pas les rongeurs et les mustélidés (considérés comme faune sauvage). La facture de la laine de roche à remplacer et des câbles électriques à tirer sera de votre poche. Relisez bien vos conditions particulières.</p>
 
+                <h3>Quels dégâts une fouine peut-elle causer sur une toiture ?</h3>
+                <p>Les dégâts de fouine sur une toiture sont souvent sous-estimés : l'animal ronge les câbles électriques (risque incendie), déchire la laine de verre ou de roche de l'isolation, souille les combles avec ses déjections et ses restes de proies, et peut créer des entrées d'air humide en déplaçant les tuiles. Une présence de quelques mois suffit à dégrader l'isolation thermique de façon significative. Au moindre bruit nocturne suspect, inspectez vos combles avant que la facture ne s'envole.</p>
+
                 <h3>Quel grillage anti-fouine utiliser pour bloquer les accès à la toiture ?</h3>
                 <p>Le matériau de référence est le <strong>grillage galvanisé soudé à maille 10 × 10 mm</strong>, en acier épais (au moins 1 mm de fil). Il est suffisamment rigide pour résister aux mâchoires de la fouine et ne rouille pas sous les tuiles. Fixez-le avec des agrafes inox ou de la colle polyuréthane sur les liteaux et les rives. Évitez les grillages à nœuds simple (type poulailler) : trop souple, la fouine écarte les mailles. Une fois posé, le grillage anti-fouine n'a pas besoin d'entretien — il dure aussi longtemps que la toiture.</p>
+<p>Une fois les fouines définitivement exclues, pensez à améliorer la ventilation de vos combles : un <a href="https://www.cemarenov.fr/extracteur-dair-solaire-combles">extracteur d'air solaire pour combles</a> régule l'humidité et la chaleur sans consommation électrique, rendant l'espace moins attractif pour les rongeurs à l'avenir.</p>
 
             </div> <!-- .article-content -->
 

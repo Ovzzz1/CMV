@@ -720,9 +720,9 @@ include dirname(__DIR__) . '/header.php';
                 <p>Pour les très petits volumes sans bétonnière : mélangez d'abord le sable et le gravier à sec à la pelle, ajoutez le ciment (toujours au sac entier), homogénéisez, puis formez un cratère au centre et versez l'eau progressivement en ramenant les bords vers le centre. Ne gâchez jamais sur une surface absorbante (terre nue).</p>
 
                 <!-- ═══ H2 : Calcul volumes ═══ -->
-                <h2 id="calcul-quantite">Calcul de la quantité de béton pour vos fondations</h2>
+                <h2 id="calcul-quantite">Calcul du volume de béton pour vos fondations (en m³)</h2>
 
-                <p>Le calcul se fait en 3 étapes : mesurer les volumes, additionner, ajouter la marge de perte. Utilisez le calculateur ci-dessus pour les résultats automatiques, ou faites le calcul à la main.</p>
+                <p>Le calcul m³ béton fondation se fait en 3 étapes : mesurer les volumes, additionner, ajouter la marge de perte. Ce calcul volume béton fondation s'applique aussi bien aux semelles filantes qu'aux dalles. Utilisez le calculateur ci-dessus pour les résultats automatiques, ou faites le calcul à la main.</p>
 
                 <h3>Volume des semelles filantes</h3>
                 <p><strong>Volume = Longueur totale × Largeur × Hauteur</strong></p>

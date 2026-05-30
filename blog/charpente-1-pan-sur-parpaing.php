@@ -365,6 +365,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Quel mortier pour sceller la charpente au mur en parpaing ?</h3>
                 <p>La liaison de la sablière ou des sabots métalliques au mur nécessite un mortier bâtard (ciment + chaux + sable), jamais du ciment pur qui fragilise les ancrages aux cycles gel-dégel. Notre guide sur le <a href="https://www.cemarenov.fr/dosage-mortier-batard-faitage">dosage du mortier bâtard pour faîtage</a> couvre les proportions adaptées aux assemblages bois-maçonnerie exposés aux intempéries.</p>
+<p>Avant de poser la charpente ou une fois celle-ci en place, n'oubliez pas le <a href="https://www.cemarenov.fr/traitement-curatif-charpente">traitement curatif de la charpente</a> : capricornes, vrillettes et mérule peuvent compromettre l'intégrité de la structure en quelques années si le bois n'est pas traité.</p>
 
             </div>
 

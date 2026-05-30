@@ -104,6 +104,7 @@ $d = [
 <p><strong>Outil :</strong> <a href="https://www.conciliateurs.fr/" rel="nofollow noopener">Trouver un conciliateur de justice</a></p>
 
 <p>Une gouttière en zinc ancienne qui présente des fuites peut aussi être à l'origine d'infiltrations chez le voisin et déclencher un litige. Avant d'en arriver là, consultez notre guide : <a href="https://www.cemarenov.fr/reparer-gouttiere-zinc-fuit">réparer une gouttière en zinc qui fuit</a>.</p>
+<p>Si la toiture est dégradée de façon plus globale, un simple ajustement des gouttières ne suffira pas : renseignez-vous sur les modalités d'un <a href="https://www.cemarenov.fr/changement-de-couverture">changement de couverture toiture</a> avant d'entreprendre des travaux partiels.</p>
 
 HTML,
 

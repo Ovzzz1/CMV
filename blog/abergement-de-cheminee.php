@@ -208,9 +208,8 @@ include dirname(__DIR__) . '/header.php';
                     profit du zinc et des bandes synthétiques, qui sont beaucoup plus légères et écologiques.</p>
 
                 <!-- Section 3 -->
-                <h2 id="prix">Prix d'un abergement de cheminée : le vrai budget</h2>
-                <p>Un kit prêt à poser chez Point.P coûte logiquement moins cher qu'une intervention sur-mesure d'un
-                    artisan.</p>
+                <h2 id="prix">Prix d'un habillage cheminée toiture : abergement et finitions</h2>
+                <p>Le prix d'un habillage cheminée extérieure (abergement) dépend du matériau et de la complexité d'accès. Un kit prêt à poser chez Point.P coûte logiquement moins cher qu'une intervention sur-mesure d'un artisan.</p>
 
                 <div class="table-wrapper">
                     <table class="content-table">
@@ -313,6 +312,7 @@ include dirname(__DIR__) . '/header.php';
                 <p>Moderniser une cheminée ancienne implique le plus souvent de casser son manteau rustique pour créer
                     un coffrage lisse jusqu'au plafond. De plus, remplacer un foyer ouvert par un insert sur mesure
                     apporte un design contemporain tout en décuplant le rendement thermique de l'installation.</p>
+<p>Lors d'une intervention en toiture pour refaire l'abergement de cheminée, c'est l'occasion idéale de vérifier l'état de vos <a href="https://www.cemarenov.fr/gouttieres">gouttières</a> : une évacuation d'eau défaillante génère des infiltrations aussi néfastes qu'un abergement fissuré.</p>
 
                 <h3>Que faut-il placer de chaque côté de la cheminée ?</h3>
                 <p>L'espace situé de chaque côté du conduit peut être habilement optimisé. En effet, lors d'une

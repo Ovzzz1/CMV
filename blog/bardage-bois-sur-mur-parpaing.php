@@ -563,6 +563,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Bardage bois ou enduit : comment choisir ?</h3>
                 <p>L'enduit classique reste la solution la plus économique à court terme, mais elle contraint à un rejointoiement régulier. Le bardage bois, une fois bien posé sur ossature ventilée, demande peu d'entretien pendant 20 à 30 ans. Si vous hésitez encore, notre dossier <a href="https://www.cemarenov.fr/mur-parpaing-sans-enduit">peut-on laisser un mur en parpaing sans enduit</a> expose les risques du béton brut non protégé et les alternatives disponibles.</p>
+<p>Si vous préférez une finition plus homogène sur l'ensemble de la façade, le <a href="https://www.cemarenov.fr/crepi-facade">crépi façade</a> offre une protection imperméable et durable à un coût généralement inférieur au bardage bois.</p>
 
             </div>
 

@@ -69,7 +69,7 @@ $d = [
 <tr><td>Gaines complètes (réseau aéraulique)</td><td>Tous les 3 à 5 ans, par un professionnel</td></tr>
 </tbody>
 </table></div>
-<p>Ce calendrier est valable aussi bien pour une simple flux que pour les modèles double flux. Les filtres d'une double flux demandent une vigilance accrue en milieu urbain.</p>
+<p>Ce calendrier est valable aussi bien pour une simple flux que pour les modèles <a href="https://www.cemarenov.fr/vmc-double-flux">VMC double flux</a>. Les filtres d'une double flux demandent une vigilance accrue en milieu urbain.</p>
 
 <h2 id="caisson-moteur">Comment nettoyer le caisson moteur de la VMC dans les combles ?</h2>
 

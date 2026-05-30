@@ -619,6 +619,7 @@ include dirname(__DIR__) . '/header.php';
                         href="https://www.cemarenov.fr/fondation-pour-muret-de-60-cm-de-hauteur">fondation pour muret de
                         60 cm de hauteur</a> détaille les dimensions, le ferraillage adapté et les précautions
                     spécifiques à ce type d'ouvrage léger.</p>
+<p>Les puits de fondation sont particulièrement adaptés aux terrains en déclivité : notre guide sur les <a href="https://www.cemarenov.fr/fondation-pour-terrain-en-pente">fondations sur terrain en pente</a> détaille les techniques complémentaires (fondations en gradins, plots sur pilotis) pour gérer les différences de niveaux.</p>
 
             </div><!-- /.article-content -->
 

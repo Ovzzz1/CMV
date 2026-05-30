@@ -321,6 +321,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>L'eau de javel élimine-t-elle les algues rouges sur une façade ?</h3>
                 <p>Oui, c'est l'une des applications les plus efficaces de l'extrait de javel à 9,6 %. Les algues rouges (trentepohlia, algues aériennes rougeâtres très fréquentes sur façades nord et ouest) sont sensibles à l'hypochlorite de sodium qui détruit leur pigmentation et leur membrane cellulaire. Dilution recommandée : <strong>1 volume de javel 9,6 % pour 8 volumes d'eau</strong>. Appliquez au pulvérisateur sur façade pré-mouillée, laissez agir 15 à 20 minutes, puis rincez abondamment à l'eau claire. Pour les façades fortement colonisées, une deuxième passe peut être nécessaire à 48 h d'intervalle. Terminez toujours par un hydrofuge siloxane pour ralentir la recolonisation.</p>
+<p>Si vous souhaitez aller plus loin après le nettoyage, une <a href="https://www.cemarenov.fr/peinture-isolante-facade">peinture isolante façade</a> appliquée une fois le support sec améliore l'isolation thermique tout en protégeant durablement contre les algues et l'humidité.</p>
 
             </div>
 

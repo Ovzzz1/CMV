@@ -437,6 +437,9 @@ include dirname(__DIR__) . '/header.php';
                 <h3>Comment nettoyer une façade crépi avant de la reprendre ?</h3>
                 <p>Un crépi encrassé ou moussu doit être traité avant tout travaux de réfection. Notre guide sur le <a href="https://www.cemarenov.fr/nettoyage-facade-javel">nettoyage façade à la javel</a> détaille les protocoles par type d'enduit et les précautions à respecter pour ne pas altérer le parement existant.</p>
 
+                <h3>Comment obtenir un devis pour la pose de crépi façade ?</h3>
+                <p>Pour obtenir un devis pose crépi façade fiable, demandez au moins 3 devis à des artisans RGE ou qualifiés. Précisez la surface en m² à traiter, le type de support (parpaing, béton, brique), l'état de l'existant (enduit en place ou support nu), et le finition souhaitée (grain, couleur). Un devis sérieux détaille séparément la préparation de surface, les couches de fond, la projection du crépi et les finitions. Méfiez-vous des devis inférieurs à 25 €/m² tout compris : la qualité des matériaux ou la préparation sont souvent sacrifiées.</p>
+
             </div> <!-- .article-content -->
 
             <!-- Author Box -->

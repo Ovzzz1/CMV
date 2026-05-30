@@ -413,6 +413,7 @@ include dirname(__DIR__) . '/header.php';
 
                 <h3>Quelle alternative si je ne veux pas d'enduit du tout ?</h3>
                 <p>Pour les murs de jardin ou de délimitation sans impératif esthétique fort, le <a href="https://www.cemarenov.fr/mur-pierre-seche">mur en pierre sèche</a> est une alternative sans mortier ni entretien. La technique ancestrale assure un drainage naturel et s'intègre parfaitement dans les environnements ruraux ou méditerranéens.</p>
+<p>Pour les façades à rénover de façon homogène sans laisser la pierre apparente, le <a href="https://www.cemarenov.fr/crepi-facade">crépi façade</a> est l'alternative la plus répandue : application plus rapide, coût inférieur et rendu homogène sur toutes les expositions.</p>
 
                 <h3>Mon mur est un mur de soutènement en pierre : des précautions spécifiques ?</h3>
                 <p>Sur un mur poids (qui retient des terres), les contraintes sont différentes d'un simple mur de clôture. L'enduit ne doit pas colmater les barbacanes ni bloquer le drainage dorsal. Notre guide sur le <a href="https://www.cemarenov.fr/mur-poids-pierre-paris">mur poids en pierre à Paris</a> détaille les règles spécifiques aux ouvrages de soutènement, dimensionnement, fruit, drainage, avant toute intervention en finition.</p>
