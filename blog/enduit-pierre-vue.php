@@ -130,8 +130,8 @@ include dirname(__DIR__) . '/header.php';
 
             <p class="article-intro">
                 Rénover un vieux mur en pierre est souvent un casse-tête : faut-il tout cacher, ou au contraire, laisser
-                les pierres nues au risque de les voir geler en hiver ? L'<strong>enduit pierre vue</strong> est le
-                compromis traditionnel parfait. Dès l’accueil d'un enduit sur une façade ancienne, il est vital
+                les pierres nues au risque de les voir geler en hiver ? L’<strong>enduit pierre vue façade</strong> est le
+                compromis traditionnel parfait. Dès l’accueil d’un enduit pierre vue sur une façade ancienne, il est vital
                 d'employer des techniques artisanales respectueuses du patrimoine. Que l'application soit manuelle ou
                 machine, la projection va apporter un véritable bouclier à vos murs tout en préservant leur cachet.
             </p>

@@ -129,7 +129,7 @@ include dirname(__DIR__) . '/header.php';
         <div class="article-container">
 
             <p class="article-intro">
-                Mal espacés, les poteaux raidisseurs ne servent à rien. Trop rapprochés, vous perdez du temps et de l'argent. La distance entre deux raidisseurs verticaux est l'une des questions les plus critiques d'un chantier de maçonnerie en parpaing, et pourtant, elle est souvent approximée. Voici ce que dit vraiment le DTU, comment calculer votre chantier et où placer chaque poteau sans erreur.
+                Mal espacés, les poteaux raidisseurs ne servent à rien. Trop rapprochés, vous perdez du temps et de l'argent. La distance entre deux raidisseurs verticaux est l'une des questions les plus critiques d'un chantier de maçonnerie en parpaing — on parle aussi de <strong>raidisseur maçonnerie</strong> ou de chaînage vertical selon les régions. Pourtant, elle est souvent approximée. Voici ce que dit vraiment le DTU, comment calculer votre chantier et où placer chaque poteau sans erreur.
             </p>
 
             <div class="article-content">

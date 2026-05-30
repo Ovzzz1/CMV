@@ -412,7 +412,7 @@ include dirname(__DIR__) . '/header.php';
                     en haut sans obstruction. Ne pas respecter cette règle annihile la ventilation et condamne le bois à
                     moyen terme.</p>
 
-                <h2 id="pare-pluie">Étape 2 : installer le pare-pluie et créer la lame d'air</h2>
+                <h2 id="pare-pluie">Étape 2 : pose du pare-pluie sur mur parpaing et création de la lame d'air</h2>
 
                 <p>Sur un mur en parpaing, la gestion de l'humidité est le facteur numéro un de réussite. Un mur humide
                     sous un bardage mal ventilé, c'est la garantie de moisissures en moins de cinq ans.</p>

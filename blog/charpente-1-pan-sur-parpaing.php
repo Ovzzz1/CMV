@@ -218,7 +218,7 @@ include dirname(__DIR__) . '/header.php';
                     </div>
                 </div>
 
-                <h2 id="fixation">Fixation sur parpaing : scellement chimique vs sabots directs</h2>
+                <h2 id="fixation">Fixation charpente sur mur parpaing : scellement chimique vs sabots directs</h2>
 
                 <p>C'est le cœur du sujet et la zone où la majorité des erreurs se produisent. Le parpaing creux, le type le plus courant en France, est composé à 50 % de vide. Il <strong>ne tolère pas les chevilles à expansion classiques</strong> : sous effort de traction ou de cisaillement, le bossage interne s'effrite et la fixation lâche sans avertissement préalable.</p>
 
