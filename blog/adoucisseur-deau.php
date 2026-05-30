@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * adoucisseur-deau.php
  * Article: Adoucisseur d'eau — Prix, Fonctionnement et Pièges à Éviter

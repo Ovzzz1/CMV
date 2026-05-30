@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * assechement-murs-injections.php
  * Article: Assèchement des murs par injection

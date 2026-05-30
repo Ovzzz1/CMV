@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * isolation-sous-rampants-toiture.php
  * Article: Isolation sous rampants toiture — prix, épaisseur, aides

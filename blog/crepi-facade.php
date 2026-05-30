@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * crepi-facade.php
  * Article: Crépi façade — Guide complet prix, types, pose et erreurs 2026

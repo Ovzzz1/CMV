@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * chauffe-eau-thermodynamique-triple-c.php
  * Article: Avis Triple C Hitachi — Guide 2026

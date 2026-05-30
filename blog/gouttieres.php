@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * gouttieres.php
  * Article: Gouttières — matériaux, prix, types et installation

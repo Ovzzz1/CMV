@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * peinture-isolante-facade.php
  * Article: Peinture isolante façade extérieur — avis, efficacité, prix

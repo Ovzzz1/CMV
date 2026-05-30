@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * abergement-de-cheminee.php
  */
