@@ -46,7 +46,7 @@ $similar_articles = array_slice($similar_articles, 0, 3);
 // -- Fin bloc logique CMS ----------------------------------------------------
 
 include dirname(__DIR__) . '/header.php';
-
+?>
 <style>
     /* Styles integres pour les videos et l'outil UX */
     .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
